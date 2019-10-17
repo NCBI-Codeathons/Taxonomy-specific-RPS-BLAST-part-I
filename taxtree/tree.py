@@ -33,6 +33,8 @@ def createTree(arr):
                 catalog[lin] = node
                 iter = node
             else:
+                # below we check the compatibility of the data
+                # each node can only have one parent node
                 eid = catalog[lin].parentNode.taxid
                 if i == 0:
                     if eid != root.taxid:
@@ -47,6 +49,7 @@ def createTree(arr):
 
         if catalog.get(leaf.taxid) is None:
             iter.addChildNode(leaf)
+            catalgo[leaf.taxid] = leaf
         else:
             eid = catalog[bucket[0]].parentNode.taxid
             if eid != bucket[2][-1]:

@@ -15,7 +15,12 @@ Python 3.7
 ## FAQ
 ## People/Team
 Marc Gwadz, NCBI/NIH
+
 Christiam Camacho, NCBI/NIH
+
 Jianli Dai, NCBI/NIH
+
 Hanguan Liu, NCBI/NIH
+
 Mingzhang Yang, NCBI/NIH
+

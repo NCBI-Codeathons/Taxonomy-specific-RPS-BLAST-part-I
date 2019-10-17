@@ -12,6 +12,9 @@ class Tree:
             return None
         return self.catalog[taxid]
 
+    def trim(self, node):
+        pass
+
 
 def createTree(arr):
     """
@@ -49,7 +52,7 @@ def createTree(arr):
 
         if catalog.get(leaf.taxid) is None:
             iter.addChildNode(leaf)
-            catalgo[leaf.taxid] = leaf
+            catalog[leaf.taxid] = leaf
         else:
             eid = catalog[bucket[0]].parentNode.taxid
             if eid != bucket[2][-1]:

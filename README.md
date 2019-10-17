@@ -12,7 +12,7 @@ Python 3.7
 
 ## Workflow:
 ## Validation:
-
+ 'pfam04432', 'TIGR2345', 'pfam02481', 'pfam12784' ,'pfam04432','pfam13175','pfam10339','pfam10341','pfam10342','TIGR02710'
 ## FAQ
 ## People/Team
 Marc Gwadz, NCBI/NIH

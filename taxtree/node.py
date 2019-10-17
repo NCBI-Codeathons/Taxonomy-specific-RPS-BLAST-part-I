@@ -7,6 +7,9 @@ class Node:
         self.parentNode = None
         self.childNodes = []
 
+    def isLeafNode(self):
+        return len(self.childNodes) == 0
+
     def setParentNode(self, node):
         if not isinstance(node, Node):
             raise TypeError("not a node instance to set as parent node")
@@ -40,19 +43,27 @@ class Node:
             raise TypeError("not a node instance to remove")
         if node.parentNode != self:
             raise ValueError("not a child node")
-        for i in range(len(self.childNodes)):
-            if self.childNodes[i].taxid == node.taxid:
-                self.childNodes = self.childNodes[:i].extend(self.childNodes[i + 1:])
-                node.parentNode = None
-                if node.weight > 0:
-                    self.updateWeight(-node.weight)
-                return node
+
+        del self.childNodes[self.childNodes.index(node)]
+        node.parentNode = None
+        if node.weight > 0:
+            self.updateWeight(-node.weight)
+        return node
 
     def updateWeight(self, num):
         p = self
         while p is not None:
             p.weight += num
             p = p.parentNode
+
+    def walk(self, func):
+        if self.isLeafNode():
+            func(self)
+            return
+        else:
+            for cn in self.childNodes:
+                cn.walk(func)
+        func(self)
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

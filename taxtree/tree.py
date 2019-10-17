@@ -12,8 +12,48 @@ class Tree:
             return None
         return self.catalog[taxid]
 
+    def sayGoodbye(self, node):
+        # if self.catalog.get(node.taxid) is None:
+        #     raise ValueError("node {} not exist in the tree".format(node.taxid))
+        self.catalog.pop(node.taxid, None)
+        print("node {} removed from the tree".format(node.taxid))
+
     def trim(self, node):
-        pass
+        if self is None or self.root is None:
+            raise ValueError("the tree is empty")
+        if self.root.isLeafNode():
+            nd = self.root
+            self.root = None
+            self.catalog = {}
+            return nd
+        if node is None:
+            p = self.root
+            while len(p.childNodes) == 1:
+                p = p.childNodes[0]
+
+            id_ws = [(c.taxid, c.weight) for c in p.childNodes]
+            min_id = sorted(id_ws, key=lambda t : t[1])[0]
+            nd = p.removeChildNode(self.catalog[min_id])
+
+            nd.walk(lambda ch : self.sayGoodbye(ch))
+            return nd
+        else:
+            if self.catalog.get(node.taxid) is None:
+                raise ValueError("not a child node of this tree")
+            elif node.parentNode is None:
+                raise ValueError("not a child node of this tree")
+            else:
+                if node == self.root:
+                    node.walk(lambda ch: self.sayGoodbye(ch))
+                    self.root = None
+                    return node
+                else:
+                    node.walk(lambda ch: self.sayGoodbye(ch))
+                    return node.parentNode.removeChildNode(node)
+
+
+
+
 
 
 def createTree(arr):

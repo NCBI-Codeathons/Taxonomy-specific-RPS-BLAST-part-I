@@ -7,6 +7,7 @@ Output: taxid, a taxonomy tree (planning)
 
 ## Dependencies:
 Python 3.7
+
 [ETE toolkit v3.1.1 or above](http://etetoolkit.org/documentation/ete-ncbiquery/)
 
 ## Workflow:

@@ -3,4 +3,7 @@ This 2019 NCBI-Codeathon project developed a pipeline to assign a taxonomy id to
 
 Input: PSSM GI or PSSM Accession, e.g 200311 or TIGR03687 for pupylate_PafA2
 
-Output: taxid
+Output: taxid, a taxonomy tree (planning)
+
+Workflow:
+

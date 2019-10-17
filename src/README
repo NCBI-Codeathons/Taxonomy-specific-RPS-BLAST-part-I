@@ -16,3 +16,8 @@ https://pypi.org/project/treedict/0.10-beta/ : Must have strings as values
 https://pypi.org/project/caxes/0.2/ . No home page
 https://pypi.org/project/pyavl/1.12_1/ AVL tree? C module. Broken link to home page
 
+------
+ETE toolkit notes
+
+ete3 ncbiquery --search 9606 --tree
+Taxonomy database saved: /Users/christiam/.etetoolkit/taxa.sqlite

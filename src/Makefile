@@ -16,11 +16,11 @@ MODULE_NAME?=model2taxid
 VENV=.env
 
 anaconda_ete:
-	#wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O Miniconda3-latest-Linux-x86_64.sh
+	#wget -q http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O Miniconda3-latest-Linux-x86_64.sh
 	#bash Miniconda3-latest-Linux-x86_64.sh -b -p ${PWD}/$@
 	curl -L 'http://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh' -o Miniconda3-latest-MacOSX-x86_64.sh
 	bash Miniconda3-latest-MacOSX-x86_64.sh -b -p ${PWD}/$@
-	PATH=${PWD}/$@/bin:${PATH} conda install -c etetoolkit ete3 ete_toolchain
+	PATH=${PWD}/$@/bin:${PATH} conda install -c etetoolkit ete3 ete_toolchain python=2.7
 	PATH=${PWD}/$@/bin:${PATH} ete3 build check
 
 #check_python: ${VENV}

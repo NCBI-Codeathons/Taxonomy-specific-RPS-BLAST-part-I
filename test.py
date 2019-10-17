@@ -1,3 +1,4 @@
+#!/urs/bin/env python
 from taxtree.tree import Tree, createTree
 
 tree = createTree([
@@ -8,4 +9,4 @@ tree = createTree([
     (87, 2, [2000, 20, 30, 40, 50]),
 ])
 
-print(tree.root)
+print(tree.root.childNodes[1].childNodes[0])

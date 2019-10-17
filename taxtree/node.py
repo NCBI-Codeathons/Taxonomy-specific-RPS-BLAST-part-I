@@ -55,8 +55,8 @@ class Node:
             p = p.parentNode
 
     def __str__(self):
-        res = "TaxId: {}\n".format(self.taxid)
-        res += "Weight: {}\n".format(self.weight)
+        res = "| TaxId: {}\n".format(self.taxid)
+        res += "| Weight: {}\n".format(self.weight)
         ps = []
         p = self
         while p is not None:
@@ -64,10 +64,10 @@ class Node:
             p = p.parentNode
 
         ps = [str(id) for id in ps]
-        res += "Path: /{}\n".format("/".join(reversed(ps)))
+        res += "| Path: /{}\n".format("/".join(reversed(ps)))
         cs = [n.taxid for n in self.childNodes]
         cs = [str(id) for id in cs]
-        res += "Child Nodes: [{}]\n".format(", ".join(cs))
+        res += "| Child Nodes: [{}]\n".format(", ".join(cs))
         return res
 
 

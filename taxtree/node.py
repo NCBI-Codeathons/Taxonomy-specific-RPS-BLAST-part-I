@@ -56,14 +56,16 @@ class Node:
             p.weight += num
             p = p.parentNode
 
-    def walk(self, func):
+    def walk(self, func, depth=0, index=0):
         if self.isLeafNode():
-            func(self)
+            func(self, depth, index)
             return
         else:
-            for cn in self.childNodes:
-                cn.walk(func)
-        func(self)
+            func(self, depth, index)
+            for i in range(len(self.childNodes)):
+                cn = self.childNodes[i]
+                cn.walk(func, depth+1, i)
+
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

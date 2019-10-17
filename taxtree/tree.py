@@ -44,12 +44,46 @@ class Tree:
                 raise ValueError("not a child node of this tree")
             else:
                 if node == self.root:
-                    node.walk(lambda ch: self.sayGoodbye(ch))
+                    node.walk(lambda ch, d, i: self.sayGoodbye(ch))
                     self.root = None
                     return node
                 else:
-                    node.walk(lambda ch: self.sayGoodbye(ch))
+                    node.walk(lambda ch, d, i: self.sayGoodbye(ch))
                     return node.parentNode.removeChildNode(node)
+
+    def __str__(self):
+        lines = []
+        def func(nd, depth, idx):
+            v = 1
+            if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
+                v = len(nd.parentNode.childNodes) - 1
+
+            bs = []
+            p = nd
+            q = p.parentNode
+            while q is not None:
+                if len(q.childNodes) > 1 and q.childNodes[-1] != p:
+                    bs.append(True)
+                else:
+                    bs.append(False)
+                p = q
+                q = p.parentNode
+            bs.append(False)
+            bs = reversed(bs[1:])
+            pre = "".join(["┃   " if b else "    " for b in bs])
+
+            if idx == 0 and len(nd.childNodes) < 2:
+                lines.append(pre + "┕━━━" + str(nd.taxid))
+            elif idx == v:
+                lines.append(pre + "┕━━━" + str(nd.taxid))
+            else:
+                lines.append(pre + "┝━━━" + str(nd.taxid))
+
+
+        self.root.walk(func)
+        return "\n".join(lines)
+
+
 
 
 

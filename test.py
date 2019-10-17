@@ -9,9 +9,12 @@ tree = createTree([
     (87, 2, [2000, 20, 30, 40, 50]),
 ])
 
+print(tree)
+
 print(tree.root)
 
 for i in [1, 200, 2000]:
     print("----------")
     tree.trim(tree.catalog[i])
     print(tree.root)
+

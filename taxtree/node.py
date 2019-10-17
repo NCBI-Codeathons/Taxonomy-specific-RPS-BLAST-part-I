@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 class Node:
     def __init__(self, taxid, weight):
         self.taxid = taxid
@@ -26,9 +28,7 @@ class Node:
         self.childNodes.append(node)
         node.parentNode = self
         if node.weight > 0:
-            p = self
-            while p is not None:
-                p.weight += node.weight
+            self.updateWeight(node.weight)
 
     def removeChildNode(self, node):
         """
@@ -45,26 +45,31 @@ class Node:
                 self.childNodes = self.childNodes[:i].extend(self.childNodes[i + 1:])
                 node.parentNode = None
                 if node.weight > 0:
-                    p = self
-                    while p is not None:
-                        p.weight -= node.weight
+                    self.updateWeight(-node.weight)
                 return node
 
-    def mergeNewNode(self, node):
-        """
-        Merge a free node with the same taxid to the one that has been present in a tree
-        :param node: a free node means no parent node and no child nodes
-        :return: None
-        """
-        if not isinstance(node, Node):
-            raise TypeError("not a node instance to merge")
-        if self.taxid != node.taxid:
-            raise ValueError("taxid not match")
-        if node.parentNode is not None:
-            raise ValueError("only free node can be merged")
-        if len(node.childNodes) != 0:
-            raise ValueError("only free node can be merged")
-        if node.weight > 0:
-            p = self
-            while p is not None:
-                p.weight += node.weight
+    def updateWeight(self, num):
+        p = self
+        while p is not None:
+            p.weight += num
+            p = p.parentNode
+
+    def __str__(self):
+        res = "TaxId: {}\n".format(self.taxid)
+        res += "Weight: {}\n".format(self.weight)
+        ps = []
+        p = self
+        while p is not None:
+            ps.append(p.taxid)
+            p = p.parentNode
+
+        ps = [str(id) for id in ps]
+        res += "Path: /{}\n".format("/".join(reversed(ps)))
+        cs = [n.taxid for n in self.childNodes]
+        cs = [str(id) for id in cs]
+        res += "Child Nodes: [{}]\n".format(", ".join(cs))
+        return res
+
+
+
+

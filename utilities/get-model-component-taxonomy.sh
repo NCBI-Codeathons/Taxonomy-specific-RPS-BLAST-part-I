@@ -17,8 +17,10 @@ U=${2:-$USER}
 P=${3:-""}
 SERVER=dddsql50
 DB=cdart
-
-sqsh-ms -S $SERVER -D $DB -U $U -P $P > $MODEL-components.tsv <<EOF
+ 
+sqsh-ms -mbcp -S $SERVER -D $DB -U $U -P $P -o $MODEL-components.tsv <<EOF
+\set bcp_colsep="\t"
+\set bcp_rowsep=""
 select a.domgi, (select accession from DomainGi where domgi = a.domgi) accession, 
 b.taxid, (select orgname from cdart..Tax where taxid = b.taxid) as taxOrg, 
 count(distinct b.pig) as nPig, count(c.gi) as nGi

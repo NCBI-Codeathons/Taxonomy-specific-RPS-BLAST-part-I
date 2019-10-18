@@ -27,13 +27,14 @@ To run the test script, one must enable the virtual environment:
 
 ## notebook.py options
 
-* `-threshold`: 
+* `-threshold`: Threshold to report taxonomy node.
     Default value: 0.95
-* `-show_names`: 
+* `-show_names`: Display taxonomic names instead of just taxids.
     Default value: false
-* `-show_tree`:
+* `-show_tree`: Display taxonomy tree for model.
     Default value: false
-* `-shake_tree`:
+* `-shake`: Experimental: 'shakes' the tree to remove nodes that contribute
+  less than 1% to the parent's weight.
     Default value: false
 
   

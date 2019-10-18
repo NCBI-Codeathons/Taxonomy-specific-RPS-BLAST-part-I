@@ -19,6 +19,18 @@ taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp s
 
 A table generate by [sql querry](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/utilities/get-model-component-taxonomy.sh) against NCBI internal CDART database ([example file](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/src/data/pfam10339-components.tsv))
 
+### Command:
+`./notebook.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1>0]`
+  
+  options:
+  
+- -threshold: Threshold to report taxonomy node. Default value: 0.95
+   
+- -show_names: Display taxonomic names instead of just taxids. Default value: false
+   
+- -show_tree: Display taxonomy tree for model. Default value: false
+   
+- -shake: Experimental: 'shakes' the tree to remove nodes that contribute less than 1% to the parent's weight. Default value: false
 
 ### Output: 
 [A taxonomy tree with the lowest common taxid with the threshold for the domain](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/results/pfam10339_95.txt)

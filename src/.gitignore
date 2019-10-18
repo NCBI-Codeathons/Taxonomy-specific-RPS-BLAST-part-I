@@ -1,4 +1,9 @@
+Miniconda3*sh
 anaconda_ete
+
 typescript
-Miniconda3-latest-MacOSX-x86_64.sh
 *.dmp
+.env
+
+# Exclude taxadb files
+taxadb*

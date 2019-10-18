@@ -20,4 +20,3 @@ https://pypi.org/project/pyavl/1.12_1/ AVL tree? C module. Broken link to home p
 ETE toolkit notes
 
 ete3 ncbiquery --search 9606 --tree
-Taxonomy database saved: /Users/christiam/.etetoolkit/taxa.sqlite

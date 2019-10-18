@@ -10,10 +10,11 @@ tree = createTree([
 ])
 
 print(tree)
-print("lowest common node:")
-print(tree.lowestCommonNode())
-print("possible outlier:")
-print(tree.possibleOutlier())
+tree.report(.6)
+# print("lowest common node:")
+# print(tree.lowestCommonNode())
+# print("possible outlier:")
+# print(tree.possibleOutlier())
 
 # print(tree.root)
 

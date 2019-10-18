@@ -6,7 +6,8 @@ class Node:
         self.taxid = taxid
         self.name = None
         if taxid != 0:
-            Entrez.email = "info@ncbi.nlm.nih.gov"
+            import getpass
+            Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
             handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
             records = Entrez.read(handle)
             if len(records) == 1:

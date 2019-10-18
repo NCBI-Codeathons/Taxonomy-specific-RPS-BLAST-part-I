@@ -17,4 +17,3 @@ for i in [1, 200, 2000]:
     print("----------")
     tree.trim(tree.catalog[i])
     print(tree.root)
-

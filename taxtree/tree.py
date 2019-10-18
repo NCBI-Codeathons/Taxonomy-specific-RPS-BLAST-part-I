@@ -2,6 +2,7 @@
 
 from .node import Node
 
+
 class Tree:
     def __init__(self, root, catalog):
         self.root = root
@@ -32,10 +33,10 @@ class Tree:
                 p = p.childNodes[0]
 
             id_ws = [(c.taxid, c.weight) for c in p.childNodes]
-            min_id = sorted(id_ws, key=lambda t : t[1])[0]
+            min_id = sorted(id_ws, key=lambda t: t[1])[0]
             nd = p.removeChildNode(self.catalog[min_id])
 
-            nd.walk(lambda ch : self.sayGoodbye(ch))
+            nd.walk(lambda ch: self.sayGoodbye(ch))
             return nd
         else:
             if self.catalog.get(node.taxid) is None:
@@ -53,6 +54,7 @@ class Tree:
 
     def __str__(self):
         lines = []
+
         def func(nd, depth, idx):
             v = 1
             if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
@@ -73,21 +75,14 @@ class Tree:
             pre = "".join(["┃   " if b else "    " for b in bs])
 
             if idx == 0 and len(nd.childNodes) < 2:
-                lines.append(pre + "┕━━━" + str(nd.taxid))
+                lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
             elif idx == v:
-                lines.append(pre + "┕━━━" + str(nd.taxid))
+                lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
             else:
-                lines.append(pre + "┝━━━" + str(nd.taxid))
-
+                lines.append(pre + "┝━━━" + "{}[{}]".format(nd.taxid, nd.weight))
 
         self.root.walk(func)
         return "\n".join(lines)
-
-
-
-
-
-
 
 
 def createTree(arr):
@@ -118,8 +113,8 @@ def createTree(arr):
                         m = "node #{} got two parent nodes #{} and #{}".format(lin, eid, root.taxid)
                         raise ValueError(m)
                 else:
-                    if eid != bucket[2][i-1]:
-                        m = "node #{} got two parent nodes #{} and #{}".format(lin, eid, bucket[2][i-1])
+                    if eid != bucket[2][i - 1]:
+                        m = "node #{} got two parent nodes #{} and #{}".format(lin, eid, bucket[2][i - 1])
                         raise ValueError(m)
 
                 iter = catalog[lin]
@@ -136,4 +131,3 @@ def createTree(arr):
             iter.updateWeight(leaf.weight)
 
     return Tree(root, catalog)
-

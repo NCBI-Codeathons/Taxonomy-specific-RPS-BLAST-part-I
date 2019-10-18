@@ -64,8 +64,7 @@ class Node:
             func(self, depth, index)
             for i in range(len(self.childNodes)):
                 cn = self.childNodes[i]
-                cn.walk(func, depth+1, i)
-
+                cn.walk(func, depth + 1, i)
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)
@@ -82,7 +81,3 @@ class Node:
         cs = [str(id) for id in cs]
         res += "| Child Nodes: [{}]\n".format(", ".join(cs))
         return res
-
-
-
-

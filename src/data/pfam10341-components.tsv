@@ -1,0 +1,646 @@
+313550	pfam10341	9606	Homo sapiens	11	19
+313550	pfam10341	178876	Cryptococcus neoformans var. grubii	10	11
+313550	pfam10341	8078	Fundulus heteroclitus	10	10
+313550	pfam10341	9913	Bos taurus	8	13
+313550	pfam10341	9669	Mustela putorius furo	7	7
+313550	pfam10341	74533	Panthera tigris altaica	7	7
+313550	pfam10341	89462	Bubalus bubalis	7	7
+313550	pfam10341	113540	Scleropages formosus	7	7
+313550	pfam10341	1608454	Sinocyclocheilus anshuiensis	7	7
+313550	pfam10341	8478	Chrysemys picta bellii	6	6
+313550	pfam10341	59894	Ficedula albicollis	6	6
+313550	pfam10341	391180	Enhydra lutris kenyoni	6	6
+313550	pfam10341	9938	Ovis aries musimon	5	10
+313550	pfam10341	5477	[Candida] boidinii	5	8
+313550	pfam10341	9598	Pan troglodytes	5	7
+313550	pfam10341	9601	Pongo abelii	5	6
+313550	pfam10341	186990	Hipposideros armiger	5	6
+313550	pfam10341	1676925	Paramormyrops kingsleyae	5	6
+313550	pfam10341	7962	Cyprinus carpio	5	5
+313550	pfam10341	8673	Pseudonaja textilis	5	5
+313550	pfam10341	9691	Panthera pardus	5	5
+313550	pfam10341	9915	Bos indicus	5	5
+313550	pfam10341	10141	Cavia porcellus	5	5
+313550	pfam10341	307959	Sinocyclocheilus rhinocerous	5	5
+313550	pfam10341	321398	Lepidothrix coronata	5	5
+313550	pfam10341	649802	Pipra filicauda	5	5
+313550	pfam10341	8355	Xenopus laevis	4	15
+313550	pfam10341	9402	Pteropus alecto	4	7
+313550	pfam10341	10160	Octodon degus	4	7
+313550	pfam10341	28126	Prevotella buccae	4	7
+313550	pfam10341	10181	Heterocephalus glaber	4	6
+313550	pfam10341	8496	Alligator mississippiensis	4	4
+313550	pfam10341	9172	Sturnus vulgaris	4	4
+313550	pfam10341	9685	Felis catus	4	4
+313550	pfam10341	30608	Microcebus murinus	4	4
+313550	pfam10341	32536	Acinonyx jubatus	4	4
+313550	pfam10341	35019	Thamnophis sirtalis	4	4
+313550	pfam10341	43346	Bison bison bison	4	4
+313550	pfam10341	44941	Gigaspora rosea	4	4
+313550	pfam10341	48498	Orbicella faveolata	4	4
+313550	pfam10341	114329	Neopelma chrysocephalum	4	4
+313550	pfam10341	156563	Cyanistes caeruleus	4	4
+313550	pfam10341	328815	Manacus vitellinus	4	4
+313550	pfam10341	415028	Corapipo altera	4	4
+313550	pfam10341	419612	Camelus ferus	4	4
+313550	pfam10341	482537	Galeopterus variegatus	4	4
+313550	pfam10341	5478	[Candida] glabrata	3	11
+313550	pfam10341	10029	Cricetulus griseus	3	8
+313550	pfam10341	498019	[Candida] auris	3	6
+313550	pfam10341	9407	Rousettus aegyptiacus	3	5
+313550	pfam10341	9994	Marmota marmota marmota	3	5
+313550	pfam10341	132908	Pteropus vampyrus	3	5
+313550	pfam10341	7955	Danio rerio	3	4
+313550	pfam10341	37293	Aotus nancymaae	3	4
+313550	pfam10341	109478	Myotis brandtii	3	4
+313550	pfam10341	225400	Myotis davidii	3	4
+313550	pfam10341	7574	Lingula anatina	3	3
+313550	pfam10341	7957	Carassius auratus	3	3
+313550	pfam10341	8469	Chelonia mydas	3	3
+313550	pfam10341	8502	Crocodylus porosus	3	3
+313550	pfam10341	9157	Parus major	3	3
+313550	pfam10341	9544	Macaca mulatta	3	3
+313550	pfam10341	9755	Physeter catodon	3	3
+313550	pfam10341	9785	Loxodonta africana	3	3
+313550	pfam10341	9880	Odocoileus virginianus texanus	3	3
+313550	pfam10341	9999	Urocitellus parryii	3	3
+313550	pfam10341	10020	Dipodomys ordii	3	3
+313550	pfam10341	29139	Vombatus ursinus	3	3
+313550	pfam10341	30538	Vicugna pacos	3	3
+313550	pfam10341	43179	Ictidomys tridecemlineatus	3	3
+313550	pfam10341	44394	Zonotrichia albicollis	3	3
+313550	pfam10341	51338	Castor canadensis	3	3
+313550	pfam10341	176946	Python bivittatus	3	3
+313550	pfam10341	198806	Calidris pugnax	3	3
+313550	pfam10341	286419	Canis lupus dingo	3	3
+313550	pfam10341	1240240	Anncaliia algerae PRA109	3	3
+313550	pfam10341	559292	Saccharomyces cerevisiae S288C	2	18
+313550	pfam10341	10090	Mus musculus	2	8
+313550	pfam10341	8364	Xenopus tropicalis	2	6
+313550	pfam10341	235443	Cryptococcus neoformans var. grubii H99	2	6
+313550	pfam10341	10116	Rattus norvegicus	2	5
+313550	pfam10341	143302	Condylura cristata	2	5
+313550	pfam10341	4932	Saccharomyces cerevisiae	2	4
+313550	pfam10341	4956	Zygosaccharomyces rouxii	2	4
+313550	pfam10341	5486	Candida viswanathii	2	4
+313550	pfam10341	45351	Nematostella vectensis	2	4
+313550	pfam10341	253628	Verruconis gallopava	2	4
+313550	pfam10341	461836	Thecamonas trahens ATCC 50062	2	4
+313550	pfam10341	5059	Aspergillus flavus	2	3
+313550	pfam10341	6565	Crassostrea virginica	2	3
+313550	pfam10341	8010	Esox lucius	2	3
+313550	pfam10341	9749	Delphinapterus leucas	2	3
+313550	pfam10341	30732	Oryzias melastigma	2	3
+313550	pfam10341	61622	Rhinopithecus roxellana	2	3
+313550	pfam10341	80972	Amphiprion ocellaris	2	3
+313550	pfam10341	109280	Hippocampus comes	2	3
+313550	pfam10341	698492	Saitoella complicata NRRL Y-17804	2	3
+313550	pfam10341	5353	Lentinula edodes	2	2
+313550	pfam10341	6573	Mizuhopecten yessoensis	2	2
+313550	pfam10341	7918	Lepisosteus oculatus	2	2
+313550	pfam10341	8019	Oncorhynchus kisutch	2	2
+313550	pfam10341	8022	Oncorhynchus mykiss	2	2
+313550	pfam10341	8030	Salmo salar	2	2
+313550	pfam10341	8255	Paralichthys olivaceus	2	2
+313550	pfam10341	8932	Columba livia	2	2
+313550	pfam10341	9031	Gallus gallus	2	2
+313550	pfam10341	9361	Dasypus novemcinctus	2	2
+313550	pfam10341	9365	Erinaceus europaeus	2	2
+313550	pfam10341	9541	Macaca fascicularis	2	2
+313550	pfam10341	9555	Papio anubis	2	2
+313550	pfam10341	9565	Theropithecus gelada	2	2
+313550	pfam10341	9615	Canis lupus familiaris	2	2
+313550	pfam10341	9627	Vulpes vulpes	2	2
+313550	pfam10341	9696	Puma concolor	2	2
+313550	pfam10341	9704	Zalophus californianus	2	2
+313550	pfam10341	9796	Equus caballus	2	2
+313550	pfam10341	9823	Sus scrofa	2	2
+313550	pfam10341	9837	Camelus bactrianus	2	2
+313550	pfam10341	9838	Camelus dromedarius	2	2
+313550	pfam10341	9925	Capra hircus	2	2
+313550	pfam10341	10036	Mesocricetus auratus	2	2
+313550	pfam10341	10047	Meriones unguiculatus	2	2
+313550	pfam10341	29159	Crassostrea gigas	2	2
+313550	pfam10341	34884	Callorhinus ursinus	2	2
+313550	pfam10341	45354	[Candida] intermedia	2	2
+313550	pfam10341	46731	Pocillopora damicornis	2	2
+313550	pfam10341	49012	Sporisorium scitamineum	2	2
+313550	pfam10341	59463	Myotis lucifugus	2	2
+313550	pfam10341	72004	Bos mutus	2	2
+313550	pfam10341	73337	Ceratotherium simum simum	2	2
+313550	pfam10341	74940	Oncorhynchus tshawytscha	2	2
+313550	pfam10341	93934	Coturnix japonica	2	2
+313550	pfam10341	103695	Pogona vitticeps	2	2
+313550	pfam10341	121759	Paracoccidioides brasiliensis	2	2
+313550	pfam10341	246437	Tupaia chinensis	2	2
+313550	pfam10341	291302	Miniopterus natalensis	2	2
+313550	pfam10341	294746	Meyerozyma guilliermondii ATCC 6260	2	2
+313550	pfam10341	308060	Apteryx rowi	2	2
+313550	pfam10341	310752	Balaenoptera acutorostrata scammoni	2	2
+313550	pfam10341	342668	Pseudogymnoascus verrucosus	2	2
+313550	pfam10341	372326	Patagioenas fasciata monilis	2	2
+313550	pfam10341	595528	Capsaspora owczarzaki ATCC 30864	2	2
+313550	pfam10341	630390	Puccinia triticina 1-1 BBBD Race 1	2	2
+313550	pfam10341	932674	Corvus cornix cornix	2	2
+313550	pfam10341	1026970	Nannospalax galili	2	2
+313550	pfam10341	1288291	Anncaliia algerae PRA339	2	2
+313550	pfam10341	1314781	Exidia glandulosa HHB12029	2	2
+313550	pfam10341	1415176	Terrapene mexicana triunguis	2	2
+313550	pfam10341	1706337	Neophocaena asiaeorientalis asiaeorientalis	2	2
+313550	pfam10341	1720309	Exaiptasia pallida	2	2
+313550	pfam10341	1737458	Cebus capucinus imitator	2	2
+313550	pfam10341	1867952	Candidatus Terasakiella magnetica	2	2
+313550	pfam10341	1294331	Saccharomyces cerevisiae YJM993	1	26
+313550	pfam10341	1294303	Saccharomyces cerevisiae YJM189	1	15
+313550	pfam10341	559305	Trichophyton rubrum CBS 118892	1	13
+313550	pfam10341	1294310	Saccharomyces cerevisiae YJM450	1	8
+313550	pfam10341	237561	Candida albicans SC5314	1	7
+313550	pfam10341	644223	Komagataella phaffii GS115	1	6
+313550	pfam10341	747089	Rhizophagus irregularis DAOM 181602=DAOM 197198	1	6
+313550	pfam10341	294748	Candida albicans WO-1	1	5
+313550	pfam10341	1294309	Saccharomyces cerevisiae YJM271	1	5
+313550	pfam10341	4896	Schizosaccharomyces pombe	1	4
+313550	pfam10341	284811	Eremothecium gossypii ATCC 10895	1	4
+313550	pfam10341	284813	Encephalitozoon cuniculi GB-M1	1	4
+313550	pfam10341	885580	Fukomys damarensis	1	4
+313550	pfam10341	1094985	Candida albicans P37005	1	4
+313550	pfam10341	1294312	Saccharomyces cerevisiae YJM456	1	4
+313550	pfam10341	1294340	Saccharomyces cerevisiae YJM1248	1	4
+313550	pfam10341	1294345	Saccharomyces cerevisiae YJM1307	1	4
+313550	pfam10341	28985	Kluyveromyces lactis	1	3
+313550	pfam10341	64144	Anabas testudineus	1	3
+313550	pfam10341	284592	Debaryomyces hansenii CBS767	1	3
+313550	pfam10341	332952	Aspergillus flavus NRRL3357	1	3
+313550	pfam10341	502869	Saccharomyces cerevisiae YJM451	1	3
+313550	pfam10341	655981	Pseudogymnoascus destructans	1	3
+313550	pfam10341	663331	Trichophyton benhamiae CBS 112371	1	3
+313550	pfam10341	1230065	Cryptococcus neoformans var. grubii AD1-83a	1	3
+313550	pfam10341	1296266	Saccharomyces cerevisiae YJM1078	1	3
+313550	pfam10341	1616	Weissella kandleri	1	2
+313550	pfam10341	4950	Torulaspora delbrueckii	1	2
+313550	pfam10341	7739	Branchiostoma floridae	1	2
+313550	pfam10341	8187	Lates calcarifer	1	2
+313550	pfam10341	29073	Ursus maritimus	1	2
+313550	pfam10341	39432	Saimiri boliviensis boliviensis	1	2
+313550	pfam10341	41447	Seriola dumerili	1	2
+313550	pfam10341	43700	Monopterus albus	1	2
+313550	pfam10341	45286	Eremothecium sinecaudum	1	2
+313550	pfam10341	45357	[Candida] haemulonis	1	2
+313550	pfam10341	84753	Moesziomyces antarcticus	1	2
+313550	pfam10341	112498	Ramularia collo-cygni	1	2
+313550	pfam10341	122368	Cercospora beticola	1	2
+313550	pfam10341	139825	Sparassis crispa	1	2
+313550	pfam10341	214684	Cryptococcus neoformans var. neoformans JEC21	1	2
+313550	pfam10341	215358	Larimichthys crocea	1	2
+313550	pfam10341	222929	Coccidioides posadasii C735 delta SOWgp	1	2
+313550	pfam10341	225164	Lottia gigantea	1	2
+313550	pfam10341	236234	Diplodia corticola	1	2
+313550	pfam10341	237631	Ustilago maydis 521	1	2
+313550	pfam10341	240176	Coprinopsis cinerea okayama7#130	1	2
+313550	pfam10341	246410	Coccidioides immitis RS	1	2
+313550	pfam10341	252598	Saccharomyces sp. 'boulardii'	1	2
+313550	pfam10341	283643	Cryptococcus neoformans var. neoformans B-3501A	1	2
+313550	pfam10341	294747	Candida tropicalis MYA-3404	1	2
+313550	pfam10341	294750	Cryptococcus gattii VGII R265	1	2
+313550	pfam10341	306902	Clavispora lusitaniae ATCC 42720	1	2
+313550	pfam10341	322104	Scheffersomyces stipitis CBS 6054	1	2
+313550	pfam10341	331117	Aspergillus fischeri NRRL 181	1	2
+313550	pfam10341	336722	Zymoseptoria tritici IPO323	1	2
+313550	pfam10341	336963	Uncinocarpus reesii 1704	1	2
+313550	pfam10341	339724	Histoplasma capsulatum NAm1	1	2
+313550	pfam10341	341663	Aspergillus terreus NIH2624	1	2
+313550	pfam10341	344612	Aspergillus clavatus NRRL 1	1	2
+313550	pfam10341	367775	Cryptococcus gattii WM276	1	2
+313550	pfam10341	379508	Lodderomyces elongisporus NRRL YB-4239	1	2
+313550	pfam10341	383855	Pseudocercospora fijiensis CIRAD86	1	2
+313550	pfam10341	402676	Schizosaccharomyces japonicus yFS275	1	2
+313550	pfam10341	404692	Coccidioides immitis RMSCC 2394	1	2
+313550	pfam10341	418784	[Candida] pseudohaemulonis	1	2
+313550	pfam10341	431241	Trichoderma reesei QM6a	1	2
+313550	pfam10341	460523	Ogataea polymorpha	1	2
+313550	pfam10341	502779	Paracoccidioides lutzii Pb01	1	2
+313550	pfam10341	502780	Paracoccidioides brasiliensis Pb18	1	2
+313550	pfam10341	535722	Nannizzia gypsea CBS 118893	1	2
+313550	pfam10341	554155	Microsporum canis CBS 113480	1	2
+313550	pfam10341	559298	Blastomyces gilchristii SLH14081	1	2
+313550	pfam10341	559304	Millerozyma farinosa CBS 7064	1	2
+313550	pfam10341	573826	Candida dubliniensis CD36	1	2
+313550	pfam10341	619300	Spathaspora passalidarum NRRL Y-27907	1	2
+313550	pfam10341	645134	Spizellomyces punctatus DAOM BR117	1	2
+313550	pfam10341	653667	Schizosaccharomyces cryophilus OY26	1	2
+313550	pfam10341	663202	Trichophyton verrucosum HKI 0517	1	2
+313550	pfam10341	670483	Gloeophyllum trabeum ATCC 11539	1	2
+313550	pfam10341	670580	Postia placenta MAD-698-R-SB12	1	2
+313550	pfam10341	671144	Wallemia mellicola CBS 633.66	1	2
+313550	pfam10341	692275	Sphaerulina musiva SO2202	1	2
+313550	pfam10341	694068	Fomitiporia mediterranea MF3/22	1	2
+313550	pfam10341	717646	Baudoinia panamericana UAMH 10762	1	2
+313550	pfam10341	741275	Punctularia strigosozonata HHB-11173 SS5	1	2
+313550	pfam10341	741705	Coniophora puteana RWD-64-598 SS2	1	2
+313550	pfam10341	747525	Heterobasidion irregulare TC 32-1	1	2
+313550	pfam10341	869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993	1	2
+313550	pfam10341	871575	Ogataea parapolymorpha DL-1	1	2
+313550	pfam10341	876142	Encephalitozoon intestinalis ATCC 50506	1	2
+313550	pfam10341	879819	Cutaneotrichosporon oleaginosum	1	2
+313550	pfam10341	948595	Vavraia culicis subsp. floridensis	1	2
+313550	pfam10341	984485	Hyphopichia burtonii NRRL Y-1933	1	2
+313550	pfam10341	984486	Babjeviella inositovora NRRL Y-12698	1	2
+313550	pfam10341	984487	Suhomyces tanzawaensis NRRL Y-17324	1	2
+313550	pfam10341	1003335	Kluyveromyces marxianus DMKU3-1042	1	2
+313550	pfam10341	1032506	Prevotella sp. MSX73	1	2
+313550	pfam10341	1041607	Wickerhamomyces ciferrii	1	2
+313550	pfam10341	1064592	Naumovozyma castellii CBS 4309	1	2
+313550	pfam10341	1069680	Pneumocystis murina B123	1	2
+313550	pfam10341	1071378	Naumovozyma dairenensis CBS 421	1	2
+313550	pfam10341	1071380	Tetrapisispora blattae CBS 6284	1	2
+313550	pfam10341	1071381	Tetrapisispora phaffii CBS 4417	1	2
+313550	pfam10341	1071382	Kazachstania africana CBS 2517	1	2
+313550	pfam10341	1071383	Kazachstania naganishii CBS 8797	1	2
+313550	pfam10341	1073090	Penicilliopsis zonata CBS 506.65	1	2
+313550	pfam10341	1080349	Saccharomyces eubayanus	1	2
+313550	pfam10341	1094984	Candida albicans P87	1	2
+313550	pfam10341	1136231	Candida orthopsilosis Co 90-125	1	2
+313550	pfam10341	1165368	Candida albicans Ca6	1	2
+313550	pfam10341	1178016	Encephalitozoon romaleae SJ-2008	1	2
+313550	pfam10341	1230056	Cryptococcus neoformans var. grubii AD1-7a	1	2
+313550	pfam10341	1230067	Cryptococcus neoformans var. grubii Th84	1	2
+313550	pfam10341	1230080	Cryptococcus neoformans var. grubii A5-35-17	1	2
+313550	pfam10341	1231522	[Candida] duobushaemulonis	1	2
+313550	pfam10341	1245748	Aspergillus turcosus	1	2
+313550	pfam10341	1245769	Lachancea lanzarotensis	1	2
+313550	pfam10341	1257118	Acanthamoeba castellanii str. Neff	1	2
+313550	pfam10341	1263415	Endocarpon pusillum Z07020	1	2
+313550	pfam10341	1296096	Kwoniella pini CBS 10737	1	2
+313550	pfam10341	1296100	Kwoniella bestiolae CBS 10118	1	2
+313550	pfam10341	1296121	Kwoniella dejecticola CBS 10117	1	2
+313550	pfam10341	1296122	Kwoniella mangroviensis CBS 8507	1	2
+313550	pfam10341	1305764	Pseudozyma hubeiensis SY62	1	2
+313550	pfam10341	1328759	Lentinus tigrinus ALCF2SS1-6	1	2
+313550	pfam10341	1333698	Zygosaccharomyces bailii CLIB 213	1	2
+313550	pfam10341	1344418	Ascoidea rubescens DSM 1968	1	2
+313550	pfam10341	1354746	Ordospora colligata OC4	1	2
+313550	pfam10341	1365824	Kalmanozyma brasiliensis GHG001	1	2
+313550	pfam10341	1392255	Aspergillus novofumigatus IBT 16806	1	2
+313550	pfam10341	1408163	Rasamsonia emersonii CBS 393.64	1	2
+313550	pfam10341	1408657	Pneumocystis jirovecii RU7	1	2
+313550	pfam10341	1408658	Pneumocystis carinii B80	1	2
+313550	pfam10341	1437362	Aspergillus fumigatus Z5	1	2
+313550	pfam10341	1448322	Aspergillus aculeatinus CBS 121060	1	2
+313550	pfam10341	1450534	Aspergillus brunneoviolaceus CBS 621.78	1	2
+313550	pfam10341	1450539	Aspergillus saccharolyticus JOP 1030-1	1	2
+313550	pfam10341	1586267	Apibacter mensalis	1	2
+313550	pfam10341	1679467	Apibacter sp. wkB309	1	2
+313550	pfam10341	2072421	Rhodocyclales bacterium	1	2
+313550	pfam10341	2183553	Spirosoma sp. HMF3257	1	2
+313550	pfam10341	2211215	Vibrio sp. 11986-1-5	1	2
+313550	pfam10341	562	Escherichia coli	1	1
+313550	pfam10341	892	Desulfuromonas sp.	1	1
+313550	pfam10341	4903	Cyberlindnera jadinii	1	1
+313550	pfam10341	4911	Kluyveromyces marxianus	1	1
+313550	pfam10341	4922	Komagataella pastoris	1	1
+313550	pfam10341	4955	Lachancea fermentati	1	1
+313550	pfam10341	5062	Aspergillus oryzae	1	1
+313550	pfam10341	5480	Candida parapsilosis	1	1
+313550	pfam10341	5539	Scytalidium lignicola	1	1
+313550	pfam10341	5551	Trichophyton rubrum	1	1
+313550	pfam10341	5949	Stylonychia lemnae	1	1
+313550	pfam10341	6087	Hydra vulgaris	1	1
+313550	pfam10341	7668	Strongylocentrotus purpuratus	1	1
+313550	pfam10341	7741	Branchiostoma belcheri	1	1
+313550	pfam10341	7868	Callorhinchus milii	1	1
+313550	pfam10341	7906	Acipenser ruthenus	1	1
+313550	pfam10341	7994	Astyanax mexicanus	1	1
+313550	pfam10341	7998	Ictalurus punctatus	1	1
+313550	pfam10341	8005	Electrophorus electricus	1	1
+313550	pfam10341	8081	Poecilia reticulata	1	1
+313550	pfam10341	8083	Xiphophorus maculatus	1	1
+313550	pfam10341	8090	Oryzias latipes	1	1
+313550	pfam10341	8128	Oreochromis niloticus	1	1
+313550	pfam10341	8153	Haplochromis burtoni	1	1
+313550	pfam10341	8154	Astatotilapia calliptera	1	1
+313550	pfam10341	8208	Notothenia coriiceps	1	1
+313550	pfam10341	8663	Notechis scutatus	1	1
+313550	pfam10341	8790	Dromaius novaehollandiae	1	1
+313550	pfam10341	8839	Anas platyrhynchos	1	1
+313550	pfam10341	8969	Haliaeetus albicilla	1	1
+313550	pfam10341	8996	Numida meleagris	1	1
+313550	pfam10341	9009	Callipepla squamata	1	1
+313550	pfam10341	9233	Aptenodytes forsteri	1	1
+313550	pfam10341	9238	Pygoscelis adeliae	1	1
+313550	pfam10341	9244	Calypte anna	1	1
+313550	pfam10341	9258	Ornithorhynchus anatinus	1	1
+313550	pfam10341	9305	Sarcophilus harrisii	1	1
+313550	pfam10341	9371	Echinops telfairi	1	1
+313550	pfam10341	9430	Desmodus rotundus	1	1
+313550	pfam10341	9483	Callithrix jacchus	1	1
+313550	pfam10341	9531	Cercocebus atys	1	1
+313550	pfam10341	9545	Macaca nemestrina	1	1
+313550	pfam10341	9568	Mandrillus leucophaeus	1	1
+313550	pfam10341	9595	Gorilla gorilla gorilla	1	1
+313550	pfam10341	9597	Pan paniscus	1	1
+313550	pfam10341	9646	Ailuropoda melanoleuca	1	1
+313550	pfam10341	9708	Odobenus rosmarus divergens	1	1
+313550	pfam10341	9713	Leptonychotes weddellii	1	1
+313550	pfam10341	9733	Orcinus orca	1	1
+313550	pfam10341	9793	Equus asinus	1	1
+313550	pfam10341	9798	Equus przewalskii	1	1
+313550	pfam10341	9940	Ovis aries	1	1
+313550	pfam10341	9974	Manis javanica	1	1
+313550	pfam10341	9978	Ochotona princeps	1	1
+313550	pfam10341	9986	Oryctolagus cuniculus	1	1
+313550	pfam10341	10089	Mus caroli	1	1
+313550	pfam10341	10093	Mus pahari	1	1
+313550	pfam10341	13146	Melopsittacus undulatus	1	1
+313550	pfam10341	13616	Monodelphis domestica	1	1
+313550	pfam10341	27322	Metschnikowia bicuspidata	1	1
+313550	pfam10341	27342	Schizopora paradoxa	1	1
+313550	pfam10341	28377	Anolis carolinensis	1	1
+313550	pfam10341	28737	Elephantulus edwardii	1	1
+313550	pfam10341	28743	Cyprinodon variegatus	1	1
+313550	pfam10341	29078	Eptesicus fuscus	1	1
+313550	pfam10341	29088	Neomonachus schauinslandi	1	1
+313550	pfam10341	30464	Nothoprocta perdicaria	1	1
+313550	pfam10341	30611	Otolemur garnettii	1	1
+313550	pfam10341	31033	Takifugu rubripes	1	1
+313550	pfam10341	32507	Neolamprologus brichardi	1	1
+313550	pfam10341	33528	Gambusia affinis	1	1
+313550	pfam10341	34839	Chinchilla lanigera	1	1
+313550	pfam10341	36022	Cyberlindnera fabianii	1	1
+313550	pfam10341	36911	Clavispora lusitaniae	1	1
+313550	pfam10341	37003	Kryptolebias marmoratus	1	1
+313550	pfam10341	37360	Plasmodiophora brassicae	1	1
+313550	pfam10341	38626	Phascolarctos cinereus	1	1
+313550	pfam10341	42249	Tuber magnatum	1	1
+313550	pfam10341	42251	Tuber borchii	1	1
+313550	pfam10341	42254	Sorex araneus	1	1
+313550	pfam10341	42514	Pygocentrus nattereri	1	1
+313550	pfam10341	44316	Erythrura gouldiae	1	1
+313550	pfam10341	46360	Cervus elaphus hippelaphus	1	1
+313550	pfam10341	48698	Poecilia formosa	1	1
+313550	pfam10341	48699	Poecilia latipinna	1	1
+313550	pfam10341	48701	Poecilia mexicana	1	1
+313550	pfam10341	48883	Geospiza fortis	1	1
+313550	pfam10341	50429	Stylophora pistillata	1	1
+313550	pfam10341	51337	Jaculus jaculus	1	1
+313550	pfam10341	52644	Haliaeetus leucocephalus	1	1
+313550	pfam10341	52670	Austrofundulus limnaeus	1	1
+313550	pfam10341	54374	Mesitornis unicolor	1	1
+313550	pfam10341	54383	Eurypyga helias	1	1
+313550	pfam10341	56216	Neotoma lepida	1	1
+313550	pfam10341	56484	Protomyces lactucaedebilis	1	1
+313550	pfam10341	56723	Labrus bergylta	1	1
+313550	pfam10341	59538	Pantholops hodgsonii	1	1
+313550	pfam10341	59557	Tuber aestivum	1	1
+313550	pfam10341	59729	Taeniopygia guttata	1	1
+313550	pfam10341	59799	Angomonas deanei	1	1
+313550	pfam10341	60711	Chlorocebus sabaeus	1	1
+313550	pfam10341	61424	Furculomyces boomerangus	1	1
+313550	pfam10341	61621	Rhinopithecus bieti	1	1
+313550	pfam10341	61853	Nomascus leucogenys	1	1
+313550	pfam10341	66420	Papilio xuthus	1	1
+313550	pfam10341	70779	Acropora digitifera	1	1
+313550	pfam10341	71784	Naematelia encephala	1	1
+313550	pfam10341	72359	Trachipleistophora hominis	1	1
+313550	pfam10341	72559	Sporisorium reilianum f. sp. reilianum	1	1
+313550	pfam10341	73230	Emmonsia crescens	1	1
+313550	pfam10341	75366	Sinocyclocheilus grahami	1	1
+313550	pfam10341	78915	Thamnocephalis sphaerospora	1	1
+313550	pfam10341	79684	Microtus ochrogaster	1	1
+313550	pfam10341	80966	Acanthochromis polyacanthus	1	1
+313550	pfam10341	85066	Corvus brachyrhynchos	1	1
+313550	pfam10341	89399	Rhinolophus sinicus	1	1
+313550	pfam10341	90247	Lagenorhynchus obliquidens	1	1
+313550	pfam10341	93625	Psilocybe cyanescens	1	1
+313550	pfam10341	94130	Rhizophagus clarus	1	1
+313550	pfam10341	98765	Phlebia centrifuga	1	1
+313550	pfam10341	99883	Tetraodon nigroviridis	1	1
+313550	pfam10341	105023	Nothobranchius furzeri	1	1
+313550	pfam10341	105984	Apiotrichum porosum	1	1
+313550	pfam10341	106582	Maylandia zebra	1	1
+313550	pfam10341	108892	Sanghuangporus baumii	1	1
+313550	pfam10341	113226	Pseudocercospora musae	1	1
+313550	pfam10341	118797	Lipotes vexillifer	1	1
+313550	pfam10341	120017	Ustilago hordei	1	1
+313550	pfam10341	121530	Tauraco erythrolophus	1	1
+313550	pfam10341	125878	Nanorana parkeri	1	1
+313550	pfam10341	127582	Trichechus manatus latirostris	1	1
+313550	pfam10341	133377	Smittium angustum	1	1
+313550	pfam10341	133381	Smittium megazygosporum	1	1
+313550	pfam10341	133385	Smittium simulii	1	1
+313550	pfam10341	133434	Acanthaster planci	1	1
+313550	pfam10341	136370	Umbilicaria pustulata	1	1
+313550	pfam10341	139420	Polyporus brumalis	1	1
+313550	pfam10341	144197	Stegastes partitus	1	1
+313550	pfam10341	146866	Pseudoloma neurophilia	1	1
+313550	pfam10341	146911	Gekko japonicus	1	1
+313550	pfam10341	154538	Trametes pubescens	1	1
+313550	pfam10341	164674	Empidonax traillii	1	1
+313550	pfam10341	180088	Rhizopogon vesiculosus	1	1
+313550	pfam10341	180999	Cladonia uncialis subsp. uncialis	1	1
+313550	pfam10341	181119	Pseudopodoces humilis	1	1
+313550	pfam10341	185453	Chrysochloris asiatica	1	1
+313550	pfam10341	194338	Athene cunicularia	1	1
+313550	pfam10341	202946	Apteryx australis mantelli	1	1
+313550	pfam10341	205130	Mastacembelus armatus	1	1
+313550	pfam10341	215637	Dimargaris cristalligena	1	1
+313550	pfam10341	216574	Aquila chrysaetos canadensis	1	1
+313550	pfam10341	221103	Moniliophthora roreri	1	1
+313550	pfam10341	226230	Saccharomyces kudriavzevii IFO 1802	1	1
+313550	pfam10341	230844	Peromyscus maniculatus bairdii	1	1
+313550	pfam10341	231916	Gymnopilus dilepis	1	1
+313550	pfam10341	244447	Cynoglossus semilaevis	1	1
+313550	pfam10341	259920	Rhincodon typus	1	1
+313550	pfam10341	291195	Tubulinosema ratisbonensis	1	1
+313550	pfam10341	293939	Aspergillus lentulus	1	1
+313550	pfam10341	299123	Lonchura striata domestica	1	1
+313550	pfam10341	303518	Pundamilia nyererei	1	1
+313550	pfam10341	307758	Ustilago bromivora	1	1
+313550	pfam10341	307796	Saccharomyces cerevisiae YJM789	1	1
+313550	pfam10341	307972	Apostichopus japonicus	1	1
+313550	pfam10341	310915	Pangasianodon hypophthalmus	1	1
+313550	pfam10341	321146	Mycosphaerella eumusae	1	1
+313550	pfam10341	321895	Paraburkholderia silvatlantica	1	1
+313550	pfam10341	333673	Hirundo rustica rustica	1	1
+313550	pfam10341	336983	Colobus angolensis palliatus	1	1
+313550	pfam10341	348901	Cercospora zeina	1	1
+313550	pfam10341	357750	Cercospora berteroae	1	1
+313550	pfam10341	379532	Propithecus coquereli	1	1
+313550	pfam10341	381198	Anser cygnoides domesticus	1	1
+313550	pfam10341	392613	Ascosphaera apis ARSEF 7405	1	1
+313550	pfam10341	396776	Coccidioides immitis H538.4	1	1
+313550	pfam10341	418867	Phellinus noxius	1	1
+313550	pfam10341	433476	Lachancea sp. CBS 6924	1	1
+313550	pfam10341	436010	Fibularhizoctonia sp. CBS 109695	1	1
+313550	pfam10341	441894	Struthio camelus australis	1	1
+313550	pfam10341	443226	Coccidioides posadasii str. Silveira	1	1
+313550	pfam10341	447093	Histoplasma capsulatum G186AR	1	1
+313550	pfam10341	447095	Blastomyces dermatitidis ATCC 26199	1	1
+313550	pfam10341	454284	Coccidioides posadasii RMSCC 3488	1	1
+313550	pfam10341	454286	Coccidioides immitis RMSCC 3703	1	1
+313550	pfam10341	456999	Rhizoctonia solani	1	1
+313550	pfam10341	482561	Paracoccidioides brasiliensis Pb03	1	1
+313550	pfam10341	523103	Trichophyton mentagrophytes	1	1
+313550	pfam10341	544711	Histoplasma capsulatum H88	1	1
+313550	pfam10341	544712	Histoplasma capsulatum H143	1	1
+313550	pfam10341	559297	Blastomyces dermatitidis ER-3	1	1
+313550	pfam10341	559882	Trichophyton equinum CBS 127.97	1	1
+313550	pfam10341	561896	Postia placenta Mad-698-R	1	1
+313550	pfam10341	591936	Piliocolobus tephrosceles	1	1
+313550	pfam10341	647933	Trichophyton tonsurans CBS 112818	1	1
+313550	pfam10341	653446	Blastomyces dermatitidis ATCC 18188	1	1
+313550	pfam10341	656916	Aspergillus arachidicola	1	1
+313550	pfam10341	658196	Glomus cerebriforme	1	1
+313550	pfam10341	669874	Pachysolen tannophilus NRRL Y-2460	1	1
+313550	pfam10341	675120	Dothistroma septosporum NZE10	1	1
+313550	pfam10341	685588	Galerina marginata CBS 339.88	1	1
+313550	pfam10341	686832	Hebeloma cylindrosporum h7	1	1
+313550	pfam10341	742152	Wolfiporia cocos MD-104 SS10	1	1
+313550	pfam10341	743788	Fomitopsis pinicola FP-58527 SS1	1	1
+313550	pfam10341	745531	Phlebiopsis gigantea 11061_1 CR5-6	1	1
+313550	pfam10341	746128	Aspergillus fumigatus	1	1
+313550	pfam10341	763665	Coemansia reversa NRRL 1564	1	1
+313550	pfam10341	765257	Pisolithus microcarpus 441	1	1
+313550	pfam10341	765440	Piloderma croceum F 1598	1	1
+313550	pfam10341	794803	Cenococcum geophilum 1.58	1	1
+313550	pfam10341	858221	Trichoderma parareesei	1	1
+313550	pfam10341	870435	Pisolithus tinctorius Marx 270	1	1
+313550	pfam10341	913774	Oidiodendron maius Zn	1	1
+313550	pfam10341	930992	Suillus luteus UH-Slu-Lm8-n1	1	1
+313550	pfam10341	933084	Jaapia argillacea MUCL 33604	1	1
+313550	pfam10341	944288	Plicaturopsis crispa FD-325 SS-3	1	1
+313550	pfam10341	945553	Hypholoma sublateritium FD-334 SS-4	1	1
+313550	pfam10341	983506	Rhizoctonia solani AG-1 IA	1	1
+313550	pfam10341	983967	[Candida] arabinofermentans NRRL YB-2248	1	1
+313550	pfam10341	999809	Sporisorium reilianum SRZ2	1	1
+313550	pfam10341	1036612	Aspergillus sydowii CBS 593.65	1	1
+313550	pfam10341	1036808	Scleroderma citrinum Foug A	1	1
+313550	pfam10341	1047168	Zymoseptoria brevis	1	1
+313550	pfam10341	1051890	Terfezia boudieri ATCC MYA-4762	1	1
+313550	pfam10341	1077348	Ganoderma sinense ZZ0214-1	1	1
+313550	pfam10341	1086054	Rhizoctonia solani AG-3 Rhs1AP	1	1
+313550	pfam10341	1094982	Candida albicans L26	1	1
+313550	pfam10341	1094983	Candida albicans P94015	1	1
+313550	pfam10341	1094988	Candida albicans GC75	1	1
+313550	pfam10341	1094989	Candida albicans P78048	1	1
+313550	pfam10341	1094991	Candida albicans P34048	1	1
+313550	pfam10341	1094998	Candida albicans P76055	1	1
+313550	pfam10341	1095000	Candida albicans P78042	1	1
+313550	pfam10341	1095629	Laccaria amethystina LaAM-08-1	1	1
+313550	pfam10341	1108050	Rhizoctonia solani AG-1 IB	1	1
+313550	pfam10341	1124627	Brettanomyces bruxellensis AWRI1499	1	1
+313550	pfam10341	1126212	Macrophomina phaseolina MS6	1	1
+313550	pfam10341	1128425	Fistulina hepatica ATCC 64428	1	1
+313550	pfam10341	1137138	Pleurotus ostreatus PC15	1	1
+313550	pfam10341	1149755	Hyaloscypha variabilis F	1	1
+313550	pfam10341	1151754	Moesziomyces antarcticus T-34	1	1
+313550	pfam10341	1172189	Oxytricha trifallax	1	1
+313550	pfam10341	1215331	Trichophyton soudanense CBS 452.61	1	1
+313550	pfam10341	1215336	Trichophyton interdigitale H6	1	1
+313550	pfam10341	1215338	Trichophyton interdigitale MR816	1	1
+313550	pfam10341	1230057	Cryptococcus neoformans var. grubii A2-102-5	1	1
+313550	pfam10341	1230058	Cryptococcus neoformans var. grubii D17-1	1	1
+313550	pfam10341	1230059	Cryptococcus neoformans var. grubii AD2-60a	1	1
+313550	pfam10341	1230060	Cryptococcus neoformans var. grubii Gb118	1	1
+313550	pfam10341	1230061	Cryptococcus neoformans var. grubii Br795	1	1
+313550	pfam10341	1230062	Cryptococcus neoformans var. grubii MW-RSA36	1	1
+313550	pfam10341	1230064	Cryptococcus neoformans var. grubii CHC193	1	1
+313550	pfam10341	1230068	Cryptococcus neoformans var. grubii c45	1	1
+313550	pfam10341	1230069	Cryptococcus neoformans var. grubii MW-RSA852	1	1
+313550	pfam10341	1230070	Cryptococcus neoformans var. grubii Bt120	1	1
+313550	pfam10341	1230071	Cryptococcus neoformans var. grubii Bt15	1	1
+313550	pfam10341	1230072	Cryptococcus neoformans var. grubii Tu259-1	1	1
+313550	pfam10341	1230073	Cryptococcus neoformans var. grubii Bt1	1	1
+313550	pfam10341	1230075	Cryptococcus neoformans var. grubii Bt63	1	1
+313550	pfam10341	1230077	Cryptococcus neoformans var. grubii Tu401-1	1	1
+313550	pfam10341	1230078	Cryptococcus neoformans var. grubii Ze90-1	1	1
+313550	pfam10341	1230079	Cryptococcus neoformans var. grubii 125.91	1	1
+313550	pfam10341	1230383	Malassezia sympodialis ATCC 42132	1	1
+313550	pfam10341	1230840	Orycteropus afer afer	1	1
+313550	pfam10341	1230905	Lachancea mirantina	1	1
+313550	pfam10341	1234273	Tachysurus fulvidraco	1	1
+313550	pfam10341	1246674	Emmonsia parva UAMH 139	1	1
+313550	pfam10341	1247875	Emmonsia crescens UAMH 3008	1	1
+313550	pfam10341	1262920	Prevotella sp. CAG:1124	1	1
+313550	pfam10341	1266660	Lachancea dasiensis CBS 10888	1	1
+313550	pfam10341	1266666	Lachancea nothofagi CBS 11611	1	1
+313550	pfam10341	1266667	Lachancea meyersii CBS 8951	1	1
+313550	pfam10341	1276529	Zymoseptoria tritici ST99CH_1A5	1	1
+313550	pfam10341	1276532	Zymoseptoria tritici ST99CH_1E4	1	1
+313550	pfam10341	1276537	Zymoseptoria tritici ST99CH_3D1	1	1
+313550	pfam10341	1276538	Zymoseptoria tritici ST99CH_3D7	1	1
+313550	pfam10341	1287689	Rhizoctonia solani AG-8 WAC10335	1	1
+313550	pfam10341	1294304	Saccharomyces cerevisiae YJM193	1	1
+313550	pfam10341	1294321	Saccharomyces cerevisiae YJM689	1	1
+313550	pfam10341	1294368	Saccharomyces cerevisiae YJM1418	1	1
+313550	pfam10341	1295531	Cryptococcus depauperatus CBS 7841	1	1
+313550	pfam10341	1295532	Cryptococcus depauperatus CBS 7855	1	1
+313550	pfam10341	1296101	Cryptococcus gattii VGII CBS 10090	1	1
+313550	pfam10341	1296102	Cryptococcus gattii E566	1	1
+313550	pfam10341	1296103	Cryptococcus gattii EJB2	1	1
+313550	pfam10341	1296104	Cryptococcus gattii VGII 99/473	1	1
+313550	pfam10341	1296105	Cryptococcus gattii VGIV IND107	1	1
+313550	pfam10341	1296106	Cryptococcus gattii VGII LA55	1	1
+313550	pfam10341	1296108	Cryptococcus gattii NT-10	1	1
+313550	pfam10341	1296109	Cryptococcus gattii CA1280	1	1
+313550	pfam10341	1296110	Cryptococcus gattii VGII Ram5	1	1
+313550	pfam10341	1296111	Cryptococcus gattii CA1873	1	1
+313550	pfam10341	1296117	Cryptococcus gattii VGII MMRL2647	1	1
+313550	pfam10341	1296119	Kwoniella heveanensis CBS 569	1	1
+313550	pfam10341	1296120	Kwoniella heveanensis BCC8398	1	1
+313550	pfam10341	1296123	Kwoniella mangroviensis CBS 8886	1	1
+313550	pfam10341	1306850	Termitomyces sp. J132	1	1
+313550	pfam10341	1314776	Sistotremastrum suecicum HHB10207 ss-3	1	1
+313550	pfam10341	1314777	Sistotremastrum niveocremeum HHB9708	1	1
+313550	pfam10341	1314782	Neolentinus lepideus HHB14362 ss-1	1	1
+313550	pfam10341	1314785	Laetiporus sulphureus 93-53	1	1
+313550	pfam10341	1314800	Rhizopogon vinicolor AM-OR11-026	1	1
+313550	pfam10341	1325634	Candida albicans Ca529L	1	1
+313550	pfam10341	1331196	Kwoniella mangroviensis CBS 10435	1	1
+313550	pfam10341	1334442	Cryptococcus gattii VGII 2001/935-1	1	1
+313550	pfam10341	1336337	Choiromyces venosus 120613-1	1	1
+313550	pfam10341	1353009	Trametes coccinea BRFM310	1	1
+313550	pfam10341	1358809	Spraguea lophii 42_110	1	1
+313550	pfam10341	1359197	Rickettsia hoogstraalii str. RCCE3	1	1
+313550	pfam10341	1365886	Zygosaccharomyces parabailii	1	1
+313550	pfam10341	1381753	Moniliophthora roreri MCA 2997	1	1
+313550	pfam10341	1392242	Aspergillus flavus AF70	1	1
+313550	pfam10341	1420901	Pseudogymnoascus sp. VKM F-3775	1	1
+313550	pfam10341	1420902	Pseudogymnoascus sp. VKM F-4246	1	1
+313550	pfam10341	1420906	Pseudogymnoascus sp. VKM F-4281 (FW-2241)	1	1
+313550	pfam10341	1420907	Pseudogymnoascus sp. VKM F-4513 (FW-928)	1	1
+313550	pfam10341	1420909	Pseudogymnoascus sp. VKM F-4515 (FW-2607)	1	1
+313550	pfam10341	1420910	Pseudogymnoascus sp. VKM F-4516 (FW-969)	1	1
+313550	pfam10341	1420911	Pseudogymnoascus sp. VKM F-4517 (FW-2822)	1	1
+313550	pfam10341	1420915	Pseudogymnoascus sp. VKM F-4520 (FW-2644)	1	1
+313550	pfam10341	1423351	Rhizoctonia solani 123E	1	1
+313550	pfam10341	1427455	Kluyveromyces dobzhanskii CBS 2104	1	1
+313550	pfam10341	1432141	Rhizophagus irregularis DAOM 197198w	1	1
+313550	pfam10341	1437433	Pseudogymnoascus sp. VKM F-3557	1	1
+313550	pfam10341	1447872	Emergomyces pasteurianus Ep9510	1	1
+313550	pfam10341	1447875	Helicocarpus griseus UAMH5409	1	1
+313550	pfam10341	1447883	Polytolypa hystricis UAMH7299	1	1
+313550	pfam10341	1448319	Aspergillus fijiensis CBS 313.89	1	1
+313550	pfam10341	1485229	Cadophora sp. DSE1049	1	1
+313550	pfam10341	1524831	Pseudogymnoascus sp. 23342-1-I1	1	1
+313550	pfam10341	1622147	Pseudogymnoascus sp. WSF 3629	1	1
+313550	pfam10341	1622148	Pseudogymnoascus sp. 03VT05	1	1
+313550	pfam10341	1622149	Pseudogymnoascus sp. 05NY08	1	1
+313550	pfam10341	1622150	Pseudogymnoascus sp. 24MN13	1	1
+313550	pfam10341	1654605	Lachancea quebecensis	1	1
+313550	pfam10341	1658172	Emmonsia sp. CAC-2015a	1	1
+313550	pfam10341	1658174	Blastomyces percursus	1	1
+313550	pfam10341	1754191	Piromyces finnis	1	1
+313550	pfam10341	1789683	Kazachstania saulgeensis	1	1
+313550	pfam10341	1803374	Rhizophagus sp. MUCL 43196	1	1
+313550	pfam10341	1841481	Seriola lalandi dorsalis	1	1
+313550	pfam10341	1868482	Carlito syrichta	1	1
+313550	pfam10341	1882483	Testicularia cyperi	1	1
+313550	pfam10341	1906665	archaeon	1	1
+313550	pfam10341	1908540	Treponema sp. CETP13	1	1
+313550	pfam10341	1909294	Rhizobiales bacterium	1	1
+313550	pfam10341	1938954	Bifiguratus adelaidae	1	1
+313550	pfam10341	1960876	Phialosimplex sp. HF37	1	1
+313550	pfam10341	1963269	Diversispora versiformis	1	1
+313550	pfam10341	2028339	Spathaspora sp. JA1	1	1
+313550	pfam10341	2028340	Meyerozyma sp. JA9	1	1
+313550	pfam10341	2060905	Blastomyces parvus	1	1

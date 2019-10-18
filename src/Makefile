@@ -8,7 +8,7 @@ VPATH=data
 
 all: taxidlineage.dmp
 	for f in data/*.tsv; do \
-		echo "./notebook.py $$f > `basename -s .tsv $$f`.out"; \
+		./notebook.py $$f > `basename -s .tsv $$f`.out; \
 	done
 
 

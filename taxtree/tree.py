@@ -4,9 +4,10 @@ from .node import Node
 
 
 class Tree:
-    def __init__(self, root, catalog):
+    def __init__(self, root, catalog, w):
         self.root = root
         self.catalog = catalog
+        self.initialWeight = w
 
     def search(self, taxid):
         if taxid not in self.catalog:
@@ -19,7 +20,7 @@ class Tree:
         self.catalog.pop(node.taxid, None)
         print("node {} removed from the tree".format(node.taxid))
 
-    def trim(self, node):
+    def trim(self, node=None):
         if self is None or self.root is None:
             raise ValueError("the tree is empty")
         if self.root.isLeafNode():
@@ -33,10 +34,13 @@ class Tree:
                 p = p.childNodes[0]
 
             id_ws = [(c.taxid, c.weight) for c in p.childNodes]
-            min_id = sorted(id_ws, key=lambda t: t[1])[0]
-            nd = p.removeChildNode(self.catalog[min_id])
+            min_nd = (sorted(id_ws, key=lambda t: t[1]))[0]
+            print("node {} and its sub-nodes are to be removed ...\n".format(min_nd[0], min_nd[1]))
+            nd = p.removeChildNode(self.catalog[min_nd[0]])
 
-            nd.walk(lambda ch: self.sayGoodbye(ch))
+            nd.walk(lambda ch, d, i: self.sayGoodbye(ch))
+            print("\nthe total weight is reduced by {}".format(min_nd[1]))
+            print("the percentage is {0:.2f}% now\n".format((self.root.weight / self.initialWeight) * 100))
             return nd
         else:
             if self.catalog.get(node.taxid) is None:
@@ -51,6 +55,22 @@ class Tree:
                 else:
                     node.walk(lambda ch, d, i: self.sayGoodbye(ch))
                     return node.parentNode.removeChildNode(node)
+
+    def lowestCommonNode(self):
+        p = self.root
+        while len(p.childNodes) == 1:
+            p = p.childNodes[0]
+
+        return p
+
+    def possibleOutlier(self):
+        p = self.lowestCommonNode()
+        if p.isLeafNode():
+            return None
+
+        cns = sorted(p.childNodes, key=lambda nd : nd.weight)
+        return cns[0]
+
 
     def __str__(self):
         lines = []
@@ -130,4 +150,4 @@ def createTree(arr):
             iter = catalog[bucket[0]]
             iter.updateWeight(leaf.weight)
 
-    return Tree(root, catalog)
+    return Tree(root, catalog, root.weight)

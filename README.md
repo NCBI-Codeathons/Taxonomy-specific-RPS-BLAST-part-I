@@ -21,7 +21,7 @@ A table generate by [sql querry](https://github.com/NCBI-Codeathons/Taxonomy-spe
 
 
 ### Output: 
-[A taxonomy tree with the lowest common taxid for the domain](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/results/pfam10339_95.txt)
+[A taxonomy tree with the lowest common taxid with the threshold for the domain](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/results/pfam10339_95.txt)
 
 ## Validation:
 PSSM-Id: 129695,200311,334026,334050,337780,335786,274086,308214,315456,338615,287328,313550,313551,274263

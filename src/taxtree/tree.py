@@ -76,7 +76,7 @@ class Tree:
         score = 1
         nd = self.possibleOutlier()
         ds = nd.weight / self.initialWeight
-        while score - ds > cutoff:
+        while score - ds >= cutoff:
             self.trim(nd)
             score = score - ds
             nd = self.possibleOutlier()

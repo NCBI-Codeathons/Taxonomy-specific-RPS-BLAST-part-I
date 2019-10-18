@@ -34,6 +34,11 @@ anaconda_ete:
 	PATH=${PWD}/$@/bin:${PATH} conda install -c etetoolkit ete3 ete_toolchain python=2.7
 	PATH=${PWD}/$@/bin:${PATH} ete3 build check
 
+##################################
+check_biopython: ${VENV}
+	source ${VENV}/bin/activate && ./check_biopython.py 9606 10090 2 2789
+##################################
+
 #check_python: ${VENV}
 #	source ${VENV}/bin/activate && \
 #	for f in $(wildcard *.py); do python -m py_compile $$f ; done && \
@@ -42,10 +47,10 @@ anaconda_ete:
 #	#time -p python3 -m doctest map.py
 #	#time -p py.test *.py
 #	#time -p py.test tests
-#
-#${VENV}: requirements.txt
-#	[ -d ${VENV} ] || virtualenv -p python3 $@
-#	source ${VENV}/bin/activate && pip install -r $^
+
+${VENV}: requirements.txt
+	[ -d ${VENV} ] || virtualenv -p python3 $@
+	source ${VENV}/bin/activate && pip install -r $^
 
 #PYTHON_MODULE_VERSION=$(shell grep version setup.py | cut -d= -f 2 | tr -d \'  | tr -d , )
 #dist/${MODULE_NAME}-${PYTHON_MODULE_VERSION}.tar.gz:

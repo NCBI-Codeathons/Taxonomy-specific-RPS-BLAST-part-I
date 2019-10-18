@@ -4,11 +4,19 @@
 
 SHELL=/bin/bash
 .PHONY: all clean distclean check
+VPATH=data
 
-all:
-	echo all
+taxidlineage.dmp:
+	wget -O data/$@ ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
+
+all: taxidlineage.dmp
+	for f in data/*.tsv data/*.txt; do \
+		./notebook.py $$f > `basename $$f | sed 's/\.*//'`.out;
+	done
 
 check:
+
+
 
 #########################################################################
 # Python support

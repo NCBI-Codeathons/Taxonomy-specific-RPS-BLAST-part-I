@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 """
 notebook.py - See DESC constant below
 
@@ -7,7 +7,7 @@ Created: Thu Oct 17 14:51:30 2019
 import argparse
 import unittest
 import logging
-from ete3 import Tree, NCBITaxa, PhyloTree, TreeStyle, TextFace
+from taxtree.tree import Tree, createTree
 
 VERSION = '0.1'
 DFLT_LOGFILE = 'notebook.log'
@@ -70,6 +70,16 @@ def main():
     args = parser.parse_args()
     config_logging(args)
 
+    tax_lineage = load_taxonomy_lineage()
+    tuples = get_lineages_for_model_components(args.model_component_data, tax_lineage)
+
+    tree = createTree(tuples)
+
+    print(tree)
+    print("lowest common node:")
+    print(tree.lowestCommonNode())
+    print("possible outlier:")
+    print(tree.possibleOutlier())
 
 
     return 0

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-notebook.py - See DESC constant below
+dtrt.py - See DESC constant below
 
 Created: Thu Oct 17 14:51:30 2019
 """
@@ -12,9 +12,7 @@ from taxtree.tree import Tree, createTree
 
 VERSION = '0.1'
 DFLT_LOGFILE = 'notebook.log'
-DESC = r"""\
-DESCRIPTION GOES HERE
-"""
+DESC = r"""Domain-to-Taxonomy Research Tool"""
 
 
 class Tester(unittest.TestCase):

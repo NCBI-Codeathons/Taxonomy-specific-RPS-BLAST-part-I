@@ -2,7 +2,7 @@
 
 
 ## Requirements
-* MacOS
+* MacOS, Linux
 * make
 * python3
 
@@ -22,10 +22,10 @@ To run the test script, one must enable the virtual environment:
 2. Enable the virtual environment: `source .env/bin/activate`. This is done
    once per session
 3. Run the script 
-   `./notebook.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1>0]`
+   `./dtrt.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1> ]`
 
 
-## notebook.py options
+## dtrt.py options
 
 * `-threshold`: Threshold to report taxonomy node.
     Default value: 0.95

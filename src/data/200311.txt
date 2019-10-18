@@ -1,0 +1,1987 @@
+domgi	accession	taxid	taxOrg	nPig	nGi
+200311	TIGR03687	1883	Streptomyces	131	605
+200311	TIGR03687	1883427	Actinobacteria bacterium	41	49
+200311	TIGR03687	1762	Mycobacteriaceae	28	935
+200311	TIGR03687	2053607	Candidatus Rokubacteria bacterium	28	44
+200311	TIGR03687	1763	Mycobacterium	26	229
+200311	TIGR03687	1773	Mycobacterium tuberculosis	24	40
+200311	TIGR03687	1716	Corynebacterium	23	178
+200311	TIGR03687	1663	Arthrobacter	20	60
+200311	TIGR03687	1827	Rhodococcus	18	259
+200311	TIGR03687	216816	Bifidobacterium longum	16	291
+200311	TIGR03687	1654	Actinomyces	16	106
+200311	TIGR03687	544580	Actinomyces oris	13	28
+200311	TIGR03687	1873	Micromonospora	12	92
+200311	TIGR03687	2026887	Nitrospirae bacterium	12	12
+200311	TIGR03687	1685	Bifidobacterium breve	11	85
+200311	TIGR03687	1760	Actinobacteria	11	82
+200311	TIGR03687	1655	Actinomyces naeslundii	11	38
+200311	TIGR03687	1839	Nocardioides	11	26
+200311	TIGR03687	1268	Micrococcaceae	10	51
+200311	TIGR03687	1817	Nocardia	9	39
+200311	TIGR03687	1854	Frankia	9	38
+200311	TIGR03687	1684	Bifidobacterium asteroides	9	18
+200311	TIGR03687	351187	Salinispora pacifica	8	8
+200311	TIGR03687	2026781	Candidatus Poribacteria bacterium	8	8
+200311	TIGR03687	1717	Corynebacterium diphtheriae	7	240
+200311	TIGR03687	1719	Corynebacterium pseudotuberculosis	7	102
+200311	TIGR03687	1270	Micrococcus luteus	7	17
+200311	TIGR03687	1694	Bifidobacterium pseudolongum	6	73
+200311	TIGR03687	2062	Streptomycetaceae	6	73
+200311	TIGR03687	1696	Brevibacterium	6	43
+200311	TIGR03687	32207	Rothia	5	61
+200311	TIGR03687	1681	Bifidobacterium bifidum	5	32
+200311	TIGR03687	57493	Kocuria	5	25
+200311	TIGR03687	2053	Gordonia	5	22
+200311	TIGR03687	1678	Bifidobacterium	5	18
+200311	TIGR03687	2051	Mobiluncus curtisii	5	16
+200311	TIGR03687	1988	Actinomadura	5	12
+200311	TIGR03687	419015	Alloscardovia omnicolens	5	7
+200311	TIGR03687	1978231	Acidobacteria bacterium	5	7
+200311	TIGR03687	70125	Nitrospira sp.	5	5
+200311	TIGR03687	2201155	Pseudonocardiales bacterium	5	5
+200311	TIGR03687	28026	Bifidobacterium pseudocatenulatum	4	64
+200311	TIGR03687	1813	Amycolatopsis	4	34
+200311	TIGR03687	65058	Corynebacterium ulcerans	4	33
+200311	TIGR03687	1269	Micrococcus	4	21
+200311	TIGR03687	37914	Dietzia	4	14
+200311	TIGR03687	38289	Corynebacterium jeikeium	4	12
+200311	TIGR03687	52770	Actinomyces hordeovulneris	4	10
+200311	TIGR03687	72000	Kocuria rhizophila	4	9
+200311	TIGR03687	208480	Actinomyces nasicola	4	8
+200311	TIGR03687	1274	Dermacoccus nishinomiyaensis	4	7
+200311	TIGR03687	2026735	Deltaproteobacteria bacterium	4	5
+200311	TIGR03687	2201156	Acidimicrobiales bacterium	4	4
+200311	TIGR03687	83332	Mycobacterium tuberculosis H37Rv	3	4478
+200311	TIGR03687	36809	Mycobacteroides abscessus	3	889
+200311	TIGR03687	28025	Bifidobacterium animalis	3	74
+200311	TIGR03687	28056	Micromonosporaceae	3	19
+200311	TIGR03687	1778	Mycobacterium gordonae	3	14
+200311	TIGR03687	1835	Saccharopolyspora	3	14
+200311	TIGR03687	1275	Kocuria rosea	3	10
+200311	TIGR03687	83681	Nonomuraea	3	10
+200311	TIGR03687	1660	Schaalia odontolytica	3	9
+200311	TIGR03687	1707	Cellulomonas	3	8
+200311	TIGR03687	2000	Streptosporangium	3	8
+200311	TIGR03687	36814	Mycolicibacterium rhodesiae	3	8
+200311	TIGR03687	1725	Corynebacterium xerosis	3	7
+200311	TIGR03687	1888	Streptomyces albus	3	6
+200311	TIGR03687	2047	Rothia dentocariosa	3	6
+200311	TIGR03687	193462	Streptomyces niveus	3	6
+200311	TIGR03687	1718	Corynebacterium glutamicum	3	5
+200311	TIGR03687	37923	Rothia kristinae	3	5
+200311	TIGR03687	42234	Streptomyces acidiscabies	3	5
+200311	TIGR03687	108486	Corynebacterium falsenii	3	5
+200311	TIGR03687	139208	Isoptericola variabilis	3	5
+200311	TIGR03687	2013	Nocardiopsis	3	4
+200311	TIGR03687	418495	Saccharopolyspora shandongensis	3	4
+200311	TIGR03687	249581	Streptomyces ossamyceticus	3	3
+200311	TIGR03687	2026762	Micrococcales bacterium	3	3
+200311	TIGR03687	120793	Mycobacterium avium complex (MAC)	2	101
+200311	TIGR03687	1680	Bifidobacterium adolescentis	2	51
+200311	TIGR03687	85007	Corynebacteriales	2	40
+200311	TIGR03687	1653	Corynebacteriaceae	2	28
+200311	TIGR03687	36808	Corynebacterium bovis	2	22
+200311	TIGR03687	1847	Pseudonocardia	2	19
+200311	TIGR03687	182639	Kribbella	2	18
+200311	TIGR03687	1768	Mycobacterium kansasii	2	10
+200311	TIGR03687	1836	Saccharopolyspora erythraea	2	10
+200311	TIGR03687	2052	Mobiluncus mulieris	2	10
+200311	TIGR03687	185283	unclassified Propionibacteriaceae	2	10
+200311	TIGR03687	2040	Aeromicrobium	2	9
+200311	TIGR03687	96242	Nitrospira cf. moscoviensis SBR1015	2	9
+200311	TIGR03687	2	Bacteria	2	8
+200311	TIGR03687	1849	Actinopolyspora	2	8
+200311	TIGR03687	1860	Geodermatophilus	2	8
+200311	TIGR03687	31958	Amycolatopsis orientalis	2	8
+200311	TIGR03687	57704	Tsukamurella tyrosinosolvens	2	8
+200311	TIGR03687	157920	Cellulosimicrobium	2	7
+200311	TIGR03687	161879	Corynebacterium kroppenstedtii	2	7
+200311	TIGR03687	2026255	Corynebacterium hadale	2	7
+200311	TIGR03687	1658	Actinomyces bovis	2	6
+200311	TIGR03687	1724	Corynebacterium renale	2	6
+200311	TIGR03687	1912	Streptomyces hygroscopicus	2	6
+200311	TIGR03687	38301	Corynebacterium minutissimum	2	6
+200311	TIGR03687	43668	Brachybacterium	2	6
+200311	TIGR03687	78258	Parascardovia denticolens	2	6
+200311	TIGR03687	1689	Bifidobacterium dentium	2	5
+200311	TIGR03687	2061	Tsukamurella paurometabola	2	5
+200311	TIGR03687	2074	Pseudonocardia autotrophica	2	5
+200311	TIGR03687	37928	Arthrobacter crystallopoietes	2	5
+200311	TIGR03687	43768	Corynebacterium matruchotii	2	5
+200311	TIGR03687	60894	Saccharopolyspora spinosa	2	5
+200311	TIGR03687	65496	Actinoalloteichus	2	5
+200311	TIGR03687	85043	Williamsia	2	5
+200311	TIGR03687	256701	Glutamicibacter arilaitensis	2	5
+200311	TIGR03687	361575	Pseudarthrobacter phenanthrenivorans	2	5
+200311	TIGR03687	656366	Arthrobacter alpinus	2	5
+200311	TIGR03687	706438	Actinomyces sp. oral taxon 171	2	5
+200311	TIGR03687	762209	Bifidobacterium callitrichos	2	5
+200311	TIGR03687	1160091	Alloscardovia macacae	2	5
+200311	TIGR03687	1727	Corynebacterium variabile	2	4
+200311	TIGR03687	1781	Mycobacterium marinum	2	4
+200311	TIGR03687	1783	Mycobacterium scrofulaceum	2	4
+200311	TIGR03687	1790	Mycobacterium asiaticum	2	4
+200311	TIGR03687	1797	Mycolicibacterium thermoresistibile	2	4
+200311	TIGR03687	1861	Geodermatophilus obscurus	2	4
+200311	TIGR03687	1863	Dermatophilus congolensis	2	4
+200311	TIGR03687	28042	Saccharopolyspora rectivirgula	2	4
+200311	TIGR03687	37921	Arthrobacter agilis	2	4
+200311	TIGR03687	40988	Saccharomonospora azurea	2	4
+200311	TIGR03687	52771	Actinomyces howellii	2	4
+200311	TIGR03687	52774	Actinomyces slackii	2	4
+200311	TIGR03687	55565	Actinomyces graevenitzii	2	4
+200311	TIGR03687	78344	Bifidobacterium gallinarum	2	4
+200311	TIGR03687	85336	Rothia nasimurium	2	4
+200311	TIGR03687	100225	Austwickia chelonae	2	4
+200311	TIGR03687	131109	Actinomyces bowdenii	2	4
+200311	TIGR03687	138336	Blastococcus saxobsidens	2	4
+200311	TIGR03687	158787	Bifidobacterium scardovii	2	4
+200311	TIGR03687	159449	Streptomyces scabrisporus	2	4
+200311	TIGR03687	168697	Salinispora arenicola	2	4
+200311	TIGR03687	202789	Actinobaculum massiliense	2	4
+200311	TIGR03687	234835	Brevibacterium antiquum	2	4
+200311	TIGR03687	300028	Rhodococcus triatomae	2	4
+200311	TIGR03687	332524	Actinomyces ruminicola	2	4
+200311	TIGR03687	409290	Arthrobacter oryzae	2	4
+200311	TIGR03687	461393	Actinomyces massiliensis	2	4
+200311	TIGR03687	722731	Mycobacterium shigaense	2	4
+200311	TIGR03687	857417	Janibacter indicus	2	4
+200311	TIGR03687	995062	Actinopolyspora saharensis	2	4
+200311	TIGR03687	1282737	Flaviflexus salsibiostraticola	2	4
+200311	TIGR03687	1528099	Lawsonella clevelandensis	2	4
+200311	TIGR03687	1581133	Actinomyces sp. HMSC08A09	2	4
+200311	TIGR03687	1690221	Streptomyces spongiicola	2	4
+200311	TIGR03687	1987376	Pseudonocardia sp. N23	2	4
+200311	TIGR03687	2496867	Flaviflexus sp. H23T48	2	4
+200311	TIGR03687	2530387	Saccharopolyspora sp. 7K502	2	4
+200311	TIGR03687	813	Chlamydia trachomatis	2	3
+200311	TIGR03687	1661	Trueperella pyogenes	2	3
+200311	TIGR03687	1791	Mycolicibacterium aurum	2	3
+200311	TIGR03687	1893	Streptomyces atratus	2	3
+200311	TIGR03687	1911	Streptomyces griseus	2	3
+200311	TIGR03687	38305	Corynebacterium vitaeruminis	2	3
+200311	TIGR03687	47716	Streptomyces olivaceus	2	3
+200311	TIGR03687	53458	Janibacter limosus	2	3
+200311	TIGR03687	60920	Sanguibacter keddieii	2	3
+200311	TIGR03687	88382	Promicromonospora sukumoe	2	3
+200311	TIGR03687	136273	Kocuria polaris	2	3
+200311	TIGR03687	161890	Corynebacterium mastitidis	2	3
+200311	TIGR03687	164348	Streptomyces puniciscabiei	2	3
+200311	TIGR03687	186189	Xylanimonas cellulosilytica	2	3
+200311	TIGR03687	223184	Kocuria marina	2	3
+200311	TIGR03687	225326	Corynebacterium halotolerans	2	3
+200311	TIGR03687	262209	Janibacter melonis	2	3
+200311	TIGR03687	290399	Arthrobacter sp. FB24	2	3
+200311	TIGR03687	370736	Zhihengliuella halotolerans	2	3
+200311	TIGR03687	384677	Ornithinimicrobium pekingense	2	3
+200311	TIGR03687	544581	Actinomyces johnsonii	2	3
+200311	TIGR03687	656024	Frankia symbiont of Datisca glomerata	2	3
+200311	TIGR03687	758802	Mycolicibacterium litorale	2	3
+200311	TIGR03687	1161409	Bifidobacterium sp. MSTE12	2	3
+200311	TIGR03687	1231000	Corynebacterium lactis	2	3
+200311	TIGR03687	1348852	Mumia flava	2	3
+200311	TIGR03687	1588020	Arthrobacter sp. Hiyo1	2	3
+200311	TIGR03687	2044937	candidate division KSB3 bacterium	2	3
+200311	TIGR03687	1659	Actinomyces israelii	2	2
+200311	TIGR03687	1785	Mycobacterium sp.	2	2
+200311	TIGR03687	1850	Actinopolyspora halophila	2	2
+200311	TIGR03687	1905	Streptomyces exfoliatus	2	2
+200311	TIGR03687	2065	Kitasatospora phosalacinea	2	2
+200311	TIGR03687	28443	Herbidospora	2	2
+200311	TIGR03687	29317	Actinomyces sp.	2	2
+200311	TIGR03687	43669	Brachybacterium faecium	2	2
+200311	TIGR03687	52769	Actinomyces gerencseriae	2	2
+200311	TIGR03687	198730	Talaromyces verruculosus	2	2
+200311	TIGR03687	285351	Sanguibacter marinus	2	2
+200311	TIGR03687	319054	Janibacter anophelis	2	2
+200311	TIGR03687	356829	Bifidobacterium tsurumiense	2	2
+200311	TIGR03687	645465	Streptomyces sp. e14	2	2
+200311	TIGR03687	696763	Thermasporomyces composti	2	2
+200311	TIGR03687	1185650	Mycobacteroides abscessus subsp. abscessus	2	2
+200311	TIGR03687	1463884	Streptomyces sp. NRRL S-146	2	2
+200311	TIGR03687	1500506	Halopolyspora algeriensis	2	2
+200311	TIGR03687	1736486	Kitasatospora sp. Root187	2	2
+200311	TIGR03687	1761903	Streptomyces sp. cf124	2	2
+200311	TIGR03687	1801659	candidate division NC10 bacterium RIFCSPLOWO2_12_FULL_66_18	2	2
+200311	TIGR03687	1805366	Candidatus Rokubacteria bacterium 13_1_40CM_68_15	2	2
+200311	TIGR03687	1827605	Streptomyces sp. 69	2	2
+200311	TIGR03687	1838281	Streptomyces sp. SolWspMP-5a-2	2	2
+200311	TIGR03687	1839783	Streptomyces sp. DI166	2	2
+200311	TIGR03687	1855349	Streptomyces sp. Ag109_O5-10	2	2
+200311	TIGR03687	1938851	Streptomyces sp. Ag109_O5-1	2	2
+200311	TIGR03687	2026763	Myxococcales bacterium	2	2
+200311	TIGR03687	2026769	Nitrospinae bacterium	2	2
+200311	TIGR03687	2057743	Actinomyces sp. 299	2	2
+200311	TIGR03687	2072014	Actinomyces sp. 553	2	2
+200311	TIGR03687	2358460	Nitrospirales bacterium	2	2
+200311	TIGR03687	2512153	Streptomyces sp. BK674	2	2
+200311	TIGR03687	2512155	Streptomyces sp. BK239	2	2
+200311	TIGR03687	2512167	Streptomyces sp. BK561	2	2
+200311	TIGR03687	702459	Bifidobacterium bifidum PRL2010	1	41
+200311	TIGR03687	196627	Corynebacterium glutamicum ATCC 13032	1	34
+200311	TIGR03687	348776	Mycobacterium tuberculosis C	1	30
+200311	TIGR03687	246196	Mycolicibacterium smegmatis MC2 155	1	25
+200311	TIGR03687	100226	Streptomyces coelicolor A3(2)	1	15
+200311	TIGR03687	272631	Mycobacterium leprae TN	1	11
+200311	TIGR03687	749927	Amycolatopsis mediterranei U32	1	11
+200311	TIGR03687	47845	Brachybacterium alimentarium	1	10
+200311	TIGR03687	1392000	Mycobacterium avium 10-5581	1	10
+200311	TIGR03687	1609135	Streptomyces sp. NRRL S-104	1	10
+200311	TIGR03687	33903	Streptomyces avermitilis	1	9
+200311	TIGR03687	37332	Nocardia seriolae	1	9
+200311	TIGR03687	1392002	Mycobacterium avium 05-4293	1	9
+200311	TIGR03687	1805374	Candidatus Rokubacteria bacterium 13_2_20CM_70_12	1	9
+200311	TIGR03687	948102	Mycobacteroides franklinii	1	8
+200311	TIGR03687	1463871	Streptomyces sp. NRRL F-5727	1	8
+200311	TIGR03687	1805369	Candidatus Rokubacteria bacterium 13_2_20CM_2_64_8	1	8
+200311	TIGR03687	36739	Dermabacter	1	7
+200311	TIGR03687	56689	Mycolicibacterium mucogenicum	1	7
+200311	TIGR03687	2070366	Salinispora sp. 13K206	1	7
+200311	TIGR03687	1657	Actinobaculum suis	1	6
+200311	TIGR03687	1705	Corynebacterium stationis	1	6
+200311	TIGR03687	1901	Streptomyces clavuligerus	1	6
+200311	TIGR03687	2021	Thermobifida fusca	1	6
+200311	TIGR03687	29311	Mycobacterium haemophilum	1	6
+200311	TIGR03687	47312	Tsukamurella pulmonis	1	6
+200311	TIGR03687	103621	Actinomyces urogenitalis	1	6
+200311	TIGR03687	178606	Leptospirillum ferriphilum	1	6
+200311	TIGR03687	285458	Streptomyces agglomeratus	1	6
+200311	TIGR03687	367298	Phycicoccus	1	6
+200311	TIGR03687	401473	Bifidobacterium dentium Bd1	1	6
+200311	TIGR03687	1001721	Mycobacteroides abscessus 3A-0119-R	1	6
+200311	TIGR03687	1571774	Streptomyces sp. RSD-27	1	6
+200311	TIGR03687	1618614	Candidatus Azambacteria bacterium GW2011_GWA2_45_90	1	6
+200311	TIGR03687	179	Leptospirillum	1	5
+200311	TIGR03687	1686	Bifidobacterium catenulatum	1	5
+200311	TIGR03687	2049	Actinomycetaceae	1	5
+200311	TIGR03687	2063	Kitasatospora	1	5
+200311	TIGR03687	35755	Corynebacterium kutscheri	1	5
+200311	TIGR03687	43769	Corynebacterium propinquum	1	5
+200311	TIGR03687	53355	Terrabacter	1	5
+200311	TIGR03687	58113	Glycomyces	1	5
+200311	TIGR03687	66430	Streptomyces roseus	1	5
+200311	TIGR03687	1069494	Trueperella	1	5
+200311	TIGR03687	1477506	Prauserella sp. YIM 121212	1	5
+200311	TIGR03687	1797304	Candidatus Azambacteria bacterium RIFCSPLOWO2_01_FULL_44_84	1	5
+200311	TIGR03687	1978765	Nitrospira sp. ST-bin5	1	5
+200311	TIGR03687	1697	Corynebacterium ammoniagenes	1	4
+200311	TIGR03687	1708	Cellulomonas fimi	1	4
+200311	TIGR03687	1713	Oerskovia turbata	1	4
+200311	TIGR03687	1801	Mycolicibacterium diernhoferi	1	4
+200311	TIGR03687	1809	Mycobacterium ulcerans	1	4
+200311	TIGR03687	1852	Saccharomonospora viridis	1	4
+200311	TIGR03687	1865	Actinoplanes	1	4
+200311	TIGR03687	2029	Kibdelosporangium	1	4
+200311	TIGR03687	2070	Pseudonocardiaceae	1	4
+200311	TIGR03687	28264	Arcanobacterium haemolyticum	1	4
+200311	TIGR03687	28445	Mycobacterium intermedium	1	4
+200311	TIGR03687	29313	Mycobacterium shimoidei	1	4
+200311	TIGR03687	33889	Brevibacterium casei	1	4
+200311	TIGR03687	38290	Corynebacterium macginleyi	1	4
+200311	TIGR03687	43674	Jonesia denitrificans	1	4
+200311	TIGR03687	46351	Mycolicibacterium hassiacum	1	4
+200311	TIGR03687	152794	Corynebacterium efficiens	1	4
+200311	TIGR03687	162491	Oerskovia	1	4
+200311	TIGR03687	184870	Varibaculum cambriense	1	4
+200311	TIGR03687	240840	Actinomadura meyerae	1	4
+200311	TIGR03687	398843	Rhodococcus kyotonensis	1	4
+200311	TIGR03687	446465	Brachybacterium faecium DSM 4810	1	4
+200311	TIGR03687	504798	Alloactinosynnema album	1	4
+200311	TIGR03687	530584	Prauserella marina	1	4
+200311	TIGR03687	672460	Branchiibius hedensis	1	4
+200311	TIGR03687	673534	Plantactinospora	1	4
+200311	TIGR03687	933944	Streptomyces abyssalis	1	4
+200311	TIGR03687	943815	Streptomyces shenzhenensis	1	4
+200311	TIGR03687	1469144	Streptomyces thermoautotrophicus	1	4
+200311	TIGR03687	1640509	Candidatus Rokubacteria bacterium CSP1-6	1	4
+200311	TIGR03687	1653174	Actinotignum	1	4
+200311	TIGR03687	1802107	Candidatus Rokubacteria bacterium RIFCSPLOWO2_02_FULL_73_56	1	4
+200311	TIGR03687	1802266	Candidatus Sungbacteria bacterium RIFCSPHIGHO2_01_FULL_51_22	1	4
+200311	TIGR03687	1805275	Nitrospirae bacterium 13_2_20CM_62_7	1	4
+200311	TIGR03687	1817752	Nitrospirae bacterium GWA2_42_11	1	4
+200311	TIGR03687	1827603	Streptomyces sp. 67	1	4
+200311	TIGR03687	1858794	Mycobacterium talmoniae	1	4
+200311	TIGR03687	1866885	Mycolicibacterium	1	4
+200311	TIGR03687	1931232	Marinateneraspora sediminis	1	4
+200311	TIGR03687	2020331	Streptomyces sp. TSRI0384-2	1	4
+200311	TIGR03687	2249310	Mycobacterium simiae complex	1	4
+200311	TIGR03687	1646	Renibacterium salmoninarum	1	3
+200311	TIGR03687	1656	Actinomyces viscosus	1	3
+200311	TIGR03687	1683	Bifidobacterium angulatum	1	3
+200311	TIGR03687	1710	Cellulosimicrobium cellulans	1	3
+200311	TIGR03687	1720	Corynebacterium sp.	1	3
+200311	TIGR03687	1780	Mycobacterium malmoense	1	3
+200311	TIGR03687	1810	Mycolicibacterium vaccae	1	3
+200311	TIGR03687	1877	Micromonospora echinospora	1	3
+200311	TIGR03687	1915	Streptomyces lincolnensis	1	3
+200311	TIGR03687	2020	Thermomonospora curvata	1	3
+200311	TIGR03687	2045	Pimelobacter simplex	1	3
+200311	TIGR03687	2054	Gordonia bronchialis	1	3
+200311	TIGR03687	2071	Saccharothrix	1	3
+200311	TIGR03687	28049	Acidothermus cellulolyticus	1	3
+200311	TIGR03687	29321	Corynebacterium otitidis	1	3
+200311	TIGR03687	33984	Luteococcus japonicus	1	3
+200311	TIGR03687	35757	Corynebacterium cystitidis	1	3
+200311	TIGR03687	35760	Bifidobacterium choerinum	1	3
+200311	TIGR03687	38501	Blastococcus	1	3
+200311	TIGR03687	39845	Actinokineospora	1	3
+200311	TIGR03687	40566	Actinosynnema	1	3
+200311	TIGR03687	43354	Prauserella rugosa	1	3
+200311	TIGR03687	47839	Mycobacterium triplex	1	3
+200311	TIGR03687	47865	Micromonospora inositola	1	3
+200311	TIGR03687	53358	Intrasporangium calvum	1	3
+200311	TIGR03687	54571	Streptomyces venezuelae	1	3
+200311	TIGR03687	55952	Streptomyces toyocaensis	1	3
+200311	TIGR03687	56425	Mycobacterium bohemicum	1	3
+200311	TIGR03687	75294	Saccharomonospora xinjiangensis	1	3
+200311	TIGR03687	76022	Amycolatopsis sulphurea	1	3
+200311	TIGR03687	78342	Bifidobacterium gallicum	1	3
+200311	TIGR03687	78345	Bifidobacterium merycicum	1	3
+200311	TIGR03687	85006	Micrococcales	1	3
+200311	TIGR03687	131568	Kineococcus radiotolerans	1	3
+200311	TIGR03687	139021	Dietzia psychralcaliphila	1	3
+200311	TIGR03687	155974	Actinokineospora terrae	1	3
+200311	TIGR03687	156978	Corynebacterium imitans	1	3
+200311	TIGR03687	156980	Arthrobacter woluwensis	1	3
+200311	TIGR03687	161896	Corynebacterium camporealensis	1	3
+200311	TIGR03687	165301	Lentzea	1	3
+200311	TIGR03687	169133	Citricoccus	1	3
+200311	TIGR03687	188626	Dermacoccus sp. Ellin185	1	3
+200311	TIGR03687	195964	Asanoa	1	3
+200311	TIGR03687	218140	Bifidobacterium psychraerophilum	1	3
+200311	TIGR03687	239498	Tsukamurella pseudospumae	1	3
+200311	TIGR03687	254250	Isoptericola	1	3
+200311	TIGR03687	281472	Jiangella	1	3
+200311	TIGR03687	291594	Micromonospora rifamycinica	1	3
+200311	TIGR03687	302449	Corynebacterium tuscaniense	1	3
+200311	TIGR03687	317664	Quadrisphaera granulorum	1	3
+200311	TIGR03687	339268	Mycobacterium colombiense	1	3
+200311	TIGR03687	364298	Janibacter hoylei	1	3
+200311	TIGR03687	410332	Gordonia malaquae	1	3
+200311	TIGR03687	455193	Saccharopolyspora antimicrobica	1	3
+200311	TIGR03687	455432	Nocardia terpenica	1	3
+200311	TIGR03687	457431	Streptomyces filamentosus NRRL 15998	1	3
+200311	TIGR03687	492776	Streptomyces sp. 1	1	3
+200311	TIGR03687	518643	Bifidobacterium mongoliense	1	3
+200311	TIGR03687	531939	Lechevalieria deserti	1	3
+200311	TIGR03687	556288	Brachybacterium saurashtrense	1	3
+200311	TIGR03687	587909	Yuhushiella deserti	1	3
+200311	TIGR03687	598660	Corynebacterium pyruviciproducens	1	3
+200311	TIGR03687	638617	Bifidobacterium bohemicum	1	3
+200311	TIGR03687	649739	Actinomyces sp. oral taxon 848	1	3
+200311	TIGR03687	652017	Nesterenkonia sp. AN1	1	3
+200311	TIGR03687	683150	Arthrobacter nitrophenolicus	1	3
+200311	TIGR03687	703222	Kibdelosporangium sp. MJ126-NF4	1	3
+200311	TIGR03687	712888	Actinobaculum sp. oral taxon 183	1	3
+200311	TIGR03687	748909	Nocardioides alpinus	1	3
+200311	TIGR03687	860221	Georgenia satyanarayanai	1	3
+200311	TIGR03687	875328	Mycolicibacter sinensis	1	3
+200311	TIGR03687	912594	Mycolicibacterium iranicum	1	3
+200311	TIGR03687	987063	Pseudoscardovia suis	1	3
+200311	TIGR03687	993070	Arthrobacter enclensis	1	3
+200311	TIGR03687	993071	Arthrobacter sp. NIO-1057	1	3
+200311	TIGR03687	1091046	Mycobacteroides abscessus subsp. bolletii BD	1	3
+200311	TIGR03687	1144553	Nonomuraea solani	1	3
+200311	TIGR03687	1160973	Auritidibacter	1	3
+200311	TIGR03687	1286821	Streptomyces sp. WMMB 322	1	3
+200311	TIGR03687	1288036	Mycobacterium marinum MB2	1	3
+200311	TIGR03687	1300267	Streptomyces zhaozhouensis	1	3
+200311	TIGR03687	1389713	Mycobacterium paragordonae	1	3
+200311	TIGR03687	1415542	Saccharothrix sp. NRRL B-16348	1	3
+200311	TIGR03687	1437453	Streptomyces leeuwenhoekii	1	3
+200311	TIGR03687	1519489	Streptomyces sp. AS58	1	3
+200311	TIGR03687	1519495	Streptomyces sp. NRRL F-6491	1	3
+200311	TIGR03687	1546107	Streptomyces sp. NBRC 110027	1	3
+200311	TIGR03687	1618555	Candidatus Woesebacteria bacterium GW2011_GWA1_41_13b	1	3
+200311	TIGR03687	1630135	Dermabacter vaginalis	1	3
+200311	TIGR03687	1641401	Dermacoccus sp. PE3	1	3
+200311	TIGR03687	1655439	Jishengella sp. NA12	1	3
+200311	TIGR03687	1658518	Nitrospira sp. ND1	1	3
+200311	TIGR03687	1736379	Marmoricola sp. Leaf446	1	3
+200311	TIGR03687	1736459	Cellulomonas sp. Root137	1	3
+200311	TIGR03687	1797296	Candidatus Azambacteria bacterium RIFCSPHIGHO2_02_FULL_52_12	1	3
+200311	TIGR03687	1801717	Nitrospirae bacterium RIFCSPLOWO2_02_FULL_62_14	1	3
+200311	TIGR03687	1802095	Candidatus Rokubacteria bacterium GWA2_70_23	1	3
+200311	TIGR03687	1805270	Nitrospirae bacterium 13_1_40CM_62_7	1	3
+200311	TIGR03687	1805353	Candidatus Rokubacteria bacterium 13_1_40CM_2_68_13	1	3
+200311	TIGR03687	1805372	Candidatus Rokubacteria bacterium 13_2_20CM_69_15_1	1	3
+200311	TIGR03687	1836972	Frankia canadensis	1	3
+200311	TIGR03687	1881028	Nocardioides sp. YR527	1	3
+200311	TIGR03687	1892869	Actinomyces glycerinitolerans	1	3
+200311	TIGR03687	1909395	Nonomuraea sp. ATCC 55076	1	3
+200311	TIGR03687	1921764	Actinomyces liubingyangii	1	3
+200311	TIGR03687	1981511	Phytoactinopolyspora sp. YIM 96934	1	3
+200311	TIGR03687	1985129	Nitrospira sp. CG24E	1	3
+200311	TIGR03687	2029858	Kocuria sp. WRN011	1	3
+200311	TIGR03687	2035243	Streptomyces sp. 57	1	3
+200311	TIGR03687	2036823	Corynebacterium heidelbergense	1	3
+200311	TIGR03687	2055946	Kocuria tytonicola	1	3
+200311	TIGR03687	2070365	Sphaerisporangium sp. 7K107	1	3
+200311	TIGR03687	2079536	Actinomyces sp. Z16	1	3
+200311	TIGR03687	2079793	Aeromicrobium sp. 592	1	3
+200311	TIGR03687	2099583	Streptomyces sp. ICC1	1	3
+200311	TIGR03687	2126281	Mycolicibacillus	1	3
+200311	TIGR03687	2135609	Streptomyces sp. VMFN-G11Ma	1	3
+200311	TIGR03687	2135723	Promicromonospora sp. AC04	1	3
+200311	TIGR03687	2135747	Mycobacterium sp. YR782	1	3
+200311	TIGR03687	2170745	Auritidibacter sp. NML130574	1	3
+200311	TIGR03687	2171980	Actinobaculum	1	3
+200311	TIGR03687	2183996	Rhodococcus sp. AG1013	1	3
+200311	TIGR03687	2200763	Microbispora triticiradicis	1	3
+200311	TIGR03687	2259644	Streptomyces sp. YIM 130001	1	3
+200311	TIGR03687	11	Cellulomonas gilvus	1	2
+200311	TIGR03687	199	Campylobacter concisus	1	2
+200311	TIGR03687	1688	Bifidobacterium cuniculi	1	2
+200311	TIGR03687	1691	Bifidobacterium indicum	1	2
+200311	TIGR03687	1692	Bifidobacterium magnum	1	2
+200311	TIGR03687	1693	Bifidobacterium minimum	1	2
+200311	TIGR03687	1709	Cellulomonas biazotea	1	2
+200311	TIGR03687	1711	Cellulomonas flavigena	1	2
+200311	TIGR03687	1721	Corynebacterium callunae	1	2
+200311	TIGR03687	1766	Mycolicibacterium fortuitum	1	2
+200311	TIGR03687	1776	Mycolicibacterium flavescens	1	2
+200311	TIGR03687	1786	Mycolicibacterium sphagni	1	2
+200311	TIGR03687	1787	Mycobacterium szulgai	1	2
+200311	TIGR03687	1792	Mycolicibacterium chitae	1	2
+200311	TIGR03687	1798	Mycolicibacillus trivialis	1	2
+200311	TIGR03687	1823	Nocardia otitidiscaviarum	1	2
+200311	TIGR03687	1844	Nocardioides luteus	1	2
+200311	TIGR03687	1848	Pseudonocardia thermophila	1	2
+200311	TIGR03687	1866	Actinoplanes missouriensis	1	2
+200311	TIGR03687	1869	Actinoplanes utahensis	1	2
+200311	TIGR03687	1881	Micromonospora viridifaciens	1	2
+200311	TIGR03687	1894	Kitasatospora aureofaciens	1	2
+200311	TIGR03687	1907	Streptomyces glaucescens	1	2
+200311	TIGR03687	1927	Streptomyces rimosus	1	2
+200311	TIGR03687	1943	Streptomyces griseoruber	1	2
+200311	TIGR03687	1950	Streptomyces peucetius	1	2
+200311	TIGR03687	1971	Streptomyces noursei	1	2
+200311	TIGR03687	1992	Actinomadura echinospora	1	2
+200311	TIGR03687	1996	Microtetraspora glauca	1	2
+200311	TIGR03687	2006	Thermobispora bispora	1	2
+200311	TIGR03687	2017	Streptoalloteichus hindustanus	1	2
+200311	TIGR03687	2041	Aeromicrobium erythreum	1	2
+200311	TIGR03687	2066	Kitasatospora setae	1	2
+200311	TIGR03687	2072	Saccharothrix australiensis	1	2
+200311	TIGR03687	28028	Corynebacterium flavescens	1	2
+200311	TIGR03687	28047	Mycolicibacterium confluentis	1	2
+200311	TIGR03687	29303	Streptomyces cattleya	1	2
+200311	TIGR03687	29306	Streptomyces griseoluteus	1	2
+200311	TIGR03687	29314	Mycolicibacter hiberniae	1	2
+200311	TIGR03687	29405	Microlunatus phosphovorus	1	2
+200311	TIGR03687	31962	Actinomadura rifamycini	1	2
+200311	TIGR03687	33906	Actinopolyspora mortivallis	1	2
+200311	TIGR03687	35621	Streptomyces mobaraensis	1	2
+200311	TIGR03687	35622	Thermostaphylospora chromogena	1	2
+200311	TIGR03687	35752	Actinoplanes philippinensis	1	2
+200311	TIGR03687	35756	Corynebacterium pilosum	1	2
+200311	TIGR03687	37330	Nocardia nova	1	2
+200311	TIGR03687	37925	Thermocrispum agreste	1	2
+200311	TIGR03687	37927	Sinomonas atrocyanea	1	2
+200311	TIGR03687	38288	Corynebacterium genitalium	1	2
+200311	TIGR03687	38300	Streptomyces pristinaespiralis	1	2
+200311	TIGR03687	38302	Corynebacterium mycetoides	1	2
+200311	TIGR03687	38303	Corynebacterium pseudogenitalium	1	2
+200311	TIGR03687	38304	Corynebacterium tuberculostearicum	1	2
+200311	TIGR03687	38310	Rhodococcus coprophilus	1	2
+200311	TIGR03687	38312	Rhodococcus rhodnii	1	2
+200311	TIGR03687	38502	Blastococcus aggregatus	1	2
+200311	TIGR03687	39691	Mycolicibacterium moriokaense	1	2
+200311	TIGR03687	40318	Streptomyces nodosus	1	2
+200311	TIGR03687	40989	Saccharomonospora cyanea	1	2
+200311	TIGR03687	40990	Saccharomonospora glauca	1	2
+200311	TIGR03687	41950	Candidatus Microthrix parvicella	1	2
+200311	TIGR03687	42253	Nitrospira moscoviensis	1	2
+200311	TIGR03687	42817	Corynebacterium argentoratense	1	2
+200311	TIGR03687	43357	Kutzneria albida	1	2
+200311	TIGR03687	43663	Paenarthrobacter aurescens	1	2
+200311	TIGR03687	43670	Cellulomonas cellasea	1	2
+200311	TIGR03687	43770	Corynebacterium striatum	1	2
+200311	TIGR03687	44010	Mycobacterium conspicuum	1	2
+200311	TIGR03687	45398	Streptomyces griseoviridis	1	2
+200311	TIGR03687	45979	Nocardia pseudobrasiliensis	1	2
+200311	TIGR03687	46176	Nonomuraea polychroma	1	2
+200311	TIGR03687	47847	Brachybacterium nesterenkovii	1	2
+200311	TIGR03687	47866	Micromonospora inyonensis	1	2
+200311	TIGR03687	47871	Micromonospora peucetia	1	2
+200311	TIGR03687	51201	Streptomyces griseocarneus	1	2
+200311	TIGR03687	52695	Actinoplanes brasiliensis	1	2
+200311	TIGR03687	52697	Actinoplanes regularis	1	2
+200311	TIGR03687	53356	Terracoccus luteus	1	2
+200311	TIGR03687	53363	Brevibacterium mcbrellneri	1	2
+200311	TIGR03687	53366	Catellatospora citrea	1	2
+200311	TIGR03687	53367	Asanoa ferruginea	1	2
+200311	TIGR03687	53378	Mycobacterium paraffinicum	1	2
+200311	TIGR03687	53437	Nocardiopsis alba	1	2
+200311	TIGR03687	53461	Nakamurella multipartita	1	2
+200311	TIGR03687	53635	Acidimicrobium ferrooxidans	1	2
+200311	TIGR03687	56055	Bogoriella caseilytica	1	2
+200311	TIGR03687	58109	Actinocorallia herbida	1	2
+200311	TIGR03687	58117	Microbispora rosea	1	2
+200311	TIGR03687	58346	Streptomyces platensis	1	2
+200311	TIGR03687	59505	Actinotignum schaalii	1	2
+200311	TIGR03687	61592	Corynebacterium durum	1	2
+200311	TIGR03687	66228	Actinomyces europaeus	1	2
+200311	TIGR03687	66425	Streptomyces luteoverticillatus	1	2
+200311	TIGR03687	67365	Streptomyces sparsogenes	1	2
+200311	TIGR03687	67373	Streptomyces varsoviensis	1	2
+200311	TIGR03687	68170	Lechevalieria aerocolonigenes	1	2
+200311	TIGR03687	68192	Streptomyces cyaneogriseus	1	2
+200311	TIGR03687	68231	Streptomyces longwoodensis	1	2
+200311	TIGR03687	68242	Streptomyces natalensis	1	2
+200311	TIGR03687	68280	Streptomyces violaceusniger	1	2
+200311	TIGR03687	71999	Kocuria palustris	1	2
+200311	TIGR03687	73044	Streptomyces seoulensis	1	2
+200311	TIGR03687	75385	Micropruina glycogenica	1	2
+200311	TIGR03687	75922	Mycolicibacterium tusciae	1	2
+200311	TIGR03687	76728	Streptomyces vitaminophilus	1	2
+200311	TIGR03687	77635	Bifidobacterium subtile	1	2
+200311	TIGR03687	78343	Bifidobacterium boum	1	2
+200311	TIGR03687	78346	Bifidobacterium ruminantium	1	2
+200311	TIGR03687	83341	Gordonia rhizosphera	1	2
+200311	TIGR03687	83656	Streptomyces tsukubensis	1	2
+200311	TIGR03687	84724	Lentzea waywayandensis	1	2
+200311	TIGR03687	84725	Umezawaea tangerina	1	2
+200311	TIGR03687	84757	Beutenbergia cavernae	1	2
+200311	TIGR03687	89154	Corynebacterium terpenotabidum	1	2
+200311	TIGR03687	92442	Arthrobacter psychrolactophilus	1	2
+200311	TIGR03687	95161	Saccharopolyspora flava	1	2
+200311	TIGR03687	98671	Pseudoglutamicibacter albus	1	2
+200311	TIGR03687	99480	Tetrasphaera australiensis	1	2
+200311	TIGR03687	100469	Schaalia canis	1	2
+200311	TIGR03687	101689	Tetrasphaera elongata	1	2
+200311	TIGR03687	102897	Frankia sp. EUN1f	1	2
+200311	TIGR03687	103232	Streptomyces ipomoeae	1	2
+200311	TIGR03687	103731	Saccharothrix espanaensis	1	2
+200311	TIGR03687	111015	Actinomyces radicidentis	1	2
+200311	TIGR03687	111564	Kineosphaera limosa	1	2
+200311	TIGR03687	111806	Actinomadura umbrina	1	2
+200311	TIGR03687	113562	Actinoplanes derwentensis	1	2
+200311	TIGR03687	113567	Actinoplanes italicus	1	2
+200311	TIGR03687	114686	Streptomyces phaeoluteigriseus	1	2
+200311	TIGR03687	115433	Amycolatopsis sacchari	1	2
+200311	TIGR03687	117157	Actinopolymorpha singaporensis	1	2
+200311	TIGR03687	120377	Salana multivorans	1	2
+200311	TIGR03687	121039	Ferrimicrobium acidiphilum	1	2
+200311	TIGR03687	121616	Micromonospora matsumotoense	1	2
+200311	TIGR03687	126673	Mycolicibacterium doricum	1	2
+200311	TIGR03687	131111	Schaalia turicensis	1	2
+200311	TIGR03687	131112	Arcanobacterium phocae	1	2
+200311	TIGR03687	132919	Rhodococcus jostii	1	2
+200311	TIGR03687	134034	Corynebacterium freneyi	1	2
+200311	TIGR03687	134601	Mycolicibacterium goodii	1	2
+200311	TIGR03687	134849	Cryptosporangium aurantiacum	1	2
+200311	TIGR03687	135946	Actinoplanes awajinensis	1	2
+200311	TIGR03687	136100	Knoellia sinensis	1	2
+200311	TIGR03687	136857	Corynebacterium testudinoris	1	2
+200311	TIGR03687	144786	Thermobifida cellulosilytica	1	2
+200311	TIGR03687	146536	Streptomyces curacoi	1	2
+200311	TIGR03687	152142	Mycolicibacterium holsaticum	1	2
+200311	TIGR03687	154117	Georgenia muralis	1	2
+200311	TIGR03687	155976	Actinokineospora auranticolor	1	2
+200311	TIGR03687	156979	Pseudoglutamicibacter cumminsii	1	2
+200311	TIGR03687	161355	Planomonospora sphaerica	1	2
+200311	TIGR03687	161889	Corynebacterium lipophiloflavum	1	2
+200311	TIGR03687	161895	Corynebacterium phocae	1	2
+200311	TIGR03687	161899	Corynebacterium singulare	1	2
+200311	TIGR03687	163202	Corynebacterium appendicis	1	2
+200311	TIGR03687	163603	Actinomadura latina	1	2
+200311	TIGR03687	168276	Rhodococcus tukisamuensis	1	2
+200311	TIGR03687	168694	Salinispora	1	2
+200311	TIGR03687	169134	Citricoccus muralis	1	2
+200311	TIGR03687	169765	Mycobacterium lacus	1	2
+200311	TIGR03687	170994	Brevibacterium paucivorans	1	2
+200311	TIGR03687	173053	Tetrasphaera duodecadis	1	2
+200311	TIGR03687	181487	Schaalia cardiffensis	1	2
+200311	TIGR03687	182640	Kribbella flavida	1	2
+200311	TIGR03687	183556	Rhodococcus maanshanensis	1	2
+200311	TIGR03687	183763	Streptomonospora alba	1	2
+200311	TIGR03687	184882	Knoellia subterranea	1	2
+200311	TIGR03687	185642	Mycobacterium parmense	1	2
+200311	TIGR03687	185761	Corynebacterium spheniscorum	1	2
+200311	TIGR03687	187491	Corynebacterium glaucum	1	2
+200311	TIGR03687	190146	Actinotignum urinale	1	2
+200311	TIGR03687	190195	Kribbella antibiotica	1	2
+200311	TIGR03687	191493	Corynebacterium sphenisci	1	2
+200311	TIGR03687	191610	Corynebacterium atypicum	1	2
+200311	TIGR03687	199591	Brevibacterium luteolum	1	2
+200311	TIGR03687	200378	Lechevalieria fradiae	1	2
+200311	TIGR03687	203263	Corynebacterium aquilae	1	2
+200311	TIGR03687	208602	Nocardia puris	1	2
+200311	TIGR03687	209649	Ferrithrix thermotolerans	1	2
+200311	TIGR03687	211114	Allokutzneria albata	1	2
+200311	TIGR03687	219301	Brachybacterium muris	1	2
+200311	TIGR03687	219314	Aeromicrobium marinum	1	2
+200311	TIGR03687	220927	Mycobacterium saskatchewanense	1	2
+200311	TIGR03687	227316	Micromonospora eburnea	1	2
+200311	TIGR03687	228006	Nocardia tenerifensis	1	2
+200311	TIGR03687	228973	Xylanibacterium ulmi	1	2
+200311	TIGR03687	235985	Streptacidiphilus jiangxiensis	1	2
+200311	TIGR03687	235986	Streptomyces glauciniger	1	2
+200311	TIGR03687	240495	Pseudonocardia dioxanivorans	1	2
+200311	TIGR03687	252230	Nocardioides ganghwensis	1	2
+200311	TIGR03687	253184	Myceligenerans xiligouense	1	2
+200311	TIGR03687	254787	Paeniglutamicibacter gangotriensis	1	2
+200311	TIGR03687	257984	Glutamicibacter mysorens	1	2
+200311	TIGR03687	258224	Corynebacterium resistens	1	2
+200311	TIGR03687	260086	Pseudonocardia ammonioxydans	1	2
+200311	TIGR03687	260936	Rhodococcus sp. RD6.2	1	2
+200311	TIGR03687	261654	Micromonospora auratinigra	1	2
+200311	TIGR03687	262898	Micromonospora mirobrigensis	1	2
+200311	TIGR03687	263908	Gordonia effusa	1	2
+200311	TIGR03687	263909	Gordonia araii	1	2
+200311	TIGR03687	272918	Nesterenkonia sandarakina	1	2
+200311	TIGR03687	273676	Nocardioides oleivorans	1	2
+200311	TIGR03687	279262	Nocardia mexicana	1	2
+200311	TIGR03687	280236	Nocardiopsis gilva	1	2
+200311	TIGR03687	283811	Stackebrandtia nassauensis	1	2
+200311	TIGR03687	285473	Streptomyces rubrolavendulae	1	2
+200311	TIGR03687	285540	Streptomyces thermolilacinus	1	2
+200311	TIGR03687	285568	Streptomyces bungoensis	1	2
+200311	TIGR03687	285679	Micromonospora lupini	1	2
+200311	TIGR03687	286804	Segniliparus rugosus	1	2
+200311	TIGR03687	290292	Penicillium sp. 'occitanis'	1	2
+200311	TIGR03687	291045	Arthrobacter psychrochitiniphilus	1	2
+200311	TIGR03687	298654	Frankia inefficax	1	2
+200311	TIGR03687	299146	Micromonospora narathiwatensis	1	2
+200311	TIGR03687	299152	Micromonospora siamensis	1	2
+200311	TIGR03687	301388	Cellulomonas bogoriensis	1	2
+200311	TIGR03687	304895	Catenulispora acidiphila	1	2
+200311	TIGR03687	310779	Streptomyces yanglinensis	1	2
+200311	TIGR03687	310780	Streptomyces rubidus	1	2
+200311	TIGR03687	310781	Streptomyces guanduensis	1	2
+200311	TIGR03687	310782	Streptomyces paucisporeus	1	2
+200311	TIGR03687	312285	Trueperella bialowiezensis	1	2
+200311	TIGR03687	313589	Janibacter sp. HTCC2649	1	2
+200311	TIGR03687	316330	Microbispora sp. ATCC PTA-5024	1	2
+200311	TIGR03687	317018	Nesterenkonia jeotgali	1	2
+200311	TIGR03687	320799	Gordonia soli	1	2
+200311	TIGR03687	321318	Dietzia cinnamea	1	2
+200311	TIGR03687	322509	Dietzia kunjamensis	1	2
+200311	TIGR03687	330214	Nitrospira defluvii	1	2
+200311	TIGR03687	330834	Tetrasphaera jenkinsii	1	2
+200311	TIGR03687	333142	Klenkia brasiliensis	1	2
+200311	TIGR03687	340345	Actinoalloteichus hymeniacidonis	1	2
+200311	TIGR03687	345341	Kutzneria sp. 744	1	2
+200311	TIGR03687	349313	Krasilnikovia cinnamomea	1	2
+200311	TIGR03687	349751	Corynebacterium marinum	1	2
+200311	TIGR03687	352211	Streptomyces sp. AcH 505	1	2
+200311	TIGR03687	361854	Bifidobacterium parmae	1	2
+200311	TIGR03687	366584	Pseudonocardia oroxyli	1	2
+200311	TIGR03687	371608	Candidatus Streptomyces philanthi	1	2
+200311	TIGR03687	372484	Sanguibacter antarcticus	1	2
+200311	TIGR03687	380248	Streptomyces alni	1	2
+200311	TIGR03687	384602	Micrococcus flavus	1	2
+200311	TIGR03687	386913	Mycolicibacter senuensis	1	2
+200311	TIGR03687	394193	Amycolatopsis saalfeldensis	1	2
+200311	TIGR03687	396014	Brachybacterium phenoliresistens	1	2
+200311	TIGR03687	398694	Mycobacterium shinjukuense	1	2
+200311	TIGR03687	401472	Corynebacterium ureicelerivorans	1	2
+200311	TIGR03687	401976	Pseudonocardia endophytica	1	2
+200311	TIGR03687	402297	Nocardioides daphniae	1	2
+200311	TIGR03687	402596	Nocardioides exalbidus	1	2
+200311	TIGR03687	402600	Lechevalieria xinjiangensis	1	2
+200311	TIGR03687	402648	Streptomyces hainanensis	1	2
+200311	TIGR03687	403935	Streptomyces radiopugnans	1	2
+200311	TIGR03687	405436	Micromonospora pattaloongensis	1	2
+200311	TIGR03687	407159	Tetrasphaera remsis	1	2
+200311	TIGR03687	408015	Streptomyces xiamenensis	1	2
+200311	TIGR03687	412687	Intrasporangium oryzae	1	2
+200311	TIGR03687	417292	Streptomyces indicus	1	2
+200311	TIGR03687	419479	Jiangella alkaliphila	1	2
+200311	TIGR03687	419650	Calidifontibacter indicus	1	2
+200311	TIGR03687	429133	Modestobacter versicolor	1	2
+200311	TIGR03687	433330	Propioniciclava tarda	1	2
+200311	TIGR03687	439699	Pseudosporangium ferrugineum	1	2
+200311	TIGR03687	441500	Corynebacterium timonense	1	2
+200311	TIGR03687	442709	Sanguibacter soli	1	2
+200311	TIGR03687	442954	Knoellia aerolata	1	2
+200311	TIGR03687	444597	Mycolicibacterium insubricum	1	2
+200311	TIGR03687	446860	Kocuria flava	1	2
+200311	TIGR03687	450734	Nocardioides dokdonensis	1	2
+200311	TIGR03687	452529	Streptomyces scopuliridis	1	2
+200311	TIGR03687	453573	Actinomadura bangladeshensis	1	2
+200311	TIGR03687	459858	Mycobacterium noviomagense	1	2
+200311	TIGR03687	465543	Streptomyces sp. SPB074	1	2
+200311	TIGR03687	467091	Ilumatobacter fluminis	1	2
+200311	TIGR03687	477641	Modestobacter marinus	1	2
+200311	TIGR03687	480418	Mycobacterium lepromatosis	1	2
+200311	TIGR03687	483545	Thermobifida halotolerans	1	2
+200311	TIGR03687	486698	Mycobacterium riyadhense	1	2
+200311	TIGR03687	487514	Mycobacterium kyorinense	1	2
+200311	TIGR03687	490629	Amycolatopsis marina	1	2
+200311	TIGR03687	499555	Dietzia timorensis	1	2
+200311	TIGR03687	501010	Nocardiopsis sinuspersici	1	2
+200311	TIGR03687	502181	Actinophytocola oryzae	1	2
+200311	TIGR03687	504797	Actinopolymorpha cephalotaxi	1	2
+200311	TIGR03687	504800	Geodermatophilus ruber	1	2
+200311	TIGR03687	504805	Sinosporangium album	1	2
+200311	TIGR03687	509200	Sphaerisporangium album	1	2
+200311	TIGR03687	512350	Actinoplanes xinjiangensis	1	2
+200311	TIGR03687	512762	Kineococcus xinjiangensis	1	2
+200311	TIGR03687	519423	Ponticoccus gilvus	1	2
+200311	TIGR03687	526729	Krasilnikoviella flava	1	2
+200311	TIGR03687	531310	Marinactinospora thermotolerans	1	2
+200311	TIGR03687	537937	Bifidobacterium longum subsp. infantis CCUG 52486	1	2
+200311	TIGR03687	543527	Saccharothrix variisporea	1	2
+200311	TIGR03687	545619	Paraoerskovia marina	1	2
+200311	TIGR03687	546160	Dietzia lutea	1	2
+200311	TIGR03687	546871	Friedmanniella luteola	1	2
+200311	TIGR03687	546874	Friedmanniella sagamiharensis	1	2
+200311	TIGR03687	547334	Arthrobacter pityocampae	1	2
+200311	TIGR03687	548480	Bifidobacterium longum subsp. longum ATCC 55813	1	2
+200311	TIGR03687	548579	Isoptericola jiangsuensis	1	2
+200311	TIGR03687	552531	Bifidobacterium animalis subsp. lactis BB-12	1	2
+200311	TIGR03687	553510	Streptomyces gilvosporeus	1	2
+200311	TIGR03687	554083	Tersicoccus phoenicis	1	2
+200311	TIGR03687	556325	Neomicrococcus aestuarii	1	2
+200311	TIGR03687	556530	Serinibacter salmoneus	1	2
+200311	TIGR03687	559628	Kineococcus rhizosphaerae	1	2
+200311	TIGR03687	563922	Streptomyces sp. ICBB 8177	1	2
+200311	TIGR03687	564198	Mycolicibacterium bacteremicum	1	2
+200311	TIGR03687	564415	Herbidospora sakaeratensis	1	2
+200311	TIGR03687	565073	Streptomyces tateyamensis	1	2
+200311	TIGR03687	568860	Nonomuraea wenchangensis	1	2
+200311	TIGR03687	568872	Micromonospora rhizosphaerae	1	2
+200311	TIGR03687	571913	Luteipulveratus mongoliensis	1	2
+200311	TIGR03687	574650	Micrococcus terreus	1	2
+200311	TIGR03687	574651	Nocardioides terrae	1	2
+200311	TIGR03687	574700	Nocardioides caeni	1	2
+200311	TIGR03687	575200	Corynebacterium maris	1	2
+200311	TIGR03687	587636	Phycicoccus cremeus	1	2
+200311	TIGR03687	588067	Prauserella muralis	1	2
+200311	TIGR03687	589240	Micromonospora pisi	1	2
+200311	TIGR03687	589385	Amycolatopsis xylanica	1	2
+200311	TIGR03687	595468	Actinomyces hominis	1	2
+200311	TIGR03687	598644	Labedaea rhizosphaerae	1	2
+200311	TIGR03687	598650	Motilibacter peucedani	1	2
+200311	TIGR03687	598652	Motilibacter rhizosphaerae	1	2
+200311	TIGR03687	620910	Luteimicrobium subarcticum	1	2
+200311	TIGR03687	629680	Brevibacterium sandarakinum	1	2
+200311	TIGR03687	630129	Bifidobacterium catenulatum subsp. kashiwanohense	1	2
+200311	TIGR03687	630515	Microlunatus soli	1	2
+200311	TIGR03687	632569	Saccharomonospora marina	1	2
+200311	TIGR03687	633440	Nonomuraea jiangxiensis	1	2
+200311	TIGR03687	638953	Georgenia soli	1	2
+200311	TIGR03687	639313	Hoyosella subflava	1	2
+200311	TIGR03687	641025	Lentzea jiangxiensis	1	2
+200311	TIGR03687	642780	Marmoricola scoriae	1	2
+200311	TIGR03687	645275	Murinocardiopsis flavida	1	2
+200311	TIGR03687	648780	Haloactinopolyspora alba	1	2
+200311	TIGR03687	648782	Haloactinobacterium album	1	2
+200311	TIGR03687	649831	Actinoplanes sp. N902-109	1	2
+200311	TIGR03687	653385	Actinomyces sp. oral taxon 849	1	2
+200311	TIGR03687	661399	Streptomyces caeruleatus	1	2
+200311	TIGR03687	661483	Marmoricola ginsengisoli	1	2
+200311	TIGR03687	661485	Marmoricola pocheonensis	1	2
+200311	TIGR03687	663603	Actinomycetospora succinea	1	2
+200311	TIGR03687	663609	Actinomycetospora cinnamomea	1	2
+200311	TIGR03687	664784	Haloechinothrix alba	1	2
+200311	TIGR03687	670078	Arthrobacter livingstonensis	1	2
+200311	TIGR03687	673521	Blastococcus endophyticus	1	2
+200311	TIGR03687	675864	Auraticoccus monumenti	1	2
+200311	TIGR03687	683228	Micromonospora yangpuensis	1	2
+200311	TIGR03687	683260	Nonomuraea maritima	1	2
+200311	TIGR03687	683316	Frankia sp. EI5c	1	2
+200311	TIGR03687	705336	Actinomadura darangshiensis	1	2
+200311	TIGR03687	710111	Frankia sp. QA3	1	2
+200311	TIGR03687	712117	Actinomyces sp. oral taxon 170	1	2
+200311	TIGR03687	712122	Actinomyces sp. oral taxon 414	1	2
+200311	TIGR03687	715784	Nocardioides iriomotensis	1	2
+200311	TIGR03687	745366	Micromonospora humi	1	2
+200311	TIGR03687	746032	Mobilicoccus pelagius	1	2
+200311	TIGR03687	758803	Nocardiopsis flavescens	1	2
+200311	TIGR03687	762211	Bifidobacterium stellenboschense	1	2
+200311	TIGR03687	762212	Bifidobacterium biavatii	1	2
+200311	TIGR03687	763993	Pseudokineococcus lusitanus	1	2
+200311	TIGR03687	765201	Promicromonospora thailandica	1	2
+200311	TIGR03687	767452	Serinicoccus chungangensis	1	2
+200311	TIGR03687	861266	Pseudarthrobacter siccitolerans	1	2
+200311	TIGR03687	888019	Rothia aeria F0184	1	2
+200311	TIGR03687	910347	Streptomyces aidingensis	1	2
+200311	TIGR03687	913969	Knoellia flava	1	2
+200311	TIGR03687	934019	Streptomyces sp. SA15	1	2
+200311	TIGR03687	936548	Actinomyces sp. ICM47	1	2
+200311	TIGR03687	936549	Actinomyces sp. ICM54	1	2
+200311	TIGR03687	936756	Streptomyces kanasensis	1	2
+200311	TIGR03687	943816	Streptomyces qinglanensis	1	2
+200311	TIGR03687	946334	Actinoplanes sp. OR16	1	2
+200311	TIGR03687	983706	Bifidobacterium reuteri	1	2
+200311	TIGR03687	987066	Pseudoscardovia radai	1	2
+200311	TIGR03687	988821	Cellulomonas marina	1	2
+200311	TIGR03687	993414	Naumannella halotolerans	1	2
+200311	TIGR03687	995066	Actinopolyspora mzabensis	1	2
+200311	TIGR03687	1004901	Gordonia iterans	1	2
+200311	TIGR03687	1005944	Nocardioides szechwanensis	1	2
+200311	TIGR03687	1005945	Nocardioides psychrotolerans	1	2
+200311	TIGR03687	1027620	Nocardioides sp. LS1	1	2
+200311	TIGR03687	1036181	Friedmanniella flava	1	2
+200311	TIGR03687	1036182	Actinoplanes atraurantiacus	1	2
+200311	TIGR03687	1043493	Lysinimicrobium mangrovi	1	2
+200311	TIGR03687	1045773	Arthrobacter cupressi	1	2
+200311	TIGR03687	1045774	Nocardioides lianchengensis	1	2
+200311	TIGR03687	1045776	Kutzneria buriramensis	1	2
+200311	TIGR03687	1050174	Corynebacterium epidermidicanis	1	2
+200311	TIGR03687	1052260	Klenkia soli	1	2
+200311	TIGR03687	1070870	Geodermatophilus nigrescens	1	2
+200311	TIGR03687	1072256	Corynebacterium uterequi	1	2
+200311	TIGR03687	1073330	Streptomyces zinciresistens	1	2
+200311	TIGR03687	1075402	Streptomyces oceani	1	2
+200311	TIGR03687	1076443	Glycomyces artemisiae	1	2
+200311	TIGR03687	1078086	Streptomyces sp. HGB0020	1	2
+200311	TIGR03687	1078471	Serinicoccus profundi	1	2
+200311	TIGR03687	1090615	Nakamurella panacisegetis	1	2
+200311	TIGR03687	1108812	Mycolicibacter longobardus	1	2
+200311	TIGR03687	1109743	Streptomyces sp. SCSIO 03032	1	2
+200311	TIGR03687	1121358	Corynebacterium doosanense	1	2
+200311	TIGR03687	1136497	Brevibacterium siliguriense	1	2
+200311	TIGR03687	1136941	Gordonia phthalatica	1	2
+200311	TIGR03687	1137271	Saccharomonospora sp. CNQ490	1	2
+200311	TIGR03687	1137989	Geodermatophilus normandii	1	2
+200311	TIGR03687	1137993	Geodermatophilus africanus	1	2
+200311	TIGR03687	1137994	Geodermatophilus saharensis	1	2
+200311	TIGR03687	1138585	Sediminihabitans luteus	1	2
+200311	TIGR03687	1141874	Streptomyces hoynatensis	1	2
+200311	TIGR03687	1144618	Allonocardiopsis opalescens	1	2
+200311	TIGR03687	1150371	Streptomyces phytohabitans	1	2
+200311	TIGR03687	1157630	Streptomyces sp. LamerLS-316	1	2
+200311	TIGR03687	1168729	Nocardioides sp. HLT2-9	1	2
+200311	TIGR03687	1168730	Nocardioides glacieisoli	1	2
+200311	TIGR03687	1185415	Micromonospora wenchangensis	1	2
+200311	TIGR03687	1193682	Actinokineospora bangkokensis	1	2
+200311	TIGR03687	1196353	Streptomyces wuyuanensis	1	2
+200311	TIGR03687	1198245	Micromonospora avicenniae	1	2
+200311	TIGR03687	1206085	Jatrophihabitans endophyticus	1	2
+200311	TIGR03687	1213861	Actinocrispum wychmicini	1	2
+200311	TIGR03687	1219581	Actinomyces sp. S4-C9	1	2
+200311	TIGR03687	1223514	Corynebacterium humireducens	1	2
+200311	TIGR03687	1225127	Klenkia taihuensis	1	2
+200311	TIGR03687	1230998	Corynebacterium frankenforstense	1	2
+200311	TIGR03687	1258888	Arthrobacter sp. Hz2	1	2
+200311	TIGR03687	1258920	Arthrobacter sp. MDT2-14	1	2
+200311	TIGR03687	1259133	Cellulomonas sp. HLT2-17	1	2
+200311	TIGR03687	1262550	Brevibacterium jeotgali	1	2
+200311	TIGR03687	1262583	Tamaricihabitans halophyticus	1	2
+200311	TIGR03687	1266829	Kribbella albertanoniae	1	2
+200311	TIGR03687	1271860	Alloactinosynnema iranicum	1	2
+200311	TIGR03687	1280514	Acidithrix ferrooxidans	1	2
+200311	TIGR03687	1284680	Actinomyces sp. S6-Spd3	1	2
+200311	TIGR03687	1286822	Streptomyces sp. WMMB 714	1	2
+200311	TIGR03687	1287878	Actinoplanes lutulentus	1	2
+200311	TIGR03687	1291556	Nonomuraea fuscirosea	1	2
+200311	TIGR03687	1295626	Cellulomonas sp. B6	1	2
+200311	TIGR03687	1296565	Geodermatophilus amargosae	1	2
+200311	TIGR03687	1299334	Mycobacterium xenopi 4042	1	2
+200311	TIGR03687	1305729	Kitasatospora sp. SolWspMP-SS2h	1	2
+200311	TIGR03687	1305830	Streptomyces sp. PsTaAH-137	1	2
+200311	TIGR03687	1321816	Alloscardovia omnicolens F0580	1	2
+200311	TIGR03687	1325564	Nitrospira japonica	1	2
+200311	TIGR03687	1331682	Brachybacterium ginsengisoli	1	2
+200311	TIGR03687	1333651	Bifidobacterium moukalabense	1	2
+200311	TIGR03687	1338436	Sinomonas humi	1	2
+200311	TIGR03687	1344003	Williamsia sterculiae	1	2
+200311	TIGR03687	1380684	Kroppenstedtia sanguinis	1	2
+200311	TIGR03687	1380770	Streptomycetaceae bacterium MP113-05	1	2
+200311	TIGR03687	1386088	Intrasporangium chromatireducens	1	2
+200311	TIGR03687	1386092	Cellulomonas carbonis	1	2
+200311	TIGR03687	1386098	Actinotalea ferrariae	1	2
+200311	TIGR03687	1397368	Pseudonocardia sediminis	1	2
+200311	TIGR03687	1404244	Corynebacterium glyciniphilum	1	2
+200311	TIGR03687	1408191	Corynebacterium deserti	1	2
+200311	TIGR03687	1415549	Streptomyces sp. NRRL B-1140	1	2
+200311	TIGR03687	1415557	Streptomyces sp. WM6378	1	2
+200311	TIGR03687	1415558	Streptomyces sp. WM6386	1	2
+200311	TIGR03687	1427391	Saccharothrix sp. ST-888	1	2
+200311	TIGR03687	1428628	Streptomyces mangrovisoli	1	2
+200311	TIGR03687	1428644	Streptomyces gilvigriseus	1	2
+200311	TIGR03687	1430326	Mycobacterium decipiens	1	2
+200311	TIGR03687	1434822	Actinomycetales bacterium JB111	1	2
+200311	TIGR03687	1434837	Nocardiopsis sp. JB363	1	2
+200311	TIGR03687	1437876	Gordonia sp. QH-12	1	2
+200311	TIGR03687	1442032	Streptomyces sp. Z022	1	2
+200311	TIGR03687	1445614	Actinotignum sanguinis	1	2
+200311	TIGR03687	1453103	Prauserella shujinwangii	1	2
+200311	TIGR03687	1463821	Glycomyces sp. NRRL B-16210	1	2
+200311	TIGR03687	1470176	Actinoalloteichus hoggarensis	1	2
+200311	TIGR03687	1471400	Corynebacterium pelargi	1	2
+200311	TIGR03687	1494608	Arthrobacter sp. PAMC 25486	1	2
+200311	TIGR03687	1502734	Frankia sp. CpI1-P	1	2
+200311	TIGR03687	1502745	Mycobacterium sp. UNC267MFSha1.1M11	1	2
+200311	TIGR03687	1505727	Bifidobacterium commune	1	2
+200311	TIGR03687	1510026	Streptomyces sp. F001	1	2
+200311	TIGR03687	1510197	Streptomyces sp. PT12	1	2
+200311	TIGR03687	1517936	Rhodococcus sp. CUA-806	1	2
+200311	TIGR03687	1517939	Serinicoccus sp. CUA-874	1	2
+200311	TIGR03687	1519492	Nocardia sp. NRRL S-836	1	2
+200311	TIGR03687	1519494	Nocardiopsis sp. NRRL B-16309	1	2
+200311	TIGR03687	1520461	Streptomyces sp. PanSC9	1	2
+200311	TIGR03687	1522368	Modestobacter caceresii	1	2
+200311	TIGR03687	1522757	Streptomyces sp. ADI93-02	1	2
+200311	TIGR03687	1522759	Streptomyces sp. ADI95-17	1	2
+200311	TIGR03687	1522760	Streptomyces sp. ADI96-02	1	2
+200311	TIGR03687	1529066	Arthrobacter echini	1	2
+200311	TIGR03687	1535768	Streptomyces lunaelactis	1	2
+200311	TIGR03687	1538144	Aeromicrobium camelliae	1	2
+200311	TIGR03687	1542737	Marmoricola solisilvae	1	2
+200311	TIGR03687	1544413	Corynebacterium lowii	1	2
+200311	TIGR03687	1544416	Corynebacterium oculi	1	2
+200311	TIGR03687	1545728	Mycobacterium sp. EPa45	1	2
+200311	TIGR03687	1550230	Modestobacter sp. DSM 44400	1	2
+200311	TIGR03687	1550231	Blastococcus sp. DSM 44268	1	2
+200311	TIGR03687	1550242	Geodermatophilus sp. DSM 44511	1	2
+200311	TIGR03687	1550400	marine actinobacterium MedAcidi-G2A	1	2
+200311	TIGR03687	1550402	marine actinobacterium MedAcidi-G3	1	2
+200311	TIGR03687	1552759	Mycobacterium grossiae	1	2
+200311	TIGR03687	1564158	Geodermatophilus sabuli	1	2
+200311	TIGR03687	1564159	Geodermatophilus pulveris	1	2
+200311	TIGR03687	1565122	Nocardioides bacterium	1	2
+200311	TIGR03687	1566299	Klenkia marina	1	2
+200311	TIGR03687	1566886	Mycolicibacterium malmesburyense	1	2
+200311	TIGR03687	1576605	Streptomyces sp. 150FB	1	2
+200311	TIGR03687	1577474	Raineyella antarctica	1	2
+200311	TIGR03687	1577588	Streptomyces sp. JHA19	1	2
+200311	TIGR03687	1581050	Corynebacterium sp. HMSC04H06	1	2
+200311	TIGR03687	1581065	Corynebacterium sp. HMSC27B11	1	2
+200311	TIGR03687	1581089	Corynebacterium sp. HMSC11E11	1	2
+200311	TIGR03687	1581117	Corynebacterium sp. HMSC05E07	1	2
+200311	TIGR03687	1581119	Corynebacterium sp. HMSC05H05	1	2
+200311	TIGR03687	1581130	Brevibacterium sp. HMSC07C04	1	2
+200311	TIGR03687	1581135	Trueperella sp. HMSC08B05	1	2
+200311	TIGR03687	1586287	Lentzea guizhouensis	1	2
+200311	TIGR03687	1592326	Actinobacteria bacterium OK006	1	2
+200311	TIGR03687	1592327	Actinobacteria bacterium OK074	1	2
+200311	TIGR03687	1603886	Bifidobacterium lemurum	1	2
+200311	TIGR03687	1605990	Actinorugispora endophytica	1	2
+200311	TIGR03687	1609095	Streptomyces sp. NRRL F-4489	1	2
+200311	TIGR03687	1609106	Streptomyces sp. NRRL B-1568	1	2
+200311	TIGR03687	1610489	Corynebacterium pollutisoli	1	2
+200311	TIGR03687	1610703	Arthrobacter sp. SPG23	1	2
+200311	TIGR03687	1616117	Streptomyces formicae	1	2
+200311	TIGR03687	1617410	Nitrospira sp. OLB3	1	2
+200311	TIGR03687	1618207	Psychromicrobium lacuslunae	1	2
+200311	TIGR03687	1629062	Antricoccus suffuscus	1	2
+200311	TIGR03687	1630162	Bifidobacterium tissieri	1	2
+200311	TIGR03687	1630166	Bifidobacterium myosotis	1	2
+200311	TIGR03687	1630172	Bifidobacterium hapali	1	2
+200311	TIGR03687	1630173	Bifidobacterium catulorum	1	2
+200311	TIGR03687	1631356	Luteipulveratus halotolerans	1	2
+200311	TIGR03687	1641811	Actinobacteria bacterium IMCC26207	1	2
+200311	TIGR03687	1645681	Nakamurella silvestris	1	2
+200311	TIGR03687	1650658	Actinobacteria bacterium IMCC26256	1	2
+200311	TIGR03687	1652100	Microbispora sp. GKU 823	1	2
+200311	TIGR03687	1652495	Corynebacterium crudilactis	1	2
+200311	TIGR03687	1653207	Bifidobacterium aquikefiri	1	2
+200311	TIGR03687	1653480	Alloactinosynnema sp. L-07	1	2
+200311	TIGR03687	1655435	Serinibacter sp. K3-2	1	2
+200311	TIGR03687	1658671	Arsenicicoccus sp. oral taxon 190	1	2
+200311	TIGR03687	1662404	Streptomyces sp. GKU 895	1	2
+200311	TIGR03687	1662446	Streptomyces sp. HNS054	1	2
+200311	TIGR03687	1670831	Egibacter rhizosphaerae	1	2
+200311	TIGR03687	1672219	Cellulomonas sp. A375-1	1	2
+200311	TIGR03687	1682113	Mycobacterium sp. YC-RL4	1	2
+200311	TIGR03687	1688693	Arthrobacter sp. AFG7.2	1	2
+200311	TIGR03687	1690815	Pseudonocardia sp. HH130630-07	1	2
+200311	TIGR03687	1701085	Streptomyces palmae	1	2
+200311	TIGR03687	1703920	Streptomyces sp. CB02488	1	2
+200311	TIGR03687	1703921	Streptomyces sp. CB02058	1	2
+200311	TIGR03687	1703922	Streptomyces sp. CB02414	1	2
+200311	TIGR03687	1703933	Streptomyces sp. CB01580	1	2
+200311	TIGR03687	1703940	Streptomyces sp. CB02261	1	2
+200311	TIGR03687	1704044	Arthrobacter sp. ERGS1:01	1	2
+200311	TIGR03687	1709476	Streptomyces sp. NRRL B-24085	1	2
+200311	TIGR03687	1715135	Corynebacterium sp. HMSC034B08	1	2
+200311	TIGR03687	1715161	Rothia sp. HMSC061D12	1	2
+200311	TIGR03687	1715169	Corynebacterium sp. HMSC034E11	1	2
+200311	TIGR03687	1715187	Corynebacterium sp. HMSC073H12	1	2
+200311	TIGR03687	1715215	Corynebacterium sp. HMSC036E10	1	2
+200311	TIGR03687	1715989	Candidatus Nitrospira inopinata	1	2
+200311	TIGR03687	1718951	Nocardiopsis sp. TSRI0078	1	2
+200311	TIGR03687	1718998	Streptomyces sp. TSRI0281	1	2
+200311	TIGR03687	1725411	Streptomyces sp. CdTB01	1	2
+200311	TIGR03687	1732020	Arthrobacter sp. Edens01	1	2
+200311	TIGR03687	1736209	Sanguibacter sp. Leaf3	1	2
+200311	TIGR03687	1736232	Arthrobacter sp. Leaf69	1	2
+200311	TIGR03687	1736303	Arthrobacter sp. Leaf234	1	2
+200311	TIGR03687	1736339	Cellulomonas sp. Leaf334	1	2
+200311	TIGR03687	1736354	Geodermatophilus sp. Leaf369	1	2
+200311	TIGR03687	1736356	Modestobacter sp. Leaf380	1	2
+200311	TIGR03687	1736362	Cellulomonas sp. Leaf395	1	2
+200311	TIGR03687	1736393	Janibacter sp. Soil728	1	2
+200311	TIGR03687	1736394	Knoellia sp. Soil729	1	2
+200311	TIGR03687	1736397	Phycicoccus sp. Soil748	1	2
+200311	TIGR03687	1736399	Tetrasphaera sp. Soil756	1	2
+200311	TIGR03687	1736402	Arthrobacter sp. Soil763	1	2
+200311	TIGR03687	1736408	Nocardioides sp. Soil774	1	2
+200311	TIGR03687	1736410	Arthrobacter sp. Soil782	1	2
+200311	TIGR03687	1736416	Nocardioides sp. Soil805	1	2
+200311	TIGR03687	1736424	Kitasatospora sp. Root107	1	2
+200311	TIGR03687	1736431	Nocardioides sp. Root122	1	2
+200311	TIGR03687	1736457	Mycobacterium sp. Root135	1	2
+200311	TIGR03687	1736475	Nocardioides sp. Root151	1	2
+200311	TIGR03687	1736488	Nocardioides sp. Root190	1	2
+200311	TIGR03687	1736498	Aeromicrobium sp. Root236	1	2
+200311	TIGR03687	1736503	Streptomyces sp. Root264	1	2
+200311	TIGR03687	1736504	Mycobacterium sp. Root265	1	2
+200311	TIGR03687	1736521	Aeromicrobium sp. Root344	1	2
+200311	TIGR03687	1736539	Angustibacter sp. Root456	1	2
+200311	TIGR03687	1736540	Aeromicrobium sp. Root472D3	1	2
+200311	TIGR03687	1736546	Cellulomonas sp. Root485	1	2
+200311	TIGR03687	1736550	Aeromicrobium sp. Root495	1	2
+200311	TIGR03687	1736607	Oerskovia sp. Root918	1	2
+200311	TIGR03687	1736691	Aeromicrobium choanae	1	2
+200311	TIGR03687	1737425	Corynebacterium provencense	1	2
+200311	TIGR03687	1739111	Streptomyces sp. DSM 15324	1	2
+200311	TIGR03687	1739261	Brevibacterium sp. HMSC063G07	1	2
+200311	TIGR03687	1739295	Corynebacterium sp. HMSC034A01	1	2
+200311	TIGR03687	1739379	Corynebacterium sp. HMSC078H07	1	2
+200311	TIGR03687	1739406	Actinomyces sp. HMSC035G02	1	2
+200311	TIGR03687	1739462	Rothia sp. HMSC036D11	1	2
+200311	TIGR03687	1742262	Frankia sp. CgIM4	1	2
+200311	TIGR03687	1742972	Candidatus Nitrospira nitrosa	1	2
+200311	TIGR03687	1742973	Candidatus Nitrospira nitrificans	1	2
+200311	TIGR03687	1747766	Mycobacterium sp. NAZ190054	1	2
+200311	TIGR03687	1758689	Serinicoccus sp. JLT9	1	2
+200311	TIGR03687	1761747	Arthrobacter sp. ov118	1	2
+200311	TIGR03687	1761906	Streptomyces sp. yr375	1	2
+200311	TIGR03687	1765219	Bifidobacterium eulemuris	1	2
+200311	TIGR03687	1769198	Jiangella sp. GTF31	1	2
+200311	TIGR03687	1772282	Mycobacterium sp. GA-1285	1	2
+200311	TIGR03687	1772283	Mycobacterium sp. GA-2829	1	2
+200311	TIGR03687	1772287	Mycobacterium sp. GA-1199	1	2
+200311	TIGR03687	1797295	Candidatus Azambacteria bacterium RIFCSPHIGHO2_02_46_12	1	2
+200311	TIGR03687	1798190	Streptomyces sp. GP55	1	2
+200311	TIGR03687	1798227	Blastococcus sp. DSM 46786	1	2
+200311	TIGR03687	1798228	Blastococcus sp. DSM 46838	1	2
+200311	TIGR03687	1798648	Candidatus Liptonbacteria bacterium RIFCSPHIGHO2_12_FULL_60_13	1	2
+200311	TIGR03687	1802096	Candidatus Rokubacteria bacterium GWA2_73_35	1	2
+200311	TIGR03687	1802106	Candidatus Rokubacteria bacterium RIFCSPLOWO2_02_FULL_72_37	1	2
+200311	TIGR03687	1802268	Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_41_12b	1	2
+200311	TIGR03687	1804624	Nocardioides baekrokdamisoli	1	2
+200311	TIGR03687	1804758	Streptomyces sp. CB03911	1	2
+200311	TIGR03687	1804986	Amycolatopsis albispora	1	2
+200311	TIGR03687	1804987	Nesterenkonia sp. GY074	1	2
+200311	TIGR03687	1804988	Nesterenkonia sp. GY239	1	2
+200311	TIGR03687	1805367	Candidatus Rokubacteria bacterium 13_1_40CM_69_27	1	2
+200311	TIGR03687	1814289	Sanguibacter gelidistatuariae	1	2
+200311	TIGR03687	1817406	Streptomyces sp. ICN19	1	2
+200311	TIGR03687	1827542	Streptomyces sp. 25	1	2
+200311	TIGR03687	1827580	Streptomyces nigra	1	2
+200311	TIGR03687	1834070	Mycobacterium sp. 1165178.9	1	2
+200311	TIGR03687	1834076	Mycobacterium sp. 1274756.6	1	2
+200311	TIGR03687	1834078	Mycobacterium sp. 1465703.0	1	2
+200311	TIGR03687	1834083	Mycobacterium sp. 852002-10029_SCH5224772	1	2
+200311	TIGR03687	1834106	Mycobacterium sp. 852002-51971_SCH5477799-a	1	2
+200311	TIGR03687	1834111	Mycobacterium sp. 852013-51886_SCH5428379	1	2
+200311	TIGR03687	1834121	Mycobacterium sp. ACS4331	1	2
+200311	TIGR03687	1834128	Mycobacterium sp. E1747	1	2
+200311	TIGR03687	1834143	Mycobacterium sp. E3198	1	2
+200311	TIGR03687	1834149	Mycobacterium sp. E740	1	2
+200311	TIGR03687	1834150	Mycobacterium sp. E787	1	2
+200311	TIGR03687	1834155	Kocuria sp. ICS0012	1	2
+200311	TIGR03687	1834512	Frankia sp. BMG5.36	1	2
+200311	TIGR03687	1834516	Frankia asymbiotica	1	2
+200311	TIGR03687	1837282	Enteractinococcus helveticum	1	2
+200311	TIGR03687	1837344	Propioniciclava sinopodophylli	1	2
+200311	TIGR03687	1839759	Streptomyces sp. DvalAA-14	1	2
+200311	TIGR03687	1839762	Streptomyces sp. DvalAA-43	1	2
+200311	TIGR03687	1840703	Blastococcus sp. CCUG 61487	1	2
+200311	TIGR03687	1841860	Mycobacterium sp. AB57	1	2
+200311	TIGR03687	1841861	Mycobacterium sp. AB215	1	2
+200311	TIGR03687	1848329	Nonomuraea sp. KC712	1	2
+200311	TIGR03687	1848601	Arthrobacter sp. MYb227	1	2
+200311	TIGR03687	1849967	Streptomyces sp. SAT1	1	2
+200311	TIGR03687	1854586	Amycolatopsis antarctica	1	2
+200311	TIGR03687	1854588	Pseudonocardia sp. MH-G8	1	2
+200311	TIGR03687	1855324	Cellulomonas sp. KH9	1	2
+200311	TIGR03687	1856859	Mycobacterium sp. 1423905.2	1	2
+200311	TIGR03687	1857892	Streptomyces sp. MP131-18	1	2
+200311	TIGR03687	1859290	Corynebacterium sp. YIM 101343	1	2
+200311	TIGR03687	1862358	Corynebacterium choanis	1	2
+200311	TIGR03687	1869167	Humibacillus sp. DSM 29435	1	2
+200311	TIGR03687	1872711	Herbihabitans rhizosphaerae	1	2
+200311	TIGR03687	1881018	Streptomyces sp. KS_5	1	2
+200311	TIGR03687	1881057	Quadrisphaera sp. DSM 44207	1	2
+200311	TIGR03687	1881103	Geodermatophilus sp. DSM 45219	1	2
+200311	TIGR03687	1881858	Nesterenkonia sp. PF2B19	1	2
+200311	TIGR03687	1882768	Arthrobacter sp. OV608	1	2
+200311	TIGR03687	1882771	Kitasatospora sp. OK780	1	2
+200311	TIGR03687	1882833	Frankineae bacterium MT45	1	2
+200311	TIGR03687	1894969	Micromonospora globbae	1	2
+200311	TIGR03687	1895739	Cellulomonas sp. 73-145	1	2
+200311	TIGR03687	1897634	Tersicoccus sp. Bi-70	1	2
+200311	TIGR03687	1898043	Aeromicrobium sp. PE09-221	1	2
+200311	TIGR03687	1902245	Nakamurella sp. s14-144	1	2
+200311	TIGR03687	1903117	Williamsia sp. 1138	1	2
+200311	TIGR03687	1903186	Brachybacterium sp. P6-10-X1	1	2
+200311	TIGR03687	1904962	Corynebacterium sp. CNJ-954	1	2
+200311	TIGR03687	1904965	Nocardiopsis sp. CNR-923	1	2
+200311	TIGR03687	1904967	Pseudonocardia sp. CNS-004	1	2
+200311	TIGR03687	1904968	Pseudonocardia sp. CNS-139	1	2
+200311	TIGR03687	1904969	Saccharomonospora sp. CUA-673	1	2
+200311	TIGR03687	1904970	Serinicoccus sp. CNJ-927	1	2
+200311	TIGR03687	1906333	Corynebacterium sp. NML130628	1	2
+200311	TIGR03687	1906334	Corynebacterium sp. NML140438	1	2
+200311	TIGR03687	1907575	Jatrophihabitans sp. GAS493	1	2
+200311	TIGR03687	1912961	Actinophytocola xanthii	1	2
+200311	TIGR03687	1913576	Arthrobacter sp. UCD-GKA	1	2
+200311	TIGR03687	1920889	Arthrobacter sp. SW1	1	2
+200311	TIGR03687	1926885	Actinomadura sp. 5-2	1	2
+200311	TIGR03687	1930254	Arthrobacter sp. SRS-W-1-2016	1	2
+200311	TIGR03687	1931992	Pseudonocardiaceae bacterium UICC B-83	1	2
+200311	TIGR03687	1933778	Saccharothrix sp. ALI-22-I	1	2
+200311	TIGR03687	1933779	Actinosynnema sp. ALI-1.44	1	2
+200311	TIGR03687	1933817	Kribbella sp. ALI-6-A	1	2
+200311	TIGR03687	1933880	Glutamicibacter halophytocola	1	2
+200311	TIGR03687	1936029	Mycobacterium sp. MS1601	1	2
+200311	TIGR03687	1938745	Blastococcus sp. DSM 44270	1	2
+200311	TIGR03687	1938746	Blastococcus sp. DSM 44272	1	2
+200311	TIGR03687	1938835	Streptomyces sp. 1331.2	1	2
+200311	TIGR03687	1938847	Streptomyces sp. 4121.5	1	2
+200311	TIGR03687	1938860	Streptomyces sp. TLI_235	1	2
+200311	TIGR03687	1945515	Streptomyces sp. 111WW2	1	2
+200311	TIGR03687	1945643	Streptomyces sp. NBS 14/10	1	2
+200311	TIGR03687	1945885	Micrococcales bacterium KH10	1	2
+200311	TIGR03687	1945888	Ruaniaceae bacterium KH17	1	2
+200311	TIGR03687	1955065	Streptomyces sp. M41(2017)	1	2
+200311	TIGR03687	1960083	Actinomyces gaoshouyii	1	2
+200311	TIGR03687	1960968	Bifidobacterium italicum	1	2
+200311	TIGR03687	1960969	Bifidobacterium criceti	1	2
+200311	TIGR03687	1961706	Mycobacterium sp. AT1	1	2
+200311	TIGR03687	1962155	Saccharomonospora sp. LRS4.154	1	2
+200311	TIGR03687	1965356	Brevibacterium sp. 239c	1	2
+200311	TIGR03687	1969380	Bacillus sp. SRB_336	1	2
+200311	TIGR03687	1979527	Corynebacterium kefirresidentii	1	2
+200311	TIGR03687	1984871	Bifidobacterium vansinderenii	1	2
+200311	TIGR03687	1986615	Actinomycetales bacterium TMED115	1	2
+200311	TIGR03687	2003551	Cellulomonas sp. PSBB021	1	2
+200311	TIGR03687	2005710	bacterium BMS3Abin02	1	2
+200311	TIGR03687	2013020	Bifidobacterium sp. N4G05	1	2
+200311	TIGR03687	2013021	Bifidobacterium sp. N5G01	1	2
+200311	TIGR03687	2016499	Propionibacteriaceae bacterium NML 020265	1	2
+200311	TIGR03687	2016507	Propionibacteriaceae bacterium NML 130396	1	2
+200311	TIGR03687	2017484	Brachybacterium sp. VM2412	1	2
+200311	TIGR03687	2017485	Brachybacterium sp. VR2415	1	2
+200311	TIGR03687	2018025	Kitasatospora sp. MMS16-BH015	1	2
+200311	TIGR03687	2020325	Streptomyces sp. CB01373	1	2
+200311	TIGR03687	2020486	Arthrobacter sp. YN	1	2
+200311	TIGR03687	2020963	Bifidobacterium anseris	1	2
+200311	TIGR03687	2020964	Bifidobacterium margollesii	1	2
+200311	TIGR03687	2021410	Streptomyces sp. XY006	1	2
+200311	TIGR03687	2022496	Rhodococcus sp. 06-1059B-a	1	2
+200311	TIGR03687	2022507	Rhodococcus sp. 06-418-5	1	2
+200311	TIGR03687	2024580	Plantactinospora sp. KBS50	1	2
+200311	TIGR03687	2025113	Bifidobacterium sp. wkB344	1	2
+200311	TIGR03687	2025114	Bifidobacterium sp. wkB338	1	2
+200311	TIGR03687	2029400	Corynebacterium sp. NML 150383	1	2
+200311	TIGR03687	2029401	Corynebacterium sp. NML 120412	1	2
+200311	TIGR03687	2033718	Candidatus Methylomirabilis limnetica	1	2
+200311	TIGR03687	2035250	Micromonospora sp. CNZ285	1	2
+200311	TIGR03687	2035251	Streptomyces sp. CNZ279	1	2
+200311	TIGR03687	2036207	Glutamicibacter sp. V16R2B1	1	2
+200311	TIGR03687	2039281	Mycobacterium sp. shizuoka-1	1	2
+200311	TIGR03687	2039808	Dietzia sp. WMMA184	1	2
+200311	TIGR03687	2041036	Corynebacterium gottingense	1	2
+200311	TIGR03687	2041613	Bifidobacterium xylocopae	1	2
+200311	TIGR03687	2041614	Bifidobacterium aemilianum	1	2
+200311	TIGR03687	2044307	Streptomyces sp. Ru87	1	2
+200311	TIGR03687	2045438	Bifidobacterium primatium	1	2
+200311	TIGR03687	2045440	Bifidobacterium felsineum	1	2
+200311	TIGR03687	2045441	Bifidobacterium simiarum	1	2
+200311	TIGR03687	2049295	Nocardioides immobilis	1	2
+200311	TIGR03687	2052656	Bifidobacterium scaligerum	1	2
+200311	TIGR03687	2052657	Dietzia sp. JS16-p6b	1	2
+200311	TIGR03687	2052804	Euzebya rosea	1	2
+200311	TIGR03687	2052941	Bifidobacterium callitrichidarum	1	2
+200311	TIGR03687	2053043	Streptomyces sp. TRM SA0054	1	2
+200311	TIGR03687	2054280	Kocuria sp. 442	1	2
+200311	TIGR03687	2056849	Arthrobacter sp. HMWF013	1	2
+200311	TIGR03687	2058924	Streptomyces populi	1	2
+200311	TIGR03687	2069310	Brachybacterium sp. UMB0905	1	2
+200311	TIGR03687	2071994	Corynebacterium sp. 13CS0277	1	2
+200311	TIGR03687	2072417	candidate division NC10 bacterium	1	2
+200311	TIGR03687	2072509	Streptomyces sp. DH-12	1	2
+200311	TIGR03687	2077092	Nocardia suismassiliense	1	2
+200311	TIGR03687	2079227	Arthrobacter sp. PGP41	1	2
+200311	TIGR03687	2079234	Corynebacterium geronticis	1	2
+200311	TIGR03687	2080747	Streptomyces sp. Ru72	1	2
+200311	TIGR03687	2080757	Corynebacterium pseudopelargi	1	2
+200311	TIGR03687	2081702	Actinomyces sp. oral taxon 897	1	2
+200311	TIGR03687	2093221	Corynebacterium sp. CCUG 69366	1	2
+200311	TIGR03687	2093747	Streptomyces sp. QL37	1	2
+200311	TIGR03687	2094022	Micromonospora sp. MW-13	1	2
+200311	TIGR03687	2099401	Corynebacterium sp. J010B-136	1	2
+200311	TIGR03687	2099695	Mycobacterium sp. ITM-2016-00316	1	2
+200311	TIGR03687	2107713	Aeromicrobium sp. A1-2	1	2
+200311	TIGR03687	2109333	Streptomyces sp. A217	1	2
+200311	TIGR03687	2126346	Streptacidiphilus sp. DSM 106435	1	2
+200311	TIGR03687	2133958	Nocardioides currus	1	2
+200311	TIGR03687	2135430	Streptomyces sp. P3	1	2
+200311	TIGR03687	2135677	Nocardioides sp. CF204	1	2
+200311	TIGR03687	2135685	Nocardioides sp. CF167	1	2
+200311	TIGR03687	2135686	Nocardioides sp. CF479	1	2
+200311	TIGR03687	2135725	Promicromonospora sp. YR516	1	2
+200311	TIGR03687	2135729	Rhodococcus sp. OK519	1	2
+200311	TIGR03687	2135789	Miniimonas sp. PCH200	1	2
+200311	TIGR03687	2136173	Streptomyces sp. So13.3	1	2
+200311	TIGR03687	2138300	Nocardioides sp. WSJ-1	1	2
+200311	TIGR03687	2162698	Mycobacterium uberis	1	2
+200311	TIGR03687	2170742	Auritidibacter sp. NML100628	1	2
+200311	TIGR03687	2173174	Cellulomonas sp. WB94	1	2
+200311	TIGR03687	2174932	Nesterenkonia sp. M8	1	2
+200311	TIGR03687	2175228	Actinomycetaceae bacterium sk1b4	1	2
+200311	TIGR03687	2182385	Brachybacterium endophyticum	1	2
+200311	TIGR03687	2183912	Nocardiopsis sp. Huas11	1	2
+200311	TIGR03687	2183924	Arthrobacter sp. RC1.1 241	1	2
+200311	TIGR03687	2184581	Arthrobacter sp. AQ5-05	1	2
+200311	TIGR03687	2185284	Streptomyces sp. NWU339	1	2
+200311	TIGR03687	2185285	Kribbella sp. NEAU-SW521	1	2
+200311	TIGR03687	2200760	Streptomyces sp. Act143	1	2
+200311	TIGR03687	2201891	Nocardioides sp. CCTCC AB 2018079	1	2
+200311	TIGR03687	2202420	Micromonospora sp. 4G51	1	2
+200311	TIGR03687	2203716	Micromonospora sp. LB39	1	2
+200311	TIGR03687	2231787	Actinomadura sp. LHW63021	1	2
+200311	TIGR03687	2250575	Geodermatophilus sp. TF02-6	1	2
+200311	TIGR03687	2250576	Blastococcus sp. TF02-9	1	2
+200311	TIGR03687	2250577	Blastococcus sp. TF02A-26	1	2
+200311	TIGR03687	2250578	Streptomyces sp. LHW50302	1	2
+200311	TIGR03687	2250580	Blastococcus sp. TF02A-30	1	2
+200311	TIGR03687	2268447	Propionibacteriaceae bacterium 16Sb5-5	1	2
+200311	TIGR03687	2282652	Streptomyces sp. AC230	1	2
+200311	TIGR03687	2282738	Streptomyces sp. GSSD-12	1	2
+200311	TIGR03687	2283195	Ornithinimicrobium sp. AMA3305	1	2
+200311	TIGR03687	2283631	Arthrobacter sp. JZ R-35	1	2
+200311	TIGR03687	2283632	Arthrobacter sp. JZ R-183	1	2
+200311	TIGR03687	2292704	Aeromicrobium sp. M2KJ-4	1	2
+200311	TIGR03687	2293569	Jiangella sp. NEAU-YY265	1	2
+200311	TIGR03687	2293572	Actinomadura sp. NEAU-G17	1	2
+200311	TIGR03687	2294115	Flexivirga sp. BO-16	1	2
+200311	TIGR03687	2303986	Geodermatophilus sp. LHW52908	1	2
+200311	TIGR03687	2306972	Bifidobacterium sp. 2020B	1	2
+200311	TIGR03687	2306973	Bifidobacterium sp. 2028B	1	2
+200311	TIGR03687	2306974	Bifidobacterium sp. 2033B	1	2
+200311	TIGR03687	2306975	Bifidobacterium sp. 2034B	1	2
+200311	TIGR03687	2306976	Bifidobacterium sp. 2036B	1	2
+200311	TIGR03687	2321393	Actinomyces sp. 2119	1	2
+200311	TIGR03687	2321394	Actinomyces sp. 2129	1	2
+200311	TIGR03687	2321396	Nocardioides sp. K1W22B-1	1	2
+200311	TIGR03687	2339229	Streptosporangiaceae bacterium YIM 75507	1	2
+200311	TIGR03687	2339232	Frankiales bacterium YIM 75000	1	2
+200311	TIGR03687	2340915	Pseudonocardiaceae bacterium YIM PH 21723	1	2
+200311	TIGR03687	2419505	Kocuria sp. HSID16901	1	2
+200311	TIGR03687	2420509	Gordonia sp. MMS17-SY073	1	2
+200311	TIGR03687	2478913	Marmoricola sp. 4Q3S-7	1	2
+200311	TIGR03687	2478914	Aeromicrobium sp. 9W16Y-2	1	2
+200311	TIGR03687	2483351	Actinomadura sp. NEAU-Ht49	1	2
+200311	TIGR03687	2483352	Cellulomonas sp. NEAU-YY56	1	2
+200311	TIGR03687	2483361	Nocardia sp. NEAU-LL90	1	2
+200311	TIGR03687	2483795	Brevibacterium sp. S111	1	2
+200311	TIGR03687	2483813	Pseudarthrobacter sp. T11b	1	2
+200311	TIGR03687	2485108	Arthrobacter sp. JUb115	1	2
+200311	TIGR03687	2485125	Kocuria sp. M5W7-7	1	2
+200311	TIGR03687	2485140	Streptomyces sp. 844.5	1	2
+200311	TIGR03687	2485143	Micromonospora sp. Llam0	1	2
+200311	TIGR03687	2485146	Streptomyces sp. W SAI-097	1	2
+200311	TIGR03687	2485150	Streptomyces sp. KS 21	1	2
+200311	TIGR03687	2485152	Streptomyces sp. 840.1	1	2
+200311	TIGR03687	2485156	Streptomyces sp. 846.5	1	2
+200311	TIGR03687	2485186	Cellulomonas sp. PhB143	1	2
+200311	TIGR03687	2486417	Streptomyces sp. NEAU-LD23	1	2
+200311	TIGR03687	2486855	Arthrobacter sp. LAM7117	1	2
+200311	TIGR03687	2487137	Nocardiopsaceae bacterium YIM 96095	1	2
+200311	TIGR03687	2487275	Streptomyces sp. LAM7114	1	2
+200311	TIGR03687	2487349	Gordonia sp. RS15-1S	1	2
+200311	TIGR03687	2487352	Rhodococcus sp. LHW50502	1	2
+200311	TIGR03687	2487364	Rhodococcus sp. LHW51113	1	2
+200311	TIGR03687	2487412	Streptomyces sp. WAC05458	1	2
+200311	TIGR03687	2487415	Streptomyces sp. WAC00469	1	2
+200311	TIGR03687	2487416	Streptomyces sp. WAC06614	1	2
+200311	TIGR03687	2487710	Micromonospora sp. HM5-17	1	2
+200311	TIGR03687	2488819	Corynebacterium sp. 2069/2	1	2
+200311	TIGR03687	2492662	Saccharopolyspora sp. H219	1	2
+200311	TIGR03687	2495589	Streptomyces brunneus	1	2
+200311	TIGR03687	2496836	Streptomyces sp. MK-45	1	2
+200311	TIGR03687	2496842	Alloscardovia sp. GLDI4/2	1	2
+200311	TIGR03687	2497878	Nocardioides sp. 130	1	2
+200311	TIGR03687	2498135	Streptomonospora sp. M2	1	2
+200311	TIGR03687	2502782	Nocardioides sp. 18JY15-6	1	2
+200311	TIGR03687	2502783	Phycicoccus sp. CMS6Z-2	1	2
+200311	TIGR03687	2507582	Rhodococcus sp. ABRD24	1	2
+200311	TIGR03687	2508712	Nonomuraea sp. 14C53	1	2
+200311	TIGR03687	2509457	Xylanimicrobium sp. FW10M-9	1	2
+200311	TIGR03687	2509459	Xylanibacterium sp. 2JSPR-7	1	2
+200311	TIGR03687	2509720	Arthrobacter sp. S39	1	2
+200311	TIGR03687	2509721	Arthrobacter sp. S41	1	2
+200311	TIGR03687	2510111	Dermacoccus sp. 147Ba	1	2
+200311	TIGR03687	2510323	Yimella sp. RIT 621	1	2
+200311	TIGR03687	2510978	Amycolatopsis sp. 8-3EHSu	1	2
+200311	TIGR03687	2512141	Plantactinospora sp. CNZ321	1	2
+200311	TIGR03687	2512168	Streptomyces sp. BK335	1	2
+200311	TIGR03687	2512213	Rhodococcus sp. SMB37	1	2
+200311	TIGR03687	2512215	Kribbella sp. VKM Ac-2527	1	2
+200311	TIGR03687	2512217	Kribbella sp. VKM Ac-2541	1	2
+200311	TIGR03687	2512220	Kribbella sp. VKM Ac-2569	1	2
+200311	TIGR03687	2512223	Kribbella sp. VKM Ac-2572	1	2
+200311	TIGR03687	2512224	Kribbella sp. VKM Ac-2573	1	2
+200311	TIGR03687	2512237	Mycolicibacterium sp. CH28	1	2
+200311	TIGR03687	2518370	Nocardioides sp. MMS17-SY117	1	2
+200311	TIGR03687	2518371	Nocardioides sp. MMS17-SY207-3	1	2
+200311	TIGR03687	2518372	Nocardioides sp. MMS17-SY213	1	2
+200311	TIGR03687	2527879	Verrucosispora sp. SN26_14.1	1	2
+200311	TIGR03687	2529275	Arcanobacterium sp. C605018/01/1	1	2
+200311	TIGR03687	2530365	Actinomadura sp. 7K507	1	2
+200311	TIGR03687	2530367	Actinomadura sp. GC306	1	2
+200311	TIGR03687	2530368	Actinomadura sp. H3C3	1	2
+200311	TIGR03687	2530370	Actinomadura sp. KC216	1	2
+200311	TIGR03687	2530371	Actinomadura sp. KC345	1	2
+200311	TIGR03687	2530372	Jiangella sp. 5K138	1	2
+200311	TIGR03687	2530373	Jiangella sp. 8K307	1	2
+200311	TIGR03687	2530374	Jiangella sp. KC603	1	2
+200311	TIGR03687	2530376	Micromonospora sp. 15K316	1	2
+200311	TIGR03687	2530383	Nonomuraea sp. CH32	1	2
+200311	TIGR03687	2530384	Saccharopolyspora sp. 16K309	1	2
+200311	TIGR03687	2530388	Streptomyces sp. 8K308	1	2
+200311	TIGR03687	2545468	Aeromicrobium sp. IC_218	1	2
+200311	TIGR03687	2547960	Arthrobacter sp. SLN-3	1	2
+200311	TIGR03687	2559236	Streptomyces sp. MZ04	1	2
+200311	TIGR03687	2559593	Cellulomonas sp. HD19AZ1	1	2
+200311	TIGR03687	2559606	Blastococcus sp. AZ43	1	2
+200311	TIGR03687	2559607	Blastococcus sp. CT_GayMR16	1	2
+200311	TIGR03687	2559608	Blastococcus sp. CT_GayMR19	1	2
+200311	TIGR03687	2559609	Blastococcus sp. CT_GayMR20	1	2
+200311	TIGR03687	2559610	Geodermatophilus sp. DF01_2	1	2
+200311	TIGR03687	2559611	Mycobacterium sp. PS03_16	1	2
+200311	TIGR03687	2559612	Blastococcus sp. TF02A_35	1	2
+200311	TIGR03687	2562581	Streptomyces sp. RKND-216	1	2
+200311	TIGR03687	2563100	Streptomyces sp. A0642	1	2
+200311	TIGR03687	2563101	Streptomyces sp. A0958	1	2
+200311	TIGR03687	2563103	Streptomyces sp. A1277	1	2
+200311	TIGR03687	2565366	Arthrobacter sp. PAMC25564	1	2
+200311	TIGR03687	2568881	Frankia sp. AvVan	1	2
+200311	TIGR03687	2569761	Nocardioides sp. GY 10113	1	2
+200311	TIGR03687	2569762	Nocardioides sp. GY 10127	1	2
+200311	TIGR03687	2570927	Glycomyces sp. 18	1	2
+200311	TIGR03687	2571029	Brachybacterium sp. SGAir0954	1	2
+200311	TIGR03687	2571125	Streptomyces sp. jys28	1	2
+200311	TIGR03687	2575374	Arthrobacter sp. 24S4-2	1	2
+200311	TIGR03687	2575440	Nocardioides sp. dk3543	1	2
+200311	TIGR03687	2575923	Brevibacterium sp. CS2	1	2
+200311	TIGR03687	2576035	Arthrobacter sp. NamB2	1	2
+200311	TIGR03687	2576308	Nakamurella sp. N5BH11	1	2
+200311	TIGR03687	2580423	Streptomyces sp. NEAU-C151	1	2
+200311	TIGR03687	1272	Kocuria varians	1	1
+200311	TIGR03687	1308	Streptococcus thermophilus	1	1
+200311	TIGR03687	1575	Leifsonia xyli	1	1
+200311	TIGR03687	1665	Arthrobacter globiformis	1	1
+200311	TIGR03687	1690	Bifidobacterium pseudolongum subsp. globosum	1	1
+200311	TIGR03687	1764	Mycobacterium avium	1	1
+200311	TIGR03687	1788	Mycolicibacter terrae	1	1
+200311	TIGR03687	1828	Rhodococcus fascians	1	1
+200311	TIGR03687	1829	Rhodococcus rhodochrous	1	1
+200311	TIGR03687	1843	Nocardioides jensenii	1	1
+200311	TIGR03687	1851	Saccharomonospora	1	1
+200311	TIGR03687	1867	Actinoplanes teichomyceticus	1	1
+200311	TIGR03687	1886	Streptomyces albidoflavus	1	1
+200311	TIGR03687	1935	Streptomyces violaceoruber	1	1
+200311	TIGR03687	1951	Streptomyces purpureus	1	1
+200311	TIGR03687	1956	Streptomyces diastaticus	1	1
+200311	TIGR03687	1967	Streptomyces kanamyceticus	1	1
+200311	TIGR03687	1968	Streptomyces cellulosae	1	1
+200311	TIGR03687	1990	Actinomadura atramentaria	1	1
+200311	TIGR03687	1997	Microtetraspora fusca	1	1
+200311	TIGR03687	2002	Streptosporangium amethystogenes	1	1
+200311	TIGR03687	29320	Paenarthrobacter nicotinovorans	1	1
+200311	TIGR03687	33876	Catenuloplanes japonicus	1	1
+200311	TIGR03687	33895	Mycobacterium interjectum	1	1
+200311	TIGR03687	33905	Bifidobacterium thermophilum	1	1
+200311	TIGR03687	35619	Streptomyces griseoflavus	1	1
+200311	TIGR03687	35620	Streptomyces hirsutus	1	1
+200311	TIGR03687	35751	Sporichthya polymorpha	1	1
+200311	TIGR03687	35754	Dactylosporangium aurantiacum	1	1
+200311	TIGR03687	35762	Planobispora rosea	1	1
+200311	TIGR03687	36812	Mycobacterium genavense	1	1
+200311	TIGR03687	36821	Gordonia amarae	1	1
+200311	TIGR03687	37327	Nocardia brevicatena	1	1
+200311	TIGR03687	37333	Nocardia transvalensis	1	1
+200311	TIGR03687	37926	Thermocrispum municipale	1	1
+200311	TIGR03687	39122	Skermania piniformis	1	1
+200311	TIGR03687	39478	Streptomyces laurentii	1	1
+200311	TIGR03687	40516	Gordonia hydrophobica	1	1
+200311	TIGR03687	43675	Rothia mucilaginosa	1	1
+200311	TIGR03687	43771	Corynebacterium urealyticum	1	1
+200311	TIGR03687	44060	Streptomyces megasporus	1	1
+200311	TIGR03687	46161	Actinomadura kijaniata	1	1
+200311	TIGR03687	46164	Actinomadura macra	1	1
+200311	TIGR03687	46175	Microtetraspora niveoalba	1	1
+200311	TIGR03687	47760	Streptomyces aurantiacus	1	1
+200311	TIGR03687	47763	Streptomyces lydicus	1	1
+200311	TIGR03687	49184	Kineosporia	1	1
+200311	TIGR03687	53368	Hamadaea tsunoensis	1	1
+200311	TIGR03687	53427	Gordonia hirsuta	1	1
+200311	TIGR03687	53432	Nocardia uniformis	1	1
+200311	TIGR03687	53440	Nocardiopsis listeri	1	1
+200311	TIGR03687	53441	Nocardiopsis lucentensis	1	1
+200311	TIGR03687	54010	Pseudonocardia asaccharolytica	1	1
+200311	TIGR03687	58116	Glycomyces tenuis	1	1
+200311	TIGR03687	58123	Spirillospora albida	1	1
+200311	TIGR03687	58343	Streptomyces canus	1	1
+200311	TIGR03687	58347	Kitasatospora azatica	1	1
+200311	TIGR03687	58352	Kitasatospora mediocidica	1	1
+200311	TIGR03687	60706	Actinomadura formosensis	1	1
+200311	TIGR03687	60921	Sanguibacter suarezii	1	1
+200311	TIGR03687	63959	Demetria terragena	1	1
+200311	TIGR03687	64667	Mycobacterium lepraemurium	1	1
+200311	TIGR03687	66369	Streptomyces carpinensis	1	1
+200311	TIGR03687	66378	Streptomyces yerevanensis	1	1
+200311	TIGR03687	66869	Streptomyces atroolivaceus	1	1
+200311	TIGR03687	66875	Streptomyces catenulae	1	1
+200311	TIGR03687	66883	Streptomyces cyaneofuscatus	1	1
+200311	TIGR03687	66896	Streptomyces griseoplanus	1	1
+200311	TIGR03687	67257	Streptomyces albus subsp. albus	1	1
+200311	TIGR03687	67298	Streptomyces flavidovirens	1	1
+200311	TIGR03687	67301	Streptomyces fragilis	1	1
+200311	TIGR03687	67345	Streptomyces prasinus	1	1
+200311	TIGR03687	67348	Streptomyces prunicolor	1	1
+200311	TIGR03687	68194	Streptomyces durhamensis	1	1
+200311	TIGR03687	68239	Streptomyces mirabilis	1	1
+200311	TIGR03687	68264	Streptomyces rishiriensis	1	1
+200311	TIGR03687	68268	Streptomyces showdoensis	1	1
+200311	TIGR03687	68565	Actinomadura hibisca	1	1
+200311	TIGR03687	76862	Cellulomonas iranensis	1	1
+200311	TIGR03687	77133	uncultured bacterium	1	1
+200311	TIGR03687	78355	Streptomyces somaliensis	1	1
+200311	TIGR03687	78448	Bifidobacterium pullorum	1	1
+200311	TIGR03687	80871	Cryptosporangium arvum	1	1
+200311	TIGR03687	83291	Streptomyces armeniacus	1	1
+200311	TIGR03687	84139	Gordonia sp.	1	1
+200311	TIGR03687	89050	Streptomyces yeochonensis	1	1
+200311	TIGR03687	93944	Nonomuraea gerenzanensis	1	1
+200311	TIGR03687	103441	Pseudonocardia spinosispora	1	1
+200311	TIGR03687	103721	Actinosynnema pretiosum subsp. pretiosum	1	1
+200311	TIGR03687	103730	Actinokineospora inagensis	1	1
+200311	TIGR03687	103733	Saccharothrix syringae	1	1
+200311	TIGR03687	103838	Nonomuraea turkmeniaca	1	1
+200311	TIGR03687	105422	Streptacidiphilus carbonis	1	1
+200311	TIGR03687	105425	Streptacidiphilus albus	1	1
+200311	TIGR03687	109329	Nocardiopsis trehalosi	1	1
+200311	TIGR03687	111804	Actinomadura oligospora	1	1
+200311	TIGR03687	113565	Actinoplanes globisporus	1	1
+200311	TIGR03687	113571	Actinoplanes rectilineatus	1	1
+200311	TIGR03687	121163	Schaalia suimastitidis	1	1
+200311	TIGR03687	124252	Nocardiopsis halotolerans	1	1
+200311	TIGR03687	124285	Nocardiopsis xinjiangensis	1	1
+200311	TIGR03687	129052	Catelliglobosispora koreensis	1	1
+200311	TIGR03687	129922	Saccharomonospora halophila	1	1
+200311	TIGR03687	130796	Crossiella equi	1	1
+200311	TIGR03687	131081	Corynebacterium capitovis	1	1
+200311	TIGR03687	134962	Nocardia salmonicida	1	1
+200311	TIGR03687	141693	Nocardiopsis kunsanensis	1	1
+200311	TIGR03687	144177	Mobiluncus curtisii subsp. curtisii	1	1
+200311	TIGR03687	144178	Mobiluncus curtisii subsp. holmesii	1	1
+200311	TIGR03687	146020	Mycolicibacterium brisbanense	1	1
+200311	TIGR03687	155975	Actinokineospora enzanensis	1	1
+200311	TIGR03687	156981	Cellulomonas hominis	1	1
+200311	TIGR03687	161358	Microtetraspora malaysiensis	1	1
+200311	TIGR03687	169292	Corynebacterium aurimucosum	1	1
+200311	TIGR03687	171292	uncultured Mycobacterium sp.	1	1
+200311	TIGR03687	183916	Schaalia vaccimaxillae	1	1
+200311	TIGR03687	187982	Amycolatopsis palatopharyngis	1	1
+200311	TIGR03687	193461	Streptomyces aureus	1	1
+200311	TIGR03687	199136	Arthrobacter koreensis	1	1
+200311	TIGR03687	203523	Longispora albida	1	1
+200311	TIGR03687	206043	Actinomyces oricola	1	1
+200311	TIGR03687	206662	Streptomyces sp. FR-008	1	1
+200311	TIGR03687	209249	Nocardia niigatensis	1	1
+200311	TIGR03687	219305	Micromonospora sp. ATCC 39149	1	1
+200311	TIGR03687	225453	Yaniella halotolerans	1	1
+200311	TIGR03687	225762	Nocardiopsis alkaliphila	1	1
+200311	TIGR03687	227319	Corynebacterium ciconiae	1	1
+200311	TIGR03687	228398	Streptacidiphilus	1	1
+200311	TIGR03687	228596	Nocardia shimofusensis	1	1
+200311	TIGR03687	228599	Nocardia higoensis	1	1
+200311	TIGR03687	229480	Arsenicicoccus bolidensis	1	1
+200311	TIGR03687	234828	Corynebacterium caspium	1	1
+200311	TIGR03687	239974	Nocardiopsis valliformis	1	1
+200311	TIGR03687	239984	Nocardiopsis ganjiahuensis	1	1
+200311	TIGR03687	245836	Nocardiopsis salina	1	1
+200311	TIGR03687	246618	Bifidobacterium thermacidophilum	1	1
+200311	TIGR03687	247333	Serinicoccus marinus	1	1
+200311	TIGR03687	249058	Gordonia otitidis	1	1
+200311	TIGR03687	253839	Streptomyces sp. C	1	1
+200311	TIGR03687	256035	Glycomyces arizonensis	1	1
+200311	TIGR03687	257275	Nocardia thailandica	1	1
+200311	TIGR03687	257281	Nocardia concava	1	1
+200311	TIGR03687	262806	Jonesia quinghaiensis	1	1
+200311	TIGR03687	265976	Serinicoccus	1	1
+200311	TIGR03687	266854	Granulicoccus phenolivorans	1	1
+200311	TIGR03687	271431	Arthrobacter castelli	1	1
+200311	TIGR03687	272161	Arthrobacter stackebrandtii	1	1
+200311	TIGR03687	272548	Actinomyces dentalis	1	1
+200311	TIGR03687	278209	Rhodococcus yunnanensis	1	1
+200311	TIGR03687	280239	Nocardiopsis chromatogenes	1	1
+200311	TIGR03687	281473	Jiangella gansuensis	1	1
+200311	TIGR03687	281714	Nocardioides alkalitolerans	1	1
+200311	TIGR03687	284042	Streptomyces violaceorubidus	1	1
+200311	TIGR03687	285562	Streptomyces coelicoflavus	1	1
+200311	TIGR03687	291968	Acaricomes phytoseiuli	1	1
+200311	TIGR03687	304901	Actinospica robiniae	1	1
+200311	TIGR03687	319705	Mycobacteroides abscessus subsp. bolletii	1	1
+200311	TIGR03687	327277	Bifidobacterium crudilactis	1	1
+200311	TIGR03687	328049	Nocardia jejuensis	1	1
+200311	TIGR03687	330084	Amycolatopsis jejuensis	1	1
+200311	TIGR03687	331526	Kribbia dieselivorans	1	1
+200311	TIGR03687	342230	Amycolatopsis taiwanensis	1	1
+200311	TIGR03687	346045	Amycolatopsis benzoatilytica	1	1
+200311	TIGR03687	348043	Streptomyces davaonensis	1	1
+200311	TIGR03687	348818	Streptacidiphilus oryzae	1	1
+200311	TIGR03687	356828	Alloscardovia criceti	1	1
+200311	TIGR03687	358707	Nocardia harenae	1	1
+200311	TIGR03687	358823	Streptomyces olindensis	1	1
+200311	TIGR03687	359159	Nonomuraea candida	1	1
+200311	TIGR03687	359359	Smaragdicoccus niigatensis	1	1
+200311	TIGR03687	366586	Ruania albidiflava	1	1
+200311	TIGR03687	367299	Phycicoccus jejuensis	1	1
+200311	TIGR03687	369723	Salinispora tropica CNB-440	1	1
+200311	TIGR03687	369829	Saccharomonospora saliphila	1	1
+200311	TIGR03687	369942	Sinomonas albida	1	1
+200311	TIGR03687	371720	Streptomyces monomycini	1	1
+200311	TIGR03687	376351	Gordonia shandongensis	1	1
+200311	TIGR03687	381445	Amycolatopsis nigrescens	1	1
+200311	TIGR03687	388357	Kocuria turfanensis	1	1
+200311	TIGR03687	390989	Actinocatenispora sera	1	1
+200311	TIGR03687	392828	Actinomadura chibensis	1	1
+200311	TIGR03687	394734	Nocardioides insulae	1	1
+200311	TIGR03687	396389	Aestuariimicrobium kwangyangense	1	1
+200311	TIGR03687	397278	Marmoricola aequoreus	1	1
+200311	TIGR03687	402229	Streptomyces sp. SM1	1	1
+200311	TIGR03687	402650	Actinomycetospora chiangmaiensis	1	1
+200311	TIGR03687	405770	Kocuria halotolerans	1	1
+200311	TIGR03687	405782	Streptacidiphilus anmyonensis	1	1
+200311	TIGR03687	408066	Rhodococcus kunmingensis	1	1
+200311	TIGR03687	411235	Streptacidiphilus melanogenes	1	1
+200311	TIGR03687	411481	Bifidobacterium adolescentis L2-32	1	1
+200311	TIGR03687	412449	Leptospirillum ferrodiazotrophum	1	1
+200311	TIGR03687	415212	Janibacter corallicola	1	1
+200311	TIGR03687	417948	Brevibacterium album	1	1
+200311	TIGR03687	419014	Alloscardovia	1	1
+200311	TIGR03687	427918	Nitriliruptor alkaliphilus	1	1
+200311	TIGR03687	433648	Nocardioides sediminis	1	1
+200311	TIGR03687	433660	Nocardioides halotolerans	1	1
+200311	TIGR03687	436229	Streptacidiphilus jeojiense	1	1
+200311	TIGR03687	440482	Promicromonospora kroppenstedtii	1	1
+200311	TIGR03687	441501	Corynebacterium massiliense	1	1
+200311	TIGR03687	457406	Micromonospora sp. M42	1	1
+200311	TIGR03687	457427	Streptomyces himastatinicus ATCC 53653	1	1
+200311	TIGR03687	457428	Streptomyces lividans TK24	1	1
+200311	TIGR03687	457429	Streptomyces pristinaespiralis ATCC 25486	1	1
+200311	TIGR03687	459515	Nakamurella lactea	1	1
+200311	TIGR03687	460086	Kribbella catacumbae	1	1
+200311	TIGR03687	465541	Streptomyces sp. Mg1	1	1
+200311	TIGR03687	467093	Ilumatobacter nonamiensis	1	1
+200311	TIGR03687	467200	Streptomyces griseoflavus Tu4000	1	1
+200311	TIGR03687	472569	Devriesea agamarum	1	1
+200311	TIGR03687	479106	Haematomicrobium sanguinis	1	1
+200311	TIGR03687	485602	Actinophytocola xinjiangensis	1	1
+200311	TIGR03687	487732	Corynebacterium ulceribovis	1	1
+200311	TIGR03687	489915	Corynebacterium sputi	1	1
+200311	TIGR03687	494023	Paeniglutamicibacter antarcticus	1	1
+200311	TIGR03687	500153	Streptomyces avicenniae	1	1
+200311	TIGR03687	508770	Sciscionella marina	1	1
+200311	TIGR03687	515814	Nesterenkonia alba	1	1
+200311	TIGR03687	518635	Bifidobacterium angulatum DSM 20098 = JCM 7096	1	1
+200311	TIGR03687	521392	Helcobacillus massiliensis	1	1
+200311	TIGR03687	526067	Haloglycomyces albus	1	1
+200311	TIGR03687	533267	Actinopolymorpha alba	1	1
+200311	TIGR03687	541095	Corynebacterium lubricantis	1	1
+200311	TIGR03687	543632	Actinoplanes subtropicus	1	1
+200311	TIGR03687	545121	Streptomyces atriruber	1	1
+200311	TIGR03687	549819	Streptomyces sp. TP-A0874	1	1
+200311	TIGR03687	551276	Pseudonocardia acaciae	1	1
+200311	TIGR03687	553191	Bifidobacterium dentium JCVIHMP022	1	1
+200311	TIGR03687	556548	Corynebacterium freiburgense	1	1
+200311	TIGR03687	565556	Streptomyces sp. SM10	1	1
+200311	TIGR03687	566461	Streptomyces viridosporus ATCC 14672	1	1
+200311	TIGR03687	571915	Corynebacterium mustelae	1	1
+200311	TIGR03687	577470	Demequina salsinemoris	1	1
+200311	TIGR03687	579932	Streptomyces sp. FXJ7.023	1	1
+200311	TIGR03687	591159	Streptomyces viridochromogenes DSM 40736	1	1
+200311	TIGR03687	591198	Euzebya tangerina	1	1
+200311	TIGR03687	592378	Kocuria koreensis	1	1
+200311	TIGR03687	596312	Micrococcus luteus SK58	1	1
+200311	TIGR03687	616997	Hoyosella altamirensis	1	1
+200311	TIGR03687	630403	Tomitella biformata	1	1
+200311	TIGR03687	661979	Brachybacterium squillarum	1	1
+200311	TIGR03687	665007	Streptomyces incarnatus	1	1
+200311	TIGR03687	665550	Dietzia alimentaria	1	1
+200311	TIGR03687	671143	Candidatus Methylomirabilis oxyfera	1	1
+200311	TIGR03687	676199	Demequina oxidasica	1	1
+200311	TIGR03687	676200	Demequina aurantiaca	1	1
+200311	TIGR03687	676202	Demequina globuliformis	1	1
+200311	TIGR03687	680198	Streptomyces scabiei 87.22	1	1
+200311	TIGR03687	683315	Frankia sp. DC12	1	1
+200311	TIGR03687	702383	Jiangella muralis	1	1
+200311	TIGR03687	706439	Actinomyces sp. oral taxon 171 str. F0337	1	1
+200311	TIGR03687	712124	Actinomyces sp. oral taxon 448	1	1
+200311	TIGR03687	714197	Nocardiopsis sp. FIRDI 009	1	1
+200311	TIGR03687	718014	Microbispora sp. GMKU363	1	1
+200311	TIGR03687	746033	Piscicoccus intestinalis	1	1
+200311	TIGR03687	795955	Nesterenkonia sp. F	1	1
+200311	TIGR03687	862422	Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133	1	1
+200311	TIGR03687	888056	Actinomyces sp. oral taxon 448 str. F0400	1	1
+200311	TIGR03687	913774	Oidiodendron maius Zn	1	1
+200311	TIGR03687	935866	Nocardioides sp. J54	1	1
+200311	TIGR03687	996637	Streptomyces griseoaurantiacus M045	1	1
+200311	TIGR03687	1003195	Streptomyces cattleya NRRL 8057 = DSM 46488	1	1
+200311	TIGR03687	1030533	Streptomyces sp. Wb2n-11	1	1
+200311	TIGR03687	1032851	Corynebacterium nuruki	1	1
+200311	TIGR03687	1033736	Brevibacterium senegalense	1	1
+200311	TIGR03687	1045009	Citricoccus sp. CH26A	1	1
+200311	TIGR03687	1046556	Nocardioides daejeonensis	1	1
+200311	TIGR03687	1050153	Ornithinimicrobium murale	1	1
+200311	TIGR03687	1055352	Streptomyces sp. W007	1	1
+200311	TIGR03687	1056816	Nocardia sp. BMG51109	1	1
+200311	TIGR03687	1069073	Amycolatopsis halophila	1	1
+200311	TIGR03687	1075090	Gordonia amarae NBRC 15530	1	1
+200311	TIGR03687	1077972	Arthrobacter globiformis NBRC 12137	1	1
+200311	TIGR03687	1088767	Thermoactinospora rubra	1	1
+200311	TIGR03687	1095025	Demequina flava	1	1
+200311	TIGR03687	1095026	Demequina sediminicola	1	1
+200311	TIGR03687	1101188	Arthrobacter sp. MA-N2	1	1
+200311	TIGR03687	1108044	Gordonia otitidis NBRC 100426	1	1
+200311	TIGR03687	1118963	Arthrobacter sp. Rue61a	1	1
+200311	TIGR03687	1120938	Actinomadura flavalba	1	1
+200311	TIGR03687	1121721	Gordonia kroppenstedtii	1	1
+200311	TIGR03687	1121927	Gordonia hirsuta DSM 44140 = NBRC 16056	1	1
+200311	TIGR03687	1132441	Arthrobacter sp. 35W	1	1
+200311	TIGR03687	1136432	Streptomyces sp. CNH189	1	1
+200311	TIGR03687	1137268	Nocardiopsis sp. CNT312	1	1
+200311	TIGR03687	1137269	Streptomyces sp. CNH099	1	1
+200311	TIGR03687	1137961	Allokutzneria sp. NRRL B-24872	1	1
+200311	TIGR03687	1141647	Nocardia arizonensis	1	1
+200311	TIGR03687	1151061	Tsukamurella sp. 1534	1	1
+200311	TIGR03687	1155714	Streptomyces sp. LaPpAH-108	1	1
+200311	TIGR03687	1155718	Streptomyces sp. MspMP-M5	1	1
+200311	TIGR03687	1156844	Streptomyces sp. HmicA12	1	1
+200311	TIGR03687	1157634	Streptomyces sp. Amel2xE9	1	1
+200311	TIGR03687	1157635	Streptomyces sp. ATexAB-D23	1	1
+200311	TIGR03687	1157637	Streptomyces sp. BoleA5	1	1
+200311	TIGR03687	1160137	Nocardia sp. BMG111209	1	1
+200311	TIGR03687	1160705	Streptomyces viridochromogenes Tue57	1	1
+200311	TIGR03687	1160712	Mycobacterium avium subsp. hominissuis 3388	1	1
+200311	TIGR03687	1169152	Nocardia sp. CNY236	1	1
+200311	TIGR03687	1172188	Terracoccus sp. 273MFTsu3.1	1	1
+200311	TIGR03687	1194083	Tetrasphaera japonica T1-X7	1	1
+200311	TIGR03687	1214064	Promicromonosporaceae bacterium W15	1	1
+200311	TIGR03687	1214101	Streptomyces davaonensis JCM 4913	1	1
+200311	TIGR03687	1217415	Lysinimicrobium	1	1
+200311	TIGR03687	1220583	Gordonia aichiensis NBRC 108223	1	1
+200311	TIGR03687	1227262	Actinomyces johnsonii F0510	1	1
+200311	TIGR03687	1229203	actinobacterium LLX17	1	1
+200311	TIGR03687	1232429	Nesterenkonia massiliensis	1	1
+200311	TIGR03687	1246458	Nocardiopsis potens	1	1
+200311	TIGR03687	1255578	Micrococcus luteus Mu201	1	1
+200311	TIGR03687	1258893	Arthrobacter ruber	1	1
+200311	TIGR03687	1260983	Leptospirillum sp. Group IV 'UBA BS'	1	1
+200311	TIGR03687	1267973	Arthrobacter sp. H5	1	1
+200311	TIGR03687	1267981	Arthrobacter sp. H20	1	1
+200311	TIGR03687	1280675	Bifidobacterium sp. AGR2158	1	1
+200311	TIGR03687	1283283	Frankia sp. Iso899	1	1
+200311	TIGR03687	1283287	Nocardioides sp. Iso805N	1	1
+200311	TIGR03687	1288080	Streptomyces sp. CNT360	1	1
+200311	TIGR03687	1288082	Streptomyces sp. CNH287	1	1
+200311	TIGR03687	1288083	Streptomyces sp. TAA040	1	1
+200311	TIGR03687	1288391	Actinomyces timonensis	1	1
+200311	TIGR03687	1288636	Ornithinimicrobium flavum	1	1
+200311	TIGR03687	1289387	Streptomyces sp. TAA204	1	1
+200311	TIGR03687	1298863	Marmoricola sp. URHB0036	1	1
+200311	TIGR03687	1298880	Streptomyces sp. TAA486	1	1
+200311	TIGR03687	1299330	Mycobacterium avium subsp. avium 2285 (R)	1	1
+200311	TIGR03687	1299332	Mycobacterium ulcerans str. Harvey	1	1
+200311	TIGR03687	1300344	Isoptericola dokdonensis DS-3	1	1
+200311	TIGR03687	1302620	Cellulomonas sp. URHD0024	1	1
+200311	TIGR03687	1303692	Streptomyces fulvissimus DSM 40593	1	1
+200311	TIGR03687	1304279	Mycobacterium tuberculosis str. Haarlem/NITR202	1	1
+200311	TIGR03687	1304865	Cellulomonas sp. KRMCY2	1	1
+200311	TIGR03687	1305826	Streptomyces sp. Amel2xC10	1	1
+200311	TIGR03687	1305837	Streptomyces sp. CNS606	1	1
+200311	TIGR03687	1306538	Frankia symbiont of Coriaria arborea	1	1
+200311	TIGR03687	1312954	Arthrobacter sp. Br18	1	1
+200311	TIGR03687	1312959	Arthrobacter sp. H14	1	1
+200311	TIGR03687	1312978	Arthrobacter sp. H41	1	1
+200311	TIGR03687	1313172	Ilumatobacter coccineus YM16-304	1	1
+200311	TIGR03687	1321817	Actinomyces graevenitzii F0530	1	1
+200311	TIGR03687	1325934	Actinomyces polynesiensis	1	1
+200311	TIGR03687	1329411	Bifidobacterium aesculapii	1	1
+200311	TIGR03687	1339234	Kocuria sp. ZOR0020	1	1
+200311	TIGR03687	1352348	Allosalinactinospora lopnorensis	1	1
+200311	TIGR03687	1353275	Mycobacteroides abscessus V06705	1	1
+200311	TIGR03687	1366592	uncultured bacterium esnapd12	1	1
+200311	TIGR03687	1377993	Streptomyces hyaluromycini	1	1
+200311	TIGR03687	1379686	Streptomyces sp. AW19M42	1	1
+200311	TIGR03687	1380346	Streptomyces sp. URHA0041	1	1
+200311	TIGR03687	1380347	Geodermatophilaceae bacterium URHB0048	1	1
+200311	TIGR03687	1380353	Geodermatophilaceae bacterium URHB0062	1	1
+200311	TIGR03687	1380354	Cellulomonas sp. URHE0023	1	1
+200311	TIGR03687	1380356	Blastococcus sp. URHD0036	1	1
+200311	TIGR03687	1380370	Intrasporangiaceae bacterium URHB0013	1	1
+200311	TIGR03687	1380386	Mycobacterium sp. URHB0044	1	1
+200311	TIGR03687	1380388	Nocardioides sp. URHA0032	1	1
+200311	TIGR03687	1380392	Nocardioides sp. URHA0020	1	1
+200311	TIGR03687	1380393	Geodermatophilaceae bacterium URHA0031	1	1
+200311	TIGR03687	1394175	Bifidobacterium sp. 7101	1	1
+200311	TIGR03687	1394176	Bifidobacterium sp. A11	1	1
+200311	TIGR03687	1402194	Bifidobacterium animalis subsp. animalis IM386	1	1
+200311	TIGR03687	1403948	Varibaculum cambriense DORA_20	1	1
+200311	TIGR03687	1414719	Corynebacterium jeddahense	1	1
+200311	TIGR03687	1415402	Kocuria sp. 36	1	1
+200311	TIGR03687	1417980	Streptomyces odonnellii	1	1
+200311	TIGR03687	1427372	Mycobacterium tuberculosis variant microti OV254	1	1
+200311	TIGR03687	1428620	Streptomyces humi	1	1
+200311	TIGR03687	1429438	Candidatus Entotheonella factor	1	1
+200311	TIGR03687	1429439	Candidatus Entotheonella gemina	1	1
+200311	TIGR03687	1444768	Kitasatospora sp. MBT63	1	1
+200311	TIGR03687	1445613	Sciscionella sp. SE31	1	1
+200311	TIGR03687	1449069	Rhodococcus sp. UNC363MFTsu5.1	1	1
+200311	TIGR03687	1454010	Cellulomonas sp. HZM	1	1
+200311	TIGR03687	1461584	Arthrobacter saudimassiliensis	1	1
+200311	TIGR03687	1463833	Streptomyces sp. NRRL B-24484	1	1
+200311	TIGR03687	1463856	Streptomyces sp. NRRL F-5123	1	1
+200311	TIGR03687	1463857	Streptomyces sp. NRRL F-5126	1	1
+200311	TIGR03687	1463860	Streptomyces sp. NRRL F-5193	1	1
+200311	TIGR03687	1463861	Streptomyces sp. NRRL F-525	1	1
+200311	TIGR03687	1463886	Streptomyces sp. NRRL S-15	1	1
+200311	TIGR03687	1463901	Streptomyces sp. NRRL S-340	1	1
+200311	TIGR03687	1463902	Streptomyces sp. NRRL S-350	1	1
+200311	TIGR03687	1463903	Streptomyces sp. NRRL S-37	1	1
+200311	TIGR03687	1463919	Streptomyces sp. NRRL S-813	1	1
+200311	TIGR03687	1463920	Streptomyces sp. NRRL S-87	1	1
+200311	TIGR03687	1463926	Streptomyces sp. NRRL WC-3626	1	1
+200311	TIGR03687	1464554	Aeromicrobium massiliense	1	1
+200311	TIGR03687	1465811	Cellulomonas massiliensis	1	1
+200311	TIGR03687	1465825	Timonella senegalensis	1	1
+200311	TIGR03687	1470358	Candidatus Blastococcus massiliensis	1	1
+200311	TIGR03687	1472165	Talaromyces cellulolyticus	1	1
+200311	TIGR03687	1479623	Curtobacterium sp. S6	1	1
+200311	TIGR03687	1496689	Arthrobacter sp. L77	1	1
+200311	TIGR03687	1497974	Georgenia sp. SUBG003	1	1
+200311	TIGR03687	1499966	Candidatus Moduliflexus flocculans	1	1
+200311	TIGR03687	1499967	Candidatus Vecturithrix granuli	1	1
+200311	TIGR03687	1503470	cyanobacterium TDX16	1	1
+200311	TIGR03687	1504320	actinobacterium acAcidi	1	1
+200311	TIGR03687	1520455	Streptomyces sp. PanSC19	1	1
+200311	TIGR03687	1522309	Flaviflexus massiliensis	1	1
+200311	TIGR03687	1522310	Mobilicoccus massiliensis	1	1
+200311	TIGR03687	1522317	Nigerium massiliense	1	1
+200311	TIGR03687	1531955	Sinomonas mesophila	1	1
+200311	TIGR03687	1536641	Lysinimicrobium iriomotense	1	1
+200311	TIGR03687	1542435	Nocardioides solisilvae	1	1
+200311	TIGR03687	1550035	Streptomyces sp. NBRC 109706	1	1
+200311	TIGR03687	1550233	Blastococcus sp. DSM 44205	1	1
+200311	TIGR03687	1550399	marine actinobacterium MedAcidi-G1	1	1
+200311	TIGR03687	1550401	marine actinobacterium MedAcidi-G2B	1	1
+200311	TIGR03687	1553907	Streptomyces sp. CT34	1	1
+200311	TIGR03687	1570137	Arthrobacter sp. B6	1	1
+200311	TIGR03687	1570340	Demequina sp. NBRC 110051	1	1
+200311	TIGR03687	1570341	Demequina sp. NBRC 110052	1	1
+200311	TIGR03687	1570342	Demequina sp. NBRC 110053	1	1
+200311	TIGR03687	1570343	Demequina sp. NBRC 110054	1	1
+200311	TIGR03687	1570344	Demequina sp. NBRC 110055	1	1
+200311	TIGR03687	1570345	Demequina sp. NBRC 110056	1	1
+200311	TIGR03687	1570346	Demequina sp. NBRC 110057	1	1
+200311	TIGR03687	1571833	Arthrobacter sp. MN05-02	1	1
+200311	TIGR03687	1580530	Nonomuraea sp. SBT364	1	1
+200311	TIGR03687	1581193	Nonomuraea indica	1	1
+200311	TIGR03687	1588022	Arthrobacter sp. Hiyo6	1	1
+200311	TIGR03687	1609099	Streptomyces sp. NRRL F-6602	1	1
+200311	TIGR03687	1609104	Streptomyces sp. NRRL WC-3753	1	1
+200311	TIGR03687	1618839	Parcubacteria group bacterium GW2011_GWA2_47_10	1	1
+200311	TIGR03687	1619071	Candidatus Saccharibacteria bacterium GW2011_GWC2_48_9	1	1
+200311	TIGR03687	1619947	Terrabacter sp. 28	1	1
+200311	TIGR03687	1621259	Streptomyces sp. NBRC 110611	1	1
+200311	TIGR03687	1621260	Streptomyces sp. NBRC 110028	1	1
+200311	TIGR03687	1623398	Jiangella sp. KE2-3	1	1
+200311	TIGR03687	1629051	Micrococcaceae bacterium C1-50	1	1
+200311	TIGR03687	1631743	Brevibacterium ihuae	1	1
+200311	TIGR03687	1638980	Lysinimicrobium gelatinilyticum	1	1
+200311	TIGR03687	1638981	Lysinimicrobium flavum	1	1
+200311	TIGR03687	1638984	Lysinimicrobium pelophilum	1	1
+200311	TIGR03687	1638985	Lysinimicrobium rhizosphaerae	1	1
+200311	TIGR03687	1638987	Lysinimicrobium soli	1	1
+200311	TIGR03687	1638988	Lysinimicrobium luteum	1	1
+200311	TIGR03687	1638989	Lysinimicrobium subtropicum	1	1
+200311	TIGR03687	1642495	Phytoactinopolyspora endophytica	1	1
+200311	TIGR03687	1650571	Streptomyces pathocidini	1	1
+200311	TIGR03687	1652106	Candidatus Entotheonella serta	1	1
+200311	TIGR03687	1655564	Acidimicrobium sp. BACL27 MAG-120823-bin4	1	1
+200311	TIGR03687	1655566	Acidimicrobium sp. BACL19 MAG-120924-bin39	1	1
+200311	TIGR03687	1655575	Acidimicrobium sp. BACL17 MAG-120823-bin42	1	1
+200311	TIGR03687	1655585	Acidimicrobiia bacterium BACL6 MAG-120322-bin79	1	1
+200311	TIGR03687	1655586	Acidimicrobiia bacterium BACL6 MAG-120910-bin40	1	1
+200311	TIGR03687	1670830	Egicoccus halophilus	1	1
+200311	TIGR03687	1678130	Modestobacter sp. VKM Ac-2676	1	1
+200311	TIGR03687	1681197	Arthrobacter sp. RIT-PI-e	1	1
+200311	TIGR03687	1689268	Actinomyces urinae	1	1
+200311	TIGR03687	1689271	Cellulomonas timonensis	1	1
+200311	TIGR03687	1702043	Kocuria sp. BT304	1	1
+200311	TIGR03687	1703938	Streptomyces sp. CB02009	1	1
+200311	TIGR03687	1720192	Corynebacterium bouchesdurhonense	1	1
+200311	TIGR03687	1720193	Corynebacterium sp. MC3	1	1
+200311	TIGR03687	1720198	Actinomyces provencensis	1	1
+200311	TIGR03687	1735589	Nocardioides gilvus	1	1
+200311	TIGR03687	1736413	Nocardioides sp. Soil797	1	1
+200311	TIGR03687	1739413	Alloscardovia sp. HMSC034E08	1	1
+200311	TIGR03687	1755098	Brachybacterium massiliense	1	1
+200311	TIGR03687	1761904	Streptomyces sp. cf386	1	1
+200311	TIGR03687	1762962	Mycobacterium sp. M26	1	1
+200311	TIGR03687	1797201	Actinobacteria bacterium RBG_16_67_10	1	1
+200311	TIGR03687	1797204	Actinobacteria bacterium RBG_16_68_21	1	1
+200311	TIGR03687	1797205	Actinobacteria bacterium RBG_16_70_17	1	1
+200311	TIGR03687	1797208	Actinobacteria bacterium RBG_19FT_COMBO_70_19	1	1
+200311	TIGR03687	1797310	Candidatus Azambacteria bacterium RIFOXYD1_FULL_42_11	1	1
+200311	TIGR03687	1797835	Deltaproteobacteria bacterium RBG_13_65_10	1	1
+200311	TIGR03687	1799664	Nitrospira sp. SCGC AG-212-E16	1	1
+200311	TIGR03687	1801706	Nitrospirae bacterium RBG_16_43_11	1	1
+200311	TIGR03687	1801712	Nitrospirae bacterium RIFCSPHIGHO2_01_FULL_66_17	1	1
+200311	TIGR03687	1801718	Nitrospirae bacterium RIFCSPLOWO2_12_FULL_63_8	1	1
+200311	TIGR03687	1802097	Candidatus Rokubacteria bacterium GWC2_70_16	1	1
+200311	TIGR03687	1802103	Candidatus Rokubacteria bacterium RIFCSPHIGHO2_12_FULL_73_22	1	1
+200311	TIGR03687	1802276	Candidatus Sungbacteria bacterium RIFCSPLOWO2_01_FULL_47_10	1	1
+200311	TIGR03687	1803494	Actinobacteria bacterium 13_2_20CM_2_71_6	1	1
+200311	TIGR03687	1805350	Candidatus Rokubacteria bacterium 13_1_20CM_70_15	1	1
+200311	TIGR03687	1816684	Corynebacterium sp. Marseille-P2417	1	1
+200311	TIGR03687	1827376	Nitrospira sp. SG-bin1	1	1
+200311	TIGR03687	1848190	Rothia sp. ND6WE1A	1	1
+200311	TIGR03687	1851909	Streptomyces sp. E2N166	1	1
+200311	TIGR03687	1852361	Actinomyces bouchesdurhonensis	1	1
+200311	TIGR03687	1852372	Varibaculum sp. Marseille-P2802	1	1
+200311	TIGR03687	1852380	Corynebacterium urinapleomorphum	1	1
+200311	TIGR03687	1852390	Corynebacterium fournierii	1	1
+200311	TIGR03687	1854574	Streptomyces sp. HST28	1	1
+200311	TIGR03687	1855351	Streptomyces sp. PAN_FS17	1	1
+200311	TIGR03687	1857645	Actinomyces vulturis	1	1
+200311	TIGR03687	1871014	Arcanobacterium urinimassiliense	1	1
+200311	TIGR03687	1871028	Actinomyces mediterranea	1	1
+200311	TIGR03687	1872709	Micromonosporaceae bacterium CPCC 204380	1	1
+200311	TIGR03687	1890285	Streptomyces sp. LUP30	1	1
+200311	TIGR03687	1895696	Actinobacteria bacterium 69-20	1	1
+200311	TIGR03687	1895740	Cellulomonas sp. 73-92	1	1
+200311	TIGR03687	1895792	Micrococcales bacterium 73-15	1	1
+200311	TIGR03687	1895809	Pseudonocardia sp. 73-21	1	1
+200311	TIGR03687	1897063	Bifidobacteriales bacterium 56_10	1	1
+200311	TIGR03687	1909291	Frankiales bacterium	1	1
+200311	TIGR03687	1911520	Actinomycetales bacterium	1	1
+200311	TIGR03687	1919085	Actinobacteria bacterium QS_5_72_10	1	1
+200311	TIGR03687	1919086	Actinobacteria bacterium QS_8_72_14	1	1
+200311	TIGR03687	1926276	Actinomyces culturomici	1	1
+200311	TIGR03687	1926282	Kocuria sp. Marseille-P3598	1	1
+200311	TIGR03687	1932789	Jatrophihabitans sp.	1	1
+200311	TIGR03687	1938846	Streptomyces sp. 3212.3	1	1
+200311	TIGR03687	1938861	Streptomyces sp. TLI_55	1	1
+200311	TIGR03687	1962179	Actinomycetales bacterium mxb001	1	1
+200311	TIGR03687	1967499	Acidimicrobiales bacterium mtb01	1	1
+200311	TIGR03687	1970484	Acidimicrobiales bacterium 20-64-4	1	1
+200311	TIGR03687	1970488	Actinobacteria bacterium 21-64-8	1	1
+200311	TIGR03687	1970489	Actinobacteria bacterium 21-73-9	1	1
+200311	TIGR03687	1973217	Sanguibacter massiliensis	1	1
+200311	TIGR03687	1977087	Proteobacteria bacterium	1	1
+200311	TIGR03687	1985133	Nitrospira sp. CG24A	1	1
+200311	TIGR03687	1986616	Acidimicrobiaceae bacterium TMED130	1	1
+200311	TIGR03687	1986617	Actinobacteria bacterium TMED172	1	1
+200311	TIGR03687	1986661	bacterium TMED88	1	1
+200311	TIGR03687	1986848	Proteobacteria bacterium TMED72	1	1
+200311	TIGR03687	2002838	Actinomyces minihominis	1	1
+200311	TIGR03687	2005725	bacterium BMS3Bbin02	1	1
+200311	TIGR03687	2013649	Actinobacteria bacterium HGW-Actinobacteria-4	1	1
+200311	TIGR03687	2013650	Actinobacteria bacterium HGW-Actinobacteria-5	1	1
+200311	TIGR03687	2013653	Actinobacteria bacterium HGW-Actinobacteria-8	1	1
+200311	TIGR03687	2014528	Corynebacterium sp. Marseille-P4122	1	1
+200311	TIGR03687	2017685	Arthrobacter sp. PM3	1	1
+200311	TIGR03687	2020130	Arthrobacter sp. 7749	1	1
+200311	TIGR03687	2020377	Sinomonas sp. R1AF57	1	1
+200311	TIGR03687	2021970	Kocuria sp. 257	1	1
+200311	TIGR03687	2026739	Euryarchaeota archaeon	1	1
+200311	TIGR03687	2026770	Nitrospiraceae bacterium	1	1
+200311	TIGR03687	2026807	Zetaproteobacteria bacterium	1	1
+200311	TIGR03687	2034272	Streptomyces sp. rh34	1	1
+200311	TIGR03687	2034511	Mycobacterium sp. CECT 8779	1	1
+200311	TIGR03687	2035407	bacterium HR12	1	1
+200311	TIGR03687	2035835	Geodermatophilus chilensis	1	1
+200311	TIGR03687	2038139	Glycomyces xiaoerkulensis	1	1
+200311	TIGR03687	2050896	Brachybacterium timonense	1	1
+200311	TIGR03687	2052139	Patescibacteria group bacterium	1	1
+200311	TIGR03687	2057184	Mycobacterium sp. 3519A	1	1
+200311	TIGR03687	2058291	Janibacter sp. Marseille-P4121	1	1
+200311	TIGR03687	2058885	Arthrobacter sp. 08Y14	1	1
+200311	TIGR03687	2058887	Arthrobacter sp. 9E14	1	1
+200311	TIGR03687	2058891	Arthrobacter sp. B0490	1	1
+200311	TIGR03687	2058892	Arthrobacter sp. B1805	1	1
+200311	TIGR03687	2058893	Arthrobacter sp. DWC3	1	1
+200311	TIGR03687	2058894	Arthrobacter sp. GMC3	1	1
+200311	TIGR03687	2058896	Arthrobacter sp. SX1312	1	1
+200311	TIGR03687	2058897	Arthrobacter sp. Y81	1	1
+200311	TIGR03687	2058898	Arthrobacter sp. ZGTC131	1	1
+200311	TIGR03687	2058899	Arthrobacter sp. ZGTC212	1	1
+200311	TIGR03687	2059911	Brachybacterium sp. YJGR34	1	1
+200311	TIGR03687	2067551	Streptomyces sp. DJ	1	1
+200311	TIGR03687	2070508	Blastococcus atacamensis	1	1
+200311	TIGR03687	2079200	Actinocorallia populi	1	1
+200311	TIGR03687	2080302	Acidimicrobiia bacterium	1	1
+200311	TIGR03687	2080750	Corynebacterium sp. Marseille-P4329	1	1
+200311	TIGR03687	2083009	Actinomyces sp. Marseille-P3109	1	1
+200311	TIGR03687	2083010	Streptomyces sp. MA5143a	1	1
+200311	TIGR03687	2086582	Blastococcus sp. Marseille-P5729	1	1
+200311	TIGR03687	2094119	Mycobacterium basiliense	1	1
+200311	TIGR03687	2099692	Mycobacterium sp. ITM-2017-0098	1	1
+200311	TIGR03687	2099694	Mycobacterium sp. ITM-2016-00317	1	1
+200311	TIGR03687	2138162	Arcanobacterium sp. Marseille-P5647	1	1
+200311	TIGR03687	2144174	Nocardia sp. SYSU K10002	1	1
+200311	TIGR03687	2144182	Ornithinimicrobium sp. KCTC 49018	1	1
+200311	TIGR03687	2162665	Streptomyces sp. L2	1	1
+200311	TIGR03687	2164074	Nakamurella sp. 12Sc4-1	1	1
+200311	TIGR03687	2171622	Blastococcus litoris	1	1
+200311	TIGR03687	2171623	Miniimonas sp. S16	1	1
+200311	TIGR03687	2173172	Nocardioides sp. YIM ART13	1	1
+200311	TIGR03687	2182797	Streptomyces triticisoli	1	1
+200311	TIGR03687	2211210	Arthrobacter sp. DCT-5	1	1
+200311	TIGR03687	2211376	Candidatus Methylomirabilis lanthanidiphila	1	1
+200311	TIGR03687	2248773	Ornithinimicrobium sp. CPCC 203383	1	1
+200311	TIGR03687	2249762	Nonomuraea sp. NEAU-YG30	1	1
+200311	TIGR03687	2282476	Kocuria sp. CPCC 104605	1	1
+200311	TIGR03687	2282477	Propionibacteriaceae bacterium CPCC 204711	1	1
+200311	TIGR03687	2282648	Nesterenkonia sp. RB2	1	1
+200311	TIGR03687	2304675	Promicromonosporaceae bacterium CFH 30434	1	1
+200311	TIGR03687	2306021	Serinicoccus sp. GP-T3-3	1	1
+200311	TIGR03687	2306636	Cellulomonas sp. CPCC 204705	1	1
+200311	TIGR03687	2315329	Streptomyces sp. NEAU-SSA 1	1	1
+200311	TIGR03687	2320851	Arthrobacter sp. NEAU-SA2	1	1
+200311	TIGR03687	2340821	Nocardioides sp. SZ4R5S7	1	1
+200311	TIGR03687	2364794	Actinomycetaceae bacterium Marseille-P6182	1	1
+200311	TIGR03687	2364797	Varibaculum sp. Marseille-P5644	1	1
+200311	TIGR03687	2448023	Ilumatobacteraceae	1	1
+200311	TIGR03687	2483797	Georgenia sp. ZLJ0321	1	1
+200311	TIGR03687	2483798	Nocardioides sp. 603	1	1
+200311	TIGR03687	2483799	Georgenia sp. ZLJ0423	1	1
+200311	TIGR03687	2486853	Actinoplanes sp. LAM7112	1	1
+200311	TIGR03687	2494575	Micromonosporaceae bacterium KJ-029	1	1
+200311	TIGR03687	2494735	Cellulomonas sp. SYSUP0004	1	1
+200311	TIGR03687	2495881	Georgenia sp. SYP-B2076	1	1
+200311	TIGR03687	2495887	Nonomuraea sp. 160415	1	1
+200311	TIGR03687	2498559	Paracoccus sp. JC 501	1	1
+200311	TIGR03687	2499143	Streptomyces sp. RFCAC02	1	1
+200311	TIGR03687	2499145	Rhodococcus sp. X156	1	1
+200311	TIGR03687	2502198	Brevibacterium sp. 2SA	1	1
+200311	TIGR03687	2508326	Nocardioides sp. 503	1	1
+200311	TIGR03687	2508327	Nocardioides sp. 1609	1	1
+200311	TIGR03687	2512137	Streptomyces sp. BK042	1	1
+200311	TIGR03687	2512159	Streptomyces sp. BK447	1	1
+200311	TIGR03687	2512163	Streptomyces sp. BK329	1	1
+200311	TIGR03687	2512170	Streptomyces sp. BK308	1	1
+200311	TIGR03687	2518684	Haloactinobacterium sp. T3246_1	1	1
+200311	TIGR03687	2544896	Gordonia sp. HY189	1	1
+200311	TIGR03687	2545757	Rhodococcus sp. C9-28	1	1
+200311	TIGR03687	2546344	Cumulibacter sp. G-1	1	1
+200311	TIGR03687	2560010	Actinomyces sp. dk561	1	1
+200311	TIGR03687	2560022	Actinomyces sp. dk752	1	1
+200311	TIGR03687	2562314	Mycolicibacterium sp. CR10	1	1
+200311	TIGR03687	2565624	Sinomonas sp. NEAU-HV1	1	1
+200311	TIGR03687	2574732	Ornithinicoccus sp. XNB-1	1	1

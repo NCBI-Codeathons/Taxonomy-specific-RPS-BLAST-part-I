@@ -1,8 +1,16 @@
 #!/usr/bin/env python
+from Bio import Entrez
 
 class Node:
     def __init__(self, taxid, weight):
         self.taxid = taxid
+        self.name = None
+        if taxid != 0:
+            Entrez.email = "info@ncbi.nlm.nih.gov"
+            handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
+            records = Entrez.read(handle)
+            if len(records) == 1:
+                self.name = records[0]["ScientificName"]
         self.weight = weight
         self.parentNode = None
         self.childNodes = []
@@ -68,6 +76,8 @@ class Node:
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)
+        if self.name is not None:
+            res = "| Name: {}\n".format(self.name)
         res += "| Weight: {}\n".format(self.weight)
         ps = []
         p = self

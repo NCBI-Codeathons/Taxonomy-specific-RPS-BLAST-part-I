@@ -39,7 +39,14 @@ A table generate by [sql query](https://github.com/NCBI-Codeathons/Taxonomy-spec
 PSSM-Id: 129695,200311,334026,334050,337780,335786,274086,308214,315456,338615,287328,313550,313551,274263
 
 
-## FAQ
+## Future Work
+
+* Elaborate weight by considering taxonomic origin (e.g.: metagenomic, plasmids, synthetic/artificial) may count for less
+* Use model-specific thresholds to get better matches
+* Elaborate weight by providing higher weight to those sequences that have higher evalue/bitscore
+* Instead of IPG, go to the individual sequences and extract the taxid
+* From Ryan Connor: weights to consider the variation that sequences bring into the model
+
 ## People/Team
 Marc Gwadz, IEB/NCBI/NIH
 

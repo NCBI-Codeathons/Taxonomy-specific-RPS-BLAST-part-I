@@ -94,8 +94,11 @@ class Tree:
             bs = reversed(bs[1:])
             pre = "".join(["┃   " if b else "    " for b in bs])
 
-            if idx == 0 and len(nd.childNodes) < 2:
-                lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+            if idx == 0:
+                if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
+                    lines.append(pre + "┝━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+                else :
+                    lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
             elif idx == v:
                 lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
             else:

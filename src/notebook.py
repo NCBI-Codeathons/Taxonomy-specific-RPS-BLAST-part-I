@@ -7,6 +7,7 @@ Created: Thu Oct 17 14:51:30 2019
 import argparse
 import unittest
 import logging
+import os
 from taxtree.tree import Tree, createTree
 
 VERSION = '0.1'

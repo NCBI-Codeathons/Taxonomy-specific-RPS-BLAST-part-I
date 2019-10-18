@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 from Bio import Entrez
+import os
 
 class Node:
     def __init__(self, taxid, weight):
         self.taxid = taxid
         self.name = None
-        if taxid != 0:
+        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
             import getpass
             Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
             handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")

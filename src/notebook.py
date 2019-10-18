@@ -73,6 +73,9 @@ def main():
     tax_lineage = load_taxonomy_lineage()
     tuples = get_lineages_for_model_components(args.model_component_data, tax_lineage)
 
+    if args.show_names:
+        os.environ["GET_NAMES_FROM_ENTREZ"] = "1"
+
     tree = createTree(tuples)
 
     if args.show_tree:
@@ -97,6 +100,8 @@ def create_arg_parser():
                         help="Default: " + DFLT_LOGFILE)
     parser.add_argument("-show_tree", action='store_true',
                         help="Display taxonomy tree for model")
+    parser.add_argument("-show_names", action='store_true',
+                        help="Display taxonomic names instead of just taxids")
     parser.add_argument("-loglevel", default='INFO',
                         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"])
     parser.add_argument('-V', '--version', action='version',

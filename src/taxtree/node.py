@@ -88,7 +88,7 @@ class Node:
 
         ps = [str(id) for id in ps]
         res += "| Path: /{}\n".format("/".join(reversed(ps)))
-        cs = [n.name for n in self.childNodes]
+        cs = [n.name if n.name is not None else n.taxid for n in self.childNodes]
         cs = [str(id) for id in cs]
         res += "| Child Nodes: [{}]\n".format(", ".join(cs))
         return res

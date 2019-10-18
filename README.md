@@ -5,9 +5,9 @@ This 2019 NCBI-Codeathon project will develop a pipeline to assign a taxonomy id
 ## Dependencies:
 Python 3
 
-[ETE toolkit v3.1.1 or above](http://etetoolkit.org/documentation/ete-ncbiquery/)
+NCBI [Conserved Domain Architecture Retrieval Tool (CDART)](https://www.ncbi.nlm.nih.gov/Structure/lexington/docs/cdart_help.html)
 
-taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp site ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/new_taxdump/
+taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp site (ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/new_taxdump/)
 
 ## Workflow:
 ![alt text](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/Presentation/workflow.png)

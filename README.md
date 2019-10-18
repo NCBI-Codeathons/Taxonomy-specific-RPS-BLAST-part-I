@@ -7,6 +7,8 @@ This 2019 NCBI-Codeathon project will develop a pipeline to assign a taxonomy id
 ## Dependencies:
 Python 3
 
+BioPython
+
 NCBI [Conserved Domain Architecture Retrieval Tool (CDART)](https://www.ncbi.nlm.nih.gov/Structure/lexington/docs/cdart_help.html)
 
 taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp site (ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/new_taxdump/)

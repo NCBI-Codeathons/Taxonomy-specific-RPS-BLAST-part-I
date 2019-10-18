@@ -17,7 +17,7 @@ taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp s
 ![alt text](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/Presentation/workflow.png)
 ### Input: 
 
-A table generate by [sql querry](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/utilities/get-model-component-taxonomy.sh) against NCBI internal CDART database ([example file](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/src/data/pfam10339-components.tsv))
+A table generate by [sql query](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/utilities/get-model-component-taxonomy.sh) against NCBI internal CDART database ([example file](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/src/data/pfam10339-components.tsv))
 
 ### Command:
 `./notebook.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1>0]`

@@ -77,7 +77,7 @@ class Node:
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)
         if self.name is not None:
-            res = "| Name: {}\n".format(self.name)
+            res += "| Name: {}\n".format(self.name)
         res += "| Weight: {}\n".format(self.weight)
         ps = []
         p = self
@@ -87,7 +87,7 @@ class Node:
 
         ps = [str(id) for id in ps]
         res += "| Path: /{}\n".format("/".join(reversed(ps)))
-        cs = [n.taxid for n in self.childNodes]
+        cs = [n.name for n in self.childNodes]
         cs = [str(id) for id in cs]
         res += "| Child Nodes: [{}]\n".format(", ".join(cs))
         return res

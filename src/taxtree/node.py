@@ -91,4 +91,7 @@ class Node:
         cs = [n.name if n.name is not None else n.taxid for n in self.childNodes]
         cs = [str(id) for id in cs]
         res += "| Child Nodes: [{}]\n".format(", ".join(cs))
+        ws = [n.weight for n in self.childNodes]
+        ws = [str(w) for w in ws]
+        res += "| Child Weights: [{}]\n".format(", ".join(ws))
         return res

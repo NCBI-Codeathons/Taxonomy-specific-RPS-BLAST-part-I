@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from .node import Node
+import logging
 
 
 class Tree:
@@ -18,7 +19,7 @@ class Tree:
         # if self.catalog.get(node.taxid) is None:
         #     raise ValueError("node {} not exist in the tree".format(node.taxid))
         self.catalog.pop(node.taxid, None)
-        print("node {} removed from the tree".format(node.taxid))
+        logging.debug("node {} removed from the tree".format(node.taxid))
 
     def trim(self, node=None):
         if self is None or self.root is None:

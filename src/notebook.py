@@ -75,14 +75,14 @@ def main():
 
     tree = createTree(tuples)
 
-    print(tree)
+    if args.show_tree:
+        print(tree)
+
     print("lowest common node:")
     print(tree.lowestCommonNode())
     print("possible outlier:")
     print(tree.possibleOutlier())
     print(tree.report(args.threshold))
-
-
     return 0
 
 
@@ -95,6 +95,8 @@ def create_arg_parser():
                         default=.95)
     parser.add_argument("-logfile", default=DFLT_LOGFILE,
                         help="Default: " + DFLT_LOGFILE)
+    parser.add_argument("-show_tree", action='store_true',
+                        help="Display taxonomy tree for model")
     parser.add_argument("-loglevel", default='INFO',
                         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"])
     parser.add_argument('-V', '--version', action='version',

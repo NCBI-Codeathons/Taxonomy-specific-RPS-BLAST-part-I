@@ -81,6 +81,9 @@ def main():
     if args.show_tree:
         print(tree)
 
+    if args.shake:
+        tree.shake()
+
     print("lowest common node:")
     print(tree.lowestCommonNode())
     print("possible outlier:")
@@ -102,6 +105,8 @@ def create_arg_parser():
                         help="Display taxonomy tree for model")
     parser.add_argument("-show_names", action='store_true',
                         help="Display taxonomic names instead of just taxids")
+    parser.add_argument("-shake", action='store_true',
+                        help="Experimental: 'shakes' the tree to remove nodes that contribute less than 1%% to the parent's weight")
     parser.add_argument("-loglevel", default='INFO',
                         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"])
     parser.add_argument('-V', '--version', action='version',

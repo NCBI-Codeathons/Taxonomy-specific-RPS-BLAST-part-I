@@ -5,6 +5,7 @@
 SHELL=/bin/bash
 .PHONY: all clean distclean check
 VPATH=data
+VENV=.env
 
 all: taxidlineage.dmp
 	for f in data/*.tsv; do \
@@ -12,8 +13,8 @@ all: taxidlineage.dmp
 	done
 
 
-check: taxidlineage.dmp
-	./notebook.py data/pfam10339-components.tsv
+check: taxidlineage.dmp ${VENV}
+	source ${VENV}/bin/activate && ./notebook.py data/pfam10339-components.tsv
 
 
 taxidlineage.dmp:
@@ -24,7 +25,6 @@ taxidlineage.dmp:
 #########################################################################
 # Python support
 MODULE_NAME?=model2taxid
-VENV=.env
 
 anaconda_ete:
 	#wget -q http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O Miniconda3-latest-Linux-x86_64.sh

@@ -80,6 +80,7 @@ def main():
     print(tree.lowestCommonNode())
     print("possible outlier:")
     print(tree.possibleOutlier())
+    print(tree.report(args.threshold))
 
 
     return 0
@@ -89,6 +90,9 @@ def create_arg_parser():
     """ Create the command line options parser object for this script. """
     parser = argparse.ArgumentParser(description=DESC)
     parser.add_argument("model_component_data", type=argparse.FileType('r'))
+    parser.add_argument("-threshold", type=float,
+                        help="Threshold to report taxonomy node, default=.95",
+                        default=.95)
     parser.add_argument("-logfile", default=DFLT_LOGFILE,
                         help="Default: " + DFLT_LOGFILE)
     parser.add_argument("-loglevel", default='INFO',

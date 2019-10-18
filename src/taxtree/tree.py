@@ -71,6 +71,20 @@ class Tree:
         cns = sorted(p.childNodes, key=lambda nd : nd.weight)
         return cns[0]
 
+    def report(self, cutoff):
+        score = 1
+        nd = self.possibleOutlier()
+        ds = nd.weight / self.initialWeight
+        while score - ds > cutoff:
+            self.trim(nd)
+            score = score - ds
+            nd = self.possibleOutlier()
+            ds = nd.weight / self.initialWeight
+
+        res = self.lowestCommonNode()
+        print("\nto meet this threshold, the lowest common node is:")
+        print(res)
+
 
     def __str__(self):
         lines = []

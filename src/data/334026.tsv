@@ -1,0 +1,3103 @@
+domgi	accession	taxid	taxOrg	nPig	nGi
+334026	pfam00352	1313	Streptococcus pneumoniae	361	19567
+334026	pfam00352	2026714	Candidatus Bathyarchaeota archaeon	108	125
+334026	pfam00352	2026739	Euryarchaeota archaeon	73	87
+334026	pfam00352	2163009	Marine Group II euryarchaeote	50	54
+334026	pfam00352	28037	Streptococcus mitis	47	94
+334026	pfam00352	1906666	Thermoplasmata archaeon	46	58
+334026	pfam00352	2053489	Candidatus Lokiarchaeota archaeon	40	40
+334026	pfam00352	2026795	Thaumarchaeota archaeon	38	43
+334026	pfam00352	2250277	Thermoprotei archaeon	34	46
+334026	pfam00352	3880	Medicago truncatula	30	42
+334026	pfam00352	112090	Aphanomyces astaci	27	40
+334026	pfam00352	9606	Homo sapiens	25	273
+334026	pfam00352	137771	uncultured diatom	23	25
+334026	pfam00352	39947	Oryza sativa Japonica Group	20	35
+334026	pfam00352	4577	Zea mays	19	32
+334026	pfam00352	91943	Hortaea werneckii	19	25
+334026	pfam00352	2250254	Thermococci archaeon	18	23
+334026	pfam00352	7227	Drosophila melanogaster	17	108
+334026	pfam00352	4639	Ensete ventricosum	17	23
+334026	pfam00352	3848	Glycine soja	16	19
+334026	pfam00352	2053491	Candidatus Thorarchaeota archaeon	16	18
+334026	pfam00352	56688	Halorubrum	15	98
+334026	pfam00352	257758	Streptococcus pseudopneumoniae	15	30
+334026	pfam00352	3708	Brassica napus	14	22
+334026	pfam00352	3469	Papaver somniferum	14	21
+334026	pfam00352	7229	Drosophila miranda	14	14
+334026	pfam00352	2026803	Candidatus Woesearchaeota archaeon	14	14
+334026	pfam00352	7245	Drosophila yakuba	13	42
+334026	pfam00352	905079	Guillardia theta CCMP2712	13	28
+334026	pfam00352	6565	Crassostrea virginica	13	17
+334026	pfam00352	59895	Cynara cardunculus var. scolymus	13	14
+334026	pfam00352	299467	Leptotrombidium deliense	13	13
+334026	pfam00352	2251	Haloferax	12	75
+334026	pfam00352	29730	Gossypium raimondii	12	51
+334026	pfam00352	2242	Halobacterium salinarum	12	40
+334026	pfam00352	3847	Glycine max	12	35
+334026	pfam00352	158441	Folsomia candida	12	20
+334026	pfam00352	90675	Camelina sativa	12	17
+334026	pfam00352	2056630	Candidatus Korarchaeota archaeon	12	15
+334026	pfam00352	7240	Drosophila simulans	11	386
+334026	pfam00352	2207	Methanosarcina	11	111
+334026	pfam00352	10090	Mus musculus	11	24
+334026	pfam00352	9598	Pan troglodytes	11	22
+334026	pfam00352	4236	Lactuca sativa	11	13
+334026	pfam00352	214687	Musa acuminata subsp. malaccensis	11	13
+334026	pfam00352	2093792	Candidatus Aenigmarchaeota archaeon	11	13
+334026	pfam00352	35608	Artemisia annua	11	11
+334026	pfam00352	2250255	Methanosarcinales archaeon	11	11
+334026	pfam00352	4932	Saccharomyces cerevisiae	10	23
+334026	pfam00352	30019	Drosophila busckii	10	19
+334026	pfam00352	77166	Dendroctonus ponderosae	10	16
+334026	pfam00352	105785	Cryptotermes secundus	10	15
+334026	pfam00352	9823	Sus scrofa	10	13
+334026	pfam00352	68888	Trichuris suis	10	13
+334026	pfam00352	74649	Rosa chinensis	10	11
+334026	pfam00352	32264	Tetranychus urticae	10	10
+334026	pfam00352	53326	Ancylostoma ceylanicum	10	10
+334026	pfam00352	8355	Xenopus laevis	9	21
+334026	pfam00352	157072	Aphanomyces invadans	9	18
+334026	pfam00352	7962	Cyprinus carpio	9	15
+334026	pfam00352	28532	Tarenaya hassleriana	9	15
+334026	pfam00352	3750	Malus domestica	9	12
+334026	pfam00352	28612	Rhagoletis zephyria	9	12
+334026	pfam00352	218851	Aquilegia coerulea	9	11
+334026	pfam00352	244447	Cynoglossus semilaevis	9	11
+334026	pfam00352	1906665	archaeon	9	11
+334026	pfam00352	109478	Myotis brandtii	9	10
+334026	pfam00352	8081	Poecilia reticulata	9	9
+334026	pfam00352	66656	Durio zibethinus	9	9
+334026	pfam00352	8839	Anas platyrhynchos	8	64
+334026	pfam00352	9031	Gallus gallus	8	23
+334026	pfam00352	7244	Drosophila virilis	8	20
+334026	pfam00352	3711	Brassica rapa	8	19
+334026	pfam00352	9601	Pongo abelii	8	18
+334026	pfam00352	10116	Rattus norvegicus	8	18
+334026	pfam00352	4558	Sorghum bicolor	8	16
+334026	pfam00352	7217	Drosophila ananassae	8	16
+334026	pfam00352	293091	Haloquadratum walsbyi	8	16
+334026	pfam00352	13443	Coffea arabica	8	15
+334026	pfam00352	9913	Bos taurus	8	14
+334026	pfam00352	660517	Halobellus clavatus	8	13
+334026	pfam00352	7232	Drosophila navojoa	8	11
+334026	pfam00352	8187	Lates calcarifer	8	11
+334026	pfam00352	48699	Poecilia latipinna	8	10
+334026	pfam00352	113540	Scleropages formosus	8	10
+334026	pfam00352	3818	Arachis hypogaea	8	9
+334026	pfam00352	52904	Scophthalmus maximus	8	9
+334026	pfam00352	66420	Papilio xuthus	8	9
+334026	pfam00352	34508	Steinernema carpocapsae	8	8
+334026	pfam00352	3702	Arabidopsis thaliana	7	64
+334026	pfam00352	5580	Aureobasidium pullulans	7	49
+334026	pfam00352	1301	Streptococcus	7	45
+334026	pfam00352	338191	Nitrosopumilus	7	23
+334026	pfam00352	39152	Methanococcus maripaludis	7	19
+334026	pfam00352	7029	Acyrthosiphon pisum	7	17
+334026	pfam00352	7955	Danio rerio	7	17
+334026	pfam00352	8167	Perca flavescens	7	17
+334026	pfam00352	7160	Aedes albopictus	7	16
+334026	pfam00352	13164	Myzus persicae	7	16
+334026	pfam00352	7243	Drosophila teissieri	7	15
+334026	pfam00352	7222	Drosophila grimshawi	7	14
+334026	pfam00352	143948	Diuraphis noxia	7	14
+334026	pfam00352	1544718	Haloferax sp. SB29	7	14
+334026	pfam00352	215358	Larimichthys crocea	7	12
+334026	pfam00352	325452	Phytophthora kernoviae	7	12
+334026	pfam00352	7957	Carassius auratus	7	11
+334026	pfam00352	13333	Amborella trichopoda	7	11
+334026	pfam00352	76193	Papilio machaon	7	11
+334026	pfam00352	1608454	Sinocyclocheilus anshuiensis	7	11
+334026	pfam00352	2026886	Nitrosarchaeum sp.	7	11
+334026	pfam00352	63459	Chenopodium quinoa	7	10
+334026	pfam00352	1965070	Dinothrombium tinctorium	7	10
+334026	pfam00352	3641	Theobroma cacao	7	9
+334026	pfam00352	7234	Drosophila persimilis	7	9
+334026	pfam00352	31234	Caenorhabditis remanei	7	9
+334026	pfam00352	516756	Eufriesea mexicana	7	9
+334026	pfam00352	660518	Halorientalis regularis	7	9
+334026	pfam00352	6689	Penaeus vannamei	7	8
+334026	pfam00352	8128	Oreochromis niloticus	7	8
+334026	pfam00352	30732	Oryzias melastigma	7	8
+334026	pfam00352	57397	Apaloderma vittatum	7	8
+334026	pfam00352	59463	Myotis lucifugus	7	8
+334026	pfam00352	101020	Fragaria vesca subsp. vesca	7	8
+334026	pfam00352	1611254	Caenorhabditis nigoni	7	8
+334026	pfam00352	2056317	ANME-2 cluster archaeon	7	8
+334026	pfam00352	2250256	Candidatus Altiarchaeales archaeon	7	8
+334026	pfam00352	7282	Drosophila obscura	7	7
+334026	pfam00352	8036	Salvelinus alpinus	7	7
+334026	pfam00352	10181	Heterocephalus glaber	7	7
+334026	pfam00352	48701	Poecilia mexicana	7	7
+334026	pfam00352	55661	Cuculus canorus	7	7
+334026	pfam00352	93759	Corchorus olitorius	7	7
+334026	pfam00352	947166	Ramazzottius varieornatus	7	7
+334026	pfam00352	2282654	Saliphagus sp. LR7	7	7
+334026	pfam00352	94893	Arizona elegans	6	105
+334026	pfam00352	10029	Cricetulus griseus	6	36
+334026	pfam00352	31033	Takifugu rubripes	6	16
+334026	pfam00352	2208	Methanosarcina barkeri	6	15
+334026	pfam00352	3760	Prunus persica	6	15
+334026	pfam00352	15368	Brachypodium distachyon	6	15
+334026	pfam00352	7230	Drosophila mojavensis	6	12
+334026	pfam00352	46245	Drosophila pseudoobscura pseudoobscura	6	12
+334026	pfam00352	5693	Trypanosoma cruzi	6	11
+334026	pfam00352	5854	Plasmodium reichenowi	6	10
+334026	pfam00352	75366	Sinocyclocheilus grahami	6	10
+334026	pfam00352	307959	Sinocyclocheilus rhinocerous	6	10
+334026	pfam00352	7220	Drosophila erecta	6	9
+334026	pfam00352	7224	Drosophila hydei	6	9
+334026	pfam00352	7260	Drosophila willistoni	6	9
+334026	pfam00352	9646	Ailuropoda melanoleuca	6	9
+334026	pfam00352	30023	Drosophila elegans	6	9
+334026	pfam00352	43700	Monopterus albus	6	9
+334026	pfam00352	282301	Macrostomum lignano	6	9
+334026	pfam00352	8090	Oryzias latipes	6	8
+334026	pfam00352	9244	Calypte anna	6	8
+334026	pfam00352	42026	Drosophila bipectinata	6	8
+334026	pfam00352	57412	Colius striatus	6	8
+334026	pfam00352	79923	Clonorchis sinensis	6	8
+334026	pfam00352	211228	Cephus cinctus	6	8
+334026	pfam00352	3634	Gossypium barbadense	6	7
+334026	pfam00352	7868	Callorhinchus milii	6	7
+334026	pfam00352	54380	Cariama cristata	6	7
+334026	pfam00352	109280	Hippocampus comes	6	7
+334026	pfam00352	121845	Diaphorina citri	6	7
+334026	pfam00352	136037	Zootermopsis nevadensis	6	7
+334026	pfam00352	1495067	Halostagnicola sp. A56	6	7
+334026	pfam00352	4232	Helianthus annuus	6	6
+334026	pfam00352	4540	Panicum miliaceum	6	6
+334026	pfam00352	6265	Toxocara canis	6	6
+334026	pfam00352	7263	Drosophila arizonae	6	6
+334026	pfam00352	7266	Drosophila guanche	6	6
+334026	pfam00352	28584	Drosophila suzukii	6	6
+334026	pfam00352	30025	Drosophila ficusphila	6	6
+334026	pfam00352	32473	Xiphophorus couchianus	6	6
+334026	pfam00352	52838	Musa balbisiana	6	6
+334026	pfam00352	65357	Albugo candida	6	6
+334026	pfam00352	78828	Phalaenopsis equestris	6	6
+334026	pfam00352	105231	Klebsormidium nitens	6	6
+334026	pfam00352	147828	Opisthorchis felineus	6	6
+334026	pfam00352	232323	Hypsibius dujardini	6	6
+334026	pfam00352	299321	Denticeps clupeoides	6	6
+334026	pfam00352	717982	Auricularia subglabra TFB-10046 SS5	6	6
+334026	pfam00352	1573173	Colletotrichum incanum	6	6
+334026	pfam00352	1765057	Halobacterium sp. CBA1132	6	6
+334026	pfam00352	2018661	Diploscapter pachys	6	6
+334026	pfam00352	2250258	Archaeoglobales archaeon	6	6
+334026	pfam00352	46523	Cryptasterina pentagona	5	236
+334026	pfam00352	2209	Methanosarcina mazei	5	71
+334026	pfam00352	1644061	Natrialbaceae	5	55
+334026	pfam00352	106582	Maylandia zebra	5	26
+334026	pfam00352	8030	Salmo salar	5	21
+334026	pfam00352	905826	Marine Group I	5	20
+334026	pfam00352	38654	Alligator sinensis	5	14
+334026	pfam00352	2160	Methanobacterium	5	13
+334026	pfam00352	109461	Varroa destructor	5	13
+334026	pfam00352	5855	Plasmodium vivax	5	11
+334026	pfam00352	7238	Drosophila sechellia	5	10
+334026	pfam00352	29282	Haloarcula japonica	5	10
+334026	pfam00352	63740	Halorubrum vacuolatum	5	10
+334026	pfam00352	72664	Eutrema salsugineum	5	10
+334026	pfam00352	308853	Natronorubrum thiooxidans	5	10
+334026	pfam00352	370355	Entamoeba invadens IP1	5	10
+334026	pfam00352	419612	Camelus ferus	5	10
+334026	pfam00352	423536	Perkinsus marinus ATCC 50983	5	10
+334026	pfam00352	1126245	Haloplanus salinus	5	10
+334026	pfam00352	2226	Methanococcoides methylutens	5	9
+334026	pfam00352	6198	Opisthorchis viverrini	5	9
+334026	pfam00352	6210	Echinococcus granulosus	5	9
+334026	pfam00352	7091	Bombyx mori	5	9
+334026	pfam00352	9798	Equus przewalskii	5	9
+334026	pfam00352	302484	Haloferax larsenii	5	9
+334026	pfam00352	1234273	Tachysurus fulvidraco	5	9
+334026	pfam00352	1407499	Halobacterium hubeiense	5	9
+334026	pfam00352	2198	Methanoculleus marisnigri	5	8
+334026	pfam00352	4182	Sesamum indicum	5	8
+334026	pfam00352	4555	Setaria italica	5	8
+334026	pfam00352	7213	Ceratitis capitata	5	8
+334026	pfam00352	7739	Branchiostoma floridae	5	8
+334026	pfam00352	8022	Oncorhynchus mykiss	5	8
+334026	pfam00352	8469	Chelonia mydas	5	8
+334026	pfam00352	9685	Felis catus	5	8
+334026	pfam00352	80765	Aphis gossypii	5	8
+334026	pfam00352	85066	Corvus brachyrhynchos	5	8
+334026	pfam00352	103372	Acromyrmex echinatior	5	8
+334026	pfam00352	205130	Mastacembelus armatus	5	8
+334026	pfam00352	206008	Panicum hallii	5	8
+334026	pfam00352	2285	Sulfolobus acidocaldarius	5	7
+334026	pfam00352	3218	Physcomitrella patens	5	7
+334026	pfam00352	6279	Brugia malayi	5	7
+334026	pfam00352	7539	Leptinotarsa decemlineata	5	7
+334026	pfam00352	7918	Lepisosteus oculatus	5	7
+334026	pfam00352	27687	Erpetoichthys calabaricus	5	7
+334026	pfam00352	30419	Opisthocomus hoazin	5	7
+334026	pfam00352	42345	Phoenix dactylifera	5	7
+334026	pfam00352	72004	Bos mutus	5	7
+334026	pfam00352	108931	Nilaparvata lugens	5	7
+334026	pfam00352	116153	Aethina tumida	5	7
+334026	pfam00352	143950	Sipha flava	5	7
+334026	pfam00352	2250257	Candidatus Verstraetearchaeota archaeon	5	7
+334026	pfam00352	2711	Citrus sinensis	5	6
+334026	pfam00352	3726	Raphanus sativus	5	6
+334026	pfam00352	3821	Cajanus cajan	5	6
+334026	pfam00352	8208	Notothenia coriiceps	5	6
+334026	pfam00352	9430	Desmodus rotundus	5	6
+334026	pfam00352	29159	Crassostrea gigas	5	6
+334026	pfam00352	35883	Ipomoea nil	5	6
+334026	pfam00352	37653	Octopus bimaculoides	5	6
+334026	pfam00352	48698	Poecilia formosa	5	6
+334026	pfam00352	64144	Anabas testudineus	5	6
+334026	pfam00352	611791	Phytophthora palmivora var. palmivora	5	6
+334026	pfam00352	1841481	Seriola lalandi dorsalis	5	6
+334026	pfam00352	3900	Trifolium subterraneum	5	5
+334026	pfam00352	6192	Fasciola hepatica	5	5
+334026	pfam00352	6973	Blattella germanica	5	5
+334026	pfam00352	7274	Drosophila serrata	5	5
+334026	pfam00352	7897	Latimeria chalumnae	5	5
+334026	pfam00352	8153	Haplochromis burtoni	5	5
+334026	pfam00352	10195	Brachionus plicatilis	5	5
+334026	pfam00352	29029	Drosophila eugracilis	5	5
+334026	pfam00352	29030	Drosophila takahashii	5	5
+334026	pfam00352	29170	Ancylostoma caninum	5	5
+334026	pfam00352	30033	Drosophila kikkawai	5	5
+334026	pfam00352	36087	Trichuris trichiura	5	5
+334026	pfam00352	37003	Kryptolebias marmoratus	5	5
+334026	pfam00352	54374	Mesitornis unicolor	5	5
+334026	pfam00352	54383	Eurypyga helias	5	5
+334026	pfam00352	57068	Acanthisitta chloris	5	5
+334026	pfam00352	57421	Merops nubicus	5	5
+334026	pfam00352	61180	Oesophagostomum dentatum	5	5
+334026	pfam00352	68886	Theileria orientalis	5	5
+334026	pfam00352	115547	uncultured archaeon	5	5
+334026	pfam00352	125945	Drosophila biarmipes	5	5
+334026	pfam00352	158386	Olea europaea var. sylvestris	5	5
+334026	pfam00352	180675	Salvia splendens	5	5
+334026	pfam00352	187382	Chlamydotis macqueenii	5	5
+334026	pfam00352	240159	Collichthys lucidus	5	5
+334026	pfam00352	246437	Tupaia chinensis	5	5
+334026	pfam00352	376171	Haloplanus natans	5	5
+334026	pfam00352	994334	Jimgerdemannia flammicorona	5	5
+334026	pfam00352	1041015	Drosophila rhopaloa	5	5
+334026	pfam00352	1314781	Exidia glandulosa HHB12029	5	5
+334026	pfam00352	1448860	Halobellus rufus	5	5
+334026	pfam00352	1477025	Hyposmocoma kahamanoa	5	5
+334026	pfam00352	1590841	Actinidia chinensis var. chinensis	5	5
+334026	pfam00352	1698264	candidate division MSBL1 archaeon SCGC-AAA259E19	5	5
+334026	pfam00352	1710538	Halosimplex sp. YPL4	5	5
+334026	pfam00352	1803816	Thermoplasmatales archaeon SG8-52-1	5	5
+334026	pfam00352	1906667	Methanomassiliicoccales archaeon	5	5
+334026	pfam00352	2026764	Nanoarchaeota archaeon	5	5
+334026	pfam00352	2293855	Methanocalculus sp. MSAO_Arc2	5	5
+334026	pfam00352	8932	Columba livia	4	51
+334026	pfam00352	9544	Macaca mulatta	4	23
+334026	pfam00352	2252	Haloferax mediterranei	4	20
+334026	pfam00352	2172	Methanobrevibacter	4	16
+334026	pfam00352	2263	Thermococcus	4	16
+334026	pfam00352	7159	Aedes aegypti	4	15
+334026	pfam00352	9615	Canis lupus familiaris	4	14
+334026	pfam00352	9305	Sarcophilus harrisii	4	13
+334026	pfam00352	9691	Panthera pardus	4	13
+334026	pfam00352	660522	Haloplanus aerogenes	4	12
+334026	pfam00352	6239	Caenorhabditis elegans	4	11
+334026	pfam00352	1088740	Nitrosarchaeum koreense	4	11
+334026	pfam00352	2015173	Ooceraea biroi	4	11
+334026	pfam00352	8019	Oncorhynchus kisutch	4	10
+334026	pfam00352	104421	Camponotus floridanus	4	10
+334026	pfam00352	1591054	Thermococcus sp. EP1	4	10
+334026	pfam00352	1898749	Candidatus Nitrosomarinus catalina	4	10
+334026	pfam00352	7070	Tribolium castaneum	4	9
+334026	pfam00352	8010	Esox lucius	4	9
+334026	pfam00352	31271	Plasmodium chabaudi chabaudi	4	9
+334026	pfam00352	40151	Monodon monoceros	4	9
+334026	pfam00352	55802	Thermococcus barophilus	4	9
+334026	pfam00352	2201	Methanofollis liminatans	4	8
+334026	pfam00352	4155	Erythranthe guttata	4	8
+334026	pfam00352	4781	Plasmopara halstedii	4	8
+334026	pfam00352	5858	Plasmodium malariae	4	8
+334026	pfam00352	7668	Strongylocentrotus purpuratus	4	8
+334026	pfam00352	41447	Seriola dumerili	4	8
+334026	pfam00352	85681	Citrus clementina	4	8
+334026	pfam00352	88036	Selaginella moellendorffii	4	8
+334026	pfam00352	143995	Megachile rotundata	4	8
+334026	pfam00352	180454	Anopheles gambiae str. PEST	4	8
+334026	pfam00352	392421	Haloterrigena hispanica	4	8
+334026	pfam00352	412030	Paramecium tetraurelia strain d4-2	4	8
+334026	pfam00352	413812	Natronococcus jeotgali	4	8
+334026	pfam00352	416273	Natronomonas moolapensis	4	8
+334026	pfam00352	456900	Cyphomyrmex costatus	4	8
+334026	pfam00352	475088	Methanosphaerula palustris	4	8
+334026	pfam00352	555874	Haloplanus vescus	4	8
+334026	pfam00352	1502292	Marine Group I thaumarchaeote SCGC AAA799-E16	4	8
+334026	pfam00352	1712654	Thermococcus piezophilus	4	8
+334026	pfam00352	2249761	Halorubrum sp. 48-1-W	4	8
+334026	pfam00352	2321230	Halococcus sp. IIIV-5B	4	8
+334026	pfam00352	2497325	Halorubrum sp. BOL3-1	4	8
+334026	pfam00352	10093	Mus pahari	4	7
+334026	pfam00352	29053	Copidosoma floridanum	4	7
+334026	pfam00352	34720	Trachymyrmex septentrionalis	4	7
+334026	pfam00352	35570	Stomoxys calcitrans	4	7
+334026	pfam00352	42514	Pygocentrus nattereri	4	7
+334026	pfam00352	178035	Dufourea novaeangliae	4	7
+334026	pfam00352	403181	Haloferax mucosum	4	7
+334026	pfam00352	647221	Plasmodium gaboni	4	7
+334026	pfam00352	742174	Melanaphis sacchari	4	7
+334026	pfam00352	1676925	Paramormyrops kingsleyae	4	7
+334026	pfam00352	2077204	Haloferax sp. Atlit-10N	4	7
+334026	pfam00352	3635	Gossypium hirsutum	4	6
+334026	pfam00352	8083	Xiphophorus maculatus	4	6
+334026	pfam00352	8255	Paralichthys olivaceus	4	6
+334026	pfam00352	8996	Numida meleagris	4	6
+334026	pfam00352	13616	Monodelphis domestica	4	6
+334026	pfam00352	27337	Verticillium dahliae	4	6
+334026	pfam00352	30464	Nothoprocta perdicaria	4	6
+334026	pfam00352	64176	Podarcis muralis	4	6
+334026	pfam00352	69319	Microplitis demolitor	4	6
+334026	pfam00352	69820	Spodoptera litura	4	6
+334026	pfam00352	71139	Eucalyptus grandis	4	6
+334026	pfam00352	104688	Bactrocera oleae	4	6
+334026	pfam00352	118126	Methanoculleus chikugoensis	4	6
+334026	pfam00352	210632	Parambassis ranga	4	6
+334026	pfam00352	414004	Cenarchaeum symbiosum A	4	6
+334026	pfam00352	441366	Gouania willdenowi	4	6
+334026	pfam00352	699431	Halolamina pelagica	4	6
+334026	pfam00352	864141	Plasmodium ovale curtisi	4	6
+334026	pfam00352	1008153	Halalkalicoccus paucihalophilus	4	6
+334026	pfam00352	1048396	Halopenitus persicus	4	6
+334026	pfam00352	1173487	Halorubrum sp. AJ67	4	6
+334026	pfam00352	1498500	Halorubrum sp. BV1	4	6
+334026	pfam00352	2250276	Hadesarchaea archaeon	4	6
+334026	pfam00352	2507556	Candidatus Nitrosotenuis sp.	4	6
+334026	pfam00352	3871	Lupinus angustifolius	4	5
+334026	pfam00352	7038	Bemisia tabaci	4	5
+334026	pfam00352	7998	Ictalurus punctatus	4	5
+334026	pfam00352	9172	Sturnus vulgaris	4	5
+334026	pfam00352	9238	Pygoscelis adeliae	4	5
+334026	pfam00352	9793	Equus asinus	4	5
+334026	pfam00352	10160	Octodon degus	4	5
+334026	pfam00352	13735	Pelodiscus sinensis	4	5
+334026	pfam00352	79200	Daucus carota subsp. sativus	4	5
+334026	pfam00352	79782	Cimex lectularius	4	5
+334026	pfam00352	94827	Tinamus guttatus	4	5
+334026	pfam00352	99883	Tetraodon nigroviridis	4	5
+334026	pfam00352	105023	Nothobranchius furzeri	4	5
+334026	pfam00352	110368	Bicyclus anynana	4	5
+334026	pfam00352	176946	Python bivittatus	4	5
+334026	pfam00352	218467	Centruroides sculpturatus	4	5
+334026	pfam00352	441894	Struthio camelus australis	4	5
+334026	pfam00352	613905	Nylanderia fulva	4	5
+334026	pfam00352	649802	Pipra filicauda	4	5
+334026	pfam00352	885580	Fukomys damarensis	4	5
+334026	pfam00352	888268	Dichanthelium oligosanthes	4	5
+334026	pfam00352	1526048	Haloferax sp. Q22	4	5
+334026	pfam00352	1698261	candidate division MSBL1 archaeon SCGC-AAA259D14	4	5
+334026	pfam00352	1698267	candidate division MSBL1 archaeon SCGC-AAA259I09	4	5
+334026	pfam00352	2056316	Methanophagales archaeon	4	5
+334026	pfam00352	3712	Brassica oleracea	4	4
+334026	pfam00352	4572	Triticum urartu	4	4
+334026	pfam00352	4615	Ananas comosus	4	4
+334026	pfam00352	4686	Asparagus officinalis	4	4
+334026	pfam00352	4790	Phytophthora nicotianae	4	4
+334026	pfam00352	4795	Phytophthora megakarya	4	4
+334026	pfam00352	6269	Anisakis simplex	4	4
+334026	pfam00352	6293	Wuchereria bancrofti	4	4
+334026	pfam00352	6339	Heligmosomoides polygyrus	4	4
+334026	pfam00352	6850	Limulus polyphemus	4	4
+334026	pfam00352	6956	Dermatophagoides pteronyssinus	4	4
+334026	pfam00352	9209	Phalacrocorax carbo	4	4
+334026	pfam00352	9361	Dasypus novemcinctus	4	4
+334026	pfam00352	29078	Eptesicus fuscus	4	4
+334026	pfam00352	29172	Dictyocaulus viviparus	4	4
+334026	pfam00352	32507	Neolamprologus brichardi	4	4
+334026	pfam00352	33528	Gambusia affinis	4	4
+334026	pfam00352	39946	Oryza sativa Indica Group	4	4
+334026	pfam00352	44394	Zonotrichia albicollis	4	4
+334026	pfam00352	49369	Coffea eugenioides	4	4
+334026	pfam00352	51022	Ancylostoma duodenale	4	4
+334026	pfam00352	51655	Plutella xylostella	4	4
+334026	pfam00352	51953	Elaeis guineensis	4	4
+334026	pfam00352	56723	Labrus bergylta	4	4
+334026	pfam00352	60516	Dibothriocephalus latus	4	4
+334026	pfam00352	63057	Trema orientale	4	4
+334026	pfam00352	69181	Brassica cretica	4	4
+334026	pfam00352	80972	Amphiprion ocellaris	4	4
+334026	pfam00352	88456	Cyclospora cayetanensis	4	4
+334026	pfam00352	90426	Methanothrix sp.	4	4
+334026	pfam00352	97097	Phaethon lepturus	4	4
+334026	pfam00352	100787	Verticillium longisporum	4	4
+334026	pfam00352	104452	Operophtera brumata	4	4
+334026	pfam00352	114398	Parasteatoda tepidariorum	4	4
+334026	pfam00352	114742	Pythium insidiosum	4	4
+334026	pfam00352	123683	Oryzias javanicus	4	4
+334026	pfam00352	144197	Stegastes partitus	4	4
+334026	pfam00352	151549	Eumeta japonica	4	4
+334026	pfam00352	188379	Egretta garzetta	4	4
+334026	pfam00352	191816	Lynx pardinus	4	4
+334026	pfam00352	241478	Soboliphyme baturini	4	4
+334026	pfam00352	279965	Antrostomus carolinensis	4	4
+334026	pfam00352	286706	Halyomorpha halys	4	4
+334026	pfam00352	307972	Apostichopus japonicus	4	4
+334026	pfam00352	326594	Ceratosolen solmsi marchali	4	4
+334026	pfam00352	387005	Onchocerca flexuosa	4	4
+334026	pfam00352	400727	Pomacea canaliculata	4	4
+334026	pfam00352	407821	Stegodyphus mimosarum	4	4
+334026	pfam00352	418985	Tropilaelaps mercedesae	4	4
+334026	pfam00352	454923	Diachasma alloeum	4	4
+334026	pfam00352	680683	Amyelois transitella	4	4
+334026	pfam00352	981085	Morus notabilis	4	4
+334026	pfam00352	1198116	Thermoplasmatales archaeon SCGC AB-539-N05	4	4
+334026	pfam00352	1508454	Haloferax sp. ATB1	4	4
+334026	pfam00352	1698260	candidate division MSBL1 archaeon SCGC-AAA259B11	4	4
+334026	pfam00352	1698269	candidate division MSBL1 archaeon SCGC-AAA259J03	4	4
+334026	pfam00352	1811728	Methanomassiliicoccales archaeon PtaB.Bin215	4	4
+334026	pfam00352	1890364	Planoprotostelium fungivorum	4	4
+334026	pfam00352	2012491	Candidatus Lokiarchaeota archaeon Loki_b32	4	4
+334026	pfam00352	2013817	Methanomicrobiales archaeon HGW-Methanomicrobiales-1	4	4
+334026	pfam00352	2013820	Methanomicrobiales archaeon HGW-Methanomicrobiales-4	4	4
+334026	pfam00352	2026747	Candidatus Heimdallarchaeota archaeon	4	4
+334026	pfam00352	2026768	Nitrosopumilales archaeon	4	4
+334026	pfam00352	2250275	Candidatus Hydrothermarchaeota archaeon	4	4
+334026	pfam00352	2483409	Nothophytophthora sp. Chile5	4	4
+334026	pfam00352	2485498	Methanoregulaceae archaeon	4	4
+334026	pfam00352	2505976	Halorussus sp. LYG-36	4	4
+334026	pfam00352	2528041	Methanomassiliicoccus sp.	4	4
+334026	pfam00352	2528830	Halostella sp. LYG-109	4	4
+334026	pfam00352	2562280	Halomicroarcula sp. LR21	4	4
+334026	pfam00352	59729	Taeniopygia guttata	3	51
+334026	pfam00352	36329	Plasmodium falciparum 3D7	3	32
+334026	pfam00352	129105	Drosophila santomea	3	24
+334026	pfam00352	294381	Entamoeba histolytica HM-1:IMSS	3	22
+334026	pfam00352	508771	Toxoplasma gondii ME49	3	22
+334026	pfam00352	245174	Wallemia ichthyophaga	3	20
+334026	pfam00352	761204	Phytophthora parasitica INRA-310	3	19
+334026	pfam00352	8364	Xenopus tropicalis	3	17
+334026	pfam00352	1157616	Hortaea werneckii EXF-2000	3	17
+334026	pfam00352	128390	Nipponia nippon	3	16
+334026	pfam00352	130453	Arachis duranensis	3	16
+334026	pfam00352	212035	Acanthamoeba polyphaga mimivirus	3	16
+334026	pfam00352	44930	Natronobacterium gregoryi	3	15
+334026	pfam00352	310752	Balaenoptera acutorostrata scammoni	3	13
+334026	pfam00352	32536	Acinonyx jubatus	3	12
+334026	pfam00352	35019	Thamnophis sirtalis	3	12
+334026	pfam00352	35746	Haloferax gibbonsii	3	11
+334026	pfam00352	60847	Halogeometricum borinquense	3	11
+334026	pfam00352	3885	Phaseolus vulgaris	3	10
+334026	pfam00352	5851	Plasmodium knowlesi strain H	3	10
+334026	pfam00352	12957	Atta cephalotes	3	10
+334026	pfam00352	610380	Harpegnathos saltator	3	10
+334026	pfam00352	4096	Nicotiana sylvestris	3	9
+334026	pfam00352	29058	Helicoverpa armigera	3	9
+334026	pfam00352	175836	Buceros rhinoceros silvestris	3	9
+334026	pfam00352	572307	Neospora caninum Liverpool	3	9
+334026	pfam00352	1073996	Halohasta litchfieldiae	3	9
+334026	pfam00352	1236180	Halopelagius longus	3	9
+334026	pfam00352	1437191	Osmia bicornis bicornis	3	9
+334026	pfam00352	4098	Nicotiana tomentosiformis	3	8
+334026	pfam00352	5477	[Candida] boidinii	3	8
+334026	pfam00352	7176	Culex quinquefasciatus	3	8
+334026	pfam00352	9940	Ovis aries	3	8
+334026	pfam00352	103695	Pogona vitticeps	3	8
+334026	pfam00352	172049	Thermococcus sibiricus	3	8
+334026	pfam00352	277988	Thermococcus thioreducens	3	8
+334026	pfam00352	869250	Theileria orientalis strain Shintoku	3	8
+334026	pfam00352	1007084	Candidatus Nitrosarchaeum limnium	3	8
+334026	pfam00352	1432141	Rhizophagus irregularis DAOM 197198w	3	8
+334026	pfam00352	1869227	bacterium	3	8
+334026	pfam00352	6185	Schistosoma haematobium	3	7
+334026	pfam00352	27457	Bactrocera dorsalis	3	7
+334026	pfam00352	30195	Bombus terrestris	3	7
+334026	pfam00352	64791	Trachymyrmex zeteki	3	7
+334026	pfam00352	69525	Natrinema pellirubrum	3	7
+334026	pfam00352	89673	Phyllostomus discolor	3	7
+334026	pfam00352	158456	Betta splendens	3	7
+334026	pfam00352	326968	Ziziphus jujuba	3	7
+334026	pfam00352	337243	Halorubrum ezzemoulense	3	7
+334026	pfam00352	486041	Laccaria bicolor S238N-H82	3	7
+334026	pfam00352	1608465	Natrinema sp. CBA1119	3	7
+334026	pfam00352	2012524	Thermoplasmatales archaeon ex4484_6	3	7
+334026	pfam00352	2022692	Nitrosopumilales archaeon CG11_big_fil_rev_8_21_14_0_20_33_24	3	7
+334026	pfam00352	2264	Thermococcus celer	3	6
+334026	pfam00352	3694	Populus trichocarpa	3	6
+334026	pfam00352	3988	Ricinus communis	3	6
+334026	pfam00352	4072	Capsicum annuum	3	6
+334026	pfam00352	5801	Eimeria acervulina	3	6
+334026	pfam00352	5857	Plasmodium fragile	3	6
+334026	pfam00352	6183	Schistosoma mansoni	3	6
+334026	pfam00352	7375	Lucilia cuprina	3	6
+334026	pfam00352	7463	Apis florea	3	6
+334026	pfam00352	7493	Trichogramma pretiosum	3	6
+334026	pfam00352	9371	Echinops telfairi	3	6
+334026	pfam00352	10141	Cavia porcellus	3	6
+334026	pfam00352	13686	Solenopsis invicta	3	6
+334026	pfam00352	34839	Chinchilla lanigera	3	6
+334026	pfam00352	51031	Necator americanus	3	6
+334026	pfam00352	51315	Eimeria necatrix	3	6
+334026	pfam00352	67593	Phytophthora sojae	3	6
+334026	pfam00352	103944	Protobothrops mucrosquamatus	3	6
+334026	pfam00352	121224	Pediculus humanus corporis	3	6
+334026	pfam00352	150288	Boleophthalmus pectinirostris	3	6
+334026	pfam00352	156304	Ceratina calcarata	3	6
+334026	pfam00352	222816	Orussus abietinus	3	6
+334026	pfam00352	222984	Natrinema altunense	3	6
+334026	pfam00352	225117	Pyrus x bretschneideri	3	6
+334026	pfam00352	227321	Aspergillus nidulans FGSC A4	3	6
+334026	pfam00352	246969	Thermococcus sp. AM4	3	6
+334026	pfam00352	268735	Halonotius pteroides	3	6
+334026	pfam00352	355548	Halobacterium jilantaiense	3	6
+334026	pfam00352	358766	Methanoregula boonei	3	6
+334026	pfam00352	370354	Entamoeba dispar SAW760	3	6
+334026	pfam00352	403677	Phytophthora infestans T30-4	3	6
+334026	pfam00352	462227	Babesia sp. Xinjiang	3	6
+334026	pfam00352	484906	Babesia bovis T2Bo	3	6
+334026	pfam00352	555875	Halogeometricum limi	3	6
+334026	pfam00352	597456	Habropoda laboriosa	3	6
+334026	pfam00352	619731	Halostagnicola kamekurae	3	6
+334026	pfam00352	660520	Halogranum amylolyticum	3	6
+334026	pfam00352	695850	Saprolegnia parasitica CBS 223.65	3	6
+334026	pfam00352	755307	Salinigranum rubrum	3	6
+334026	pfam00352	796027	Sugiyamaella lignohabitans	3	6
+334026	pfam00352	882104	Methanoregula formicica	3	6
+334026	pfam00352	946362	Salpingoeca rosetta	3	6
+334026	pfam00352	1133968	Babesia microti strain RI	3	6
+334026	pfam00352	1156394	Saprolegnia diclina VS20	3	6
+334026	pfam00352	1170320	Candidatus Nitrosopumilus salaria	3	6
+334026	pfam00352	1367881	Halorientalis persicus	3	6
+334026	pfam00352	1383851	Halorubrum halodurans	3	6
+334026	pfam00352	1407055	Thaumarchaeota archaeon N4	3	6
+334026	pfam00352	1514971	Haloprofundus marisrubri	3	6
+334026	pfam00352	1544719	Haloferax sp. SB3	3	6
+334026	pfam00352	1674923	Thermococcus sp. 2319x1	3	6
+334026	pfam00352	2077203	Haloferax sp. Atlit-12N	3	6
+334026	pfam00352	2282125	Haloarcula sp. Atlit-7R	3	6
+334026	pfam00352	2479928	Halorientalis sp. F13-25	3	6
+334026	pfam00352	2265	Thermococcus litoralis	3	5
+334026	pfam00352	6573	Mizuhopecten yessoensis	3	5
+334026	pfam00352	7102	Heliothis virescens	3	5
+334026	pfam00352	7574	Lingula anatina	3	5
+334026	pfam00352	8005	Electrophorus electricus	3	5
+334026	pfam00352	8954	Falco peregrinus	3	5
+334026	pfam00352	9258	Ornithorhynchus anatinus	3	5
+334026	pfam00352	10036	Mesocricetus auratus	3	5
+334026	pfam00352	13146	Melopsittacus undulatus	3	5
+334026	pfam00352	28588	Zeugodacus cucurbitae	3	5
+334026	pfam00352	29760	Vitis vinifera	3	5
+334026	pfam00352	39432	Saimiri boliviensis boliviensis	3	5
+334026	pfam00352	43146	Rhopalosiphum maidis	3	5
+334026	pfam00352	52670	Austrofundulus limnaeus	3	5
+334026	pfam00352	64793	Wasmannia auropunctata	3	5
+334026	pfam00352	74940	Oncorhynchus tshawytscha	3	5
+334026	pfam00352	80966	Acanthochromis polyacanthus	3	5
+334026	pfam00352	100784	Balearica regulorum gibbericeps	3	5
+334026	pfam00352	180498	Jatropha curcas	3	5
+334026	pfam00352	187878	Thermococcus gammatolerans	3	5
+334026	pfam00352	207710	Prosopis alba	3	5
+334026	pfam00352	224129	Agrilus planipennis	3	5
+334026	pfam00352	304371	Methanocella paludicola SANAE	3	5
+334026	pfam00352	307658	Monomorium pharaonis	3	5
+334026	pfam00352	310915	Pangasianodon hypophthalmus	3	5
+334026	pfam00352	336983	Colobus angolensis palliatus	3	5
+334026	pfam00352	411798	Vollenhovia emeryi	3	5
+334026	pfam00352	471704	Trachymyrmex cornetzi	3	5
+334026	pfam00352	913025	Thermococcus sp. PK	3	5
+334026	pfam00352	971279	Palaeococcus pacificus	3	5
+334026	pfam00352	1419722	Halorubrum sp. SD626R	3	5
+334026	pfam00352	1495314	Methanoculleus sp. MH98A	3	5
+334026	pfam00352	1932360	Halorientalis sp. IM1011	3	5
+334026	pfam00352	2024843	Nitrosopumilus sp.	3	5
+334026	pfam00352	2282128	Halorubrum sp. Atlit-26R	3	5
+334026	pfam00352	2478554	Nitrosopumilus sp. D6	3	5
+334026	pfam00352	2507075	Methanosarcina sp. MSH10X1	3	5
+334026	pfam00352	2309	Pyrodictium occultum	3	4
+334026	pfam00352	4533	Oryza brachyantha	3	4
+334026	pfam00352	7092	Bombyx mandarina	3	4
+334026	pfam00352	7111	Trichoplusia ni	3	4
+334026	pfam00352	7137	Galleria mellonella	3	4
+334026	pfam00352	7515	Ctenocephalides felis	3	4
+334026	pfam00352	7950	Clupea harengus	3	4
+334026	pfam00352	8078	Fundulus heteroclitus	3	4
+334026	pfam00352	8496	Alligator mississippiensis	3	4
+334026	pfam00352	9135	Serinus canaria	3	4
+334026	pfam00352	9402	Pteropus alecto	3	4
+334026	pfam00352	9483	Callithrix jacchus	3	4
+334026	pfam00352	9785	Loxodonta africana	3	4
+334026	pfam00352	9986	Oryctolagus cuniculus	3	4
+334026	pfam00352	10020	Dipodomys ordii	3	4
+334026	pfam00352	28743	Cyprinodon variegatus	3	4
+334026	pfam00352	50390	Diabrotica virgifera virgifera	3	4
+334026	pfam00352	56313	Tyto alba	3	4
+334026	pfam00352	83485	Linepithema humile	3	4
+334026	pfam00352	83986	Methanoculleus bourgensis	3	4
+334026	pfam00352	89462	Bubalus bubalis	3	4
+334026	pfam00352	93504	Ostrinia furnacalis	3	4
+334026	pfam00352	112509	Hordeum vulgare subsp. vulgare	3	4
+334026	pfam00352	118200	Picoides pubescens	3	4
+334026	pfam00352	119434	Halorubrum tebenquichense	3	4
+334026	pfam00352	125878	Nanorana parkeri	3	4
+334026	pfam00352	133901	Frankliniella occidentalis	3	4
+334026	pfam00352	144034	Pogonomyrmex barbatus	3	4
+334026	pfam00352	156563	Cyanistes caeruleus	3	4
+334026	pfam00352	166361	Onthophagus taurus	3	4
+334026	pfam00352	169297	Aegilops tauschii subsp. tauschii	3	4
+334026	pfam00352	259920	Rhincodon typus	3	4
+334026	pfam00352	268475	Trichinella zimbabwensis	3	4
+334026	pfam00352	300111	Temnothorax curvispinosus	3	4
+334026	pfam00352	301375	Methanosaeta harundinacea	3	4
+334026	pfam00352	334116	Vanessa tameamea	3	4
+334026	pfam00352	379532	Propithecus coquereli	3	4
+334026	pfam00352	489138	Halarchaeum acidiphilum	3	4
+334026	pfam00352	542832	Peronospora effusa	3	4
+334026	pfam00352	582419	Thermococcus paralvinellae	3	4
+334026	pfam00352	604354	Thermococcus sibiricus MM 739	3	4
+334026	pfam00352	609295	Dinoponera quadriceps	3	4
+334026	pfam00352	743375	Polistes dominula	3	4
+334026	pfam00352	943118	Toxoplasma gondii MAS	3	4
+334026	pfam00352	1156433	Streptococcus sp. I-P16	3	4
+334026	pfam00352	1357716	Batrachochytrium salamandrivorans	3	4
+334026	pfam00352	1392998	Candidatus Methanoperedens nitroreducens	3	4
+334026	pfam00352	1975560	Euryarchaeota archaeon CG01_land_8_20_14_3_00_38_12	3	4
+334026	pfam00352	2250273	Candidatus Geothermarchaeota archaeon	3	4
+334026	pfam00352	2250530	Archaeoglobi archaeon	3	4
+334026	pfam00352	3649	Carica papaya	3	3
+334026	pfam00352	4556	Setaria viridis	3	3
+334026	pfam00352	4779	Bremia lactucae	3	3
+334026	pfam00352	4792	Phytophthora parasitica	3	3
+334026	pfam00352	5826	Plasmodium chabaudi adami	3	3
+334026	pfam00352	5949	Stylonychia lemnae	3	3
+334026	pfam00352	6182	Schistosoma japonicum	3	3
+334026	pfam00352	6184	Schistosoma bovis	3	3
+334026	pfam00352	6205	Hydatigera taeniaeformis	3	3
+334026	pfam00352	6211	Echinococcus multilocularis	3	3
+334026	pfam00352	6216	Hymenolepis diminuta	3	3
+334026	pfam00352	6290	Haemonchus placei	3	3
+334026	pfam00352	6669	Daphnia pulex	3	3
+334026	pfam00352	6958	Euroglyphus maynei	3	3
+334026	pfam00352	7370	Musca domestica	3	3
+334026	pfam00352	7425	Nasonia vitripennis	3	3
+334026	pfam00352	7460	Apis mellifera	3	3
+334026	pfam00352	7461	Apis cerana	3	3
+334026	pfam00352	7741	Branchiostoma belcheri	3	3
+334026	pfam00352	7906	Acipenser ruthenus	3	3
+334026	pfam00352	7994	Astyanax mexicanus	3	3
+334026	pfam00352	8897	Chaetura pelagica	3	3
+334026	pfam00352	9009	Callipepla squamata	3	3
+334026	pfam00352	9014	Colinus virginianus	3	3
+334026	pfam00352	9083	Bambusicola thoracicus	3	3
+334026	pfam00352	9103	Meleagris gallopavo	3	3
+334026	pfam00352	9218	Phoenicopterus ruber ruber	3	3
+334026	pfam00352	9365	Erinaceus europaeus	3	3
+334026	pfam00352	9407	Rousettus aegyptiacus	3	3
+334026	pfam00352	9978	Ochotona princeps	3	3
+334026	pfam00352	9999	Urocitellus parryii	3	3
+334026	pfam00352	13347	Armadillidium vulgare	3	3
+334026	pfam00352	22663	Punica granatum	3	3
+334026	pfam00352	27835	Nippostrongylus brasiliensis	3	3
+334026	pfam00352	28005	Strigomonas culicis	3	3
+334026	pfam00352	28377	Anolis carolinensis	3	3
+334026	pfam00352	29729	Gossypium arboreum	3	3
+334026	pfam00352	29920	Phytophthora cactorum	3	3
+334026	pfam00352	30455	Fulmarus glacialis	3	3
+334026	pfam00352	30611	Otolemur garnettii	3	3
+334026	pfam00352	31246	Schistosoma mattheei	3	3
+334026	pfam00352	37040	Gavia stellata	3	3
+334026	pfam00352	37344	Athalia rosae	3	3
+334026	pfam00352	37621	Priapulus caudatus	3	3
+334026	pfam00352	43151	Anopheles darlingi	3	3
+334026	pfam00352	43346	Bison bison bison	3	3
+334026	pfam00352	43455	Cathartes aura	3	3
+334026	pfam00352	45464	Teladorsagia circumcincta	3	3
+334026	pfam00352	47790	Tetrabaena socialis	3	3
+334026	pfam00352	48269	Schistosoma margrebowiei	3	3
+334026	pfam00352	48709	Orchesella cincta	3	3
+334026	pfam00352	49390	Coffea canephora	3	3
+334026	pfam00352	50402	Charadrius vociferus	3	3
+334026	pfam00352	51240	Juglans regia	3	3
+334026	pfam00352	52283	Sarcoptes scabiei	3	3
+334026	pfam00352	55544	Platysternon megacephalum	3	3
+334026	pfam00352	56216	Neotoma lepida	3	3
+334026	pfam00352	57577	Trifolium pratense	3	3
+334026	pfam00352	59538	Pantholops hodgsonii	3	3
+334026	pfam00352	59799	Angomonas deanei	3	3
+334026	pfam00352	60517	Taenia asiatica	3	3
+334026	pfam00352	62708	Golovinomyces cichoracearum	3	3
+334026	pfam00352	64459	Pieris rapae	3	3
+334026	pfam00352	64838	Fopius arisanus	3	3
+334026	pfam00352	67767	Lasius niger	3	3
+334026	pfam00352	70667	Schistocephalus solidus	3	3
+334026	pfam00352	74557	Thraustotheca clavata	3	3
+334026	pfam00352	74873	Anopheles sinensis	3	3
+334026	pfam00352	75702	Populus euphratica	3	3
+334026	pfam00352	76194	Papilio polytes	3	3
+334026	pfam00352	85433	Hymenolepis microstoma	3	3
+334026	pfam00352	88015	Eurytemora affinis	3	3
+334026	pfam00352	91411	Polistes canadensis	3	3
+334026	pfam00352	93934	Coturnix japonica	3	3
+334026	pfam00352	94128	Apis cerana cerana	3	3
+334026	pfam00352	94901	Rhinocheilus lecontei	3	3
+334026	pfam00352	102285	Hymenolepis nana	3	3
+334026	pfam00352	108875	Herrania umbratica	3	3
+334026	pfam00352	110193	Nicrophorus vespilloides	3	3
+334026	pfam00352	117903	Protopolystoma xenopodis	3	3
+334026	pfam00352	118797	Lipotes vexillifer	3	3
+334026	pfam00352	121530	Tauraco erythrolophus	3	3
+334026	pfam00352	135651	Caenorhabditis brenneri	3	3
+334026	pfam00352	146911	Gekko japonicus	3	3
+334026	pfam00352	157069	Trichobilharzia regenti	3	3
+334026	pfam00352	168631	Chilo suppressalis	3	3
+334026	pfam00352	176057	Nestor notabilis	3	3
+334026	pfam00352	188344	Leptosomus discolor	3	3
+334026	pfam00352	195883	Laodelphax striatellus	3	3
+334026	pfam00352	217634	Anoplophora glabripennis	3	3
+334026	pfam00352	219809	Pseudomyrmex gracilis	3	3
+334026	pfam00352	225359	Erysiphe pulchra	3	3
+334026	pfam00352	230356	Methanolacinia paynteri	3	3
+334026	pfam00352	240206	Pterocles gutturalis	3	3
+334026	pfam00352	266149	Pseudocohnilembus persalinus	3	3
+334026	pfam00352	267555	Cuscuta australis	3	3
+334026	pfam00352	278856	Danaus plexippus plexippus	3	3
+334026	pfam00352	294128	Hyalella azteca	3	3
+334026	pfam00352	333673	Hirundo rustica rustica	3	3
+334026	pfam00352	334426	Angiostrongylus costaricensis	3	3
+334026	pfam00352	345573	Podiceps cristatus	3	3
+334026	pfam00352	441921	Neodiprion lecontei	3	3
+334026	pfam00352	482537	Galeopterus variegatus	3	3
+334026	pfam00352	483139	Cystoisospora suis	3	3
+334026	pfam00352	488124	Methanofollis ethanolicus	3	3
+334026	pfam00352	491861	Grammomys surdaster	3	3
+334026	pfam00352	520822	Atta colombica	3	3
+334026	pfam00352	568069	Clunio marinus	3	3
+334026	pfam00352	720590	Plasmodium sp. DRC-Itaito	3	3
+334026	pfam00352	880534	Plasmodium sp. gorilla clade G1	3	3
+334026	pfam00352	890382	Albugo laibachii Nc14	3	3
+334026	pfam00352	906689	Dendrobium catenatum	3	3
+334026	pfam00352	933084	Jaapia argillacea MUCL 33604	3	3
+334026	pfam00352	1080712	Methanomassiliicoccus luminyensis	3	3
+334026	pfam00352	1081669	Hepatospora eriocheir	3	3
+334026	pfam00352	1144522	Tritrichomonas foetus	3	3
+334026	pfam00352	1202772	Achlya hypogyna	3	3
+334026	pfam00352	1238425	Haloquadratum walsbyi J07HQW2	3	3
+334026	pfam00352	1242866	Thermoplasmatales archaeon SCGC AB-540-F20	3	3
+334026	pfam00352	1314807	Dendrothele bispora CBS 962.96	3	3
+334026	pfam00352	1353246	Candidatus Nitrosotenuis chungbukensis	3	3
+334026	pfam00352	1398154	Sporothrix brasiliensis 5110	3	3
+334026	pfam00352	1527301	Nitrosopumilus sp. PRT-SC01	3	3
+334026	pfam00352	1640512	Thaumarchaeota archaeon CSP1-1	3	3
+334026	pfam00352	1661398	Asbolus verrucosus	3	3
+334026	pfam00352	1698268	candidate division MSBL1 archaeon SCGC-AAA259I14	3	3
+334026	pfam00352	1713724	Methanomassiliicoccales archaeon RumEn M1	3	3
+334026	pfam00352	1775544	Halorhabdus rudnickae	3	3
+334026	pfam00352	1776294	Nitrosopumilus sp. Nsub	3	3
+334026	pfam00352	1797378	Candidatus Bathyarchaeota archaeon RBG_13_46_16b	3	3
+334026	pfam00352	1797976	Euryarchaeota archaeon RBG_13_31_8	3	3
+334026	pfam00352	1811727	Methanomassiliicoccales archaeon PtaB.Bin134	3	3
+334026	pfam00352	1849166	Candidatus Lokiarchaeota archaeon CR_4	3	3
+334026	pfam00352	1919206	Halobacteriales archaeon SW_8_65_20	3	3
+334026	pfam00352	1974385	Candidatus Bathyarchaeota archaeon CG07_land_8_20_14_0_80_47_9	3	3
+334026	pfam00352	1975559	Euryarchaeota archaeon CG_4_9_14_3_um_filter_38_12	3	3
+334026	pfam00352	2023137	Aurantiochytrium sp. FCC1311	3	3
+334026	pfam00352	2026773	Candidatus Pacearchaeota archaeon	3	3
+334026	pfam00352	2026780	Planctomycetes bacterium	3	3
+334026	pfam00352	2052170	Methanoregula sp.	3	3
+334026	pfam00352	2094558	Prunus yedoensis var. nudiflora	3	3
+334026	pfam00352	2099673	Candidatus Nanohaloarchaeota archaeon	3	3
+334026	pfam00352	2250274	Candidatus Micrarchaeota archaeon	3	3
+334026	pfam00352	2293854	Methanocalculus sp. MSAO_Arc1	3	3
+334026	pfam00352	2480582	Halorubrum sp. ZY8	3	3
+334026	pfam00352	2508724	Halorubrum sp. ZC67	3	3
+334026	pfam00352	2575697	halophilic archaeon SHRA6	3	3
+334026	pfam00352	559292	Saccharomyces cerevisiae S288C	2	215
+334026	pfam00352	6334	Trichinella spiralis	2	24
+334026	pfam00352	1073090	Penicilliopsis zonata CBS 506.65	2	21
+334026	pfam00352	6336	Trichinella nelsoni	2	17
+334026	pfam00352	9708	Odobenus rosmarus divergens	2	16
+334026	pfam00352	9733	Orcinus orca	2	15
+334026	pfam00352	498257	Verticillium dahliae VdLs.17	2	15
+334026	pfam00352	5823	Plasmodium berghei ANKA	2	14
+334026	pfam00352	2287	Saccharolobus solfataricus	2	12
+334026	pfam00352	109376	Brassica oleracea var. oleracea	2	12
+334026	pfam00352	932674	Corvus cornix cornix	2	12
+334026	pfam00352	1803500	Candidatus Aenigmarchaeota archaeon CG1_02_38_14	2	12
+334026	pfam00352	1805393	Thaumarchaeota archaeon 13_1_40CM_38_12	2	12
+334026	pfam00352	660122	[Nectria] haematococca mpVI 77-13-4	2	11
+334026	pfam00352	1805139	Euryarchaeota archaeon 13_1_20CM_4_64_14	2	11
+334026	pfam00352	5127	Fusarium fujikuroi	2	9
+334026	pfam00352	9545	Macaca nemestrina	2	9
+334026	pfam00352	9938	Ovis aries musimon	2	9
+334026	pfam00352	1765655	Halorubrum tropicale	2	9
+334026	pfam00352	2162	Methanobacterium formicicum	2	8
+334026	pfam00352	4081	Solanum lycopersicum	2	8
+334026	pfam00352	9555	Papio anubis	2	8
+334026	pfam00352	336722	Zymoseptoria tritici IPO323	2	8
+334026	pfam00352	367188	Haladaptatus	2	8
+334026	pfam00352	1317065	Phytophthora parasitica P1569	2	8
+334026	pfam00352	1986692	Euryarchaeota archaeon TMED252	2	8
+334026	pfam00352	5861	Plasmodium yoelii	2	7
+334026	pfam00352	9597	Pan paniscus	2	7
+334026	pfam00352	30538	Vicugna pacos	2	7
+334026	pfam00352	43687	Metallosphaera sedula	2	7
+334026	pfam00352	1410606	Candidatus Nitrosopelagicus brevis	2	7
+334026	pfam00352	1706337	Neophocaena asiaeorientalis asiaeorientalis	2	7
+334026	pfam00352	1963271	Halorubraceae	2	7
+334026	pfam00352	1978157	Candidatus Marsarchaeota G2 archaeon OSP_D	2	7
+334026	pfam00352	2246	Haloferax volcanii	2	6
+334026	pfam00352	2249	Halococcus	2	6
+334026	pfam00352	6035	Encephalitozoon cuniculi	2	6
+334026	pfam00352	6337	Trichinella pseudospiralis	2	6
+334026	pfam00352	9749	Delphinapterus leucas	2	6
+334026	pfam00352	9796	Equus caballus	2	6
+334026	pfam00352	38626	Phascolarctos cinereus	2	6
+334026	pfam00352	54757	Plasmodium vinckei vinckei	2	6
+334026	pfam00352	79684	Microtus ochrogaster	2	6
+334026	pfam00352	81972	Arabidopsis lyrata subsp. lyrata	2	6
+334026	pfam00352	81985	Capsella rubella	2	6
+334026	pfam00352	155416	Monosporascus cannonballus	2	6
+334026	pfam00352	253628	Verruconis gallopava	2	6
+334026	pfam00352	330779	Sulfolobus acidocaldarius DSM 639	2	6
+334026	pfam00352	353153	Trypanosoma cruzi strain CL Brener	2	6
+334026	pfam00352	376170	Haloplanus	2	6
+334026	pfam00352	416585	Halorubrum californiense	2	6
+334026	pfam00352	515849	Podospora anserina S mat+	2	6
+334026	pfam00352	578455	Thielavia terrestris NRRL 8126	2	6
+334026	pfam00352	695982	Halogranum	2	6
+334026	pfam00352	880535	Plasmodium sp. gorilla clade G2	2	6
+334026	pfam00352	1499975	Candidatus Nitrosotalea sinensis	2	6
+334026	pfam00352	1604004	Halanaeroarchaeum sulfurireducens	2	6
+334026	pfam00352	1706433	Arc I group archaeon ADurb1013_Bin02101	2	6
+334026	pfam00352	1706436	Arc I group archaeon B03fssc0709_Meth_Bin005	2	6
+334026	pfam00352	4565	Triticum aestivum	2	5
+334026	pfam00352	4909	Pichia kudriavzevii	2	5
+334026	pfam00352	5833	Plasmodium falciparum	2	5
+334026	pfam00352	6238	Caenorhabditis briggsae	2	5
+334026	pfam00352	10041	Peromyscus leucopus	2	5
+334026	pfam00352	30608	Microcebus murinus	2	5
+334026	pfam00352	61621	Rhinopithecus bieti	2	5
+334026	pfam00352	133434	Acanthaster planci	2	5
+334026	pfam00352	181119	Pseudopodoces humilis	2	5
+334026	pfam00352	284813	Encephalitozoon cuniculi GB-M1	2	5
+334026	pfam00352	342948	Thermococcus onnurineus	2	5
+334026	pfam00352	353152	Cryptosporidium parvum Iowa II	2	5
+334026	pfam00352	430914	Halorhabdus tiamatea	2	5
+334026	pfam00352	759273	Colletotrichum higginsianum IMI 349063	2	5
+334026	pfam00352	864142	Plasmodium ovale wallikeri	2	5
+334026	pfam00352	1042311	Trichoderma asperellum CBS 433.97	2	5
+334026	pfam00352	1397361	Sporothrix schenckii 1099-18	2	5
+334026	pfam00352	1805388	Thaumarchaeota archaeon 13_1_40CM_2_39_7	2	5
+334026	pfam00352	1868482	Carlito syrichta	2	5
+334026	pfam00352	1978155	Candidatus Marsarchaeota G1 archaeon OSP_D	2	5
+334026	pfam00352	971	Selenomonas ruminantium	2	4
+334026	pfam00352	2214	Methanosarcina acetivorans	2	4
+334026	pfam00352	2215	Methanosarcina vacuolata	2	4
+334026	pfam00352	2247	Halorubrum lacusprofundi	2	4
+334026	pfam00352	2248	Halorubrum saccharovorum	2	4
+334026	pfam00352	2315	Methanoplanus limicola	2	4
+334026	pfam00352	2322	Methanohalobium evestigatum	2	4
+334026	pfam00352	2340	Solemya velum gill symbiont	2	4
+334026	pfam00352	3983	Manihot esculenta	2	4
+334026	pfam00352	4956	Zygosaccharomyces rouxii	2	4
+334026	pfam00352	5486	Candida viswanathii	2	4
+334026	pfam00352	5802	Eimeria tenella	2	4
+334026	pfam00352	5849	Plasmodium gallinaceum	2	4
+334026	pfam00352	5866	Babesia bigemina	2	4
+334026	pfam00352	5874	Theileria annulata	2	4
+334026	pfam00352	6412	Helobdella robusta	2	4
+334026	pfam00352	6945	Ixodes scapularis	2	4
+334026	pfam00352	7209	Loa loa	2	4
+334026	pfam00352	8478	Chrysemys picta bellii	2	4
+334026	pfam00352	9565	Theropithecus gelada	2	4
+334026	pfam00352	9568	Mandrillus leucophaeus	2	4
+334026	pfam00352	9713	Leptonychotes weddellii	2	4
+334026	pfam00352	9974	Manis javanica	2	4
+334026	pfam00352	10228	Trichoplax adhaerens	2	4
+334026	pfam00352	29288	Natronococcus occultus	2	4
+334026	pfam00352	33203	Purpureocillium lilacinum	2	4
+334026	pfam00352	34506	Strongyloides ratti	2	4
+334026	pfam00352	35745	Haloferax denitrificans	2	4
+334026	pfam00352	43928	Halobaculum gomorrense	2	4
+334026	pfam00352	45989	Methanoculleus	2	4
+334026	pfam00352	54120	Methanolacinia petrolearia	2	4
+334026	pfam00352	61858	Natronorubrum bangense	2	4
+334026	pfam00352	63128	Natronorubrum tibetense	2	4
+334026	pfam00352	64713	Halorubrum coriense	2	4
+334026	pfam00352	77519	Plasmodium gonderi	2	4
+334026	pfam00352	83984	Methanocorpusculum labreanum	2	4
+334026	pfam00352	85471	Plasmodium relictum	2	4
+334026	pfam00352	94643	Besnoitia besnoiti	2	4
+334026	pfam00352	94694	Desulfurococcus amylolyticus	2	4
+334026	pfam00352	110164	Thermococcus guaymasensis	2	4
+334026	pfam00352	110365	Gregarina niphandrodes	2	4
+334026	pfam00352	112498	Ramularia collo-cygni	2	4
+334026	pfam00352	127582	Trichechus manatus latirostris	2	4
+334026	pfam00352	129789	Natrialba aegyptia	2	4
+334026	pfam00352	146826	Halorhabdus utahensis	2	4
+334026	pfam00352	148818	Hamiltosporidium magnivora	2	4
+334026	pfam00352	170861	Methanosarcina lacustris	2	4
+334026	pfam00352	178214	Facklamia hominis	2	4
+334026	pfam00352	182779	Haloarcula quadrata	2	4
+334026	pfam00352	183963	Halobacteria	2	4
+334026	pfam00352	190975	Methanobrevibacter thaueri	2	4
+334026	pfam00352	208452	Plasmodium coatneyi	2	4
+334026	pfam00352	225400	Myotis davidii	2	4
+334026	pfam00352	273057	Saccharolobus solfataricus P2	2	4
+334026	pfam00352	306901	Chaetomium globosum CBS 148.51	2	4
+334026	pfam00352	312017	Tetrahymena thermophila SB210	2	4
+334026	pfam00352	332168	Halococcus hamelinensis	2	4
+334026	pfam00352	333668	Theileria parva strain Muguga	2	4
+334026	pfam00352	353800	Halostagnicola larsenii	2	4
+334026	pfam00352	391180	Enhydra lutris kenyoni	2	4
+334026	pfam00352	403191	Haloferax elongans	2	4
+334026	pfam00352	411361	Halogeometricum pallidum	2	4
+334026	pfam00352	412133	Trichomonas vaginalis G3	2	4
+334026	pfam00352	420950	Methanolobus psychrophilus	2	4
+334026	pfam00352	431895	Monosiga brevicollis MX1	2	4
+334026	pfam00352	441375	Cryptosporidium muris RN66	2	4
+334026	pfam00352	553466	Halogranum rubrum	2	4
+334026	pfam00352	553467	Halopelagius inordinatus	2	4
+334026	pfam00352	553469	Halogeometricum rufum	2	4
+334026	pfam00352	558529	Natronoarchaeum philippinense	2	4
+334026	pfam00352	573729	Thermothelomyces thermophilus ATCC 42464	2	4
+334026	pfam00352	655863	Grosmannia clavigera kw1407	2	4
+334026	pfam00352	660521	Halogranum gelatinilyticum	2	4
+334026	pfam00352	668570	Methanospirillum lacunae	2	4
+334026	pfam00352	718286	Candidatus Nitrosopumilus sp. NM25	2	4
+334026	pfam00352	721885	Stereum hirsutum FP-91666 SS1	2	4
+334026	pfam00352	751944	Halobacterium sp. DL1	2	4
+334026	pfam00352	756883	halophilic archaeon DL31	2	4
+334026	pfam00352	763407	Phycomyces blakesleeanus NRRL 1555(-)	2	4
+334026	pfam00352	857276	Cryptosporidium ubiquitum	2	4
+334026	pfam00352	880161	Micromonas sp. RCC1109 virus MpV1	2	4
+334026	pfam00352	890420	Halovenus aranensis	2	4
+334026	pfam00352	948311	Fusarium proliferatum	2	4
+334026	pfam00352	1033975	Plasmodium vivax Brazil I	2	4
+334026	pfam00352	1037528	Nosema apis BRL 01	2	4
+334026	pfam00352	1042877	Thermococcus sp. 4557	2	4
+334026	pfam00352	1054217	Thermoplasmatales archaeon BRNA1	2	4
+334026	pfam00352	1070774	Halonotius sp. J07HN4	2	4
+334026	pfam00352	1120755	Plasmodium cynomolgi strain B	2	4
+334026	pfam00352	1168221	Coniosporium apollinis CBS 100218	2	4
+334026	pfam00352	1220926	Mucor circinelloides f. circinelloides 1006PhL	2	4
+334026	pfam00352	1237626	Plasmodium inui San Antonio 1	2	4
+334026	pfam00352	1267564	Halopenitus malekzadehii	2	4
+334026	pfam00352	1277351	Methanospirillum stamsii	2	4
+334026	pfam00352	1353158	Methanococcoides vulcani	2	4
+334026	pfam00352	1383844	Halorubrum persicum	2	4
+334026	pfam00352	1406512	Candidatus Methanomassiliicoccus intestinalis	2	4
+334026	pfam00352	1431545	Candidatus Halobonum tyrrellensis	2	4
+334026	pfam00352	1537102	Theileria equi strain WA	2	4
+334026	pfam00352	1550565	Methanoculleus taiwanensis	2	4
+334026	pfam00352	1550566	Methanoculleus sediminis	2	4
+334026	pfam00352	1580092	Candidatus Nitrosopumilus adriaticus	2	4
+334026	pfam00352	1586715	Yellowstone lake phycodnavirus 3	2	4
+334026	pfam00352	1603555	Candidatus Nitrosotenuis cloacae	2	4
+334026	pfam00352	1715806	Methanosarcina flavescens	2	4
+334026	pfam00352	1737458	Cebus capucinus imitator	2	4
+334026	pfam00352	1811680	Methanoregula sp. PtaB.Bin085	2	4
+334026	pfam00352	1811720	Methanoregulaceae archaeon PtaB.Bin009	2	4
+334026	pfam00352	1853690	Halolamina sp. CBA1230	2	4
+334026	pfam00352	1869245	Natrialba sp. SSL1	2	4
+334026	pfam00352	1889000	Marine Group III euryarchaeote CG-Epi6	2	4
+334026	pfam00352	1897478	Haladaptatus sp. W1	2	4
+334026	pfam00352	1919157	Halobacteriales archaeon QH_7_65_31	2	4
+334026	pfam00352	1920749	Candidatus Mancarchaeum acidiphilum	2	4
+334026	pfam00352	1933279	Thermoplasmata archaeon M9B1D	2	4
+334026	pfam00352	1968520	ANME-2 cluster archaeon HR1	2	4
+334026	pfam00352	1978125	Euryarchaeota archaeon ex4484_162	2	4
+334026	pfam00352	2022693	Nitrosopumilales archaeon CG15_BIG_FIL_POST_REV_8_21_14_020_33_23	2	4
+334026	pfam00352	2052832	Methanofollis sp. FWC-SCC2	2	4
+334026	pfam00352	2077199	Haloferax sp. Atlit-47N	2	4
+334026	pfam00352	2216978	Halonotius sp. F13-13	2	4
+334026	pfam00352	2282130	Halobellus sp. Atlit-31R	2	4
+334026	pfam00352	2282132	Haloarcula sp. Atlit-47R	2	4
+334026	pfam00352	2283527	Haloprofundus sp. NK23	2	4
+334026	pfam00352	2478556	Nitrosopumilus sp. H13	2	4
+334026	pfam00352	2518112	Halorubrum sp. GN11_10-6_MGM	2	4
+334026	pfam00352	2518115	Halorubrum sp. CGM5_25_10-8B	2	4
+334026	pfam00352	2193	Methanocorpusculum parvum	2	3
+334026	pfam00352	2203	Methanospirillum hungatei	2	3
+334026	pfam00352	2223	Methanothrix soehngenii	2	3
+334026	pfam00352	3068	Volvox carteri f. nagariensis	2	3
+334026	pfam00352	3075	Auxenochlorella protothecoides	2	3
+334026	pfam00352	3555	Beta vulgaris subsp. vulgaris	2	3
+334026	pfam00352	4432	Nelumbo nucifera	2	3
+334026	pfam00352	5741	Giardia intestinalis	2	3
+334026	pfam00352	6186	Schistosoma curassoni	2	3
+334026	pfam00352	6289	Haemonchus contortus	2	3
+334026	pfam00352	6500	Aplysia californica	2	3
+334026	pfam00352	8663	Notechis scutatus	2	3
+334026	pfam00352	8673	Pseudonaja textilis	2	3
+334026	pfam00352	8790	Dromaius novaehollandiae	2	3
+334026	pfam00352	9531	Cercocebus atys	2	3
+334026	pfam00352	9541	Macaca fascicularis	2	3
+334026	pfam00352	9837	Camelus bactrianus	2	3
+334026	pfam00352	9880	Odocoileus virginianus texanus	2	3
+334026	pfam00352	13290	Tilletia caries	2	3
+334026	pfam00352	29073	Ursus maritimus	2	3
+334026	pfam00352	29139	Vombatus ursinus	2	3
+334026	pfam00352	30522	Bos indicus x Bos taurus	2	3
+334026	pfam00352	36300	Pelecanus crispus	2	3
+334026	pfam00352	37293	Aotus nancymaae	2	3
+334026	pfam00352	39441	Methanobrevibacter arboriphilus	2	3
+334026	pfam00352	43080	Sulfolobus islandicus	2	3
+334026	pfam00352	43179	Ictidomys tridecemlineatus	2	3
+334026	pfam00352	44415	Eimeria mitis	2	3
+334026	pfam00352	61622	Rhinopithecus roxellana	2	3
+334026	pfam00352	62625	Varroa jacobsoni	2	3
+334026	pfam00352	69527	Natrinema pallidum	2	3
+334026	pfam00352	71518	Methanocorpusculum bavaricum	2	3
+334026	pfam00352	73337	Ceratotherium simum simum	2	3
+334026	pfam00352	74533	Panthera tigris altaica	2	3
+334026	pfam00352	84645	Labeo rohita	2	3
+334026	pfam00352	104788	Macrotrachela quadricornifera	2	3
+334026	pfam00352	132113	Bombus impatiens	2	3
+334026	pfam00352	133412	Smittium culicis	2	3
+334026	pfam00352	148448	Halobiforma haloterrestris	2	3
+334026	pfam00352	174628	Bactrocera latifrons	2	3
+334026	pfam00352	186990	Hipposideros armiger	2	3
+334026	pfam00352	381198	Anser cygnoides domesticus	2	3
+334026	pfam00352	507601	Toxoplasma gondii GT1	2	3
+334026	pfam00352	591936	Piliocolobus tephrosceles	2	3
+334026	pfam00352	665079	Sclerotinia sclerotiorum 1980 UF-70	2	3
+334026	pfam00352	698492	Saitoella complicata NRRL Y-17804	2	3
+334026	pfam00352	764103	Mixia osmundae IAM 14324	2	3
+334026	pfam00352	1026970	Nannospalax galili	2	3
+334026	pfam00352	1081914	Monosporascus sp. mg162	2	3
+334026	pfam00352	1240240	Anncaliia algerae PRA109	2	3
+334026	pfam00352	1263082	Lichtheimia corymbifera JMRC:FSU:9682	2	3
+334026	pfam00352	1294122	Candidatus Nanobsidianus stetteri	2	3
+334026	pfam00352	1316941	Archaeoglobus sulfaticallidus	2	3
+334026	pfam00352	1415176	Terrapene mexicana triunguis	2	3
+334026	pfam00352	1507870	Rachicladosporium antarcticum	2	3
+334026	pfam00352	1641382	Methanocalculus sp. 52_23	2	3
+334026	pfam00352	1663209	Ostreococcus lucimarinus virus 7	2	3
+334026	pfam00352	1697135	uncultured Candidatus Thalassoarchaea euryarchaeote	2	3
+334026	pfam00352	1779369	Candidatus Bathyarchaeota archaeon B25	2	3
+334026	pfam00352	1811690	Methanosaeta sp. PtaB.Bin087	2	3
+334026	pfam00352	2012502	Candidatus Aenigmarchaeota archaeon ex4484_14	2	3
+334026	pfam00352	2012507	Candidatus Altiarchaeales archaeon ex4484_43	2	3
+334026	pfam00352	2012522	Thermoplasmatales archaeon ex4484_30	2	3
+334026	pfam00352	2012525	Thermoplasmatales archaeon ex4572_165	2	3
+334026	pfam00352	2035255	Candidatus Methanoperedens sp. BLZ2	2	3
+334026	pfam00352	2200	Methanoculleus thermophilus	2	2
+334026	pfam00352	2205	Methanomicrobium mobile	2	2
+334026	pfam00352	2250	Halococcus morrhuae	2	2
+334026	pfam00352	2262	Pyrococcus woesei	2	2
+334026	pfam00352	2286	Saccharolobus shibatae	2	2
+334026	pfam00352	2880	Ectocarpus siliculosus	2	2
+334026	pfam00352	2951	Symbiodinium microadriaticum	2	2
+334026	pfam00352	3562	Spinacia oleracea	2	2
+334026	pfam00352	3827	Cicer arietinum	2	2
+334026	pfam00352	3914	Vigna angularis	2	2
+334026	pfam00352	3981	Hevea brasiliensis	2	2
+334026	pfam00352	4829	Absidia glauca	2	2
+334026	pfam00352	5661	Leishmania donovani	2	2
+334026	pfam00352	5963	Stentor coeruleus	2	2
+334026	pfam00352	6277	Acanthocheilonema viteae	2	2
+334026	pfam00352	6280	Brugia pahangi	2	2
+334026	pfam00352	6526	Biomphalaria glabrata	2	2
+334026	pfam00352	6915	Nephila clavipes	2	2
+334026	pfam00352	7462	Apis dorsata	2	2
+334026	pfam00352	7719	Ciona intestinalis	2	2
+334026	pfam00352	8154	Astatotilapia calliptera	2	2
+334026	pfam00352	8400	Rana catesbeiana	2	2
+334026	pfam00352	8665	Ophiophagus hannah	2	2
+334026	pfam00352	8969	Haliaeetus albicilla	2	2
+334026	pfam00352	9233	Aptenodytes forsteri	2	2
+334026	pfam00352	9669	Mustela putorius furo	2	2
+334026	pfam00352	9678	Crocuta crocuta	2	2
+334026	pfam00352	9689	Panthera leo	2	2
+334026	pfam00352	9696	Puma concolor	2	2
+334026	pfam00352	9739	Tursiops truncatus	2	2
+334026	pfam00352	9755	Physeter catodon	2	2
+334026	pfam00352	9838	Camelus dromedarius	2	2
+334026	pfam00352	9915	Bos indicus	2	2
+334026	pfam00352	9994	Marmota marmota marmota	2	2
+334026	pfam00352	10047	Meriones unguiculatus	2	2
+334026	pfam00352	10089	Mus caroli	2	2
+334026	pfam00352	10224	Saccoglossus kowalevskii	2	2
+334026	pfam00352	12930	Amazona aestiva	2	2
+334026	pfam00352	27848	Echinostoma caproni	2	2
+334026	pfam00352	28737	Elephantulus edwardii	2	2
+334026	pfam00352	29283	Halorubrum distributum	2	2
+334026	pfam00352	32630	synthetic construct	2	2
+334026	pfam00352	33114	Capsicum baccatum	2	2
+334026	pfam00352	34475	Fomitopsis rosea	2	2
+334026	pfam00352	34638	Galendromus occidentalis	2	2
+334026	pfam00352	34765	Oikopleura dioica	2	2
+334026	pfam00352	35525	Daphnia magna	2	2
+334026	pfam00352	35722	Parasitella parasitica	2	2
+334026	pfam00352	36022	Cyberlindnera fabianii	2	2
+334026	pfam00352	40348	Strongylus vulgaris	2	2
+334026	pfam00352	42155	Brugia timori	2	2
+334026	pfam00352	42156	Litomosoides sigmodontis	2	2
+334026	pfam00352	42157	Onchocerca ochengi	2	2
+334026	pfam00352	42254	Sorex araneus	2	2
+334026	pfam00352	43335	Populus alba	2	2
+334026	pfam00352	44316	Erythrura gouldiae	2	2
+334026	pfam00352	46360	Cervus elaphus hippelaphus	2	2
+334026	pfam00352	46731	Pocillopora damicornis	2	2
+334026	pfam00352	48420	Gulo gulo	2	2
+334026	pfam00352	48703	Podospora comata	2	2
+334026	pfam00352	48883	Geospiza fortis	2	2
+334026	pfam00352	51028	Enterobius vermicularis	2	2
+334026	pfam00352	51316	Eimeria praecox	2	2
+334026	pfam00352	51337	Jaculus jaculus	2	2
+334026	pfam00352	51338	Castor canadensis	2	2
+334026	pfam00352	53468	Mesocestoides corti	2	2
+334026	pfam00352	54126	Pristionchus pacificus	2	2
+334026	pfam00352	56857	Macleaya cordata	2	2
+334026	pfam00352	58331	Quercus suber	2	2
+334026	pfam00352	60711	Chlorocebus sabaeus	2	2
+334026	pfam00352	61853	Nomascus leucogenys	2	2
+334026	pfam00352	73868	Piromyces sp. E2	2	2
+334026	pfam00352	79327	Schmidtea mediterranea	2	2
+334026	pfam00352	80884	Colletotrichum higginsianum	2	2
+334026	pfam00352	90262	Absidia repens	2	2
+334026	pfam00352	93162	Marmota flaviventris	2	2
+334026	pfam00352	93969	Cryptosporidium meleagridis	2	2
+334026	pfam00352	94289	Sterkiella histriomuscorum	2	2
+334026	pfam00352	98765	Phlebia centrifuga	2	2
+334026	pfam00352	100816	Madurella mycetomatis	2	2
+334026	pfam00352	103827	Thelazia callipaeda	2	2
+334026	pfam00352	104786	Habrotrocha constricta	2	2
+334026	pfam00352	117008	Cryptosporidium andersoni	2	2
+334026	pfam00352	119927	Alternaria tenuissima	2	2
+334026	pfam00352	132908	Pteropus vampyrus	2	2
+334026	pfam00352	138298	Plasmodium vinckei petteri	2	2
+334026	pfam00352	139420	Polyporus brumalis	2	2
+334026	pfam00352	143302	Condylura cristata	2	2
+334026	pfam00352	143630	Paroedura picta	2	2
+334026	pfam00352	163003	Thermococcus cleftensis	2	2
+334026	pfam00352	166423	Melipona quadrifasciata	2	2
+334026	pfam00352	176275	Beauveria bassiana	2	2
+334026	pfam00352	185453	Chrysochloris asiatica	2	2
+334026	pfam00352	188477	Elysia chlorotica	2	2
+334026	pfam00352	194338	Athene cunicularia	2	2
+334026	pfam00352	210143	Corchorus capsularis	2	2
+334026	pfam00352	230844	Peromyscus maniculatus bairdii	2	2
+334026	pfam00352	231916	Gymnopilus dilepis	2	2
+334026	pfam00352	246409	Rhizopus delemar RA 99-880	2	2
+334026	pfam00352	263906	Methanolinea tarda	2	2
+334026	pfam00352	273063	Sulfurisphaera tokodaii str. 7	2	2
+334026	pfam00352	283909	Capitella teleta	2	2
+334026	pfam00352	287889	Trichoplax sp. H2	2	2
+334026	pfam00352	291302	Miniopterus natalensis	2	2
+334026	pfam00352	299123	Lonchura striata domestica	2	2
+334026	pfam00352	300112	Temnothorax longispinosus	2	2
+334026	pfam00352	318479	Dracunculus medinensis	2	2
+334026	pfam00352	328815	Manacus vitellinus	2	2
+334026	pfam00352	329885	Friedmanniomyces endolithicus	2	2
+334026	pfam00352	337451	Cinnamomum micranthum f. kanehirae	2	2
+334026	pfam00352	372326	Patagioenas fasciata monilis	2	2
+334026	pfam00352	373996	Micromonas pusilla virus SP1	2	2
+334026	pfam00352	373997	Micromonas pusilla virus PL1	2	2
+334026	pfam00352	381852	Haloferax prahovense	2	2
+334026	pfam00352	420778	Diplodia seriata	2	2
+334026	pfam00352	425595	Candidatus Micrarchaeum acidiphilum ARMAN-2	2	2
+334026	pfam00352	432359	Toxoplasma gondii VEG	2	2
+334026	pfam00352	455371	Spatholobus suberectus	2	2
+334026	pfam00352	495550	Anabarilius grahami	2	2
+334026	pfam00352	528314	Methanoculleus horonobensis	2	2
+334026	pfam00352	543379	Trichomalopsis sarcophagae	2	2
+334026	pfam00352	561076	Colaphellus bowringi	2	2
+334026	pfam00352	578461	Nosema bombycis CQ1	2	2
+334026	pfam00352	578462	Allomyces macrogynus ATCC 38327	2	2
+334026	pfam00352	588596	Rhizophagus irregularis	2	2
+334026	pfam00352	630390	Puccinia triticina 1-1 BBBD Race 1	2	2
+334026	pfam00352	637853	Gongylonema pulchrum	2	2
+334026	pfam00352	640943	Natronorubrum sediminis	2	2
+334026	pfam00352	706561	Hortaea thailandica	2	2
+334026	pfam00352	768733	Methanosalsum natronophilum	2	2
+334026	pfam00352	797303	Natrinema pellirubrum DSM 15624	2	2
+334026	pfam00352	880536	Plasmodium sp. gorilla clade G3	2	2
+334026	pfam00352	886738	Candidatus Nitrosarchaeum limnium SFB1	2	2
+334026	pfam00352	914234	Gelatoporia subvermispora B	2	2
+334026	pfam00352	931277	Halococcus morrhuae DSM 1307	2	2
+334026	pfam00352	933077	Toxoplasma gondii VAND	2	2
+334026	pfam00352	943119	Toxoplasma gondii p89	2	2
+334026	pfam00352	946125	Diplocarpon rosae	2	2
+334026	pfam00352	988480	Rozella allomycis CSF55	2	2
+334026	pfam00352	1047168	Zymoseptoria brevis	2	2
+334026	pfam00352	1070314	Halorussus	2	2
+334026	pfam00352	1072681	Candidatus Haloredivivus sp. G17	2	2
+334026	pfam00352	1074873	Toxoplasma gondii COUG	2	2
+334026	pfam00352	1076256	Armillaria solidipes	2	2
+334026	pfam00352	1081102	Sporothrix insectorum RCEF 264	2	2
+334026	pfam00352	1088818	Apostasia shenzhenica	2	2
+334026	pfam00352	1108050	Rhizoctonia solani AG-1 IB	2	2
+334026	pfam00352	1141098	Pseudomassariella vexata	2	2
+334026	pfam00352	1157962	Chlamydomonas eustigma	2	2
+334026	pfam00352	1159556	Ustilaginoidea virens	2	2
+334026	pfam00352	1160895	Candidatus Acidianus copahuensis	2	2
+334026	pfam00352	1169540	Vitrella brassicaformis CCMP3155	2	2
+334026	pfam00352	1172189	Oxytricha trifallax	2	2
+334026	pfam00352	1173701	Colletotrichum sublineola	2	2
+334026	pfam00352	1201011	Methanococcoides sp. AM1	2	2
+334026	pfam00352	1201013	Methanococcoides sp. NM1	2	2
+334026	pfam00352	1227457	Halococcus thailandensis JCM 13552	2	2
+334026	pfam00352	1227461	Haloferax prahovense DSM 18310	2	2
+334026	pfam00352	1230840	Orycteropus afer afer	2	2
+334026	pfam00352	1238424	Haloquadratum walsbyi J07HQW1	2	2
+334026	pfam00352	1242690	Thermoplasmatales archaeon SCGC AB-539-C06	2	2
+334026	pfam00352	1262450	Ophiostoma piceae UAMH 11346	2	2
+334026	pfam00352	1264579	Halococcus sediminicola	2	2
+334026	pfam00352	1287681	Eutypa lata UCREL1	2	2
+334026	pfam00352	1314800	Rhizopogon vinicolor AM-OR11-026	2	2
+334026	pfam00352	1317064	Phytophthora parasitica P10297	2	2
+334026	pfam00352	1323249	Plasmodium yoelii 17X	2	2
+334026	pfam00352	1326980	Candidatus Aramenus sulfurataquae	2	2
+334026	pfam00352	1383841	Halorubrum sp. Ea8	2	2
+334026	pfam00352	1399860	Ophiocordyceps australis	2	2
+334026	pfam00352	1412871	uncultured archaeon A07HR67	2	2
+334026	pfam00352	1412874	uncultured archaeon A07HR60	2	2
+334026	pfam00352	1420901	Pseudogymnoascus sp. VKM F-3775	2	2
+334026	pfam00352	1455900	uncultured marine thaumarchaeote AD1000_21_E03	2	2
+334026	pfam00352	1455905	uncultured marine thaumarchaeote AD1000_30_G09	2	2
+334026	pfam00352	1456000	uncultured marine thaumarchaeote KM3_130_G11	2	2
+334026	pfam00352	1480675	Halolamina sediminis	2	2
+334026	pfam00352	1483400	Halorubrum sp. E3	2	2
+334026	pfam00352	1503980	Caenorhabditis latens	2	2
+334026	pfam00352	1504633	Panicum hallii var. hallii	2	2
+334026	pfam00352	1519565	Fistulifera solaris	2	2
+334026	pfam00352	1538547	Lokiarchaeum sp. GC14_75	2	2
+334026	pfam00352	1577685	Acidilobus sp. 7A	2	2
+334026	pfam00352	1577791	Candidatus Methanoplasma termitum	2	2
+334026	pfam00352	1629725	Oryctes borbonicus	2	2
+334026	pfam00352	1644057	Salinigranum	2	2
+334026	pfam00352	1655561	Nitrosopumilus sp. BACL13 MAG-121220-bin23	2	2
+334026	pfam00352	1670455	Sulfodiicoccus acidiphilus	2	2
+334026	pfam00352	1678448	Haloparvum sedimenti	2	2
+334026	pfam00352	1685126	miscellaneous Crenarchaeota group-6 archaeon AD8-1	2	2
+334026	pfam00352	1685135	miscellaneous Crenarchaeota group archaeon SMTZ-80	2	2
+334026	pfam00352	1698259	candidate division MSBL1 archaeon SCGC-AAA259A05	2	2
+334026	pfam00352	1698265	candidate division MSBL1 archaeon SCGC-AAA259E22	2	2
+334026	pfam00352	1698266	candidate division MSBL1 archaeon SCGC-AAA259I07	2	2
+334026	pfam00352	1698280	candidate division MSBL1 archaeon SCGC-AAA382A20	2	2
+334026	pfam00352	1698281	candidate division MSBL1 archaeon SCGC-AAA382C18	2	2
+334026	pfam00352	1698284	candidate division MSBL1 archaeon SCGC-AAA382M17	2	2
+334026	pfam00352	1705409	Arc I group archaeon U1lsi0528_Bin055	2	2
+334026	pfam00352	1710536	Halorussus sp. HD8-51	2	2
+334026	pfam00352	1735326	Methanoculleus sp. SDB	2	2
+334026	pfam00352	1754190	Neocallimastix californiae	2	2
+334026	pfam00352	1754191	Piromyces finnis	2	2
+334026	pfam00352	1754192	Anaeromyces robustus	2	2
+334026	pfam00352	1758121	Limosa lapponica baueri	2	2
+334026	pfam00352	1779371	Candidatus Bathyarchaeota archaeon B26-2	2	2
+334026	pfam00352	1797377	Candidatus Bathyarchaeota archaeon RBG_13_38_9	2	2
+334026	pfam00352	1797982	Euryarchaeota archaeon RBG_16_68_13	2	2
+334026	pfam00352	1797983	Euryarchaeota archaeon RBG_19FT_COMBO_56_21	2	2
+334026	pfam00352	1797984	Euryarchaeota archaeon RBG_19FT_COMBO_69_17	2	2
+334026	pfam00352	1801632	Candidatus Micrarchaeota archaeon RBG_16_36_9	2	2
+334026	pfam00352	1801633	Candidatus Micrarchaeota archaeon RBG_16_49_10	2	2
+334026	pfam00352	1803815	Thermoplasmatales archaeon SM1-50	2	2
+334026	pfam00352	1803818	Thermoplasmatales archaeon SG8-52-3	2	2
+334026	pfam00352	1803819	Thermoplasmatales archaeon SG8-52-4	2	2
+334026	pfam00352	1811677	Methanocella sp. PtaU1.Bin125	2	2
+334026	pfam00352	1811682	Methanoregula sp. PtaU1.Bin051	2	2
+334026	pfam00352	1811721	Methanoregulaceae archaeon PtaB.Bin056	2	2
+334026	pfam00352	1811724	Methanoregulaceae archaeon PtaU1.Bin059	2	2
+334026	pfam00352	1811730	Methanomassiliicoccales archaeon PtaU1.Bin124	2	2
+334026	pfam00352	1819745	Intoshia linei	2	2
+334026	pfam00352	1846278	Candidatus Nitrosotenuis aquarius	2	2
+334026	pfam00352	1849261	Candidatus Altiarchaeales archaeon WOR_SM1_SCG	2	2
+334026	pfam00352	1889001	Marine Group III euryarchaeote CG-Bathy1	2	2
+334026	pfam00352	1891280	Sulfolobus sp. A20	2	2
+334026	pfam00352	1903276	Candidatus Nitrosotalea okcheonensis	2	2
+334026	pfam00352	1903277	Candidatus Nitrosotalea bavarica	2	2
+334026	pfam00352	1906246	Natronomonas sp. CBA1134	2	2
+334026	pfam00352	1912863	Candidatus Micrarchaeum acidiphilum ARMAN-1	2	2
+334026	pfam00352	1919178	Halobacteriales archaeon QS_4_70_19	2	2
+334026	pfam00352	1919183	Halobacteriales archaeon QS_6_71_20	2	2
+334026	pfam00352	1919208	Halobacteriales archaeon SW_8_68_21	2	2
+334026	pfam00352	1927129	Methanonatronarchaeum thermophilum	2	2
+334026	pfam00352	1933280	Thermoplasmata archaeon M9B2D	2	2
+334026	pfam00352	1933927	Candidatus Altiarchaeales archaeon A3	2	2
+334026	pfam00352	1966352	Methanohalophilus sp.	2	2
+334026	pfam00352	1974406	Candidatus Diapherotrites archaeon CG10_big_fil_rev_8_21_14_0_10_31_34	2	2
+334026	pfam00352	1975533	Nitrosopumilus sp. CG10_big_fil_rev_8_21_14_0_10_33_7	2	2
+334026	pfam00352	1978154	Candidatus Marsarchaeota G1 archaeon OSP_C	2	2
+334026	pfam00352	1978158	Candidatus Marsarchaeota G2 archaeon BE_D	2	2
+334026	pfam00352	1985678	Haloferacaceae archaeon SYSU A9-0	2	2
+334026	pfam00352	1986650	Alteromonadaceae bacterium TMED7	2	2
+334026	pfam00352	1986698	Euryarchaeota archaeon TMED99	2	2
+334026	pfam00352	2006183	Methanocorpusculum sp. MCE	2	2
+334026	pfam00352	2012484	Hadesarchaea archaeon B3_Hades	2	2
+334026	pfam00352	2012523	Thermoplasmatales archaeon ex4484_36	2	2
+334026	pfam00352	2012530	Candidatus Geothermarchaeota archaeon ex4572_27	2	2
+334026	pfam00352	2013673	Candidatus Altiarchaeales archaeon HGW-Altiarchaeales-1	2	2
+334026	pfam00352	2013674	Candidatus Altiarchaeales archaeon HGW-Altiarchaeales-2	2	2
+334026	pfam00352	2013818	Methanomicrobiales archaeon HGW-Methanomicrobiales-2	2	2
+334026	pfam00352	2013819	Methanomicrobiales archaeon HGW-Methanomicrobiales-3	2	2
+334026	pfam00352	2013822	Methanomicrobiales archaeon HGW-Methanomicrobiales-6	2	2
+334026	pfam00352	2021370	Sphingobacteriaceae bacterium	2	2
+334026	pfam00352	2022696	Nitrosopumilales archaeon CG_4_9_14_0_2_um_filter_34_16	2	2
+334026	pfam00352	2026788	Rickettsiales bacterium	2	2
+334026	pfam00352	2027460	Desulfurococcaceae archaeon AG1	2	2
+334026	pfam00352	2060322	Caldisphaera sp.	2	2
+334026	pfam00352	2060324	Fervidicoccus sp.	2	2
+334026	pfam00352	2071624	Haloferacaceae archaeon SYSU A00711	2	2
+334026	pfam00352	2077317	uncultured DHVE6 group euryarchaeote	2	2
+334026	pfam00352	2137776	archaeon SCG-AAA382B04	2	2
+334026	pfam00352	2211643	Monosporascus sp. CRB-9-2	2	2
+334026	pfam00352	2211645	Monosporascus sp. MG133	2	2
+334026	pfam00352	2211647	Monosporascus sp. GIB2	2	2
+334026	pfam00352	2478979	Candidatus Nitrosomarinus sp.	2	2
+334026	pfam00352	2480581	Halalkalicoccus sp. GSM28	2	2
+334026	pfam00352	2485838	Halorubrum sp. CSM-61	2	2
+334026	pfam00352	2487775	Terrestrivirus sp.	2	2
+334026	pfam00352	2500550	Halobacteriaceae bacterium SHR40	2	2
+334026	pfam00352	2565929	Salinigranum sp. ZS-5	2	2
+334026	pfam00352	171101	Streptococcus pneumoniae R6	1	1311
+334026	pfam00352	1214277	Cryptasterina hystera	1	114
+334026	pfam00352	35016	Thamnophis rufipunctatus	1	99
+334026	pfam00352	235443	Cryptococcus neoformans var. grubii H99	1	41
+334026	pfam00352	647933	Trichophyton tonsurans CBS 112818	1	36
+334026	pfam00352	237561	Candida albicans SC5314	1	29
+334026	pfam00352	671144	Wallemia mellicola CBS 633.66	1	24
+334026	pfam00352	2237	Haloarcula	1	23
+334026	pfam00352	426428	Fusarium oxysporum f. sp. lycopersici 4287	1	23
+334026	pfam00352	1215337	Trichophyton rubrum MR850	1	20
+334026	pfam00352	2175	Methanohalophilus	1	19
+334026	pfam00352	342409	White spot syndrome virus	1	17
+334026	pfam00352	441960	Talaromyces marneffei ATCC 18224	1	16
+334026	pfam00352	332648	Botrytis cinerea B05.10	1	13
+334026	pfam00352	5478	[Candida] glabrata	1	12
+334026	pfam00352	5599	Alternaria alternata	1	12
+334026	pfam00352	284591	Yarrowia lipolytica CLIB122	1	11
+334026	pfam00352	334819	Fusarium verticillioides 7600	1	11
+334026	pfam00352	426418	Pyrenophora tritici-repentis Pt-1C-BFP	1	11
+334026	pfam00352	510516	Aspergillus oryzae RIB40	1	11
+334026	pfam00352	655844	Metarhizium robertsii ARSEF 23	1	11
+334026	pfam00352	930090	Bipolaris oryzae ATCC 44560	1	11
+334026	pfam00352	3659	Cucumis sativus	1	10
+334026	pfam00352	294750	Cryptococcus gattii VGII R265	1	10
+334026	pfam00352	2261	Pyrococcus furiosus	1	9
+334026	pfam00352	429572	Sulfolobus islandicus L.S.2.15	1	9
+334026	pfam00352	1805096	Crenarchaeota archaeon 13_1_40CM_3_52_17	1	9
+334026	pfam00352	1805398	archaeon CG2_30_31_98	1	9
+334026	pfam00352	342668	Pseudogymnoascus verrucosus	1	8
+334026	pfam00352	1028729	Fusarium pseudograminearum CS3096	1	8
+334026	pfam00352	331117	Aspergillus fischeri NRRL 181	1	7
+334026	pfam00352	559298	Blastomyces gilchristii SLH14081	1	7
+334026	pfam00352	1448313	Aspergillus piperis CBS 112811	1	7
+334026	pfam00352	1455959	uncultured marine thaumarchaeote KM3_03_B08	1	7
+334026	pfam00352	1805007	archaeon 13_1_20CM_2_51_12	1	7
+334026	pfam00352	1805019	archaeon 13_2_20CM_2_52_21	1	7
+334026	pfam00352	2234	Archaeoglobus fulgidus	1	6
+334026	pfam00352	2254	Haloferax lucentense	1	6
+334026	pfam00352	2316	Methanosphaera	1	6
+334026	pfam00352	4896	Schizosaccharomyces pombe	1	6
+334026	pfam00352	55529	Guillardia theta	1	6
+334026	pfam00352	88723	Natrinema	1	6
+334026	pfam00352	145260	Methanothermobacter	1	6
+334026	pfam00352	185431	Trypanosoma brucei brucei TREU927	1	6
+334026	pfam00352	243231	Geobacter sulfurreducens PCA	1	6
+334026	pfam00352	498019	[Candida] auris	1	6
+334026	pfam00352	644223	Komagataella phaffii GS115	1	6
+334026	pfam00352	936046	Agaricus bisporus var. bisporus H97	1	6
+334026	pfam00352	1007082	Nitrosarchaeum	1	6
+334026	pfam00352	1094892	Megavirus chiliensis	1	6
+334026	pfam00352	1257118	Acanthamoeba castellanii str. Neff	1	6
+334026	pfam00352	1333698	Zygosaccharomyces bailii CLIB 213	1	6
+334026	pfam00352	1340429	Rhizopus microsporus ATCC 52813	1	6
+334026	pfam00352	1579364	archaeon GW2011_AR1	1	6
+334026	pfam00352	1805297	Candidatus Pacearchaeota archaeon CG1_02_35_32	1	6
+334026	pfam00352	1805396	Thaumarchaeota archaeon 13_1_40CM_4_48_7	1	6
+334026	pfam00352	2210	Methanosarcina thermophila	1	5
+334026	pfam00352	186928	unclassified Lachnospiraceae	1	5
+334026	pfam00352	212818	Exophiala mesophila	1	5
+334026	pfam00352	242507	Pyricularia oryzae 70-15	1	5
+334026	pfam00352	353151	Cryptosporidium hominis TU502	1	5
+334026	pfam00352	425011	Aspergillus niger CBS 513.88	1	5
+334026	pfam00352	426623	Chaetoceros affinis	1	5
+334026	pfam00352	435258	Leishmania infantum JPCM5	1	5
+334026	pfam00352	452589	Trichoderma atroviride IMI 206040	1	5
+334026	pfam00352	569365	Cladophialophora immunda	1	5
+334026	pfam00352	696472	Ostreococcus tauri virus 2	1	5
+334026	pfam00352	747089	Rhizophagus irregularis DAOM 181602=DAOM 197198	1	5
+334026	pfam00352	1073986	Halobellus	1	5
+334026	pfam00352	1354746	Ordospora colligata OC4	1	5
+334026	pfam00352	1455889	uncultured marine thaumarchaeote AD1000_118_C08	1	5
+334026	pfam00352	1673428	Cuniculiplasma divulgatum	1	5
+334026	pfam00352	1919152	Halobacteriales archaeon QH_2_66_30	1	5
+334026	pfam00352	1970738	Gilliamella apis	1	5
+334026	pfam00352	2190	Methanocaldococcus jannaschii	1	4
+334026	pfam00352	3916	Vigna radiata var. radiata	1	4
+334026	pfam00352	27334	Penicillium expansum	1	4
+334026	pfam00352	29292	Pyrococcus abyssi	1	4
+334026	pfam00352	35743	Halorubrum sodomense	1	4
+334026	pfam00352	114529	Haloferax alexandrinus	1	4
+334026	pfam00352	122368	Cercospora beticola	1	4
+334026	pfam00352	200324	Puccinia coronata var. avenae f. sp. avenae	1	4
+334026	pfam00352	214684	Cryptococcus neoformans var. neoformans JEC21	1	4
+334026	pfam00352	215243	Exophiala oligosperma	1	4
+334026	pfam00352	222929	Coccidioides posadasii C735 delta SOWgp	1	4
+334026	pfam00352	237895	Cryptosporidium hominis	1	4
+334026	pfam00352	348802	Exophiala xenobiotica	1	4
+334026	pfam00352	367110	Neurospora crassa OR74A	1	4
+334026	pfam00352	367775	Cryptococcus gattii WM276	1	4
+334026	pfam00352	431241	Trichoderma reesei QM6a	1	4
+334026	pfam00352	441959	Talaromyces stipitatus ATCC 10500	1	4
+334026	pfam00352	502780	Paracoccidioides brasiliensis Pb18	1	4
+334026	pfam00352	507753	Acidiplasma	1	4
+334026	pfam00352	569857	Staphylococcus microti	1	4
+334026	pfam00352	642926	Ostreococcus tauri virus 1	1	4
+334026	pfam00352	655819	Beauveria bassiana ARSEF 2860	1	4
+334026	pfam00352	690307	Aspergillus aculeatus ATCC 16872	1	4
+334026	pfam00352	881290	Nematocida parisii ERTm1	1	4
+334026	pfam00352	944288	Plicaturopsis crispa FD-325 SS-3	1	4
+334026	pfam00352	983964	Trichoderma harzianum CBS 226.95	1	4
+334026	pfam00352	1073987	Halorientalis	1	4
+334026	pfam00352	1075397	Halolamina	1	4
+334026	pfam00352	1130820	Toxoplasma gondii GAB2-2007-GAL-DOM2	1	4
+334026	pfam00352	1278257	Paramecium bursaria Chlorella virus IL-5-2s1	1	4
+334026	pfam00352	1291540	Candidatus Methanomethylophilus alvus	1	4
+334026	pfam00352	1442368	Fonsecaea pedrosoi CBS 271.37	1	4
+334026	pfam00352	1579378	archaeon GW2011_AR20	1	4
+334026	pfam00352	1650354	Caldivirga sp. MU80	1	4
+334026	pfam00352	1714253	Vulcanisaeta sp. JCHS_4	1	4
+334026	pfam00352	1805098	Crenarchaeota archaeon 13_1_40CM_3_53_5	1	4
+334026	pfam00352	1974420	Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_60_32	1	4
+334026	pfam00352	2056631	Crenarchaeota archaeon	1	4
+334026	pfam00352	2478471	Candidatus Methanodesulfokores washburnensis	1	4
+334026	pfam00352	1773	Mycobacterium tuberculosis	1	3
+334026	pfam00352	2186	Methanothermococcus thermolithotrophicus	1	3
+334026	pfam00352	2187	Methanococcus vannielii	1	3
+334026	pfam00352	2257	Natronomonas pharaonis	1	3
+334026	pfam00352	2271	Thermoproteus tenax	1	3
+334026	pfam00352	2277	Pyrobaculum islandicum	1	3
+334026	pfam00352	2303	Thermoplasma acidophilum	1	3
+334026	pfam00352	5061	Aspergillus niger	1	3
+334026	pfam00352	5075	Penicillium camemberti	1	3
+334026	pfam00352	13773	Pyrobaculum aerophilum	1	3
+334026	pfam00352	28231	Geobacter	1	3
+334026	pfam00352	40302	Nosema ceranae	1	3
+334026	pfam00352	42879	Methanococcus aeolicus	1	3
+334026	pfam00352	46631	Picrophilus	1	3
+334026	pfam00352	50339	Thermoplasma volcanium	1	3
+334026	pfam00352	53953	Pyrococcus horikoshii	1	3
+334026	pfam00352	54262	Thermococcus chitonophagus	1	3
+334026	pfam00352	70448	Ostreococcus tauri	1	3
+334026	pfam00352	74968	Ferroplasma	1	3
+334026	pfam00352	77214	Eidolon helvum	1	3
+334026	pfam00352	114155	Dichomitus squalens	1	3
+334026	pfam00352	129788	Ruditapes philippinarum	1	3
+334026	pfam00352	134813	Natronorubrum	1	3
+334026	pfam00352	178306	Pyrobaculum aerophilum str. IM2	1	3
+334026	pfam00352	183478	Stemphylium lycopersici	1	3
+334026	pfam00352	184922	Giardia lamblia ATCC 50803	1	3
+334026	pfam00352	189381	Bacillus marisflavi	1	3
+334026	pfam00352	203135	Halomicrobium	1	3
+334026	pfam00352	240269	Paramecium bursaria Chlorella virus AN69C	1	3
+334026	pfam00352	272557	Aeropyrum pernix K1	1	3
+334026	pfam00352	284811	Eremothecium gossypii ATCC 10895	1	3
+334026	pfam00352	294671	Methanobrevibacter olleyae	1	3
+334026	pfam00352	306902	Clavispora lusitaniae ATCC 42720	1	3
+334026	pfam00352	311458	Candidatus Caldiarchaeum subterraneum	1	3
+334026	pfam00352	330879	Aspergillus fumigatus Af293	1	3
+334026	pfam00352	332953	Halovivax asiaticus	1	3
+334026	pfam00352	335819	Halorubrum chaoviator	1	3
+334026	pfam00352	340102	Pyrobaculum arsenaticum DSM 13514	1	3
+334026	pfam00352	346932	Paramecium bursaria chlorella virus MT325	1	3
+334026	pfam00352	352472	Dictyostelium discoideum AX4	1	3
+334026	pfam00352	365659	Streptococcus mitis B6	1	3
+334026	pfam00352	404692	Coccidioides immitis RMSCC 2394	1	3
+334026	pfam00352	413810	Halalkalicoccus jeotgali	1	3
+334026	pfam00352	447093	Histoplasma capsulatum G186AR	1	3
+334026	pfam00352	468558	Saccharomyces cerevisiae YJM326	1	3
+334026	pfam00352	498846	Candidatus Korarchaeum cryptofilum	1	3
+334026	pfam00352	500485	Penicillium rubens Wisconsin 54-1255	1	3
+334026	pfam00352	510951	Neurospora tetrasperma FGSC 2508	1	3
+334026	pfam00352	559295	Lachancea thermotolerans CBS 6340	1	3
+334026	pfam00352	578456	Tremella mesenterica DSM 1558	1	3
+334026	pfam00352	578457	Serpula lacrymans var. lacrymans S7.9	1	3
+334026	pfam00352	699433	Halobellus limi	1	3
+334026	pfam00352	760845	Streptococcus pneumoniae GA47751	1	3
+334026	pfam00352	880162	Ostreococcus lucimarinus virus 1	1	3
+334026	pfam00352	983966	Cyberlindnera jadinii NRRL Y-1542	1	3
+334026	pfam00352	1003335	Kluyveromyces marxianus DMKU3-1042	1	3
+334026	pfam00352	1077256	Methanosphaera cuniculi	1	3
+334026	pfam00352	1116229	Glarea lozoyensis ATCC 20868	1	3
+334026	pfam00352	1128135	Megavirus courdo7	1	3
+334026	pfam00352	1130832	Rhodotorula toruloides NP11	1	3
+334026	pfam00352	1170230	Penicillium digitatum Pd1	1	3
+334026	pfam00352	1186058	Trichosporon asahii var. asahii CBS 2479	1	3
+334026	pfam00352	1230383	Malassezia sympodialis ATCC 42132	1	3
+334026	pfam00352	1238427	Halonotius sp. J07HN6	1	3
+334026	pfam00352	1239793	Streptococcus mitis 13/39	1	3
+334026	pfam00352	1273541	Pyrodictium delaneyi	1	3
+334026	pfam00352	1280523	Stachybotrys chartarum IBT 7711	1	3
+334026	pfam00352	1299270	Wallemia ichthyophaga EXF-994	1	3
+334026	pfam00352	1380566	Pochonia chlamydosporia 170	1	3
+334026	pfam00352	1437362	Aspergillus fumigatus Z5	1	3
+334026	pfam00352	1442371	Fonsecaea multimorphosa CBS 102226	1	3
+334026	pfam00352	1579342	Streptococcus sp. 343_SSPC	1	3
+334026	pfam00352	1609559	Pyrococcus kukulkanii	1	3
+334026	pfam00352	1698272	candidate division MSBL1 archaeon SCGC-AAA261C02	1	3
+334026	pfam00352	1708541	Wallemia mellicola	1	3
+334026	pfam00352	1759399	Streptococcus sp. A12	1	3
+334026	pfam00352	1805020	archaeon 13_2_20CM_2_53_6	1	3
+334026	pfam00352	1805294	Candidatus Pacearchaeota archaeon CG1_02_31_27	1	3
+334026	pfam00352	1873524	Halodesulfurarchaeum formicicum	1	3
+334026	pfam00352	1919166	Halobacteriales archaeon QH_9_66_26	1	3
+334026	pfam00352	1919175	Halobacteriales archaeon QS_4_69_225	1	3
+334026	pfam00352	1974459	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_33_12	1	3
+334026	pfam00352	1978160	Candidatus Marsarchaeota G2 archaeon ECH_B_2	1	3
+334026	pfam00352	1986686	Euryarchaeota archaeon TMED141	1	3
+334026	pfam00352	2070412	Rutstroemia sp. NJR-2017a WRK4	1	3
+334026	pfam00352	2518119	Halorubrum sp. SS7	1	3
+334026	pfam00352	1993	Actinomadura madurae	1	2
+334026	pfam00352	2064	Kitasatospora griseola	1	2
+334026	pfam00352	2180	Methanothermus fervidus	1	2
+334026	pfam00352	2188	Methanococcus voltae	1	2
+334026	pfam00352	2189	Methanotorris igneus	1	2
+334026	pfam00352	2221	Methanolobus tindarius	1	2
+334026	pfam00352	2275	Desulfurococcus mucosus	1	2
+334026	pfam00352	2280	Staphylothermus marinus	1	2
+334026	pfam00352	2769	Chondrus crispus	1	2
+334026	pfam00352	2898	Cryptomonas paramecium	1	2
+334026	pfam00352	3055	Chlamydomonas reinhardtii	1	2
+334026	pfam00352	3544	Mesembryanthemum crystallinum	1	2
+334026	pfam00352	4950	Torulaspora delbrueckii	1	2
+334026	pfam00352	4999	Kockovaella imperatae	1	2
+334026	pfam00352	5601	Phialophora americana	1	2
+334026	pfam00352	5679	Leishmania panamensis	1	2
+334026	pfam00352	5698	Trypanosoma rangeli	1	2
+334026	pfam00352	5786	Dictyostelium purpureum	1	2
+334026	pfam00352	5804	Eimeria maxima	1	2
+334026	pfam00352	5911	Tetrahymena thermophila	1	2
+334026	pfam00352	5932	Ichthyophthirius multifiliis	1	2
+334026	pfam00352	6204	Taenia solium	1	2
+334026	pfam00352	6661	Artemia franciscana	1	2
+334026	pfam00352	10506	Paramecium bursaria Chlorella virus 1	1	2
+334026	pfam00352	12968	Blastocystis hominis	1	2
+334026	pfam00352	28985	Kluyveromyces lactis	1	2
+334026	pfam00352	29284	Halorubrum trapanicum	1	2
+334026	pfam00352	29295	halophilic archaeon	1	2
+334026	pfam00352	35554	Geobacter sulfurreducens	1	2
+334026	pfam00352	35862	Acetabularia peniculus	1	2
+334026	pfam00352	36738	Halococcus salifodinae	1	2
+334026	pfam00352	37360	Plasmodiophora brassicae	1	2
+334026	pfam00352	37927	Sinomonas atrocyanea	1	2
+334026	pfam00352	38027	Methanosarcina siciliae	1	2
+334026	pfam00352	38038	Rhynchosporium secalis	1	2
+334026	pfam00352	39669	Methanosalsum zhilinae	1	2
+334026	pfam00352	40998	Elsinoe australis	1	2
+334026	pfam00352	41067	Aspergillus candidus	1	2
+334026	pfam00352	41673	Acidianus brierleyi	1	2
+334026	pfam00352	41875	Bathycoccus prasinos	1	2
+334026	pfam00352	42251	Tuber borchii	1	2
+334026	pfam00352	43049	Tilletia indica	1	2
+334026	pfam00352	44056	Aureococcus anophagefferens	1	2
+334026	pfam00352	44470	Natronococcus amylolyticus	1	2
+334026	pfam00352	45286	Eremothecium sinecaudum	1	2
+334026	pfam00352	45351	Nematostella vectensis	1	2
+334026	pfam00352	45354	[Candida] intermedia	1	2
+334026	pfam00352	45357	[Candida] haemulonis	1	2
+334026	pfam00352	45607	Wickerhamiella sorbophila	1	2
+334026	pfam00352	46021	Paramecium bursaria Chlorella virus NY2A	1	2
+334026	pfam00352	47311	Methanobrevibacter cuticularis	1	2
+334026	pfam00352	49012	Sporisorium scitamineum	1	2
+334026	pfam00352	49547	Methanobrevibacter curvatus	1	2
+334026	pfam00352	49899	Thermococcus profundus	1	2
+334026	pfam00352	50429	Stylophora pistillata	1	2
+334026	pfam00352	51589	Haloarcula hispanica	1	2
+334026	pfam00352	53952	Thermococcus peptonophilus	1	2
+334026	pfam00352	54077	Thermococcus barossii	1	2
+334026	pfam00352	54252	Pyrolobus fumarii	1	2
+334026	pfam00352	54254	Thermosphaera aggregans	1	2
+334026	pfam00352	54259	Ignicoccus islandicus	1	2
+334026	pfam00352	54261	Ferroglobus placidus	1	2
+334026	pfam00352	55758	Methanobrevibacter filiformis	1	2
+334026	pfam00352	56646	Fusarium venenatum	1	2
+334026	pfam00352	58290	Archaeoglobus veneficus	1	2
+334026	pfam00352	58627	Debaryomyces fabryi	1	2
+334026	pfam00352	58853	Trichoderma citrinoviride	1	2
+334026	pfam00352	58919	Tilletiopsis washingtonensis	1	2
+334026	pfam00352	61424	Furculomyces boomerangus	1	2
+334026	pfam00352	62319	Halococcus saccharolyticus	1	2
+334026	pfam00352	64571	Lobosporangium transversale	1	2
+334026	pfam00352	66851	Methanobrevibacter oralis	1	2
+334026	pfam00352	67003	Trypanosoma theileri	1	2
+334026	pfam00352	67760	Methanocaldococcus infernus	1	2
+334026	pfam00352	70779	Acropora digitifera	1	2
+334026	pfam00352	71804	Trypanosoma grayi	1	2
+334026	pfam00352	71997	Thermococcus gorgonarius	1	2
+334026	pfam00352	71998	Thermococcus pacificus	1	2
+334026	pfam00352	72803	Thermococcus siculi	1	2
+334026	pfam00352	73239	Plasmodium yoelii yoelii	1	2
+334026	pfam00352	73913	Methanocaldococcus vulcanius	1	2
+334026	pfam00352	76775	Malassezia restricta	1	2
+334026	pfam00352	76887	Caldivirga maquilingensis	1	2
+334026	pfam00352	77020	Malassezia pachydermatis	1	2
+334026	pfam00352	79601	Metallosphaera hakonensis	1	2
+334026	pfam00352	83171	Methanocaldococcus fervens	1	2
+334026	pfam00352	83816	Methanobrevibacter ruminantium	1	2
+334026	pfam00352	83891	Trypanosoma conorhini	1	2
+334026	pfam00352	84156	Archaeoglobus profundus	1	2
+334026	pfam00352	84599	Staphylothermus hellenicus	1	2
+334026	pfam00352	84753	Moesziomyces antarcticus	1	2
+334026	pfam00352	86259	Venturia nashicola	1	2
+334026	pfam00352	88087	Protobothrops flavoviridis	1	2
+334026	pfam00352	88724	Natrinema versiforme	1	2
+334026	pfam00352	88771	Ceratocystis platani	1	2
+334026	pfam00352	91560	Methanimicrococcus blatticola	1	2
+334026	pfam00352	91928	Exophiala spinifera	1	2
+334026	pfam00352	97195	Heterosigma akashiwo virus 01	1	2
+334026	pfam00352	98403	Drechmeria coniospora	1	2
+334026	pfam00352	101192	Methanomethylovorans hollandica	1	2
+334026	pfam00352	104259	Penicillium brasilianum	1	2
+334026	pfam00352	104782	Adineta vaga	1	2
+334026	pfam00352	105984	Apiotrichum porosum	1	2
+334026	pfam00352	109264	Aspergillus bombycis	1	2
+334026	pfam00352	113226	Pseudocercospora musae	1	2
+334026	pfam00352	113653	Geoglobus ahangari	1	2
+334026	pfam00352	118062	Methanobacterium congolense	1	2
+334026	pfam00352	120017	Ustilago hordei	1	2
+334026	pfam00352	121872	Haloterrigena thermotolerans	1	2
+334026	pfam00352	122420	Thermococcus sp. P6	1	2
+334026	pfam00352	130081	Galdieria sulphuraria	1	2
+334026	pfam00352	130454	Arachis ipaensis	1	2
+334026	pfam00352	139825	Sparassis crispa	1	2
+334026	pfam00352	145261	Methanothermobacter wolfeii	1	2
+334026	pfam00352	145263	Methanothermobacter marburgensis	1	2
+334026	pfam00352	145388	Monoraphidium neglectum	1	2
+334026	pfam00352	148449	Halopiger aswanensis	1	2
+334026	pfam00352	149040	Phialocephala scopiformis	1	2
+334026	pfam00352	155417	Monosporascus ibericus	1	2
+334026	pfam00352	155863	Methanothermococcus okinawensis	1	2
+334026	pfam00352	156630	Alternaria arborescens	1	2
+334026	pfam00352	157538	Leptomonas pyrrhocoris	1	2
+334026	pfam00352	160233	Ignicoccus hospitalis	1	2
+334026	pfam00352	160846	Natrialba taiwanensis	1	2
+334026	pfam00352	164451	Vulcanisaeta distributa	1	2
+334026	pfam00352	171164	Halosimplex carlsbadense	1	2
+334026	pfam00352	184117	Thermoproteus uzoniensis	1	2
+334026	pfam00352	187880	Thermococcus radiotolerans	1	2
+334026	pfam00352	189622	Babesia ovata	1	2
+334026	pfam00352	190192	Methanopyrus kandleri AV19	1	2
+334026	pfam00352	190976	Methanobrevibacter woesei	1	2
+334026	pfam00352	195522	Thermococcus nautili	1	2
+334026	pfam00352	215250	Acaromyces ingoldii	1	2
+334026	pfam00352	225164	Lottia gigantea	1	2
+334026	pfam00352	227086	Bigelowiella natans	1	2
+334026	pfam00352	227598	Thermococcus celericrescens	1	2
+334026	pfam00352	229980	Aeropyrum camini	1	2
+334026	pfam00352	230361	Methanobrevibacter millerae	1	2
+334026	pfam00352	236234	Diplodia corticola	1	2
+334026	pfam00352	237631	Ustilago maydis 521	1	2
+334026	pfam00352	240176	Coprinopsis cinerea okayama7#130	1	2
+334026	pfam00352	242703	Acidilobus saccharovorans	1	2
+334026	pfam00352	243232	Methanocaldococcus jannaschii DSM 2661	1	2
+334026	pfam00352	244363	Haloarcula californiae	1	2
+334026	pfam00352	245562	Acidomyces richmondensis	1	2
+334026	pfam00352	246410	Coccidioides immitis RS	1	2
+334026	pfam00352	253108	Natronolimnobius baerhuensis	1	2
+334026	pfam00352	255616	Haloferax sulfurifontis	1	2
+334026	pfam00352	261388	Ferroplasma sp. Type II	1	2
+334026	pfam00352	261658	Cavenderia fasciculata	1	2
+334026	pfam00352	264951	Byssochlamys spectabilis	1	2
+334026	pfam00352	267368	Halorubrum terrestre	1	2
+334026	pfam00352	280463	Emiliania huxleyi CCMP1516	1	2
+334026	pfam00352	280699	Cyanidioschyzon merolae strain 10D	1	2
+334026	pfam00352	284592	Debaryomyces hansenii CBS767	1	2
+334026	pfam00352	289078	Microbotryum saponariae	1	2
+334026	pfam00352	294746	Meyerozyma guilliermondii ATCC 6260	1	2
+334026	pfam00352	294747	Candida tropicalis MYA-3404	1	2
+334026	pfam00352	296543	Thalassiosira pseudonana CCMP1335	1	2
+334026	pfam00352	296587	Micromonas commoda	1	2
+334026	pfam00352	303518	Pundamilia nyererei	1	2
+334026	pfam00352	308745	Aspergillus rambellii	1	2
+334026	pfam00352	311400	Thermococcus kodakarensis	1	2
+334026	pfam00352	312539	Acidianus sulfidivorans	1	2
+334026	pfam00352	312540	Acidiplasma cupricumulans	1	2
+334026	pfam00352	321614	Parastagonospora nodorum SN15	1	2
+334026	pfam00352	322019	Acanthocystis turfacea chlorella virus 1	1	2
+334026	pfam00352	322104	Scheffersomyces stipitis CBS 6054	1	2
+334026	pfam00352	336963	Uncinocarpus reesii 1704	1	2
+334026	pfam00352	339724	Histoplasma capsulatum NAm1	1	2
+334026	pfam00352	341663	Aspergillus terreus NIH2624	1	2
+334026	pfam00352	342949	Pyrococcus sp. NA2	1	2
+334026	pfam00352	344612	Aspergillus clavatus NRRL 1	1	2
+334026	pfam00352	345164	Falco cherrug	1	2
+334026	pfam00352	347515	Leishmania major strain Friedlin	1	2
+334026	pfam00352	349307	Methanothrix thermoacetophila PT	1	2
+334026	pfam00352	368623	Halorubrum aidingense	1	2
+334026	pfam00352	373386	Natrinema ejinorense	1	2
+334026	pfam00352	379508	Lodderomyces elongisporus NRRL YB-4239	1	2
+334026	pfam00352	379547	Aciduliprofundum boonei	1	2
+334026	pfam00352	380598	Paramecium bursaria Chlorella virus AR158	1	2
+334026	pfam00352	383855	Pseudocercospora fijiensis CIRAD86	1	2
+334026	pfam00352	385388	Camellia oleifera	1	2
+334026	pfam00352	399549	Metallosphaera sedula DSM 5348	1	2
+334026	pfam00352	399781	Paramecium bursaria Chlorella virus FR483	1	2
+334026	pfam00352	400092	Pontibacter korlensis	1	2
+334026	pfam00352	402676	Schizosaccharomyces japonicus yFS275	1	2
+334026	pfam00352	410359	Pyrobaculum calidifontis JCM 11548	1	2
+334026	pfam00352	413071	Trichoderma virens Gv29-8	1	2
+334026	pfam00352	418008	Methanosarcina horonobensis	1	2
+334026	pfam00352	418459	Puccinia graminis f. sp. tritici CRL 75-36-700-3	1	2
+334026	pfam00352	418784	[Candida] pseudohaemulonis	1	2
+334026	pfam00352	419186	Natrinema gari	1	2
+334026	pfam00352	420245	Leishmania braziliensis MHOM/BR/75/M2904	1	2
+334026	pfam00352	425265	Malassezia globosa CBS 7966	1	2
+334026	pfam00352	436017	Ostreococcus lucimarinus CCE9901	1	2
+334026	pfam00352	436907	Vanderwaltozyma polyspora DSM 70294	1	2
+334026	pfam00352	439481	Aciduliprofundum boonei T469	1	2
+334026	pfam00352	444157	Pyrobaculum neutrophilum V24Sta	1	2
+334026	pfam00352	447095	Blastomyces dermatitidis ATCC 26199	1	2
+334026	pfam00352	460523	Ogataea polymorpha	1	2
+334026	pfam00352	461836	Thecamonas trahens ATCC 50062	1	2
+334026	pfam00352	464988	Hemiselmis andersenii	1	2
+334026	pfam00352	478441	Halorubrum kocurii	1	2
+334026	pfam00352	483514	Schizosaccharomyces octosporus yFS286	1	2
+334026	pfam00352	487685	Methanolobus profundi	1	2
+334026	pfam00352	502779	Paracoccidioides lutzii Pb01	1	2
+334026	pfam00352	526221	Verticillium alfalfae VaMs.102	1	2
+334026	pfam00352	535722	Nannizzia gypsea CBS 118893	1	2
+334026	pfam00352	553468	Haladaptatus litoreus	1	2
+334026	pfam00352	554065	Chlorella variabilis	1	2
+334026	pfam00352	554155	Microsporum canis CBS 113480	1	2
+334026	pfam00352	556484	Phaeodactylum tricornutum CCAP 1055/1	1	2
+334026	pfam00352	559304	Millerozyma farinosa CBS 7064	1	2
+334026	pfam00352	563038	Streptococcus sp. M334	1	2
+334026	pfam00352	563177	Acidianus hospitalis	1	2
+334026	pfam00352	563466	Scedosporium apiospermum	1	2
+334026	pfam00352	564608	Micromonas pusilla CCMP1545	1	2
+334026	pfam00352	565033	Geoglobus acetivorans	1	2
+334026	pfam00352	573826	Candida dubliniensis CD36	1	2
+334026	pfam00352	574566	Coccomyxa subellipsoidea C-169	1	2
+334026	pfam00352	578458	Schizophyllum commune H4-8	1	2
+334026	pfam00352	578459	Rhodotorula graminis WP1	1	2
+334026	pfam00352	590646	Yamadazyma tenuis ATCC 10573	1	2
+334026	pfam00352	595528	Capsaspora owczarzaki ATCC 30864	1	2
+334026	pfam00352	597362	Agaricus bisporus var. burnettii JB137-S8	1	2
+334026	pfam00352	599839	Fibroporia radiculosa	1	2
+334026	pfam00352	619300	Spathaspora passalidarum NRRL Y-27907	1	2
+334026	pfam00352	634157	Halorubrum sp. PV6	1	2
+334026	pfam00352	637915	Methanococcus maripaludis OS7	1	2
+334026	pfam00352	638849	Pyramidobacter piscolens	1	2
+334026	pfam00352	644281	Methanocaldococcus sp. FS406-22	1	2
+334026	pfam00352	644352	Gaeumannomyces tritici R3-111a-1	1	2
+334026	pfam00352	645133	Colletotrichum graminicola M1.001	1	2
+334026	pfam00352	645134	Spizellomyces punctatus DAOM BR117	1	2
+334026	pfam00352	650164	Phanerochaete carnosa HHB-10118-sp	1	2
+334026	pfam00352	653667	Schizosaccharomyces cryophilus OY26	1	2
+334026	pfam00352	655827	Metarhizium acridum CQMa 102	1	2
+334026	pfam00352	655981	Pseudogymnoascus destructans	1	2
+334026	pfam00352	656061	Tuber melanosporum Mel28	1	2
+334026	pfam00352	658083	Lachnospiraceae bacterium 6_1_63FAA	1	2
+334026	pfam00352	663202	Trichophyton verrucosum HKI 0517	1	2
+334026	pfam00352	663331	Trichophyton benhamiae CBS 112371	1	2
+334026	pfam00352	667126	Methanocaldococcus villosus	1	2
+334026	pfam00352	667725	Sphaeroforma arctica JP610	1	2
+334026	pfam00352	670386	Heterostelium album PN500	1	2
+334026	pfam00352	670483	Gloeophyllum trabeum ATCC 11539	1	2
+334026	pfam00352	670580	Postia placenta MAD-698-R-SB12	1	2
+334026	pfam00352	671145	Halomarina oriensis	1	2
+334026	pfam00352	671987	Exserohilum turcica Et28A	1	2
+334026	pfam00352	673860	Aciduliprofundum sp. MAR08-339	1	2
+334026	pfam00352	680118	Methanothermobacter tenebrarum	1	2
+334026	pfam00352	683846	Fervidicoccus fontis	1	2
+334026	pfam00352	683960	Wickerhamomyces anomalus NRRL Y-366-8	1	2
+334026	pfam00352	684364	Batrachochytrium dendrobatidis JAM81	1	2
+334026	pfam00352	691883	Fonticula alba	1	2
+334026	pfam00352	692275	Sphaerulina musiva SO2202	1	2
+334026	pfam00352	693272	Cafeteria roenbergensis virus BV-PW1	1	2
+334026	pfam00352	693851	Halogranum salarium	1	2
+334026	pfam00352	694068	Fomitiporia mediterranea MF3/22	1	2
+334026	pfam00352	703756	Colletotrichum simmondsii	1	2
+334026	pfam00352	717646	Baudoinia panamericana UAMH 10762	1	2
+334026	pfam00352	717944	Trametes versicolor FP-101664 SS1	1	2
+334026	pfam00352	732165	Dichomitus squalens LYAD-421 SS1	1	2
+334026	pfam00352	741275	Punctularia strigosozonata HHB-11173 SS5	1	2
+334026	pfam00352	741705	Coniophora puteana RWD-64-598 SS2	1	2
+334026	pfam00352	744533	Naegleria gruberi strain NEG-M	1	2
+334026	pfam00352	747676	Melampsora larici-populina 98AG31	1	2
+334026	pfam00352	755272	Micromonas pusilla virus 12T	1	2
+334026	pfam00352	756982	Arthrobotrys oligospora ATCC 24927	1	2
+334026	pfam00352	759272	Chaetomium thermophilum var. thermophilum DSM 1495	1	2
+334026	pfam00352	763406	Pichia membranifaciens NRRL Y-2026	1	2
+334026	pfam00352	767519	Halomicrobium zhouii	1	2
+334026	pfam00352	771870	Sordaria macrospora k-hell	1	2
+334026	pfam00352	856822	Fonsecaea nubica	1	2
+334026	pfam00352	857342	Amorphotheca resinae ATCC 22711	1	2
+334026	pfam00352	858893	Exophiala dermatitidis NIH/UT8656	1	2
+334026	pfam00352	868131	Methanobacterium paludis	1	2
+334026	pfam00352	869309	Streptococcus pneumoniae SPNA45	1	2
+334026	pfam00352	869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993	1	2
+334026	pfam00352	871575	Ogataea parapolymorpha DL-1	1	2
+334026	pfam00352	876142	Encephalitozoon intestinalis ATCC 50506	1	2
+334026	pfam00352	877455	Methanobacterium lacus	1	2
+334026	pfam00352	879819	Cutaneotrichosporon oleaginosum	1	2
+334026	pfam00352	880159	Bathycoccus sp. RCC1105 virus BpV1	1	2
+334026	pfam00352	907965	Encephalitozoon hellem ATCC 50504	1	2
+334026	pfam00352	929439	Leishmania mexicana MHOM/GT/2001/U1103	1	2
+334026	pfam00352	931890	Eremothecium cymbalariae DBVPG#7215	1	2
+334026	pfam00352	943167	Toxoplasma gondii FOU	1	2
+334026	pfam00352	944170	Blastocystis sp. subtype 4	1	2
+334026	pfam00352	948595	Vavraia culicis subsp. floridensis	1	2
+334026	pfam00352	983644	Cordyceps militaris CM01	1	2
+334026	pfam00352	984485	Hyphopichia burtonii NRRL Y-1933	1	2
+334026	pfam00352	984486	Babjeviella inositovora NRRL Y-12698	1	2
+334026	pfam00352	984487	Suhomyces tanzawaensis NRRL Y-17324	1	2
+334026	pfam00352	985052	Vulcanisaeta moutnovskia	1	2
+334026	pfam00352	985895	Leptosphaeria maculans JN3	1	2
+334026	pfam00352	990316	Methanothrix soehngenii GP6	1	2
+334026	pfam00352	990650	Sphaerobolus stellatus SS14	1	2
+334026	pfam00352	993615	Vittaforma corneae ATCC 50505	1	2
+334026	pfam00352	996166	Haloarchaeobius iranensis	1	2
+334026	pfam00352	999809	Sporisorium reilianum SRZ2	1	2
+334026	pfam00352	1001937	Hypoxylon sp. EC38	1	2
+334026	pfam00352	1008460	Pyrococcus yayanosii	1	2
+334026	pfam00352	1016849	Exophiala sideris	1	2
+334026	pfam00352	1028566	Sulfolobus acidocaldarius N8	1	2
+334026	pfam00352	1036679	Methanosarcina spelaei	1	2
+334026	pfam00352	1037660	Tilletiaria anomala UBC 951	1	2
+334026	pfam00352	1041607	Wickerhamomyces ciferrii	1	2
+334026	pfam00352	1043004	Aureobasidium namibiae CBS 147.97	1	2
+334026	pfam00352	1043005	Aureobasidium subglaciale EXF-2481	1	2
+334026	pfam00352	1051616	Verticillium nonalfalfae	1	2
+334026	pfam00352	1064592	Naumovozyma castellii CBS 4309	1	2
+334026	pfam00352	1069201	Aspergillus luchuensis	1	2
+334026	pfam00352	1069680	Pneumocystis murina B123	1	2
+334026	pfam00352	1071378	Naumovozyma dairenensis CBS 421	1	2
+334026	pfam00352	1071380	Tetrapisispora blattae CBS 6284	1	2
+334026	pfam00352	1071381	Tetrapisispora phaffii CBS 4417	1	2
+334026	pfam00352	1071382	Kazachstania africana CBS 2517	1	2
+334026	pfam00352	1071383	Kazachstania naganishii CBS 8797	1	2
+334026	pfam00352	1072389	Marssonina brunnea f. sp. 'multigermtubi' MB_m1	1	2
+334026	pfam00352	1074872	Toxoplasma gondii ARI	1	2
+334026	pfam00352	1080349	Saccharomyces eubayanus	1	2
+334026	pfam00352	1081104	Cordyceps fumosorosea ARSEF 2679	1	2
+334026	pfam00352	1086054	Rhizoctonia solani AG-3 Rhs1AP	1	2
+334026	pfam00352	1095630	Meliniomyces bicolor E	1	2
+334026	pfam00352	1095631	Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7	1	2
+334026	pfam00352	1095778	Natronobacterium texcoconense	1	2
+334026	pfam00352	1124627	Brettanomyces bruxellensis AWRI1499	1	2
+334026	pfam00352	1136231	Candida orthopsilosis Co 90-125	1	2
+334026	pfam00352	1151754	Moesziomyces antarcticus T-34	1	2
+334026	pfam00352	1156431	Streptococcus sp. I-G2	1	2
+334026	pfam00352	1160497	Aspergillus glaucus CBS 516.65	1	2
+334026	pfam00352	1165861	Puccinia striiformis f. sp. tritici PST-78	1	2
+334026	pfam00352	1175444	Methanocella conradii	1	2
+334026	pfam00352	1175445	Methanocella arvoryzae	1	2
+334026	pfam00352	1178016	Encephalitozoon romaleae SJ-2008	1	2
+334026	pfam00352	1182541	Capronia coronata CBS 617.96	1	2
+334026	pfam00352	1182542	Capronia epimyces CBS 606.96	1	2
+334026	pfam00352	1182543	Cladophialophora psammophila CBS 110553	1	2
+334026	pfam00352	1182544	Cladophialophora yegresii CBS 114405	1	2
+334026	pfam00352	1182545	Exophiala aquamarina CBS 119918	1	2
+334026	pfam00352	1183377	Pyrococcus sp. ST04	1	2
+334026	pfam00352	1198029	Neolecta irregularis DAH-3	1	2
+334026	pfam00352	1200300	Thermogladius calderae	1	2
+334026	pfam00352	1209926	Colletotrichum orchidophilum	1	2
+334026	pfam00352	1213857	Colletotrichum orbiculare MAFF 240422	1	2
+334026	pfam00352	1220924	Cyphellophora europaea CBS 101466	1	2
+334026	pfam00352	1227480	Halorubrum hochstenium	1	2
+334026	pfam00352	1229662	Pestalotiopsis fici W106-1	1	2
+334026	pfam00352	1231522	[Candida] duobushaemulonis	1	2
+334026	pfam00352	1234680	Streptococcus rubneri	1	2
+334026	pfam00352	1239792	Streptococcus mitis 11/5	1	2
+334026	pfam00352	1243180	Haloferax sp. BAB2207	1	2
+334026	pfam00352	1245769	Lachancea lanzarotensis	1	2
+334026	pfam00352	1246595	Hanseniaspora uvarum DSM 2768	1	2
+334026	pfam00352	1260918	Mycobacterium fragae	1	2
+334026	pfam00352	1263415	Endocarpon pusillum Z07020	1	2
+334026	pfam00352	1277687	Anthracocystis flocculosa PF-1	1	2
+334026	pfam00352	1278253	Paramecium bursaria Chlorella virus CviKI	1	2
+334026	pfam00352	1278255	Paramecium bursaria Chlorella virus Fr5L	1	2
+334026	pfam00352	1278271	Acanthocystis turfacea Chlorella virus GM0701.1	1	2
+334026	pfam00352	1278275	Acanthocystis turfacea Chlorella virus NE-JV-3	1	2
+334026	pfam00352	1279043	Cladophialophora carrionii CBS 160.54	1	2
+334026	pfam00352	1280837	Meira miltonrushii	1	2
+334026	pfam00352	1286976	Phaeoacremonium minimum UCRPA7	1	2
+334026	pfam00352	1295528	Tsuchiyaea wingfieldii CBS 7118	1	2
+334026	pfam00352	1295531	Cryptococcus depauperatus CBS 7841	1	2
+334026	pfam00352	1295533	Cryptococcus amylolentus CBS 6039	1	2
+334026	pfam00352	1296096	Kwoniella pini CBS 10737	1	2
+334026	pfam00352	1296100	Kwoniella bestiolae CBS 10118	1	2
+334026	pfam00352	1296112	Cryptococcus gattii Ru294	1	2
+334026	pfam00352	1296121	Kwoniella dejecticola CBS 10117	1	2
+334026	pfam00352	1296122	Kwoniella mangroviensis CBS 8507	1	2
+334026	pfam00352	1305764	Pseudozyma hubeiensis SY62	1	2
+334026	pfam00352	1314773	Sodiomyces alkalinus F11	1	2
+334026	pfam00352	1328759	Lentinus tigrinus ALCF2SS1-6	1	2
+334026	pfam00352	1328760	Xylona heveae TC161	1	2
+334026	pfam00352	1333523	Salinarchaeum sp. Harcht-Bsk1	1	2
+334026	pfam00352	1340484	Streptococcus mitis 17/34	1	2
+334026	pfam00352	1340485	Streptococcus mitis 18/56	1	2
+334026	pfam00352	1340486	Streptococcus mitis 29/42	1	2
+334026	pfam00352	1344418	Ascoidea rubescens DSM 1968	1	2
+334026	pfam00352	1347390	Colletotrichum spinosum	1	2
+334026	pfam00352	1365176	Thermofilum adornatus	1	2
+334026	pfam00352	1365824	Kalmanozyma brasiliensis GHG001	1	2
+334026	pfam00352	1367422	Fonsecaea erecta	1	2
+334026	pfam00352	1379702	Methanobacterium sp. MB1	1	2
+334026	pfam00352	1382522	Kuraishia capsulata CBS 1993	1	2
+334026	pfam00352	1383843	Halorubrum sp. Eb13	1	2
+334026	pfam00352	1392248	Aspergillus campestris IBT 28561	1	2
+334026	pfam00352	1392250	Aspergillus steynii IBT 23096	1	2
+334026	pfam00352	1392255	Aspergillus novofumigatus IBT 16806	1	2
+334026	pfam00352	1403190	Aspergillus parasiticus SU-1	1	2
+334026	pfam00352	1408163	Rasamsonia emersonii CBS 393.64	1	2
+334026	pfam00352	1408657	Pneumocystis jirovecii RU7	1	2
+334026	pfam00352	1408658	Pneumocystis carinii B80	1	2
+334026	pfam00352	1410327	Acytostelium subglobosum LB1	1	2
+334026	pfam00352	1410573	uncultured Acidilobus sp. MG	1	2
+334026	pfam00352	1415758	Streptococcus pseudopneumoniae G42	1	2
+334026	pfam00352	1420913	Pseudogymnoascus sp. VKM F-4518 (FW-2643)	1	2
+334026	pfam00352	1433513	Streptococcus sp. ChDC B345	1	2
+334026	pfam00352	1434100	Methanosarcina sp. MTP4	1	2
+334026	pfam00352	1441469	Talaromyces atroroseus	1	2
+334026	pfam00352	1442369	Rhinocladiella mackenziei CBS 650.93	1	2
+334026	pfam00352	1442370	Cladophialophora bantiana CBS 173.52	1	2
+334026	pfam00352	1448310	Aspergillus neoniger CBS 115656	1	2
+334026	pfam00352	1448314	Aspergillus eucalypticola CBS 122712	1	2
+334026	pfam00352	1448315	Aspergillus uvarum CBS 121591	1	2
+334026	pfam00352	1448321	Aspergillus heteromorphus CBS 117.55	1	2
+334026	pfam00352	1450533	Aspergillus lacticoffeatus CBS 101883	1	2
+334026	pfam00352	1450534	Aspergillus brunneoviolaceus CBS 621.78	1	2
+334026	pfam00352	1450535	Aspergillus sclerotioniger CBS 115572	1	2
+334026	pfam00352	1450539	Aspergillus saccharolyticus JOP 1030-1	1	2
+334026	pfam00352	1455988	uncultured marine thaumarchaeote KM3_115_A11	1	2
+334026	pfam00352	1456043	uncultured marine thaumarchaeote KM3_16_C11	1	2
+334026	pfam00352	1456050	uncultured marine thaumarchaeote KM3_173_E01	1	2
+334026	pfam00352	1456154	uncultured marine thaumarchaeote KM3_45_A02	1	2
+334026	pfam00352	1456391	uncultured marine thaumarchaeote SAT1000_18_D03	1	2
+334026	pfam00352	1456416	uncultured marine thaumarchaeote SAT1000_48_G08	1	2
+334026	pfam00352	1457250	Halapricum salinum	1	2
+334026	pfam00352	1457766	uncultured marine group II/III euryarchaeote AD1000_41_D11	1	2
+334026	pfam00352	1460663	Paraphaeosphaeria sporulosa	1	2
+334026	pfam00352	1465461	Thaumarchaeota archaeon SCGC AC-337_F14	1	2
+334026	pfam00352	1476858	Haloferax massiliensis	1	2
+334026	pfam00352	1483600	Methanosarcina sp. 2.H.A.1B.4	1	2
+334026	pfam00352	1485682	Mitosporidium daphniae	1	2
+334026	pfam00352	1493691	Dyadobacter sediminis	1	2
+334026	pfam00352	1495144	methanogenic archaeon ISO4-H5	1	2
+334026	pfam00352	1502294	Marine Group I thaumarchaeote SCGC AAA799-O18	1	2
+334026	pfam00352	1502295	Marine Group I thaumarchaeote SCGC AAA799-P11	1	2
+334026	pfam00352	1503183	Marine Group I thaumarchaeote SCGC RSA3	1	2
+334026	pfam00352	1505907	Thermococcus eurythermalis	1	2
+334026	pfam00352	1509407	Aspergillus nomius NRRL 13137	1	2
+334026	pfam00352	1522189	Ceraceosorus guamensis	1	2
+334026	pfam00352	1555241	Caulochytrium protostelioides	1	2
+334026	pfam00352	1561964	Methanosphaera sp. WGK6	1	2
+334026	pfam00352	1569628	Jaminaea rosea	1	2
+334026	pfam00352	1579341	Streptococcus sp. 400_SSPC	1	2
+334026	pfam00352	1586713	Yellowstone lake phycodnavirus 1	1	2
+334026	pfam00352	1586714	Yellowstone lake phycodnavirus 2	1	2
+334026	pfam00352	1609968	Methanobrevibacter sp. YE315	1	2
+334026	pfam00352	1622207	Haloarcula sp. K1	1	2
+334026	pfam00352	1635285	Euryarchaeota archaeon 55_53	1	2
+334026	pfam00352	1650659	Thermoproteus sp. CP80	1	2
+334026	pfam00352	1650660	Vulcanisaeta sp. EB80	1	2
+334026	pfam00352	1663208	Ostreococcus lucimarinus virus 2	1	2
+334026	pfam00352	1664694	Phialophora attae	1	2
+334026	pfam00352	1679086	Natrarchaeobius chitinivorans	1	2
+334026	pfam00352	1679096	Haloarculaceae archaeon HArcel1	1	2
+334026	pfam00352	1684307	Pseudomicrostroma glucosiphilum	1	2
+334026	pfam00352	1698257	candidate division MSBL1 archaeon SCGC-AAA833F18	1	2
+334026	pfam00352	1705562	Haloarcula rubripromontorii	1	2
+334026	pfam00352	1714260	Pyrobaculum sp. JCHS_4	1	2
+334026	pfam00352	1715107	Streptococcus sp. HMSC063B03	1	2
+334026	pfam00352	1720309	Exaiptasia pallida	1	2
+334026	pfam00352	1737403	Nanohaloarchaea archaeon SG9	1	2
+334026	pfam00352	1739268	Streptococcus sp. HMSC073F11	1	2
+334026	pfam00352	1769296	Candidatus Methanomethylophilus sp. 1R26	1	2
+334026	pfam00352	1785753	Ostreococcus tauri virus OtV5	1	2
+334026	pfam00352	1789762	Methanosphaera sp. BMS	1	2
+334026	pfam00352	1797382	Candidatus Bathyarchaeota archaeon RBG_16_57_9	1	2
+334026	pfam00352	1798806	Candidatus Nitrosocosmicus franklandus	1	2
+334026	pfam00352	1801883	Candidatus Pacearchaeota archaeon RBG_19FT_COMBO_34_9	1	2
+334026	pfam00352	1805247	Candidatus Micrarchaeota archaeon CG1_02_47_40	1	2
+334026	pfam00352	1805251	Candidatus Micrarchaeota archaeon CG1_02_55_41	1	2
+334026	pfam00352	1805296	Candidatus Pacearchaeota archaeon CG1_02_32_21	1	2
+334026	pfam00352	1805298	Candidatus Pacearchaeota archaeon CG1_02_39_14	1	2
+334026	pfam00352	1805424	Candidatus Woesearchaeota archaeon CG1_02_57_44	1	2
+334026	pfam00352	1810919	Aspergillus mulundensis	1	2
+334026	pfam00352	1811685	Methanosaeta sp. PtaB.Bin039	1	2
+334026	pfam00352	1811723	Methanoregulaceae archaeon PtaB.Bin152	1	2
+334026	pfam00352	1825023	Candidatus Nitrosotenuis	1	2
+334026	pfam00352	1835702	Penicillium arizonense	1	2
+334026	pfam00352	1839936	Candidatus Syntrophoarchaeum butanivorans	1	2
+334026	pfam00352	1849047	Coleophoma cylindrospora	1	2
+334026	pfam00352	1852704	Nanoarchaeota archaeon NZ13-N	1	2
+334026	pfam00352	1853682	Halarchaeum sp. CBA1220	1	2
+334026	pfam00352	1853699	Halorubrum sp. CBA1229	1	2
+334026	pfam00352	1855863	Halorubrum sp. SD612	1	2
+334026	pfam00352	1855873	Halorubrum sp. SD683	1	2
+334026	pfam00352	1859473	Floricoccus tropicus	1	2
+334026	pfam00352	1859475	Floricoccus penangensis	1	2
+334026	pfam00352	1859492	Kaumoebavirus	1	2
+334026	pfam00352	1860161	Streptococcus sp. CCUG 49591	1	2
+334026	pfam00352	1881040	Chitinophaga sp. YR573	1	2
+334026	pfam00352	1917232	Only Syngen Nebraska virus 5	1	2
+334026	pfam00352	1917472	Methanosaeta sp. NSP1	1	2
+334026	pfam00352	1919161	Halobacteriales archaeon QH_7_69_31	1	2
+334026	pfam00352	1919191	Halobacteriales archaeon QS_9_68_17	1	2
+334026	pfam00352	1919192	Halobacteriales archaeon QS_9_68_42	1	2
+334026	pfam00352	1919218	Nanohaloarchaea archaeon QH_8_44_6	1	2
+334026	pfam00352	1974415	Candidatus Micrarchaeota archaeon CG09_land_8_20_14_0_10_55_25	1	2
+334026	pfam00352	1978123	Methanosarcinales archaeon ex4484_138	1	2
+334026	pfam00352	1986682	Euryarchaeota archaeon TMED103	1	2
+334026	pfam00352	1986689	Euryarchaeota archaeon TMED192	1	2
+334026	pfam00352	1986696	Euryarchaeota archaeon TMED85	1	2
+334026	pfam00352	2005739	archaeon BMS3Bbin16	1	2
+334026	pfam00352	2008440	Thermococcus sp. 5-4	1	2
+334026	pfam00352	2012510	Candidatus Bathyarchaeota archaeon ex4484_205	1	2
+334026	pfam00352	2012511	Candidatus Bathyarchaeota archaeon ex4484_218	1	2
+334026	pfam00352	2012512	Candidatus Bathyarchaeota archaeon ex4484_231	1	2
+334026	pfam00352	2014241	Candidatus Altiarchaeum sp. CG03_land_8_20_14_0_80_32_618	1	2
+334026	pfam00352	2014242	Candidatus Altiarchaeum sp. CG12_big_fil_rev_8_21_14_0_65_33_22	1	2
+334026	pfam00352	2032630	Halorubrum sp. WN019	1	2
+334026	pfam00352	2044521	Natronolimnobius sp. AArc1	1	2
+334026	pfam00352	2052935	Methanolobus sp. SY-01	1	2
+334026	pfam00352	2072416	Candidatus Methanoperedenaceae archaeon	1	2
+334026	pfam00352	2077198	Haloferax sp. Atlit-48N	1	2
+334026	pfam00352	2077205	Haloferax sp. Atlit-6N	1	2
+334026	pfam00352	2079134	Dishui lake phycodnavirus 1	1	2
+334026	pfam00352	2082189	Methanococcales archaeon HHB	1	2
+334026	pfam00352	2094122	Thermoplasma sp. Kam2015	1	2
+334026	pfam00352	2202732	Nitrosopumilaceae archaeon	1	2
+334026	pfam00352	2217661	Natronomonas sp. F20-122	1	2
+334026	pfam00352	2282131	Halobellus sp. Atlit-38R	1	2
+334026	pfam00352	2283190	Streptococcus sp. LQJ-218	1	2
+334026	pfam00352	2320858	Paenisporosarcina sp. K2R23-3	1	2
+334026	pfam00352	2382163	Streptococcus sp. JS71	1	2
+334026	pfam00352	2478557	Thaumarchaeota archaeon S13	1	2
+334026	pfam00352	2478956	Streptococcus sp. bf_0095	1	2
+334026	pfam00352	2487041	Natronomonas sp. CBA1133	1	2
+334026	pfam00352	2491052	Streptococcus sp. OH4692_COT-348	1	2
+334026	pfam00352	2509225	Haloarcula sp. MD-130	1	2
+334026	pfam00352	2546571	Candidatus Nezhaarchaeota archaeon WYZ-LMO8	1	2
+334026	pfam00352	316	Pseudomonas stutzeri	1	1
+334026	pfam00352	374	Bradyrhizobium	1	1
+334026	pfam00352	1290	Staphylococcus hominis	1	1
+334026	pfam00352	1305	Streptococcus sanguinis	1	1
+334026	pfam00352	2164	Methanobacterium sp.	1	1
+334026	pfam00352	2173	Methanobrevibacter smithii	1	1
+334026	pfam00352	2197	Methanogenium cariaci	1	1
+334026	pfam00352	2236	Halobacteriaceae	1	1
+334026	pfam00352	2268	Thermofilum	1	1
+334026	pfam00352	2725	unidentified prokaryotic organism	1	1
+334026	pfam00352	2786	Porphyra umbilicalis	1	1
+334026	pfam00352	2843	Skeletonema costatum	1	1
+334026	pfam00352	2866	Crypthecodinium cohnii	1	1
+334026	pfam00352	3076	Chlorella sorokiniana	1	1
+334026	pfam00352	3197	Marchantia polymorpha	1	1
+334026	pfam00352	3332	Picea sitchensis	1	1
+334026	pfam00352	3476	Parasponia andersonii	1	1
+334026	pfam00352	3713	Brassica oleracea var. viridis	1	1
+334026	pfam00352	3775	Cephalotus follicularis	1	1
+334026	pfam00352	3899	Trifolium repens	1	1
+334026	pfam00352	3917	Vigna unguiculata	1	1
+334026	pfam00352	4045	Apium graveolens	1	1
+334026	pfam00352	4097	Nicotiana tabacum	1	1
+334026	pfam00352	4113	Solanum tuberosum	1	1
+334026	pfam00352	4442	Camellia sinensis	1	1
+334026	pfam00352	4498	Avena sativa	1	1
+334026	pfam00352	4499	Avena fatua	1	1
+334026	pfam00352	4530	Oryza sativa	1	1
+334026	pfam00352	4754	Pneumocystis carinii	1	1
+334026	pfam00352	4922	Komagataella pastoris	1	1
+334026	pfam00352	4926	Pichia membranifaciens	1	1
+334026	pfam00352	4955	Lachancea fermentati	1	1
+334026	pfam00352	5005	Sporidiobolus salmonicolor	1	1
+334026	pfam00352	5025	Venturia inaequalis	1	1
+334026	pfam00352	5059	Aspergillus flavus	1	1
+334026	pfam00352	5078	Penicillium griseofulvum	1	1
+334026	pfam00352	5286	Rhodotorula toruloides	1	1
+334026	pfam00352	5315	Ganoderma lucidum	1	1
+334026	pfam00352	5353	Lentinula edodes	1	1
+334026	pfam00352	5364	Heliocybe sulcata	1	1
+334026	pfam00352	5421	Xanthophyllomyces dendrorhous	1	1
+334026	pfam00352	5454	Ascochyta rabiei	1	1
+334026	pfam00352	5466	Colletotrichum trifolii	1	1
+334026	pfam00352	5480	Candida parapsilosis	1	1
+334026	pfam00352	5514	Fusarium sporotrichioides	1	1
+334026	pfam00352	5539	Scytalidium lignicola	1	1
+334026	pfam00352	5544	Trichoderma harzianum	1	1
+334026	pfam00352	5551	Trichophyton rubrum	1	1
+334026	pfam00352	5627	Grifola frondosa	1	1
+334026	pfam00352	5643	Trametes cinnabarina	1	1
+334026	pfam00352	5670	Leishmania guyanensis	1	1
+334026	pfam00352	5684	Leptomonas seymouri	1	1
+334026	pfam00352	5689	Leishmania tarentolae	1	1
+334026	pfam00352	5759	Entamoeba histolytica	1	1
+334026	pfam00352	5811	Toxoplasma gondii	1	1
+334026	pfam00352	6087	Hydra vulgaris	1	1
+334026	pfam00352	6282	Onchocerca volvulus	1	1
+334026	pfam00352	6335	Trichinella nativa	1	1
+334026	pfam00352	6687	Penaeus monodon	1	1
+334026	pfam00352	6728	Procambarus clarkii	1	1
+334026	pfam00352	7650	Hemicentrotus pulcherrimus	1	1
+334026	pfam00352	7654	Lytechinus variegatus	1	1
+334026	pfam00352	7753	Lethenteron reissneri	1	1
+334026	pfam00352	7757	Petromyzon marinus	1	1
+334026	pfam00352	7765	Eptatretus stoutii	1	1
+334026	pfam00352	7801	Ginglymostoma cirratum	1	1
+334026	pfam00352	7830	Scyliorhinus canicula	1	1
+334026	pfam00352	8038	Salvelinus fontinalis	1	1
+334026	pfam00352	8127	Oreochromis mossambicus	1	1
+334026	pfam00352	8502	Crocodylus porosus	1	1
+334026	pfam00352	8585	Natrix maura	1	1
+334026	pfam00352	9157	Parus major	1	1
+334026	pfam00352	9595	Gorilla gorilla gorilla	1	1
+334026	pfam00352	9627	Vulpes vulpes	1	1
+334026	pfam00352	9704	Zalophus californianus	1	1
+334026	pfam00352	9925	Capra hircus	1	1
+334026	pfam00352	9970	Syncerus caffer	1	1
+334026	pfam00352	10044	Phodopus sungorus	1	1
+334026	pfam00352	13291	Tilletia controversa	1	1
+334026	pfam00352	13349	Arthrobotrys oligospora	1	1
+334026	pfam00352	13370	Brettanomyces naardenensis	1	1
+334026	pfam00352	13415	Chamaecyparis obtusa	1	1
+334026	pfam00352	13706	Syncephalastrum racemosum	1	1
+334026	pfam00352	27322	Metschnikowia bicuspidata	1	1
+334026	pfam00352	27342	Schizopora paradoxa	1	1
+334026	pfam00352	27349	Puccinia sorghi	1	1
+334026	pfam00352	27350	Puccinia striiformis	1	1
+334026	pfam00352	27717	Tinca tinca	1	1
+334026	pfam00352	27779	Protopterus dolloi	1	1
+334026	pfam00352	28526	Solanum pennellii	1	1
+334026	pfam00352	28573	Talaromyces islandicus	1	1
+334026	pfam00352	29088	Neomonachus schauinslandi	1	1
+334026	pfam00352	29291	Methanococcoides burtonii	1	1
+334026	pfam00352	29540	Natrialba asiatica DSM 12278	1	1
+334026	pfam00352	29655	Zostera marina	1	1
+334026	pfam00352	29689	Oryza eichingeri	1	1
+334026	pfam00352	29845	Penicillium vulpinum	1	1
+334026	pfam00352	29856	Clonostachys rosea	1	1
+334026	pfam00352	31330	Ephydatia fluviatilis	1	1
+334026	pfam00352	33097	Gonium pectorale	1	1
+334026	pfam00352	34305	Lotus japonicus	1	1
+334026	pfam00352	34790	Chionodraco rastrospinosus	1	1
+334026	pfam00352	34884	Callorhinus ursinus	1	1
+334026	pfam00352	34886	Eumetopias jubatus	1	1
+334026	pfam00352	35630	Hydractinia echinata	1	1
+334026	pfam00352	35717	Epichloe festucae	1	1
+334026	pfam00352	36035	Saccharomycodes ludwigii	1	1
+334026	pfam00352	36050	Fusarium poae	1	1
+334026	pfam00352	36190	Chaenocephalus aceratus	1	1
+334026	pfam00352	36646	Penicillium coprophilum	1	1
+334026	pfam00352	36987	Coptotermes formosanus	1	1
+334026	pfam00352	37992	Xylaria hypoxylon	1	1
+334026	pfam00352	38026	Methanolobus vulcani	1	1
+334026	pfam00352	38082	Pneumocystis wakefieldiae	1	1
+334026	pfam00352	38457	Monilinia fructigena	1	1
+334026	pfam00352	38488	Botryotinia calthae	1	1
+334026	pfam00352	38949	Perna canaliculus	1	1
+334026	pfam00352	39966	Hypsizygus marmoreus	1	1
+334026	pfam00352	40199	Fusarium avenaceum	1	1
+334026	pfam00352	40296	Penicillium italicum	1	1
+334026	pfam00352	41688	Lomentospora prolificans	1	1
+334026	pfam00352	42249	Tuber magnatum	1	1
+334026	pfam00352	42258	Zygosaccharomyces mellis	1	1
+334026	pfam00352	44689	Dictyostelium discoideum	1	1
+334026	pfam00352	44941	Gigaspora rosea	1	1
+334026	pfam00352	45235	Tolypocladium capitatum	1	1
+334026	pfam00352	45264	Acropora millepora	1	1
+334026	pfam00352	45839	Solanum rostratum	1	1
+334026	pfam00352	46433	Reticulomyxa filosa	1	1
+334026	pfam00352	46770	Cenarchaeum symbiosum	1	1
+334026	pfam00352	47257	Duddingtonia flagrans	1	1
+334026	pfam00352	47303	Sulfolobus metallicus	1	1
+334026	pfam00352	47427	Armillaria gallica	1	1
+334026	pfam00352	47428	Armillaria ostoyae	1	1
+334026	pfam00352	48498	Orbicella faveolata	1	1
+334026	pfam00352	48697	Penicillium freii	1	1
+334026	pfam00352	48849	Passer domesticus	1	1
+334026	pfam00352	50990	Rickenella mellea	1	1
+334026	pfam00352	51314	Eimeria brunetti	1	1
+334026	pfam00352	52247	[Candida] inconspicua	1	1
+334026	pfam00352	52644	Haliaeetus leucocephalus	1	1
+334026	pfam00352	54076	Thermococcus zilligii	1	1
+334026	pfam00352	54248	Hyperthermus butylicus	1	1
+334026	pfam00352	54673	Botryotinia convoluta	1	1
+334026	pfam00352	55188	Citrus unshiu	1	1
+334026	pfam00352	56406	Hanseniaspora guilliermondii	1	1
+334026	pfam00352	56408	Hanseniaspora osmophila	1	1
+334026	pfam00352	56484	Protomyces lactucaedebilis	1	1
+334026	pfam00352	56636	Aeropyrum pernix	1	1
+334026	pfam00352	57267	Plasmodium falciparum Dd2	1	1
+334026	pfam00352	59894	Ficedula albicollis	1	1
+334026	pfam00352	60175	Penicillium nalgiovense	1	1
+334026	pfam00352	61395	Linderina pennispora	1	1
+334026	pfam00352	62067	Brachymystax lenok	1	1
+334026	pfam00352	62690	Blumeria graminis f. sp. tritici	1	1
+334026	pfam00352	64091	Halobacterium salinarum NRC-1	1	1
+334026	pfam00352	64152	Channa striata	1	1
+334026	pfam00352	64602	Natrialba asiatica	1	1
+334026	pfam00352	64902	Nicrophorus orbicollis	1	1
+334026	pfam00352	66913	Ictalurus furcatus	1	1
+334026	pfam00352	67809	Gymnochlora stellata	1	1
+334026	pfam00352	68775	Crucibulum laeve	1	1
+334026	pfam00352	69771	Penicillium decumbens	1	1
+334026	pfam00352	70075	Nyctotherus ovalis	1	1
+334026	pfam00352	71465	Cylicostephanus goldi	1	1
+334026	pfam00352	71717	Coprinellus micaceus	1	1
+334026	pfam00352	71784	Naematelia encephala	1	1
+334026	pfam00352	72032	Thielaviopsis punctulata	1	1
+334026	pfam00352	72359	Trachipleistophora hominis	1	1
+334026	pfam00352	72446	Labeo catla	1	1
+334026	pfam00352	72520	Nannochloropsis gaditana	1	1
+334026	pfam00352	73230	Emmonsia crescens	1	1
+334026	pfam00352	73501	Cordyceps militaris	1	1
+334026	pfam00352	74820	Lotharella vacuolata	1	1
+334026	pfam00352	75058	Bodo saltans	1	1
+334026	pfam00352	77044	Rosellinia necatrix	1	1
+334026	pfam00352	78410	Neonectria ditissima	1	1
+334026	pfam00352	78915	Thamnocephalis sphaerospora	1	1
+334026	pfam00352	80379	Capsicum chinense	1	1
+334026	pfam00352	83868	Palaeococcus ferrophilus	1	1
+334026	pfam00352	85056	Trypanosoma cruzi marinkellei	1	1
+334026	pfam00352	86049	Cladophialophora carrionii	1	1
+334026	pfam00352	86622	Methanoculleus sp. MAB1	1	1
+334026	pfam00352	86630	Rhizopus azygosporus	1	1
+334026	pfam00352	88730	Pinus massoniana	1	1
+334026	pfam00352	88773	Halobacterium sp. GN101	1	1
+334026	pfam00352	90247	Lagenorhynchus obliquidens	1	1
+334026	pfam00352	91626	Mucor ambiguus	1	1
+334026	pfam00352	92652	Shrimp white spot syndrome virus	1	1
+334026	pfam00352	92696	Steccherinum ochraceum	1	1
+334026	pfam00352	93129	Tetranychus cinnabarinus	1	1
+334026	pfam00352	93625	Psilocybe cyanescens	1	1
+334026	pfam00352	94130	Rhizophagus clarus	1	1
+334026	pfam00352	94208	Tolypocladium paradoxum	1	1
+334026	pfam00352	94835	Gavialis gangeticus	1	1
+334026	pfam00352	96448	Philodina roseola	1	1
+334026	pfam00352	97972	Periconia macrospinosa	1	1
+334026	pfam00352	101091	Choanephora cucurbitarum	1	1
+334026	pfam00352	101127	Hesseltinella vesiculosa	1	1
+334026	pfam00352	102107	Prunus mume	1	1
+334026	pfam00352	105487	Valsa mali	1	1
+334026	pfam00352	105696	Epicoccum nigrum	1	1
+334026	pfam00352	106004	Leucosporidium creatinivorum	1	1
+334026	pfam00352	108892	Sanghuangporus baumii	1	1
+334026	pfam00352	111955	Sulfurisphaera tokodaii	1	1
+334026	pfam00352	114329	Neopelma chrysocephalum	1	1
+334026	pfam00352	114818	Xylaria longipes	1	1
+334026	pfam00352	115424	Chrysomya megacephala	1	1
+334026	pfam00352	121759	Paracoccidioides brasiliensis	1	1
+334026	pfam00352	122612	unclassified Sphingomonadaceae (miscellaneous)	1	1
+334026	pfam00352	130048	Halobiforma nitratireducens	1	1
+334026	pfam00352	133381	Smittium megazygosporum	1	1
+334026	pfam00352	133383	Smittium mucronatum	1	1
+334026	pfam00352	133385	Smittium simulii	1	1
+334026	pfam00352	134006	Phytomonas sp. isolate EM1	1	1
+334026	pfam00352	134013	Phytomonas sp. isolate Hart1	1	1
+334026	pfam00352	135208	Hericium alpestre	1	1
+334026	pfam00352	136370	Umbilicaria pustulata	1	1
+334026	pfam00352	139036	Corcyra cephalonica	1	1
+334026	pfam00352	139772	Triadica sebifera	1	1
+334026	pfam00352	143606	Gobiocypris rarus	1	1
+334026	pfam00352	144512	Trichinella murrelli	1	1
+334026	pfam00352	146866	Pseudoloma neurophilia	1	1
+334026	pfam00352	148305	Pyricularia grisea	1	1
+334026	pfam00352	150374	Escovopsis weberi	1	1
+334026	pfam00352	151771	Dendronephthya gigantea	1	1
+334026	pfam00352	154538	Trametes pubescens	1	1
+334026	pfam00352	157652	Mucuna pruriens	1	1
+334026	pfam00352	158046	Phaeomoniella chlamydospora	1	1
+334026	pfam00352	158607	Diaporthe helianthi	1	1
+334026	pfam00352	163491	Lampropeltis calligaster	1	1
+334026	pfam00352	164674	Empidonax traillii	1	1
+334026	pfam00352	167356	Inonotus obliquus	1	1
+334026	pfam00352	167371	Phellinidium pouzarii	1	1
+334026	pfam00352	167740	Alternaria gaisen	1	1
+334026	pfam00352	172269	Argyrosomus regius	1	1
+334026	pfam00352	173531	Thamnophis pulchrilatus	1	1
+334026	pfam00352	177199	Coniochaeta pulveracea	1	1
+334026	pfam00352	179993	Fusarium langsethiae	1	1
+334026	pfam00352	180088	Rhizopogon vesiculosus	1	1
+334026	pfam00352	181527	Pluteus cervinus	1	1
+334026	pfam00352	181874	Panaeolus cyanescens	1	1
+334026	pfam00352	183589	Pseudo-nitzschia multistriata	1	1
+334026	pfam00352	188937	Methanosarcina acetivorans C2A	1	1
+334026	pfam00352	192259	Genlisea aurea	1	1
+334026	pfam00352	196109	Microdochium bolleyi	1	1
+334026	pfam00352	196118	Methanocaldococcus	1	1
+334026	pfam00352	198806	Calidris pugnax	1	1
+334026	pfam00352	200415	Caldisphaera lagunensis	1	1
+334026	pfam00352	200597	Sterkiella nova	1	1
+334026	pfam00352	201446	Pseudelaphe flavirufa	1	1
+334026	pfam00352	201498	Hucho taimen	1	1
+334026	pfam00352	202946	Apteryx australis mantelli	1	1
+334026	pfam00352	205917	Dentipellis fragilis	1	1
+334026	pfam00352	211096	Hanseniaspora opuntiae	1	1
+334026	pfam00352	212602	Oidium neolycopersici	1	1
+334026	pfam00352	213185	Methanotorris formicicus	1	1
+334026	pfam00352	213585	Methanosarcina mazei S-6	1	1
+334026	pfam00352	215637	Dimargaris cristalligena	1	1
+334026	pfam00352	216574	Aquila chrysaetos canadensis	1	1
+334026	pfam00352	221103	Moniliophthora roreri	1	1
+334026	pfam00352	221166	Sesuvium portulacastrum	1	1
+334026	pfam00352	223995	Lipaphis erysimi	1	1
+334026	pfam00352	228908	Nanoarchaeum equitans Kin4-M	1	1
+334026	pfam00352	229535	Penicillium nordicum	1	1
+334026	pfam00352	230819	Coprinopsis marcescibilis	1	1
+334026	pfam00352	252740	Valsa sordida	1	1
+334026	pfam00352	254877	Penicillium flavigenum	1	1
+334026	pfam00352	259564	Methanococcoides burtonii DSM 6242	1	1
+334026	pfam00352	267130	Acanthogobius hasta	1	1
+334026	pfam00352	268474	Trichinella papuae	1	1
+334026	pfam00352	268505	Ophiocordyceps unilateralis	1	1
+334026	pfam00352	269621	Microbotryum intermedium	1	1
+334026	pfam00352	271217	Mythimna separata	1	1
+334026	pfam00352	274854	uncultured marine group II euryarchaeote	1	1
+334026	pfam00352	278021	Antonospora locustae	1	1
+334026	pfam00352	280036	Sporisorium graminicola	1	1
+334026	pfam00352	282676	Acidianus manzaensis	1	1
+334026	pfam00352	286419	Canis lupus dingo	1	1
+334026	pfam00352	291195	Tubulinosema ratisbonensis	1	1
+334026	pfam00352	293939	Aspergillus lentulus	1	1
+334026	pfam00352	294748	Candida albicans WO-1	1	1
+334026	pfam00352	295656	Stegobium paniceum	1	1
+334026	pfam00352	296797	Chlorociboria aeruginascens	1	1
+334026	pfam00352	303698	Penicillium steckii	1	1
+334026	pfam00352	307491	Aphis glycines	1	1
+334026	pfam00352	307507	Raphidocelis subcapitata	1	1
+334026	pfam00352	307758	Ustilago bromivora	1	1
+334026	pfam00352	308060	Apteryx rowi	1	1
+334026	pfam00352	312789	Betula luminifera	1	1
+334026	pfam00352	318829	Pyricularia oryzae	1	1
+334026	pfam00352	321146	Pseudocercospora eumusae	1	1
+334026	pfam00352	321398	Lepidothrix coronata	1	1
+334026	pfam00352	323259	Methanospirillum hungatei JF-1	1	1
+334026	pfam00352	323751	Adelphocoris suturalis	1	1
+334026	pfam00352	329046	Rhizoclosmatium globosum	1	1
+334026	pfam00352	329884	Friedmanniomyces simplex	1	1
+334026	pfam00352	331657	Cryomyces minteri	1	1
+334026	pfam00352	335952	Halococcus thailandensis	1	1
+334026	pfam00352	341454	Ascodesmis nigricans	1	1
+334026	pfam00352	343691	Hermetia illucens	1	1
+334026	pfam00352	344056	Caligus clemensi	1	1
+334026	pfam00352	348818	Streptacidiphilus oryzae	1	1
+334026	pfam00352	348901	Cercospora zeina	1	1
+334026	pfam00352	356882	Valsa malicola	1	1
+334026	pfam00352	357750	Cercospora berteroae	1	1
+334026	pfam00352	358574	uncultured microorganism	1	1
+334026	pfam00352	361077	Tieghemostelium lacteum	1	1
+334026	pfam00352	363999	Xylaria grammica	1	1
+334026	pfam00352	368408	Thermofilum pendens Hrk 5	1	1
+334026	pfam00352	368454	Halorubrum arcis	1	1
+334026	pfam00352	388810	Blyttiomyces helicus	1	1
+334026	pfam00352	396776	Coccidioides immitis H538.4	1	1
+334026	pfam00352	400682	Amphimedon queenslandica	1	1
+334026	pfam00352	401625	Ceraceosorus bombacis	1	1
+334026	pfam00352	403063	Pyricularia sp. CBS 133598	1	1
+334026	pfam00352	403673	Batrachochytrium dendrobatidis JEL423	1	1
+334026	pfam00352	413816	Halorubrum halophilum	1	1
+334026	pfam00352	415028	Corapipo altera	1	1
+334026	pfam00352	415426	Hyperthermus butylicus DSM 5456	1	1
+334026	pfam00352	416450	Penicillium antarcticum	1	1
+334026	pfam00352	418867	Phellinus noxius	1	1
+334026	pfam00352	425264	Malassezia restricta CBS 7877	1	1
+334026	pfam00352	429131	Trypanosoma rangeli SC58	1	1
+334026	pfam00352	429701	Handroanthus impetiginosus	1	1
+334026	pfam00352	433476	Lachancea sp. CBS 6924	1	1
+334026	pfam00352	436010	Fibularhizoctonia sp. CBS 109695	1	1
+334026	pfam00352	436308	Nitrosopumilus maritimus SCM1	1	1
+334026	pfam00352	437163	Halomicrobium katesii	1	1
+334026	pfam00352	439688	Sedum alfredii	1	1
+334026	pfam00352	448386	Gracilariopsis chorda	1	1
+334026	pfam00352	454130	Aspergillus calidoustus	1	1
+334026	pfam00352	455563	uncultured marine crenarchaeote HF4000_ANIW93E5	1	1
+334026	pfam00352	455571	uncultured marine crenarchaeote HF4000_ANIW133I6	1	1
+334026	pfam00352	455579	uncultured marine crenarchaeote HF4000_ANIW141M18	1	1
+334026	pfam00352	455596	uncultured marine crenarchaeote HF4000_APKG6D3	1	1
+334026	pfam00352	455611	uncultured marine crenarchaeote HF4000_APKG10F15	1	1
+334026	pfam00352	456999	Rhizoctonia solani	1	1
+334026	pfam00352	472368	Dorcoceras hygrometricum	1	1
+334026	pfam00352	478820	Blastocystis sp. ATCC 50177/Nand II	1	1
+334026	pfam00352	481877	Enterocytozoon bieneusi H348	1	1
+334026	pfam00352	482145	Aspergillus taichungensis	1	1
+334026	pfam00352	483260	Phenacoccus solenopsis	1	1
+334026	pfam00352	503106	Marssonina coronariae	1	1
+334026	pfam00352	519963	Elaphomyces granulatus	1	1
+334026	pfam00352	523103	Trichophyton mentagrophytes	1	1
+334026	pfam00352	542762	Camellia sinensis var. sinensis	1	1
+334026	pfam00352	545124	Saccharomyces cerevisiae AWRI1631	1	1
+334026	pfam00352	546991	Blumeria graminis f. sp. hordei DH14	1	1
+334026	pfam00352	554055	Micractinium conductrix	1	1
+334026	pfam00352	566037	Saccharomycetaceae sp. 'Ashbya aceri'	1	1
+334026	pfam00352	570267	Methanocella paludicola	1	1
+334026	pfam00352	573508	Aspergillus cristatus	1	1
+334026	pfam00352	574774	Glonium stellatum	1	1
+334026	pfam00352	576137	Phialocephala subalpina	1	1
+334026	pfam00352	580059	Plasmodium falciparum IGH-CR14	1	1
+334026	pfam00352	583356	Ignisphaera aggregans DSM 17230	1	1
+334026	pfam00352	593117	Thermococcus gammatolerans EJ3	1	1
+334026	pfam00352	598745	Giardia intestinalis ATCC 50581	1	1
+334026	pfam00352	602072	Aspergillus carbonarius ITEM 5010	1	1
+334026	pfam00352	635003	Fragilariopsis cylindrus CCMP1102	1	1
+334026	pfam00352	641309	Lotharella oceanica	1	1
+334026	pfam00352	644358	Magnaporthiopsis poae ATCC 64411	1	1
+334026	pfam00352	646526	Enterocytozoon hepatopenaei	1	1
+334026	pfam00352	647171	Methanotorris formicicus Mc-S-70	1	1
+334026	pfam00352	658196	Glomus cerebriforme	1	1
+334026	pfam00352	658429	Pseudogymnoascus destructans 20631-21	1	1
+334026	pfam00352	658473	Mycena chlorophos	1	1
+334026	pfam00352	658858	Giardia lamblia P15	1	1
+334026	pfam00352	660064	Methermicoccus shengliensis	1	1
+334026	pfam00352	660515	Halorussus rarus	1	1
+334026	pfam00352	662479	Haloferax mucosum ATCC BAA-1512	1	1
+334026	pfam00352	662760	Candidatus Parvarchaeum acidiphilum ARMAN-4	1	1
+334026	pfam00352	662762	Candidatus Parvarchaeum acidophilus ARMAN-5	1	1
+334026	pfam00352	664439	Paxillus involutus ATCC 200175	1	1
+334026	pfam00352	667135	Thermoplasmatales archaeon A-plasma	1	1
+334026	pfam00352	667137	Thermoplasmatales archaeon E-plasma	1	1
+334026	pfam00352	667138	Thermoplasmatales archaeon I-plasma	1	1
+334026	pfam00352	669202	Thelohanellus kitauei	1	1
+334026	pfam00352	669874	Pachysolen tannophilus NRRL Y-2460	1	1
+334026	pfam00352	671065	Metallosphaera yellowstonensis MK1	1	1
+334026	pfam00352	675120	Dothistroma septosporum NZE10	1	1
+334026	pfam00352	675824	Lipomyces starkeyi NRRL Y-11557	1	1
+334026	pfam00352	683840	Microbotryum lychnidis-dioicae p1A1 Lamole	1	1
+334026	pfam00352	684658	Aphidius gifuensis	1	1
+334026	pfam00352	685588	Galerina marginata CBS 339.88	1	1
+334026	pfam00352	686832	Hebeloma cylindrosporum h7	1	1
+334026	pfam00352	688394	Lichtheimia ramosa	1	1
+334026	pfam00352	694270	Fusarium longipes	1	1
+334026	pfam00352	694573	Valsa mali var. pyri	1	1
+334026	pfam00352	703135	Amanita thiersii Skay4041	1	1
+334026	pfam00352	708187	Colletotrichum chlorophyti	1	1
+334026	pfam00352	708197	Colletotrichum tofieldiae	1	1
+334026	pfam00352	710782	uncultured Rhodobacterales bacterium HF0010_04M21	1	1
+334026	pfam00352	741276	Rhodotorula taiwanensis	1	1
+334026	pfam00352	742152	Wolfiporia cocos MD-104 SS10	1	1
+334026	pfam00352	743788	Fomitopsis pinicola FP-58527 SS1	1	1
+334026	pfam00352	745531	Phlebiopsis gigantea 11061_1 CR5-6	1	1
+334026	pfam00352	747725	Mucor circinelloides f. lusitanicus CBS 277.49	1	1
+334026	pfam00352	754062	Ostreococcus lucimarinus virus OlV3	1	1
+334026	pfam00352	754063	Ostreococcus lucimarinus virus OlV4	1	1
+334026	pfam00352	760774	Streptococcus pneumoniae GA13723	1	1
+334026	pfam00352	760826	Streptococcus pneumoniae GA44500	1	1
+334026	pfam00352	763665	Coemansia reversa NRRL 1564	1	1
+334026	pfam00352	764102	Saccharomyces cerevisiae FostersB	1	1
+334026	pfam00352	765257	Pisolithus microcarpus 441	1	1
+334026	pfam00352	765440	Piloderma croceum F 1598	1	1
+334026	pfam00352	765867	Pyrenochaeta sp. DS3sAY3a	1	1
+334026	pfam00352	765868	Stagonospora sp. SRC1lsM3a	1	1
+334026	pfam00352	765915	Catenaria anguillulae PL171	1	1
+334026	pfam00352	766949	Hanseniaspora valbyensis NRRL Y-1626	1	1
+334026	pfam00352	767744	Tortispora caseinolytica NRRL Y-17796	1	1
+334026	pfam00352	794803	Cenococcum geophilum 1.58	1	1
+334026	pfam00352	796604	Microbotryum silenes-dioicae	1	1
+334026	pfam00352	796925	Conidiobolus coronatus NRRL 28638	1	1
+334026	pfam00352	857340	Acremonium chrysogenum ATCC 11550	1	1
+334026	pfam00352	857566	Nadsonia fulvescens var. elongata DSM 6958	1	1
+334026	pfam00352	867917	Vulcanisaeta thermophila	1	1
+334026	pfam00352	870435	Pisolithus tinctorius Marx 270	1	1
+334026	pfam00352	880160	Bathycoccus sp. RCC1105 virus BpV2	1	1
+334026	pfam00352	885315	Entamoeba histolytica HM-3:IMSS	1	1
+334026	pfam00352	889948	Candidatus Nanosalina sp. J07AB43	1	1
+334026	pfam00352	889962	Candidatus Nanosalinarum sp. J07AB56	1	1
+334026	pfam00352	907718	uncultured marine crenarchaeote E48-1C	1	1
+334026	pfam00352	913774	Oidiodendron maius Zn	1	1
+334026	pfam00352	914141	Streptococcus pneumoniae 2070335	1	1
+334026	pfam00352	914143	Streptococcus pneumoniae 2071247	1	1
+334026	pfam00352	914238	Rhynchosporium agropyri	1	1
+334026	pfam00352	926571	Nitrososphaera viennensis EN76	1	1
+334026	pfam00352	930990	Botryobasidium botryosum FD-172 SS1	1	1
+334026	pfam00352	930991	Paxillus rubicundulus Ve08.2h10	1	1
+334026	pfam00352	930992	Suillus luteus UH-Slu-Lm8-n1	1	1
+334026	pfam00352	933388	Penicillium oxalicum 114-2	1	1
+334026	pfam00352	933801	Acidianus hospitalis W1	1	1
+334026	pfam00352	933852	Serendipita vermifera MAFF 305830	1	1
+334026	pfam00352	935652	Toxoplasma gondii RUB	1	1
+334026	pfam00352	943120	Toxoplasma gondii TgCATBr9	1	1
+334026	pfam00352	944018	Nematocida sp. 1 ERTm2	1	1
+334026	pfam00352	944289	Gymnopus luxurians FD-317 M1	1	1
+334026	pfam00352	945553	Hypholoma sublateritium FD-334 SS-4	1	1
+334026	pfam00352	946122	Amanita muscaria Koide BX008	1	1
+334026	pfam00352	983506	Rhizoctonia solani AG-1 IA	1	1
+334026	pfam00352	983965	Trichoderma longibrachiatum ATCC 18648	1	1
+334026	pfam00352	983967	[Candida] arabinofermentans NRRL YB-2248	1	1
+334026	pfam00352	990121	Trichinella patagoniensis	1	1
+334026	pfam00352	994086	Hydnomerulius pinastri MD-312	1	1
+334026	pfam00352	1001832	Daldinia sp. EC12	1	1
+334026	pfam00352	1001833	Hypoxylon sp. CI-4A	1	1
+334026	pfam00352	1001994	Nitrosarchaeum koreense MY1	1	1
+334026	pfam00352	1003232	Edhazardia aedis USNM 41457	1	1
+334026	pfam00352	1006005	Metallosphaera cuprina	1	1
+334026	pfam00352	1006006	Metallosphaera cuprina Ar-4	1	1
+334026	pfam00352	1027361	Nannochloropsis salina CCMP1776	1	1
+334026	pfam00352	1033806	Halorhabdus tiamatea SARL4B	1	1
+334026	pfam00352	1034015	Nitrososphaera viennensis	1	1
+334026	pfam00352	1035514	Plasmodium vivax North Korean	1	1
+334026	pfam00352	1035515	Plasmodium vivax Mauritania I	1	1
+334026	pfam00352	1036611	Aspergillus versicolor CBS 583.65	1	1
+334026	pfam00352	1036612	Aspergillus sydowii CBS 593.65	1	1
+334026	pfam00352	1036724	Plasmodium falciparum FCH/4	1	1
+334026	pfam00352	1036725	Plasmodium falciparum Tanzania (2000708)	1	1
+334026	pfam00352	1036727	Plasmodium falciparum MaliPS096_E11	1	1
+334026	pfam00352	1036808	Scleroderma citrinum Foug A	1	1
+334026	pfam00352	1043002	Aureobasidium pullulans EXF-150	1	1
+334026	pfam00352	1043003	Aureobasidium melanogenum CBS 110374	1	1
+334026	pfam00352	1043627	Hirsutella minnesotensis 3608	1	1
+334026	pfam00352	1043628	Drechslerella stenobrocha 248	1	1
+334026	pfam00352	1051890	Terfezia boudieri ATCC MYA-4762	1	1
+334026	pfam00352	1051891	Tulasnella calospora MUT 4182	1	1
+334026	pfam00352	1052685	Obba rivulosa	1	1
+334026	pfam00352	1054997	Sticholonche zanclea	1	1
+334026	pfam00352	1056495	Caldisphaera lagunensis DSM 15908	1	1
+334026	pfam00352	1068625	Trypanosoma congolense IL3000	1	1
+334026	pfam00352	1069443	Mortierella verticillata NRRL 6337	1	1
+334026	pfam00352	1073089	Aspergillus wentii DTO 134E9	1	1
+334026	pfam00352	1076935	Pyronema omphalodes CBS 100304	1	1
+334026	pfam00352	1077284	Plasmodium vivax India VII	1	1
+334026	pfam00352	1077348	Ganoderma sinense ZZ0214-1	1	1
+334026	pfam00352	1078905	Candidatus Nitrosotalea devanaterra	1	1
+334026	pfam00352	1081103	Metarhizium album ARSEF 1941	1	1
+334026	pfam00352	1081105	Metarhizium rileyi RCEF 4871	1	1
+334026	pfam00352	1081107	Beauveria brongniartii RCEF 3172	1	1
+334026	pfam00352	1081108	Cordyceps confragosa RCEF 1005	1	1
+334026	pfam00352	1081109	Moelleriella libera RCEF 2490	1	1
+334026	pfam00352	1081671	Enterospora canceri	1	1
+334026	pfam00352	1085028	halophilic archaeon J07HX64	1	1
+334026	pfam00352	1095465	Bondarzewia mesenterica	1	1
+334026	pfam00352	1097556	Taphrina deformans PYCC 5710	1	1
+334026	pfam00352	1104324	Pyrobaculum ferrireducens	1	1
+334026	pfam00352	1105325	Cordyceps confragosa	1	1
+334026	pfam00352	1109443	Serendipita indica DSM 11827	1	1
+334026	pfam00352	1111077	Claviceps purpurea 20.1	1	1
+334026	pfam00352	1111107	Metallosphaera yellowstonensis	1	1
+334026	pfam00352	1120568	Pseudorhodobacter wandonensis	1	1
+334026	pfam00352	1120767	Ostreococcus tauri virus RT-2011	1	1
+334026	pfam00352	1122961	Picrophilus oshimae DSM 9789	1	1
+334026	pfam00352	1126212	Macrophomina phaseolina MS6	1	1
+334026	pfam00352	1126238	Halorussus ruber	1	1
+334026	pfam00352	1126242	Halorussus amylolyticus	1	1
+334026	pfam00352	1128131	Moumouvirus Monve	1	1
+334026	pfam00352	1128425	Fistulina hepatica ATCC 64428	1	1
+334026	pfam00352	1130821	Toxoplasma gondii TgCatPRC2	1	1
+334026	pfam00352	1131000	uncultured bacterium W5-77b	1	1
+334026	pfam00352	1137138	Pleurotus ostreatus PC15	1	1
+334026	pfam00352	1138374	Nematocida sp. 1 ERTm6	1	1
+334026	pfam00352	1149755	Hyaloscypha variabilis F	1	1
+334026	pfam00352	1160507	Saccharomyces arboricola H-6	1	1
+334026	pfam00352	1160509	Ascobolus immersus RN42	1	1
+334026	pfam00352	1163406	Tolypocladium ophioglossoides CBS 100239	1	1
+334026	pfam00352	1163730	Fervidicoccus fontis Kam940	1	1
+334026	pfam00352	1173061	Geotrichum candidum	1	1
+334026	pfam00352	1182968	Saccharomyces cerevisiae P301	1	1
+334026	pfam00352	1194088	Halorubrum sp. T3	1	1
+334026	pfam00352	1195597	Hylocereus polyrhizus	1	1
+334026	pfam00352	1195612	Chroomonas mesostigmatica CCMP1168	1	1
+334026	pfam00352	1198115	Thaumarchaeota archaeon SCGC AB-539-E09	1	1
+334026	pfam00352	1201294	Methanoculleus bourgensis MS2	1	1
+334026	pfam00352	1209931	Colletotrichum salicis	1	1
+334026	pfam00352	1213859	Colletotrichum fructicola Nara gc5	1	1
+334026	pfam00352	1214573	Diaporthe ampelina	1	1
+334026	pfam00352	1215336	Trichophyton interdigitale H6	1	1
+334026	pfam00352	1220188	Aspergillus tanneri	1	1
+334026	pfam00352	1220534	Methanobacterium sp. Maddingley MBC34	1	1
+334026	pfam00352	1227454	Halobiforma nitratireducens JCM 10879	1	1
+334026	pfam00352	1227483	Halorubrum litoreum JCM 13561	1	1
+334026	pfam00352	1227498	Natronococcus jeotgali DSM 18795	1	1
+334026	pfam00352	1227555	Pyrobaculum sp. WP30	1	1
+334026	pfam00352	1229664	Fusarium oxysporum f. sp. cubense race 1	1	1
+334026	pfam00352	1230068	Cryptococcus neoformans var. grubii c45	1	1
+334026	pfam00352	1230097	Cytospora leucostoma	1	1
+334026	pfam00352	1230455	Halorubrum arcis JCM 13916	1	1
+334026	pfam00352	1230905	Lachancea mirantina	1	1
+334026	pfam00352	1237085	Candidatus Nitrososphaera gargensis Ga9.2	1	1
+334026	pfam00352	1237627	Plasmodium falciparum UGT5.1	1	1
+334026	pfam00352	1237896	Colletotrichum gloeosporioides Cg-14	1	1
+334026	pfam00352	1238426	Haloquadratum sp. J07HQX50	1	1
+334026	pfam00352	1238428	Halorubrum sp. J07HR59	1	1
+334026	pfam00352	1241935	Sulfolobus islandicus LAL14/1	1	1
+334026	pfam00352	1245528	Candida maltosa Xu316	1	1
+334026	pfam00352	1246581	Paramicrosporidium saccamoebae	1	1
+334026	pfam00352	1246674	Emmonsia parva UAMH 139	1	1
+334026	pfam00352	1247379	Moumouvirus goulette	1	1
+334026	pfam00352	1247875	Emmonsia crescens UAMH 3008	1	1
+334026	pfam00352	1266660	Lachancea dasiensis CBS 10888	1	1
+334026	pfam00352	1266666	Lachancea nothofagi CBS 11611	1	1
+334026	pfam00352	1266667	Lachancea meyersii CBS 8951	1	1
+334026	pfam00352	1268274	Blumeria graminis f. sp. tritici 96224	1	1
+334026	pfam00352	1276529	Zymoseptoria tritici ST99CH_1A5	1	1
+334026	pfam00352	1276532	Zymoseptoria tritici ST99CH_1E4	1	1
+334026	pfam00352	1276537	Zymoseptoria tritici ST99CH_3D1	1	1
+334026	pfam00352	1276538	Zymoseptoria tritici ST99CH_3D7	1	1
+334026	pfam00352	1278246	Paramecium bursaria Chlorella virus AP110A	1	1
+334026	pfam00352	1278247	Paramecium bursaria Chlorella virus CVB-1	1	1
+334026	pfam00352	1278248	Paramecium bursaria Chlorella virus CVG-1	1	1
+334026	pfam00352	1278249	Paramecium bursaria Chlorella virus CVM-1	1	1
+334026	pfam00352	1278251	Paramecium bursaria Chlorella virus CZ-2	1	1
+334026	pfam00352	1278252	Paramecium bursaria Chlorella virus Can18-4	1	1
+334026	pfam00352	1278258	Paramecium bursaria Chlorella virus KS1B	1	1
+334026	pfam00352	1278260	Paramecium bursaria Chlorella virus MA-1E	1	1
+334026	pfam00352	1278263	Paramecium bursaria Chlorella virus NW665.2	1	1
+334026	pfam00352	1278268	Acanthocystis turfacea Chlorella virus Br0604L	1	1
+334026	pfam00352	1278269	Acanthocystis turfacea Chlorella virus Can0610SP	1	1
+334026	pfam00352	1278270	Acanthocystis turfacea Chlorella virus Canal-1	1	1
+334026	pfam00352	1278272	Acanthocystis turfacea Chlorella virus MN0810.1	1	1
+334026	pfam00352	1278273	Acanthocystis turfacea Chlorella virus MO0605SPH	1	1
+334026	pfam00352	1278274	Acanthocystis turfacea Chlorella virus NE-JV-2	1	1
+334026	pfam00352	1278276	Acanthocystis turfacea Chlorella virus NTS-1	1	1
+334026	pfam00352	1278277	Acanthocystis turfacea Chlorella virus OR0704.3	1	1
+334026	pfam00352	1283841	Stachybotrys chlorohalonata IBT 40285	1	1
+334026	pfam00352	1283842	Stachybotrys chartarum IBT 40288	1	1
+334026	pfam00352	1284197	Dactylellina haptotyla CBS 200.50	1	1
+334026	pfam00352	1287680	Neofusicoccum parvum UCRNP2	1	1
+334026	pfam00352	1291522	Helicosporidium sp. ATCC 50920	1	1
+334026	pfam00352	1294262	Sulfolobus sp. JCM 16833	1	1
+334026	pfam00352	1296105	Cryptococcus gattii VGIV IND107	1	1
+334026	pfam00352	1296118	Cryptococcus amylolentus CBS 6273	1	1
+334026	pfam00352	1296119	Kwoniella heveanensis CBS 569	1	1
+334026	pfam00352	1296120	Kwoniella heveanensis BCC8398	1	1
+334026	pfam00352	1296123	Kwoniella mangroviensis CBS 8886	1	1
+334026	pfam00352	1301915	Methanocaldococcus bathoardescens	1	1
+334026	pfam00352	1302712	Pyrenophora seminiperda CCB06	1	1
+334026	pfam00352	1305733	Rhodotorula sp. JG-1b	1	1
+334026	pfam00352	1306850	Termitomyces sp. J132	1	1
+334026	pfam00352	1306861	Colletotrichum tanaceti	1	1
+334026	pfam00352	1314670	Lepidopterella palustris CBS 459.81	1	1
+334026	pfam00352	1314674	Cylindrobasidium torrendii FP15055 ss-10	1	1
+334026	pfam00352	1314771	Mortierella elongata AG-77	1	1
+334026	pfam00352	1314776	Sistotremastrum suecicum HHB10207 ss-3	1	1
+334026	pfam00352	1314777	Sistotremastrum niveocremeum HHB9708	1	1
+334026	pfam00352	1314778	Polyporus arcularius HHB13444	1	1
+334026	pfam00352	1314782	Neolentinus lepideus HHB14362 ss-1	1	1
+334026	pfam00352	1314783	Daedalea quercina L-15889	1	1
+334026	pfam00352	1314785	Laetiporus sulphureus 93-53	1	1
+334026	pfam00352	1314790	Basidiobolus meristosporus CBS 931.73	1	1
+334026	pfam00352	1314962	Perkinsela sp. CCAP 1560/4	1	1
+334026	pfam00352	1316194	Penicillium subrubescens	1	1
+334026	pfam00352	1317063	Phytophthora parasitica CJ01A1	1	1
+334026	pfam00352	1317066	Phytophthora parasitica P1976	1	1
+334026	pfam00352	1325472	halophilic archaeon J07HX5	1	1
+334026	pfam00352	1330018	Calocera viscosa TUFC12733	1	1
+334026	pfam00352	1330021	Ophiocordyceps polyrhachis-furcata BCC 54312	1	1
+334026	pfam00352	1331196	Kwoniella mangroviensis CBS 10435	1	1
+334026	pfam00352	1336337	Choiromyces venosus 120613-1	1	1
+334026	pfam00352	1343739	Palaeococcus pacificus DY20341	1	1
+334026	pfam00352	1344416	Gonapodya prolifera JEL478	1	1
+334026	pfam00352	1353009	Trametes coccinea BRFM310	1	1
+334026	pfam00352	1353260	Candidatus Nitrosocosmicus oleophilus	1	1
+334026	pfam00352	1353952	Calocera cornea HHB12733	1	1
+334026	pfam00352	1356009	Byssochlamys spectabilis No. 5	1	1
+334026	pfam00352	1358809	Spraguea lophii 42_110	1	1
+334026	pfam00352	1364935	Halorussus salinus	1	1
+334026	pfam00352	1365484	Penicillium roqueforti FM164	1	1
+334026	pfam00352	1380430	Halolamina rubra	1	1
+334026	pfam00352	1381753	Moniliophthora roreri MCA 2997	1	1
+334026	pfam00352	1383842	Halorubrum sp. C191	1	1
+334026	pfam00352	1391699	Pseudogymnoascus sp. VKM F-3808	1	1
+334026	pfam00352	1391915	Sporothrix schenckii ATCC 58251	1	1
+334026	pfam00352	1392256	Aspergillus ochraceoroseus IBT 24754	1	1
+334026	pfam00352	1398559	Melanopsichium pennsylvanicum 4	1	1
+334026	pfam00352	1408157	Coniochaeta ligniaria NRRL 30616	1	1
+334026	pfam00352	1410574	uncultured Acidilobus sp. CIS	1	1
+334026	pfam00352	1410575	uncultured Acidilobus sp. OSP8	1	1
+334026	pfam00352	1412872	uncultured archaeon A07HB70	1	1
+334026	pfam00352	1415761	Streptococcus pseudopneumoniae 5247	1	1
+334026	pfam00352	1420906	Pseudogymnoascus sp. VKM F-4281 (FW-2241)	1	1
+334026	pfam00352	1420907	Pseudogymnoascus sp. VKM F-4513 (FW-928)	1	1
+334026	pfam00352	1420908	Pseudogymnoascus sp. VKM F-4514 (FW-929)	1	1
+334026	pfam00352	1420909	Pseudogymnoascus sp. VKM F-4515 (FW-2607)	1	1
+334026	pfam00352	1420910	Pseudogymnoascus sp. VKM F-4516 (FW-969)	1	1
+334026	pfam00352	1420911	Pseudogymnoascus sp. VKM F-4517 (FW-2822)	1	1
+334026	pfam00352	1427455	Kluyveromyces dobzhanskii CBS 2104	1	1
+334026	pfam00352	1432307	Sclerotinia borealis F-4128	1	1
+334026	pfam00352	1434103	Methanosarcina sp. WWM596	1	1
+334026	pfam00352	1434110	Methanosarcina horonobensis HB-1 = JCM 15518	1	1
+334026	pfam00352	1434120	Methanosarcina siciliae T4/M	1	1
+334026	pfam00352	1434123	Methanosarcina vacuolata Z-761	1	1
+334026	pfam00352	1437433	Pseudogymnoascus sp. VKM F-3557	1	1
+334026	pfam00352	1445577	Colletotrichum fioriniae PJ7	1	1
+334026	pfam00352	1447872	Emergomyces pasteurianus Ep9510	1	1
+334026	pfam00352	1447875	Helicocarpus griseus UAMH5409	1	1
+334026	pfam00352	1447883	Polytolypa hystricis UAMH7299	1	1
+334026	pfam00352	1448308	Corynespora cassiicola Philippines	1	1
+334026	pfam00352	1448318	Aspergillus sclerotiicarbonarius CBS 121057	1	1
+334026	pfam00352	1448320	Aspergillus ellipticus CBS 707.79	1	1
+334026	pfam00352	1450541	Aspergillus indologenus CBS 114.80	1	1
+334026	pfam00352	1452364	methanogenic archaeon mixed culture ISO4-G1	1	1
+334026	pfam00352	1456213	uncultured marine thaumarchaeote KM3_61_F01	1	1
+334026	pfam00352	1456223	uncultured marine thaumarchaeote KM3_65_A09	1	1
+334026	pfam00352	1456279	uncultured marine thaumarchaeote KM3_75_F03	1	1
+334026	pfam00352	1456281	uncultured marine thaumarchaeote KM3_76_A03	1	1
+334026	pfam00352	1456309	uncultured marine thaumarchaeote KM3_83_E08	1	1
+334026	pfam00352	1456361	uncultured marine thaumarchaeote SAT1000_06_B02	1	1
+334026	pfam00352	1456366	uncultured marine thaumarchaeote SAT1000_09_A04	1	1
+334026	pfam00352	1456401	uncultured marine thaumarchaeote SAT1000_27_B10	1	1
+334026	pfam00352	1456439	uncultured marine group II/III euryarchaeote KM3_35_H09	1	1
+334026	pfam00352	1456483	uncultured marine group II/III euryarchaeote KM3_67_D09	1	1
+334026	pfam00352	1456485	uncultured marine group II/III euryarchaeote KM3_67_G08	1	1
+334026	pfam00352	1456531	uncultured marine group II/III euryarchaeote KM3_87_C01	1	1
+334026	pfam00352	1456533	uncultured marine group II/III euryarchaeote KM3_87_G01	1	1
+334026	pfam00352	1456540	uncultured marine group II/III euryarchaeote KM3_91_A10	1	1
+334026	pfam00352	1457762	uncultured marine group II/III euryarchaeote AD1000_39_C04	1	1
+334026	pfam00352	1457844	uncultured marine group II/III euryarchaeote KM3_102_C05	1	1
+334026	pfam00352	1459636	Candidatus Nitrososphaera evergladensis SR1	1	1
+334026	pfam00352	1460289	Chrysochromulina sp. CCMP291	1	1
+334026	pfam00352	1476192	Aspergillus fumigatus var. RP-2014	1	1
+334026	pfam00352	1480154	Marchantia polymorpha subsp. ruderalis	1	1
+334026	pfam00352	1483399	Halorubrum sp. C3	1	1
+334026	pfam00352	1485229	Cadophora sp. DSE1049	1	1
+334026	pfam00352	1491466	Trichoderma guizhouense	1	1
+334026	pfam00352	1495336	Methanobacterium sp. SMA-27	1	1
+334026	pfam00352	1524831	Pseudogymnoascus sp. 23342-1-I1	1	1
+334026	pfam00352	1531966	Torrubiella hemipterigena	1	1
+334026	pfam00352	1540922	Wallemia hederae	1	1
+334026	pfam00352	1547897	Halostella salina	1	1
+334026	pfam00352	1561963	Amorphochlora amoebiformis	1	1
+334026	pfam00352	1577684	Candidatus Nanopusillus acidilobi	1	1
+334026	pfam00352	1579365	archaeon GW2011_AR3	1	1
+334026	pfam00352	1579366	archaeon GW2011_AR4	1	1
+334026	pfam00352	1579367	archaeon GW2011_AR5	1	1
+334026	pfam00352	1579368	archaeon GW2011_AR6	1	1
+334026	pfam00352	1579370	archaeon GW2011_AR10	1	1
+334026	pfam00352	1579371	archaeon GW2011_AR11	1	1
+334026	pfam00352	1579372	archaeon GW2011_AR13	1	1
+334026	pfam00352	1579373	archaeon GW2011_AR15	1	1
+334026	pfam00352	1579375	archaeon GW2011_AR17	1	1
+334026	pfam00352	1579376	archaeon GW2011_AR18	1	1
+334026	pfam00352	1579377	archaeon GW2011_AR19	1	1
+334026	pfam00352	1579379	archaeon GW2011_AR21	1	1
+334026	pfam00352	1582439	Candidatus Nitrosopumilus piranensis	1	1
+334026	pfam00352	1588022	Arthrobacter sp. Hiyo6	1	1
+334026	pfam00352	1603295	fungal sp. No.11243	1	1
+334026	pfam00352	1605378	ANMV-1 virus	1	1
+334026	pfam00352	1609231	Vulcanisaeta sp. AZ3	1	1
+334026	pfam00352	1609232	Thermoproteus sp. AZ2	1	1
+334026	pfam00352	1635283	Thermococcales archaeon 44_46	1	1
+334026	pfam00352	1635284	Methanobacteriaceae archaeon 41_258	1	1
+334026	pfam00352	1641394	Methanomicrobiales archaeon 53_19	1	1
+334026	pfam00352	1644055	Haloferacales	1	1
+334026	pfam00352	1658172	Emmonsia sp. CAC-2015a	1	1
+334026	pfam00352	1658174	Blastomyces percursus	1	1
+334026	pfam00352	1673888	Violaceomyces palustris	1	1
+334026	pfam00352	1675544	Metopaulias depressus WSSV-like virus	1	1
+334026	pfam00352	1685125	miscellaneous Crenarchaeota group-1 archaeon SG8-32-3	1	1
+334026	pfam00352	1685127	miscellaneous Crenarchaeota group-15 archaeon DG-45	1	1
+334026	pfam00352	1685133	miscellaneous Crenarchaeota group archaeon SMTZ1-55	1	1
+334026	pfam00352	1698262	candidate division MSBL1 archaeon SCGC-AAA259D18	1	1
+334026	pfam00352	1698263	candidate division MSBL1 archaeon SCGC-AAA259E17	1	1
+334026	pfam00352	1698270	candidate division MSBL1 archaeon SCGC-AAA259M10	1	1
+334026	pfam00352	1698271	candidate division MSBL1 archaeon SCGC-AAA259O05	1	1
+334026	pfam00352	1698273	candidate division MSBL1 archaeon SCGC-AAA261D19	1	1
+334026	pfam00352	1698279	candidate division MSBL1 archaeon SCGC-AAA382A13	1	1
+334026	pfam00352	1700835	Candidatus Bathyarchaeota archaeon BA1	1	1
+334026	pfam00352	1700836	Candidatus Bathyarchaeota archaeon BA2	1	1
+334026	pfam00352	1704023	Nitrospira bacterium SG8_3	1	1
+334026	pfam00352	1705564	Arc I group archaeon U1lsi0528_Bin089	1	1
+334026	pfam00352	1706444	Candidatus Thorarchaeota archaeon SMTZ1-45	1	1
+334026	pfam00352	1712417	Stygiella incarcerata	1	1
+334026	pfam00352	1712513	Syncephalis pseudoplumigaleata	1	1
+334026	pfam00352	1714252	Vulcanisaeta sp. OSP_8	1	1
+334026	pfam00352	1714257	Thermoproteus sp. CIS_19	1	1
+334026	pfam00352	1714261	Thermocladium sp. ECH_B	1	1
+334026	pfam00352	1735327	Methanolinea sp. SDB	1	1
+334026	pfam00352	1745343	Pezoloma ericae	1	1
+334026	pfam00352	1755127	Fusarium sp. FIESC_12	1	1
+334026	pfam00352	1758255	Halorubrum aethiopicum	1	1
+334026	pfam00352	1775754	Hadesarchaea archaeon DG-33	1	1
+334026	pfam00352	1775755	Hadesarchaea archaeon DG-33-1	1	1
+334026	pfam00352	1776333	Hadesarchaea archaeon YNP_N21	1	1
+334026	pfam00352	1776334	Hadesarchaea archaeon YNP_45	1	1
+334026	pfam00352	1779367	Candidatus Bathyarchaeota archaeon B23	1	1
+334026	pfam00352	1779368	Candidatus Bathyarchaeota archaeon B24	1	1
+334026	pfam00352	1779370	Candidatus Bathyarchaeota archaeon B26-1	1	1
+334026	pfam00352	1779372	Candidatus Bathyarchaeota archaeon B63	1	1
+334026	pfam00352	1789683	Kazachstania saulgeensis	1	1
+334026	pfam00352	1794908	Methanolobus sp. T82-4	1	1
+334026	pfam00352	1797286	archaeon RBG_16_50_20	1	1
+334026	pfam00352	1797379	Candidatus Bathyarchaeota archaeon RBG_13_52_12	1	1
+334026	pfam00352	1797980	Euryarchaeota archaeon RBG_16_67_27	1	1
+334026	pfam00352	1801688	Nitrospinae bacterium RIFCSPLOWO2_12_FULL_47_7	1	1
+334026	pfam00352	1801881	Candidatus Pacearchaeota archaeon RBG_13_36_9	1	1
+334026	pfam00352	1801882	Candidatus Pacearchaeota archaeon RBG_16_35_8	1	1
+334026	pfam00352	1802240	Candidatus Staskawiczbacteria bacterium RIFOXYD2_FULL_37_9	1	1
+334026	pfam00352	1803514	Candidatus Altiarchaeum sp. CG2_30_32_3053	1	1
+334026	pfam00352	1803813	Theionarchaea archaeon DG-70	1	1
+334026	pfam00352	1803814	Theionarchaea archaeon DG-70-1	1	1
+334026	pfam00352	1803821	Euryarchaeota archaeon SM23-78	1	1
+334026	pfam00352	1803822	Euryarchaeota archaeon SG8-5	1	1
+334026	pfam00352	1805095	Crenarchaeota archaeon 13_1_40CM_3_52_10	1	1
+334026	pfam00352	1805248	Candidatus Micrarchaeota archaeon CG1_02_49_24	1	1
+334026	pfam00352	1805249	Candidatus Micrarchaeota archaeon CG1_02_51_15	1	1
+334026	pfam00352	1805250	Candidatus Micrarchaeota archaeon CG1_02_55_22	1	1
+334026	pfam00352	1805252	Candidatus Micrarchaeota archaeon CG1_02_60_51	1	1
+334026	pfam00352	1805295	Candidatus Pacearchaeota archaeon CG1_02_32_132	1	1
+334026	pfam00352	1805483	Nematocida displodere	1	1
+334026	pfam00352	1811674	Methanobacterium sp. PtaB.Bin024	1	1
+334026	pfam00352	1811675	Methanobacterium sp. PtaU1.Bin097	1	1
+334026	pfam00352	1811676	Methanobacterium sp. PtaU1.Bin242	1	1
+334026	pfam00352	1811678	Methanomethylovorans sp. PtaU1.Bin073	1	1
+334026	pfam00352	1811679	Methanomethylovorans sp. PtaU1.Bin093	1	1
+334026	pfam00352	1811683	Methanosaeta sp. PtaB.Bin005	1	1
+334026	pfam00352	1811684	Methanosaeta sp. PtaB.Bin018	1	1
+334026	pfam00352	1811688	Methanosaeta sp. PtaU1.Bin060	1	1
+334026	pfam00352	1811689	Methanosaeta sp. PtaU1.Bin112	1	1
+334026	pfam00352	1811691	Methanosaeta sp. PtaU1.Bin055	1	1
+334026	pfam00352	1811718	Syntrophaceae bacterium PtaU1.Bin231	1	1
+334026	pfam00352	1811722	Methanoregulaceae archaeon PtaB.Bin108	1	1
+334026	pfam00352	1811729	Methanomassiliicoccales archaeon PtaU1.Bin030	1	1
+334026	pfam00352	1813822	fungal sp. No.14919	1	1
+334026	pfam00352	1836603	Amrasca biguttula biguttula	1	1
+334026	pfam00352	1837170	Candidatus Thorarchaeota archaeon AB_25	1	1
+334026	pfam00352	1838285	Candidatus Syntrophoarchaeum caldarius	1	1
+334026	pfam00352	1841596	Candidatus Heimdallarchaeota archaeon AB_125	1	1
+334026	pfam00352	1841597	Candidatus Heimdallarchaeota archaeon LC_2	1	1
+334026	pfam00352	1841598	Candidatus Heimdallarchaeota archaeon LC_3	1	1
+334026	pfam00352	1841599	Candidatus Odinarchaeota archaeon LCB_4	1	1
+334026	pfam00352	1842663	Powai lake megavirus	1	1
+334026	pfam00352	1849364	Candidatus Altiarchaeales archaeon WOR_SM1_86-2	1	1
+334026	pfam00352	1849365	Candidatus Altiarchaeales archaeon WOR_SM1_79	1	1
+334026	pfam00352	1858805	Dacryopinax primogenitus	1	1
+334026	pfam00352	1866961	Amphiamblys sp. WSBS2006	1	1
+334026	pfam00352	1868214	Candidatus Korarchaeota archaeon NZ13-K	1	1
+334026	pfam00352	1874277	Thaumarchaeota archaeon NAS-02	1	1
+334026	pfam00352	1874706	Methanolobus psychrotolerans	1	1
+334026	pfam00352	1878999	Candidatus Altiarchaeales archaeon IMC4	1	1
+334026	pfam00352	1882483	Testicularia cyperi	1	1
+334026	pfam00352	1882735	Methanosarcina sp. Ant1	1	1
+334026	pfam00352	1884261	Pterula gracilis	1	1
+334026	pfam00352	1884791	Euhalothece sp. KZN 001	1	1
+334026	pfam00352	1888995	Marine Group III euryarchaeote CG-Epi1	1	1
+334026	pfam00352	1888996	Marine Group III euryarchaeote CG-Epi2	1	1
+334026	pfam00352	1888997	Marine Group III euryarchaeote CG-Epi3	1	1
+334026	pfam00352	1888998	Marine Group III euryarchaeote CG-Epi4	1	1
+334026	pfam00352	1888999	Marine Group III euryarchaeote CG-Epi5	1	1
+334026	pfam00352	1889002	Marine Group III euryarchaeote CG-Bathy2	1	1
+334026	pfam00352	1890683	Saitozyma podzolica	1	1
+334026	pfam00352	1895824	Rhodobacterales bacterium 65-51	1	1
+334026	pfam00352	1898379	Methanothermobacter sp. MT-2	1	1
+334026	pfam00352	1903181	Candidatus Methanohalarchaeum thermophilum	1	1
+334026	pfam00352	1919085	Actinobacteria bacterium QS_5_72_10	1	1
+334026	pfam00352	1919145	Cyanobacteria bacterium SW_9_47_5	1	1
+334026	pfam00352	1919146	Halobacteriales archaeon QH_1_68_42	1	1
+334026	pfam00352	1919147	Halobacteriales archaeon QH_10_65_19	1	1
+334026	pfam00352	1919148	Halobacteriales archaeon QH_10_67_13	1	1
+334026	pfam00352	1919149	Halobacteriales archaeon QH_10_67_22	1	1
+334026	pfam00352	1919150	Halobacteriales archaeon QH_10_70_21	1	1
+334026	pfam00352	1919151	Halobacteriales archaeon QH_2_65_14	1	1
+334026	pfam00352	1919154	Halobacteriales archaeon QH_6_64_20	1	1
+334026	pfam00352	1919156	Halobacteriales archaeon QH_6_68_27	1	1
+334026	pfam00352	1919158	Halobacteriales archaeon QH_7_66_36	1	1
+334026	pfam00352	1919160	Halobacteriales archaeon QH_7_68_42	1	1
+334026	pfam00352	1919162	Halobacteriales archaeon QH_8_64_26	1	1
+334026	pfam00352	1919163	Halobacteriales archaeon QH_8_67_27	1	1
+334026	pfam00352	1919165	Halobacteriales archaeon QH_8_68_33	1	1
+334026	pfam00352	1919167	Halobacteriales archaeon QS_1_67_19	1	1
+334026	pfam00352	1919169	Halobacteriales archaeon QS_1_68_20	1	1
+334026	pfam00352	1919172	Halobacteriales archaeon QS_3_64_16	1	1
+334026	pfam00352	1919173	Halobacteriales archaeon QS_4_62_28	1	1
+334026	pfam00352	1919176	Halobacteriales archaeon QS_4_69_31	1	1
+334026	pfam00352	1919177	Halobacteriales archaeon QS_4_69_34	1	1
+334026	pfam00352	1919179	Halobacteriales archaeon QS_5_68_33	1	1
+334026	pfam00352	1919180	Halobacteriales archaeon QS_5_70_15	1	1
+334026	pfam00352	1919181	Halobacteriales archaeon QS_5_70_17	1	1
+334026	pfam00352	1919182	Halobacteriales archaeon QS_6_64_34	1	1
+334026	pfam00352	1919186	Halobacteriales archaeon QS_8_65_32	1	1
+334026	pfam00352	1919187	Halobacteriales archaeon QS_8_69_26	1	1
+334026	pfam00352	1919189	Halobacteriales archaeon QS_9_67_15	1	1
+334026	pfam00352	1919190	Halobacteriales archaeon QS_9_67_17	1	1
+334026	pfam00352	1919193	Halobacteriales archaeon QS_9_70_65	1	1
+334026	pfam00352	1919195	Halobacteriales archaeon SW_10_68_16	1	1
+334026	pfam00352	1919202	Halobacteriales archaeon SW_6_65_46	1	1
+334026	pfam00352	1919203	Halobacteriales archaeon SW_7_65_23	1	1
+334026	pfam00352	1919204	Halobacteriales archaeon SW_7_68_16	1	1
+334026	pfam00352	1919205	Halobacteriales archaeon SW_7_71_33	1	1
+334026	pfam00352	1919210	Halobacteriales archaeon SW_9_67_25	1	1
+334026	pfam00352	1919220	Nanohaloarchaea archaeon SW_4_43_9	1	1
+334026	pfam00352	1919221	Nanohaloarchaea archaeon SW_7_43_1	1	1
+334026	pfam00352	1937004	Methanopyrus sp. KOL6	1	1
+334026	pfam00352	1938954	Bifiguratus adelaidae	1	1
+334026	pfam00352	1940840	Carex duriuscula subsp. rigescens	1	1
+334026	pfam00352	1945577	Methanosphaera sp. rholeuAM270	1	1
+334026	pfam00352	1945580	Methanosphaera sp. rholeuAM6	1	1
+334026	pfam00352	1945631	Methanosphaera sp. SHI613	1	1
+334026	pfam00352	1945632	Methanosphaera sp. SHI1033	1	1
+334026	pfam00352	1956188	Saudi moumouvirus	1	1
+334026	pfam00352	1960876	Phialosimplex sp. HF37	1	1
+334026	pfam00352	1961136	Thermoplasmatales archaeon B_DKE	1	1
+334026	pfam00352	1961137	Thermoplasmatales archaeon ARMAN	1	1
+334026	pfam00352	1963269	Diversispora versiformis	1	1
+334026	pfam00352	1965284	Rhodotorula sp. CCFEE 5036	1	1
+334026	pfam00352	1970504	Chromatiales bacterium 21-64-14	1	1
+334026	pfam00352	1970783	Candidatus Omnitrophica bacterium 4484_70.2	1	1
+334026	pfam00352	1971748	Nitrososphaera sp.	1	1
+334026	pfam00352	1973259	Zestosphaera tikiterensis	1	1
+334026	pfam00352	1973962	Deltaproteobacteria bacterium CG_4_8_14_3_um_filter_45_9	1	1
+334026	pfam00352	1974281	Rachicladosporium sp. CCFEE 5018	1	1
+334026	pfam00352	1974384	Candidatus Bathyarchaeota archaeon CG_4_8_14_3_um_filter_42_8	1	1
+334026	pfam00352	1974402	Candidatus Diapherotrites archaeon CG_4_10_14_0_2_um_filter_31_5	1	1
+334026	pfam00352	1974403	Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_30_16	1	1
+334026	pfam00352	1974404	Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_34_12	1	1
+334026	pfam00352	1974407	Candidatus Diapherotrites archaeon CG11_big_fil_rev_8_21_14_0_20_37_9	1	1
+334026	pfam00352	1974408	Candidatus Micrarchaeota archaeon CG_4_10_14_0_2_um_filter_49_7	1	1
+334026	pfam00352	1974412	Candidatus Micrarchaeota archaeon CG06_land_8_20_14_3_00_50_6	1	1
+334026	pfam00352	1974414	Candidatus Micrarchaeota archaeon CG08_land_8_20_14_0_20_59_11	1	1
+334026	pfam00352	1974417	Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_45_29	1	1
+334026	pfam00352	1974424	Candidatus Pacearchaeota archaeon CG_4_10_14_0_2_um_filter_05_32_18	1	1
+334026	pfam00352	1974429	Candidatus Pacearchaeota archaeon CG_4_9_14_0_2_um_filter_30_8	1	1
+334026	pfam00352	1974435	Candidatus Pacearchaeota archaeon CG06_land_8_20_14_3_00_35_12	1	1
+334026	pfam00352	1974437	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_30_48	1	1
+334026	pfam00352	1974438	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_31_24	1	1
+334026	pfam00352	1974441	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_14	1	1
+334026	pfam00352	1974442	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_42	1	1
+334026	pfam00352	1974443	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_12	1	1
+334026	pfam00352	1974444	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_76	1	1
+334026	pfam00352	1974445	Candidatus Pacearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_35_13	1	1
+334026	pfam00352	1974448	Candidatus Woesearchaeota archaeon CG_4_10_14_0_2_um_filter_33_10	1	1
+334026	pfam00352	1974449	Candidatus Woesearchaeota archaeon CG_4_10_14_0_2_um_filter_33_13	1	1
+334026	pfam00352	1974451	Candidatus Woesearchaeota archaeon CG_4_10_14_0_8_um_filter_47_5	1	1
+334026	pfam00352	1974453	Candidatus Woesearchaeota archaeon CG07_land_8_20_14_0_80_44_23	1	1
+334026	pfam00352	1974455	Candidatus Woesearchaeota archaeon CG08_land_8_20_14_0_20_47_9	1	1
+334026	pfam00352	1974456	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_30_7	1	1
+334026	pfam00352	1974457	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_24	1	1
+334026	pfam00352	1974458	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_9	1	1
+334026	pfam00352	1974460	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_12	1	1
+334026	pfam00352	1974461	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_8	1	1
+334026	pfam00352	1974463	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_37_12	1	1
+334026	pfam00352	1974464	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_44_13	1	1
+334026	pfam00352	1974465	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_45_16	1	1
+334026	pfam00352	1974468	Candidatus Woesearchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_43_8	1	1
+334026	pfam00352	1975555	archaeon CG06_land_8_20_14_3_00_37_11	1	1
+334026	pfam00352	1975556	archaeon CG10_big_fil_rev_8_21_14_0_10_43_11	1	1
+334026	pfam00352	1975561	Hadesarchaea archaeon CG08_land_8_20_14_0_20_51_8	1	1
+334026	pfam00352	1977631	Catovirus CTV1	1	1
+334026	pfam00352	1977633	Indivirus ILV1	1	1
+334026	pfam00352	1977638	Hokovirus HKV1	1	1
+334026	pfam00352	1977640	Klosneuvirus KNV1	1	1
+334026	pfam00352	1978124	Methanosarcinales archaeon ex4572_44	1	1
+334026	pfam00352	1978153	Candidatus Marsarchaeota G1 archaeon OSP_B	1	1
+334026	pfam00352	1978161	Candidatus Marsarchaeota G2 archaeon ECH_B_3	1	1
+334026	pfam00352	1978162	Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-M15	1	1
+334026	pfam00352	1978163	Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-C16	1	1
+334026	pfam00352	1980982	Aigarchaeota archaeon NZ13_MG1	1	1
+334026	pfam00352	1983410	Elsinoe sp. CQ-2017a	1	1
+334026	pfam00352	1986661	bacterium TMED88	1	1
+334026	pfam00352	1986684	Euryarchaeota archaeon TMED129	1	1
+334026	pfam00352	1986685	Euryarchaeota archaeon TMED132	1	1
+334026	pfam00352	1986688	Euryarchaeota archaeon TMED173	1	1
+334026	pfam00352	1986690	Euryarchaeota archaeon TMED215	1	1
+334026	pfam00352	1986691	Euryarchaeota archaeon TMED248	1	1
+334026	pfam00352	1986694	Euryarchaeota archaeon TMED279	1	1
+334026	pfam00352	1986697	Euryarchaeota archaeon TMED97	1	1
+334026	pfam00352	1986839	Planctomycetia bacterium TMED53	1	1
+334026	pfam00352	1987491	Sulfolobus sp. SCGC AB-777_G06	1	1
+334026	pfam00352	1987492	Sulfolobus sp. SCGC AB-777_L09	1	1
+334026	pfam00352	2004951	Cordyceps sp. RAO-2017	1	1
+334026	pfam00352	2004952	Ophiocordyceps camponoti-rufipedis	1	1
+334026	pfam00352	2005259	Sulfolobales archaeon SCGC AB-777_J03	1	1
+334026	pfam00352	2005443	Phialophora cf. hyalina BP 5553	1	1
+334026	pfam00352	2005738	archaeon BMS3Bbin15	1	1
+334026	pfam00352	2005741	archaeon BMS3Abin17	1	1
+334026	pfam00352	2006182	Methanobrevibacter sp. NOE	1	1
+334026	pfam00352	2007294	Marine Group II euryarchaeote MED-G33	1	1
+334026	pfam00352	2007295	Marine Group II euryarchaeote MED-G34	1	1
+334026	pfam00352	2007296	Marine Group II euryarchaeote MED-G35	1	1
+334026	pfam00352	2007298	Marine Group II euryarchaeote MED-G37	1	1
+334026	pfam00352	2007299	Marine Group II euryarchaeote MED-G38	1	1
+334026	pfam00352	2011131	ANME-1 cluster archaeon ex4572_4	1	1
+334026	pfam00352	2012490	Candidatus Lokiarchaeota archaeon Loki_b31	1	1
+334026	pfam00352	2012492	Candidatus Woesearchaeota archaeon B3_Woes	1	1
+334026	pfam00352	2012493	Candidatus Heimdallarchaeota archaeon B3_Heim	1	1
+334026	pfam00352	2012503	Candidatus Aenigmarchaeota archaeon ex4484_224	1	1
+334026	pfam00352	2012504	Candidatus Aenigmarchaeota archaeon ex4484_52	1	1
+334026	pfam00352	2012506	Candidatus Altiarchaeales archaeon ex4484_2	1	1
+334026	pfam00352	2012509	Candidatus Bathyarchaeota archaeon ex4484_135	1	1
+334026	pfam00352	2012513	Candidatus Bathyarchaeota archaeon ex4484_40	1	1
+334026	pfam00352	2012514	Candidatus Pacearchaeota archaeon ex4484_26	1	1
+334026	pfam00352	2012516	Candidatus Pacearchaeota archaeon ex4484_71	1	1
+334026	pfam00352	2012518	Desulfurococcales archaeon ex4484_217_1	1	1
+334026	pfam00352	2012519	Desulfurococcales archaeon ex4484_217_2	1	1
+334026	pfam00352	2012520	Desulfurococcales archaeon ex4484_42	1	1
+334026	pfam00352	2012526	Thermofilum sp. ex4484_15	1	1
+334026	pfam00352	2012527	Thermofilum sp. ex4484_79	1	1
+334026	pfam00352	2012529	Archaeoglobales archaeon ex4484_92	1	1
+334026	pfam00352	2012531	Candidatus Woesearchaeota archaeon ex4484_78	1	1
+334026	pfam00352	2012532	Thaumarchaeota archaeon ex4484_121	1	1
+334026	pfam00352	2013675	Candidatus Altiarchaeales archaeon HGW-Altiarchaeales-3	1	1
+334026	pfam00352	2013767	Euryarchaeota archaeon HGW-Euryarchaeota-1	1	1
+334026	pfam00352	2013815	Methanobacteriales archaeon HGW-Methanobacteriales-1	1	1
+334026	pfam00352	2013821	Methanomicrobiales archaeon HGW-Methanomicrobiales-5	1	1
+334026	pfam00352	2013824	Candidatus Methanoperedenaceae archaeon HGW-Methanoperedenaceae-1	1	1
+334026	pfam00352	2013852	Thermoplasmata archaeon HGW-Thermoplasmata-1	1	1
+334026	pfam00352	2013853	Thermoplasmata archaeon HGW-Thermoplasmata-2	1	1
+334026	pfam00352	2016361	Thermococcus sp. EXT12c	1	1
+334026	pfam00352	2020962	Malassezia vespertilionis	1	1
+334026	pfam00352	2022697	Nitrosopumilales archaeon CG_4_9_14_0_8_um_filter_34_10	1	1
+334026	pfam00352	2024608	Bodo saltans virus	1	1
+334026	pfam00352	2025350	Methanobacterium sp. BRmetb2	1	1
+334026	pfam00352	2025994	Coniella lustricola	1	1
+334026	pfam00352	2026724	Chloroflexi bacterium	1	1
+334026	pfam00352	2026735	Deltaproteobacteria bacterium	1	1
+334026	pfam00352	2026777	Phycisphaeraceae bacterium	1	1
+334026	pfam00352	2026808	Candidatus Nitrosopelagicus sp.	1	1
+334026	pfam00352	2028339	Spathaspora sp. JA1	1	1
+334026	pfam00352	2028340	Meyerozyma sp. JA9	1	1
+334026	pfam00352	2030808	Candidatus Cloacimonetes bacterium	1	1
+334026	pfam00352	2032688	Candidatus Methanoperedens sp.	1	1
+334026	pfam00352	2033014	Armatimonadetes bacterium	1	1
+334026	pfam00352	2035437	archaeon HR01	1	1
+334026	pfam00352	2035438	archaeon HR02	1	1
+334026	pfam00352	2035440	archaeon HR04	1	1
+334026	pfam00352	2035442	archaeon HR06	1	1
+334026	pfam00352	2039874	Ophiocordyceps sp. 'camponoti-saundersi'	1	1
+334026	pfam00352	2039875	Ophiocordyceps sp. 'camponoti-leonardi'	1	1
+334026	pfam00352	2041147	Candidatus Bathyarchaeota archaeon B24-2	1	1
+334026	pfam00352	2045011	Candidatus Nitrosocaldus islandicus	1	1
+334026	pfam00352	2053060	Cloning vector pUAST-attB-hsp70-stop-dam-cg9879	1	1
+334026	pfam00352	2053309	Candidatus Parcubacteria bacterium	1	1
+334026	pfam00352	2058097	Candidatus Nitrosocaldus cavascurensis	1	1
+334026	pfam00352	2060325	Aciduliprofundum sp.	1	1
+334026	pfam00352	2060905	Blastomyces parvus	1	1
+334026	pfam00352	2070753	Aspergillus sclerotialis	1	1
+334026	pfam00352	2073127	Serendipita vermifera 'subsp. bescii'	1	1
+334026	pfam00352	2077140	Candidatus Parvarchaeota archaeon	1	1
+334026	pfam00352	2086290	Natronolimnobius sp. AArc-Mg	1	1
+334026	pfam00352	2099682	Methanonatronarchaeia archaeon	1	1
+334026	pfam00352	2109339	Fusarium sp. FIESC_28	1	1
+334026	pfam00352	2109587	Moumouvirus australiensis	1	1
+334026	pfam00352	2126985	Tupanvirus soda lake	1	1
+334026	pfam00352	2133793	Marsupenaeus japonicus endogenous nimavirus	1	1
+334026	pfam00352	2133794	Metapenaeus ensis nimavirus	1	1
+334026	pfam00352	2133795	Penaeus monodon endogenous nimavirus	1	1
+334026	pfam00352	2133796	Sesarmops intermedium nimavirus	1	1
+334026	pfam00352	2163413	Metschnikowia aff. pulcherrima	1	1
+334026	pfam00352	2184738	Desulfurococcaceae archaeon	1	1
+334026	pfam00352	2202144	Spirochaetes bacterium	1	1
+334026	pfam00352	2211642	Monosporascus sp. 5C6A	1	1
+334026	pfam00352	2211644	Monosporascus sp. CRB-8-3	1	1
+334026	pfam00352	2249417	Chaetothyriales sp. CBS 134920	1	1
+334026	pfam00352	2249418	Chaetothyriales sp. CBS 134916	1	1
+334026	pfam00352	2249419	Chaetothyriales sp. CBS 132003	1	1
+334026	pfam00352	2249420	Chaetothyriales sp. CBS 135597	1	1
+334026	pfam00352	2250085	Candidatus Hydrothermae bacterium	1	1
+334026	pfam00352	2250596	Streptococcus sp. 596553	1	1
+334026	pfam00352	2282126	Halorubrum sp. Atlit-8R	1	1
+334026	pfam00352	2282135	Haloarcula sp. Atlit-120R	1	1
+334026	pfam00352	2316362	Psathyrella aberdarensis	1	1
+334026	pfam00352	2340872	Endogone sp. FLAS-F59071	1	1
+334026	pfam00352	2382125	Catonella sp.	1	1
+334026	pfam00352	2419781	Natronolimnobius sp. XQ-INN 246	1	1
+334026	pfam00352	2447956	Antrodiella citrinella	1	1
+334026	pfam00352	2448456	Halostella sp. LT12	1	1
+334026	pfam00352	2478553	Nitrosopumilus sp. B06	1	1
+334026	pfam00352	2478559	Thaumarchaeota archaeon S15	1	1
+334026	pfam00352	2487765	Edafosvirus sp.	1	1
+334026	pfam00352	2487766	Faunusvirus sp.	1	1
+334026	pfam00352	2487767	Gaeavirus sp.	1	1
+334026	pfam00352	2487768	Harvfovirus sp.	1	1
+334026	pfam00352	2487770	Hyperionvirus sp.	1	1
+334026	pfam00352	2487771	Satyrvirus sp.	1	1
+334026	pfam00352	2491082	Methanophagales archaeon ANME-1-THS	1	1
+334026	pfam00352	2491083	Candidatus Methanoliparum thermophilum	1	1
+334026	pfam00352	2491085	Candidatus Methanolliviera hydrocarbonicum	1	1
+334026	pfam00352	2495426	Candidatus Methanosuratus sp.	1	1
+334026	pfam00352	2496520	Mimivirus sp. SH	1	1
+334026	pfam00352	2502235	Chitinivorax sp. B	1	1
+334026	pfam00352	2505977	Halorussus sp. RC-68	1	1
+334026	pfam00352	2506608	Mimivirus LCMiAC01	1	1
+334026	pfam00352	2506609	Mimivirus LCMiAC02	1	1
+334026	pfam00352	2518118	Halorubrum sp. SS5	1	1
+334026	pfam00352	2528036	Rhodobacter sp. YIM 73028	1	1
+334026	pfam00352	2529861	Tabrizicola sp. YIM 78059	1	1
+334026	pfam00352	2558243	halophilic archaeon NEN8	1	1
+334026	pfam00352	2559573	Halorhabdus sp. H27	1	1
+334026	pfam00352	2563889	Haloferacaceae archaeon N1521	1	1

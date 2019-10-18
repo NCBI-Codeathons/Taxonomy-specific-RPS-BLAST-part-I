@@ -69,14 +69,14 @@ class Tree:
         if p.isLeafNode():
             return None
 
-        cns = sorted(p.childNodes, key=lambda nd : nd.weight)
+        cns = sorted(p.childNodes, key=lambda nd: nd.weight)
         return cns[0]
 
     def report(self, cutoff):
         score = 1
         nd = self.possibleOutlier()
         ds = nd.weight / self.initialWeight
-        while score - ds > cutoff:
+        while score - ds >= cutoff:
             self.trim(nd)
             score = score - ds
             nd = self.possibleOutlier()
@@ -86,6 +86,15 @@ class Tree:
         print("\nto meet this threshold, the lowest common node is:")
         print(res)
 
+    def shake(self, t=0.01):
+        def tidy(node, depth, idx):
+            if not node.isLeafNode():
+                tmp = [cn for cn in node.childNodes if cn.weight / node.weight < t]
+                for cn in tmp:
+                    cn.walk(lambda ch, d, i: self.sayGoodbye(ch))
+                    node.removeChildNode(cn)
+
+        self.root.walk(tidy)
 
     def __str__(self):
         lines = []

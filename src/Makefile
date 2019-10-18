@@ -9,12 +9,12 @@ VENV=.env
 
 all: taxidlineage.dmp
 	for f in data/*.tsv; do \
-		./notebook.py $$f > `basename -s .tsv $$f`.out; \
+		./dtrt.py $$f > `basename -s .tsv $$f`.out; \
 	done
 
 
 check: taxidlineage.dmp ${VENV}
-	source ${VENV}/bin/activate && ./notebook.py data/pfam10339-components.tsv
+	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv
 
 
 taxidlineage.dmp:

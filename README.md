@@ -15,9 +15,12 @@ taxidlineage.dmp extracted from new_taxdump.zip available in NCBI Taxonomy ftp s
 
 ## Workflow:
 ![alt text](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/Presentation/workflow.png)
-Input: a table file generate by a sql querry against CDART database ([example file](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/src/data/200311.tsv) for PSSM-Id: 200311, pupylate_PafA2)
+### Input: 
 
-Output: taxid and/or a taxonomy tree
+A table generate by [sql querry](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/utilities/get-model-component-taxonomy.sh) against NCBI internal CDART database ([example file](https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I/blob/master/src/data/pfam10339-components.tsv))
+
+### Output: 
+a taxid and/or a taxonomy tree
 
 ## Validation:
 PSSM-Id: 129695,200311,334026,334050,337780,335786,274086,308214,315456,338615,287328,313550,313551,274263

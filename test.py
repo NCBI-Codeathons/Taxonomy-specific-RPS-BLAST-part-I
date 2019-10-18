@@ -1,4 +1,4 @@
-#!/urs/bin/env python
+#!/usr/bin/env python3
 from taxtree.tree import Tree, createTree
 
 tree = createTree([

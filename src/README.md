@@ -5,12 +5,13 @@
 * MacOS, Linux
 * make
 * python3
+* sqlite >= 3.17
 
 ## Instructions
 1. Check out source tree
    `git clone https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I.git`
 2. `cd Taxonomy-specific-RPS-BLAST-part-I/src`
-3. `make check`
+3. `make init_taxadb check`
 
 
 ## To experiment
@@ -29,12 +30,12 @@ To run the test script, one must enable the virtual environment:
 
 * `-threshold`: Threshold to report taxonomy node.
     Default value: 0.95
-* `-show_names`: Display taxonomic names instead of just taxids.
-    Default value: false
 * `-show_tree`: Display taxonomy tree for model.
     Default value: false
 * `-shake`: Experimental: 'shakes' the tree to remove nodes that contribute
   less than 1% to the parent's weight.
+    Default value: false
+* `-use_eutils`: Use e-Utils to resolve taxonomic names
     Default value: false
 
   

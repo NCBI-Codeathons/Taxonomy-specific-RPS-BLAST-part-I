@@ -15,7 +15,8 @@ all: taxidlineage.dmp
 	done
 
 
-check: taxidlineage.dmp ${VENV}
+check: check_python taxidlineage.dmp ${VENV}
+	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
 	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree
 
 taxidlineage.dmp:
@@ -39,17 +40,6 @@ anaconda_ete:
 check_biopython: ${VENV}
 	source ${VENV}/bin/activate && ./check_biopython.py 9606 10090 2 2789
 ##################################
-taxadb: ${VENV}
-	source ${VENV}/bin/activate && \
-		taxadb download -t taxa -o taxadb
-
-taxadb.sqlite: taxadb
-	source ${VENV}/bin/activate && \
-		taxadb create -d taxa -i taxadb --dbname $@
-
-.PHONY: check_taxadb
-check_taxadb:
-	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
 
 .PHONY: init_taxadb
 init_taxadb:
@@ -60,14 +50,14 @@ init_taxadb:
 
 ##################################
 
-#check_python: ${VENV}
-#	source ${VENV}/bin/activate && \
-#	for f in $(wildcard *.py); do python -m py_compile $$f ; done && \
-#	python3 -m unittest $(subst .py,,$(filter-out setup.py, $(wildcard *.py))) && \
-#	python3 -m unittest discover -s tests
-#	#time -p python3 -m doctest map.py
-#	#time -p py.test *.py
-#	#time -p py.test tests
+check_python: ${VENV}
+	source ${VENV}/bin/activate && \
+	for f in $(wildcard *.py); do python -m py_compile $$f ; done 
+	#python3 -m unittest $(subst .py,,$(filter-out setup.py, $(wildcard *.py)))
+	#python3 -m unittest discover -s tests
+	#time -p python3 -m doctest map.py
+	#time -p py.test *.py
+	#time -p py.test tests
 
 ${VENV}: requirements.txt
 	[ -d ${VENV} ] || virtualenv -p python3 $@

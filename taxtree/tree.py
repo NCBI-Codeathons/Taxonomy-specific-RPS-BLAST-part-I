@@ -103,11 +103,8 @@ class Tree:
             bs = []
             p, q = nd, nd.parentNode
 
-            while q is not None:
-                if len(q.childNodes) > 1 and q.childNodes[-1] != p:
-                    bs.append(True)
-                else:
-                    bs.append(False)
+            while q is not None: # len(q.childNodes) always >= 1
+                bs.append(q.childNodes[-1] != p)
                 p, q = q, q.parentNode
 
             bs.append(False)

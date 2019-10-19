@@ -21,8 +21,8 @@ To run the test script, one must enable the virtual environment:
    checkout
 2. Enable the virtual environment: `source .env/bin/activate`. This is done
    once per session
-3. Make sure you download the taxidlineage.dmp to data directory, i.e. curl -o data/taxidlineage.dmp ftp://ftp.ncbi.n
-lm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp
+3. Make sure you download the taxidlineage.dmp to data directory, i.e. `curl -o data/taxidlineage.dmp ftp://ftp.ncbi.n
+lm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp`
 4. Run the script 
    `./dtrt.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1> ]`
 

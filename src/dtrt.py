@@ -8,7 +8,7 @@ import argparse
 import unittest
 import logging
 import os
-from taxtree.tree import Tree, createTree
+from taxtree.tree import createTree
 
 VERSION = '0.1'
 DFLT_LOGFILE = 'notebook.log'
@@ -76,6 +76,7 @@ def main():
         os.environ["GET_NAMES_FROM_ENTREZ"] = "1"
 
     tree = createTree(tuples)
+    tree.describe()
 
     if args.show_tree:
         print(tree)
@@ -85,8 +86,8 @@ def main():
 
     print("lowest common node:")
     print(tree.lowestCommonNode())
-    print("possible outlier:")
-    print(tree.possibleOutlier())
+    print("potential outlier:")
+    print(tree.potentialOutlier())
     print(tree.report(args.threshold))
     return 0
 

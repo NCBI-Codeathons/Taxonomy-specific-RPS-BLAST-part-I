@@ -110,13 +110,13 @@ class Tree:
 
             if idx == 0:
                 if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
-                    lines.append(pre + "┝━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+                    lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
                 else :
-                    lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+                    lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
             elif idx == v:
-                lines.append(pre + "┕━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+                lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
             else:
-                lines.append(pre + "┝━━━" + "{}[{}]".format(nd.taxid, nd.weight))
+                lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
 
         self.root.walk(func)
         return "\n".join(lines)

@@ -10,9 +10,9 @@ VENV=.env
 export TAXADB_CONFIG=${PWD}/etc/taxadb.cfg
 
 # Creates results for all test data files in *.out files
-all: taxidlineage.dmp
+all: taxidlineage.dmp ${VENV}
 	for f in data/*.tsv; do \
-		./dtrt.py $$f -show_tree > `basename -s .tsv $$f`.out; \
+		source ${VENV}/bin/activate && ./dtrt.py $$f -show_tree > `basename -s .tsv $$f`.out; \
 	done
 
 # Test code

@@ -43,7 +43,7 @@ check_biopython: ${VENV}
 ##################################
 
 .PHONY: init_taxadb
-init_taxadb:
+init_taxadb: ${VENV}
 	source ${VENV}/bin/activate && \
 		taxadb download -t taxa -o taxadb && \
 		taxadb create -d taxa -i taxadb --dbname taxadb.sqlite && \

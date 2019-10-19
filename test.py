@@ -10,6 +10,7 @@ tree = createTree([
 ])
 
 print(tree)
+print(tree.nearestAncestor(tree.search(34), tree.search(7)))
 tree.describe()
 tree.report(.6)
 tree.describe()

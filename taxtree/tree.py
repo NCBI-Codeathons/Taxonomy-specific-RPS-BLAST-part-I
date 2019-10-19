@@ -31,6 +31,11 @@ class Tree:
     def getRoot(self):
         return self._root
 
+    def getNode(self, taxid):
+        if taxid not in self._catalog:
+            return None
+        return self._catalog[taxid]
+
     def search(self, taxid):
         if taxid not in self._catalog:
             return None
@@ -117,6 +122,9 @@ class Tree:
                     node.removeChildNode(cn)
 
         self._root.walk(tidy)
+
+    def nearestAncestor(self, node1, node2):
+        return node1.nearestAncestor(node2)
 
     def __str__(self):
         lines = []

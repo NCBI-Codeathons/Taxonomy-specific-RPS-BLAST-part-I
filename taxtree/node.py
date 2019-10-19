@@ -56,6 +56,18 @@ class Node:
             p.weight += num
             p = p.parentNode
 
+    def nearestAncestor(self, node):
+        p = self
+        while p is not None:
+            q = node
+            while q is not None:
+                if p == q:
+                    return p
+                q = q.parentNode
+            p = p.parentNode
+
+        return None
+
     def walk(self, func, depth=0, index=0):
         func(self, depth, index)
         if len(self.childNodes) > 0:
@@ -92,3 +104,5 @@ class Node:
         cs = ["{}TaxId: {}, Weight: {}{}".format("{", n.taxid, n.weight, "}") for n in self.childNodes]
         res += "| Child Nodes: [{}]\n".format(", ".join(cs))
         return res
+
+

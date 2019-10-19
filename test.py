@@ -2,7 +2,7 @@
 from taxtree.tree import Tree, createTree
 
 tree = createTree([
-    (88, 2, [1, 2, 3, 4, 5]),
+    (88, 2, [1, 2, 3, 4, 5, 6, 7, 8]),
     (66, 8, [1, 12, 13, 14, 15]),
     (99, 4, [200, 22, 23, 24, 25]),
     (96, 2, [1, 12, 230, 34, 45]),
@@ -10,7 +10,9 @@ tree = createTree([
 ])
 
 print(tree)
+tree.describe()
 tree.report(.6)
+tree.describe()
 # print("lowest common node:")
 # print(tree.lowestCommonNode())
 # print("possible outlier:")

@@ -83,14 +83,14 @@ def main():
 
     if args.shake:
         tree.shake()
-        print("\nafter shaking, the tree status is below:\n ")
+        print("\nafter shaking, the tree status is as below:\n ")
         tree.describe()
 
-    print("lowest common node:")
+    print("\nlowest common node:")
     print(tree.lowestCommonNode())
     print("potential outlier:")
     print(tree.potentialOutlier())
-    print(tree.report(args.threshold))
+    tree.report(args.threshold)
     return 0
 
 

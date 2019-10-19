@@ -1,18 +1,9 @@
 #!/usr/bin/env python
-from Bio import Entrez
-import os
 
 class Node:
-    def __init__(self, taxid, weight):
+    def __init__(self, taxid, weight, name=None):
         self.taxid = taxid
-        self.name = None
-        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
-            import getpass
-            Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
-            handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
-            records = Entrez.read(handle)
-            if len(records) == 1:
-                self.name = records[0]["ScientificName"]
+        self.name = name
         self.weight = weight
         self.parentNode = None
         self.childNodes = []

@@ -3,6 +3,9 @@
 from .node import Node
 import logging
 
+from Bio import Entrez
+from taxadb.taxid import TaxID
+import os
 
 class Tree:
     def __init__(self, root, catalog, w):
@@ -132,6 +135,24 @@ class Tree:
         return "\n".join(lines)
 
 
+def _get_name_for_taxid(target_taxid, taxadb):
+    """
+    Returns the name for a given taxonomy ID
+    """
+    retval = None
+    if target_taxid == 0:
+        return "root"
+
+    if "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
+        handle = Entrez.efetch(db="Taxonomy", id=str(target_taxid), retmode="xml")
+        records = Entrez.read(handle)
+        if len(records) == 1:
+            retval = records[0]["ScientificName"]
+    else:
+        retval = taxadb.sci_name(target_taxid)
+
+    return retval
+
 def createTree(arr):
     """
     Create a tree using the provided list of tuples. In the tree, a node may contains multiple
@@ -139,15 +160,23 @@ def createTree(arr):
     :param arr: list of tuples (taxid, weight, lineage), where lineage is a list of taxid
     :return: Tree instance
     """
-    root = Node(0, 0)
+    taxadb = TaxID()
+    if "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
+        import getpass
+        Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
+
+    root = Node(0, 0, _get_name_for_taxid(0, taxadb))
     catalog = {}
     for bucket in arr:
-        leaf = Node(bucket[0], bucket[1])
+        taxid = int(bucket[0])
+        name = _get_name_for_taxid(taxid, taxadb)
+
+        leaf = Node(taxid, bucket[1], name)
         iter = root
         for i in range(len(bucket[2])):
             lin = bucket[2][i]
             if catalog.get(lin) is None:
-                node = Node(lin, 0)
+                node = Node(lin, 0, _get_name_for_taxid(lin, taxadb))
                 iter.addChildNode(node)
                 catalog[lin] = node
                 iter = node

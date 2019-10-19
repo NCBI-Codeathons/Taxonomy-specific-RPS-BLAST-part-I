@@ -1,7 +1,11 @@
 Miniconda3*sh
 anaconda_ete
 
+# Output/log files
+*.out
+*.log
 typescript
+
 *.dmp
 .env
 

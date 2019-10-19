@@ -7,15 +7,16 @@ SHELL=/bin/bash
 VPATH=data
 VENV=.env
 
+export TAXADB_CONFIG=${PWD}/etc/taxadb.cfg
+
 all: taxidlineage.dmp
 	for f in data/*.tsv; do \
-		./dtrt.py $$f > `basename -s .tsv $$f`.out; \
+		./dtrt.py $$f -show_tree > `basename -s .tsv $$f`.out; \
 	done
 
 
 check: taxidlineage.dmp ${VENV}
-	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv
-
+	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree
 
 taxidlineage.dmp:
 	wget -O data/$@ ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
@@ -37,6 +38,26 @@ anaconda_ete:
 ##################################
 check_biopython: ${VENV}
 	source ${VENV}/bin/activate && ./check_biopython.py 9606 10090 2 2789
+##################################
+taxadb: ${VENV}
+	source ${VENV}/bin/activate && \
+		taxadb download -t taxa -o taxadb
+
+taxadb.sqlite: taxadb
+	source ${VENV}/bin/activate && \
+		taxadb create -d taxa -i taxadb --dbname $@
+
+.PHONY: check_taxadb
+check_taxadb:
+	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
+
+.PHONY: init_taxadb
+init_taxadb:
+	source ${VENV}/bin/activate && \
+		taxadb download -t taxa -o taxadb && \
+		taxadb create -d taxa -i taxadb --dbname taxadb.sqlite && \
+		${RM} -r taxadb
+
 ##################################
 
 #check_python: ${VENV}
@@ -65,9 +86,8 @@ deploy: dist/${MODULE_NAME}-${PYTHON_MODULE_VERSION}.tar.gz
 	#twine upload $<
 
 clean:
-	$(RM) -r *.dat *.[ao] *.log *.pyc
+	$(RM) -r *.dat *.[ao] *.log *.pyc 
 	find . -name __pycache__ | xargs ${RM} -fr
 
 distclean: clean
-	${RM} -r ${VENV}
-	${RM} cscope.* tags vim.paths
+	${RM} -r ${VENV} data/*.dmp taxadb*

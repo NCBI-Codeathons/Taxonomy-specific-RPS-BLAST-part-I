@@ -99,10 +99,6 @@ class Tree:
         lines = []
 
         def func(nd, depth, idx):
-            v = 1
-            if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
-                v = len(nd.parentNode.childNodes) - 1
-
             bs = []
             p = nd
             q = p.parentNode
@@ -118,6 +114,10 @@ class Tree:
             bs.append(False)
             bs = reversed(bs[1:])
             pre = "".join(["┃   " if b else "    " for b in bs])
+
+            v = 1
+            if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
+                v = len(nd.parentNode.childNodes) - 1
 
             if idx == 0:
                 if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:

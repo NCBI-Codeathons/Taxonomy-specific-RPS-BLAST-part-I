@@ -82,8 +82,9 @@ def main():
         print(tree)
 
     if args.shake:
-        print("after shaking, the tree status is below: ")
         tree.shake()
+        print("after shaking, the tree status is below: ")
+        tree.describe()
 
     print("lowest common node:")
     print(tree.lowestCommonNode())

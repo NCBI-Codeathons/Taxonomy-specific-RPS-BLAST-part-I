@@ -100,31 +100,20 @@ class Tree:
 
         def func(nd, depth, idx):
             bs = []
-            p = nd
-            q = p.parentNode
+            p, q = nd, nd.parentNode
 
             while q is not None:
                 if len(q.childNodes) > 1 and q.childNodes[-1] != p:
                     bs.append(True)
                 else:
                     bs.append(False)
-                p = q
-                q = p.parentNode
+                p, q = q, q.parentNode
 
             bs.append(False)
             bs = reversed(bs[1:])
             pre = "".join(["┃   " if b else "    " for b in bs])
 
-            v = 1
-            if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
-                v = len(nd.parentNode.childNodes) - 1
-
-            if idx == 0:
-                if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
-                    lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-                else:
-                    lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-            elif idx == v:
+            if nd.parentNode is None or idx == len(nd.parentNode.childNodes) - 1:
                 lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
             else:
                 lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))

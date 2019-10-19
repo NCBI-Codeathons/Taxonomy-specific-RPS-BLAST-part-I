@@ -6,65 +6,92 @@ import logging
 
 class Tree:
     def __init__(self, root, catalog, w):
-        self.root = root
-        self.catalog = catalog
+        self._root = root
+        self._catalog = catalog
         self.initialWeight = w
 
     def search(self, taxid):
-        if taxid not in self.catalog:
+        if taxid not in self._catalog:
             return None
-        return self.catalog[taxid]
+        return self._catalog[taxid]
+
+    def describe(self):
+        all = self._root.findAllLeafNodes()
+        line1 = "total number of nodes: {}".format(all[1]["totalNodes"])
+        line2 = "total weight initially: {}".format(self.initialWeight)
+        line3 = "total weight for now: {}".format(self._root.weight)
+        line4 = "total number of leaf nodes: {}".format(len(all[0]))
+        line5 = "the deepest node is of depth: {}".format(all[1]["deepest"])
+        n = max([len(line) for line in [line1, line2, line3, line4, line5]])
+        print("-" * (n + 4))
+        print(line1)
+        print(line2)
+        print(line3)
+        print(line4)
+        print(line5)
+        print("-" * (n + 4))
+
+    def getWeight(self):
+        return self._root.weight
+
+    def getRoot(self):
+        return self._root
+
+    def getNode(self, taxid):
+        if taxid not in self._catalog:
+            return None
+        return self._catalog[taxid]
 
     def sayGoodbye(self, node):
-        # if self.catalog.get(node.taxid) is None:
+        # if self._catalog.get(node.taxid) is None:
         #     raise ValueError("node {} not exist in the tree".format(node.taxid))
-        self.catalog.pop(node.taxid, None)
+        self._catalog.pop(node.taxid, None)
         logging.debug("node {} removed from the tree".format(node.taxid))
 
     def trim(self, node=None):
-        if self is None or self.root is None:
+        if self is None or self._root is None:
             raise ValueError("the tree is empty")
-        if self.root.isLeafNode():
-            nd = self.root
-            self.root = None
-            self.catalog = {}
+        if self._root.isLeafNode():
+            nd = self._root
+            self._root = None
+            self._catalog = {}
             return nd
         if node is None:
-            p = self.root
+            p = self._root
             while len(p.childNodes) == 1:
                 p = p.childNodes[0]
 
             id_ws = [(c.taxid, c.weight) for c in p.childNodes]
             min_nd = (sorted(id_ws, key=lambda t: t[1]))[0]
             print("node {} and its sub-nodes are to be removed ...\n".format(min_nd[0], min_nd[1]))
-            nd = p.removeChildNode(self.catalog[min_nd[0]])
+            nd = p.removeChildNode(self._catalog[min_nd[0]])
 
             nd.walk(lambda ch, d, i: self.sayGoodbye(ch))
             print("\nthe total weight is reduced by {}".format(min_nd[1]))
-            print("the percentage is {0:.2f}% now\n".format((self.root.weight / self.initialWeight) * 100))
+            print("the percentage is {0:.2f}% now\n".format((self._root.weight / self.initialWeight) * 100))
             return nd
         else:
-            if self.catalog.get(node.taxid) is None:
+            if self._catalog.get(node.taxid) is None:
                 raise ValueError("not a child node of this tree")
             elif node.parentNode is None:
                 raise ValueError("not a child node of this tree")
             else:
-                if node == self.root:
+                if node == self._root:
                     node.walk(lambda ch, d, i: self.sayGoodbye(ch))
-                    self.root = None
+                    self._root = None
                     return node
                 else:
                     node.walk(lambda ch, d, i: self.sayGoodbye(ch))
                     return node.parentNode.removeChildNode(node)
 
     def lowestCommonNode(self):
-        p = self.root
+        p = self._root
         while len(p.childNodes) == 1:
             p = p.childNodes[0]
 
         return p
 
-    def possibleOutlier(self):
+    def potentialOutlier(self):
         p = self.lowestCommonNode()
         if p.isLeafNode():
             return None
@@ -74,18 +101,18 @@ class Tree:
 
     def report(self, cutoff):
         score = 1
-        nd = self.possibleOutlier()
+        nd = self.potentialOutlier()
         ds = nd.weight / self.initialWeight
         while score - ds >= cutoff:
             self.trim(nd)
             score = score - ds
-            nd = self.possibleOutlier()
+            nd = self.potentialOutlier()
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
         print("\nto meet the threshold {0:.2f}%, the lowest common node is:".format(cutoff * 100))
         print(res)
-        print("the current percentage is {0:.2f}%".format(self.root.weight / self.initialWeight * 100))
+        print("the current percentage is {0:.2f}%".format(self._root.weight / self.initialWeight * 100))
 
     def shake(self, t=0.01):
         def tidy(node, depth, idx):
@@ -95,7 +122,10 @@ class Tree:
                     cn.walk(lambda ch, d, i: self.sayGoodbye(ch))
                     node.removeChildNode(cn)
 
-        self.root.walk(tidy)
+        self._root.walk(tidy)
+
+    def nearestAncestor(self, node1, node2):
+        return node1.nearestAncestor(node2)
 
     def __str__(self):
         lines = []
@@ -117,7 +147,7 @@ class Tree:
             else:
                 lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
 
-        self.root.walk(func)
+        self._root.walk(func)
         return "\n".join(lines)
 
 

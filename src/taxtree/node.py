@@ -66,6 +66,18 @@ class Node:
             p.weight += num
             p = p.parentNode
 
+    def nearestAncestor(self, node):
+        p = self
+        while p is not None:
+            q = node
+            while q is not None:
+                if p == q:
+                    return p
+                q = q.parentNode
+            p = p.parentNode
+
+        return None
+
     def walk(self, func, depth=0, index=0):
         if self.isLeafNode():
             func(self, depth, index)
@@ -75,6 +87,23 @@ class Node:
             for i in range(len(self.childNodes)):
                 cn = self.childNodes[i]
                 cn.walk(func, depth + 1, i)
+
+    def findAllLeafNodes(self):
+        res = []
+        stat = {"deepest": 0, "totalNodes": 0, "mostChildNodes": (self, len(self.childNodes))}
+
+        def check(node, depth, idx):
+            stat["totalNodes"] += 1
+            if node.isLeafNode():
+                res.append((node, depth))
+                if depth > stat["deepest"]:
+                    stat["deepest"] = depth
+            else:
+                if idx + 1 > stat["mostChildNodes"][1]:
+                    stat["mostChildNodes"] = (node, len(node.childNodes))
+
+        self.walk(check)
+        return res, stat
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

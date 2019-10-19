@@ -68,14 +68,14 @@ class Tree:
         if p.isLeafNode():
             return None
 
-        cns = sorted(p.childNodes, key=lambda nd : nd.weight)
+        cns = sorted(p.childNodes, key=lambda nd: nd.weight)
         return cns[0]
 
     def report(self, cutoff):
         score = 1
         nd = self.possibleOutlier()
         ds = nd.weight / self.initialWeight
-        while score - ds > cutoff:
+        while score - ds >= cutoff:
             self.trim(nd)
             score = score - ds
             nd = self.possibleOutlier()
@@ -85,6 +85,15 @@ class Tree:
         print("\nto meet this threshold, the lowest common node is:")
         print(res)
 
+    def shake(self, t=0.01):
+        def tidy(node, depth, idx):
+            if not node.isLeafNode():
+                tmp = [cn for cn in node.childNodes if cn.weight / node.weight < t]
+                for cn in tmp:
+                    cn.walk(lambda ch, d, i: self.sayGoodbye(ch))
+                    node.removeChildNode(cn)
+
+        self.root.walk(tidy)
 
     def __str__(self):
         lines = []
@@ -97,6 +106,7 @@ class Tree:
             bs = []
             p = nd
             q = p.parentNode
+
             while q is not None:
                 if len(q.childNodes) > 1 and q.childNodes[-1] != p:
                     bs.append(True)
@@ -104,6 +114,7 @@ class Tree:
                     bs.append(False)
                 p = q
                 q = p.parentNode
+
             bs.append(False)
             bs = reversed(bs[1:])
             pre = "".join(["┃   " if b else "    " for b in bs])
@@ -111,7 +122,7 @@ class Tree:
             if idx == 0:
                 if nd.parentNode is not None and len(nd.parentNode.childNodes) > 1:
                     lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-                else :
+                else:
                     lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
             elif idx == v:
                 lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))

@@ -82,8 +82,9 @@ class Tree:
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
-        print("\nto meet this threshold, the lowest common node is:")
+        print("\nto meet the threshold {0:.2f}%, the lowest common node is:".format(cutoff * 100))
         print(res)
+        print("the current percentage is {0:.2f}%".format(self.root.weight / self.initialWeight * 100))
 
     def shake(self, t=0.01):
         def tidy(node, depth, idx):

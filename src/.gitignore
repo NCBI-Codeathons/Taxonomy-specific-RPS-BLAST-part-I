@@ -10,4 +10,5 @@ typescript
 .env
 
 # Exclude taxadb files
-taxadb*
+taxadb
+taxadb.sqlite

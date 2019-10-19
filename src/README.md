@@ -14,19 +14,22 @@
    `git checkout  faster-taxonomic-metadata`
 3. `cd Taxonomy-specific-RPS-BLAST-part-I/src`
 4. `make init_taxadb check`
-5. To compute the trees for all sample files
+5. To compute the trees for all sample files, run `make all`
 
 
 ## To experiment
 
-To run the test script, one must enable the virtual environment:
+To run the test script, one must enable the virtual environment *and* set the
+`TAXADB_CONFIG` environment variable:
 
 1. Create the virtual environment: `make .env` . This is done once per
    checkout
 2. Enable the virtual environment: `source .env/bin/activate`. This is done
    once per session
+3. Set the `TAXADB_CONFIG` environment variable: `export TAXADB=${PWD}/etc/taxadb.cfg`. This is done
+   once per session
 3. Run the script 
-   `./dtrt.py <data/*.tsv-file-name> [-threshold <number-between-0-and-1> ]`
+   `./dtrt.py <data/*.tsv-file-name> -show_tree [-threshold <number-between-0-and-1> ]`
 
 
 ## dtrt.py options

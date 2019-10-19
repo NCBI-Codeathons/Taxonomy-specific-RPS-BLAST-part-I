@@ -9,12 +9,13 @@ VENV=.env
 
 export TAXADB_CONFIG=${PWD}/etc/taxadb.cfg
 
+# Creates results for all test data files in *.out files
 all: taxidlineage.dmp
 	for f in data/*.tsv; do \
 		./dtrt.py $$f -show_tree > `basename -s .tsv $$f`.out; \
 	done
 
-
+# Test code
 check: check_python taxidlineage.dmp ${VENV}
 	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
 	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree

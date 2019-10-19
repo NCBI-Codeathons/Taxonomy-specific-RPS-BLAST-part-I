@@ -12,6 +12,7 @@
    `git clone https://github.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I.git`
 2. `cd Taxonomy-specific-RPS-BLAST-part-I/src`
 3. `make init_taxadb check`
+4. To compute the trees for all sample files
 
 
 ## To experiment

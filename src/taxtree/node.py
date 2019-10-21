@@ -1,12 +1,14 @@
 #!/usr/bin/env python
-from Bio import Entrez
 import os
+
+from Bio import Entrez
+
 
 class Node:
     def __init__(self, taxid, weight):
         self.taxid = taxid
         self.name = None
-        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
+        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ:  # pardon the hack!
             import getpass
             Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
             handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
@@ -104,6 +106,29 @@ class Node:
 
         self.walk(check)
         return res, stat
+
+    def _show(self):
+        lines = []
+        prefixes = {self.taxid: "    "}
+
+        def worker(node, depth, idx):
+            if node.taxid == self.taxid:
+                lines.append("┗━━━{}[{}]".format(node.taxid, node.weight))
+            else:
+                prefix = prefixes.get(node.parentNode.taxid)
+                length = len(node.parentNode.childNodes)
+                if idx == length - 1:
+                    prefixes[node.taxid] = prefix + "    "
+                    lines.append("┗━━━{}[{}]".format(node.taxid, node.weight))
+                else:
+                    prefixes[node.taxid] = prefix + "┃   "
+                    lines.append("┣━━━{}[{}]".format(node.taxid, node.weight))
+
+        self.walk(worker)
+        return "\n".join(lines)
+
+    def show(self):
+        print(self._show())
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

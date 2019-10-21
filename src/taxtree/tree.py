@@ -128,27 +128,28 @@ class Tree:
         return node1.nearestAncestor(node2)
 
     def __str__(self):
-        lines = []
-
-        def func(nd, depth, idx):
-            bs = []
-            p, q = nd, nd.parentNode
-
-            while q is not None: # len(q.childNodes) always >= 1
-                bs.append(q.childNodes[-1] != p)
-                p, q = q, q.parentNode
-
-            bs.append(False)
-            bs = reversed(bs[1:])
-            pre = "".join(["┃   " if b else "    " for b in bs])
-
-            if nd.parentNode is None or idx == len(nd.parentNode.childNodes) - 1:
-                lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-            else:
-                lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-
-        self._root.walk(func)
-        return "\n".join(lines)
+        # lines = []
+        #
+        # def func(nd, depth, idx):
+        #     bs = []
+        #     p, q = nd, nd.parentNode
+        #
+        #     while q is not None: # len(q.childNodes) always >= 1
+        #         bs.append(q.childNodes[-1] != p)
+        #         p, q = q, q.parentNode
+        #
+        #     bs.append(False)
+        #     bs = reversed(bs[1:])
+        #     pre = "".join(["┃   " if b else "    " for b in bs])
+        #
+        #     if nd.parentNode is None or idx == len(nd.parentNode.childNodes) - 1:
+        #         lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
+        #     else:
+        #         lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
+        #
+        # self._root.walk(func)
+        # return "\n".join(lines)
+        return self._root._show()
 
 
 def createTree(arr):

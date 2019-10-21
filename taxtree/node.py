@@ -90,6 +90,29 @@ class Node:
         self.walk(check)
         return res, stat
 
+    def _show(self):
+        lines = []
+        prefixes = {self.taxid: "    "}
+
+        def worker(node, depth, idx):
+            if node.taxid == self.taxid:
+                lines.append("┗━━━{}[{}]".format(node.taxid, node.weight))
+            else:
+                prefix = prefixes.get(node.parentNode.taxid)
+                length = len(node.parentNode.childNodes)
+                if idx == length - 1:
+                    prefixes[node.taxid] = prefix + "    "
+                    lines.append("{}┗━━━{}[{}]".format(prefix, node.taxid, node.weight))
+                else:
+                    prefixes[node.taxid] = prefix + "┃   "
+                    lines.append("{}┣━━━{}[{}]".format(prefix, node.taxid, node.weight))
+
+        self.walk(worker)
+        return "\n".join(lines)
+
+    def show(self):
+        print(self._show())
+
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)
         res += "| Weight: {}\n".format(self.weight)

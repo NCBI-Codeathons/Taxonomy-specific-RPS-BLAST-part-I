@@ -9,11 +9,13 @@ tree = createTree([
     (87, 1, [2000, 20, 30, 40, 50]),
 ])
 
-print(tree)
-print(tree.nearestAncestor(tree.search(34), tree.search(7)))
-tree.describe()
-tree.report(.6)
-tree.describe()
+tree._root.show()
+
+# print(tree)
+# print(tree.nearestAncestor(tree.search(34), tree.search(7)))
+# tree.describe()
+# tree.report(.6)
+# tree.describe()
 # print("lowest common node:")
 # print(tree.lowestCommonNode())
 # print("possible outlier:")

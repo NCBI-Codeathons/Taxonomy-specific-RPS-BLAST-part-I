@@ -119,10 +119,10 @@ class Node:
                 length = len(node.parentNode.childNodes)
                 if idx == length - 1:
                     prefixes[node.taxid] = prefix + "    "
-                    lines.append("┗━━━{}[{}]".format(node.taxid, node.weight))
+                    lines.append("{}┗━━━{}[{}]".format(prefix, node.taxid, node.weight))
                 else:
                     prefixes[node.taxid] = prefix + "┃   "
-                    lines.append("┣━━━{}[{}]".format(node.taxid, node.weight))
+                    lines.append("{}┣━━━{}[{}]".format(prefix, node.taxid, node.weight))
 
         self.walk(worker)
         return "\n".join(lines)

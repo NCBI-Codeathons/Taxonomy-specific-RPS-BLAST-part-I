@@ -5,9 +5,9 @@ from Bio import Entrez
 
 
 class Node:
-    def __init__(self, taxid, weight):
+    def __init__(self, taxid, weight, name=None):
         self.taxid = taxid
-        self.name = None
+        self.name = name
         if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ:  # pardon the hack!
             import getpass
             Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())

@@ -7,15 +7,18 @@ SHELL=/bin/bash
 VPATH=data
 VENV=.env
 
-all: taxidlineage.dmp
+export TAXADB_CONFIG=${PWD}/etc/taxadb.cfg
+
+# Creates results for all test data files in *.out files
+all: taxidlineage.dmp ${VENV}
 	for f in data/*.tsv; do \
-		./dtrt.py $$f > `basename -s .tsv $$f`.out; \
+		source ${VENV}/bin/activate && ./dtrt.py $$f -show_tree > `basename -s .tsv $$f`.out; \
 	done
 
-
-check: taxidlineage.dmp ${VENV}
-	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv
-
+# Test code
+check: check_python taxidlineage.dmp ${VENV}
+	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
+	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree
 
 taxidlineage.dmp:
 	wget -O data/$@ ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
@@ -39,14 +42,23 @@ check_biopython: ${VENV}
 	source ${VENV}/bin/activate && ./check_biopython.py 9606 10090 2 2789
 ##################################
 
-#check_python: ${VENV}
-#	source ${VENV}/bin/activate && \
-#	for f in $(wildcard *.py); do python -m py_compile $$f ; done && \
-#	python3 -m unittest $(subst .py,,$(filter-out setup.py, $(wildcard *.py))) && \
-#	python3 -m unittest discover -s tests
-#	#time -p python3 -m doctest map.py
-#	#time -p py.test *.py
-#	#time -p py.test tests
+.PHONY: init_taxadb
+init_taxadb: ${VENV}
+	source ${VENV}/bin/activate && \
+		taxadb download -t taxa -o taxadb && \
+		taxadb create -c 200 -d taxa -i taxadb --dbname taxadb.sqlite && \
+		${RM} -r taxadb
+
+##################################
+
+check_python: ${VENV}
+	source ${VENV}/bin/activate && \
+	for f in $(wildcard *.py); do python -m py_compile $$f ; done 
+	#python3 -m unittest $(subst .py,,$(filter-out setup.py, $(wildcard *.py)))
+	#python3 -m unittest discover -s tests
+	#time -p python3 -m doctest map.py
+	#time -p py.test *.py
+	#time -p py.test tests
 
 ${VENV}: requirements.txt
 	[ -d ${VENV} ] || virtualenv -p python3 $@
@@ -65,9 +77,8 @@ deploy: dist/${MODULE_NAME}-${PYTHON_MODULE_VERSION}.tar.gz
 	#twine upload $<
 
 clean:
-	$(RM) -r *.dat *.[ao] *.log *.pyc
+	$(RM) -r *.dat *.[ao] *.log *.pyc 
 	find . -name __pycache__ | xargs ${RM} -fr
 
 distclean: clean
-	${RM} -r ${VENV}
-	${RM} cscope.* tags vim.paths
+	${RM} -r ${VENV} data/*.dmp taxadb*

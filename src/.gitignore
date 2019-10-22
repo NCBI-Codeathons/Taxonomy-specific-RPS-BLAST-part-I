@@ -1,9 +1,14 @@
 Miniconda3*sh
 anaconda_ete
 
+# Output/log files
+*.out
+*.log
 typescript
+
 *.dmp
 .env
 
 # Exclude taxadb files
-taxadb*
+taxadb
+taxadb.sqlite

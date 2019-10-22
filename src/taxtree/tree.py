@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 
-from .node import Node
 import logging
+from .node import Node
 
-from Bio import Entrez
-from taxadb.taxid import TaxID
-import os
 
 class Tree:
     def __init__(self, root, catalog, w):
@@ -106,14 +103,18 @@ class Tree:
         score = 1
         nd = self.potentialOutlier()
         ds = nd.weight / self.initialWeight
+        removed = []
         while score - ds >= cutoff:
             self.trim(nd)
+            removed.append(nd.taxid)
             score = score - ds
             nd = self.potentialOutlier()
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
-        print("\nto meet the threshold {0:.2f}%, the lowest common node is:".format(cutoff * 100))
+        print("\nto meet the threshold {0:.2f}%, the nodes below were removed:".format(cutoff * 100))
+        print("\n".join(removed))
+        print("\nnow the lowest common node is:")
         print(res)
         print("the current percentage is {0:.2f}%".format(self._root.weight / self.initialWeight * 100))
 

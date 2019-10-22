@@ -80,15 +80,16 @@ class Node:
 
         return None
 
-    def walk(self, func, depth=0, index=0):
-        if self.isLeafNode():
-            func(self, depth, index)
-            return
-        else:
-            func(self, depth, index)
+    def walk(self, func, depth=0, index=0, afterCare=None):
+        func(self, depth, index)
+        if len(self.childNodes) > 0:
             for i in range(len(self.childNodes)):
                 cn = self.childNodes[i]
                 cn.walk(func, depth + 1, i)
+
+        if afterCare is not None:
+            afterCare(self, depth, index)
+
 
     def findAllLeafNodes(self):
         res = []

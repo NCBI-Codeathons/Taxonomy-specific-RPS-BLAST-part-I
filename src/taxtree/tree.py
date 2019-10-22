@@ -103,14 +103,18 @@ class Tree:
         score = 1
         nd = self.potentialOutlier()
         ds = nd.weight / self.initialWeight
+        removed = []
         while score - ds >= cutoff:
             self.trim(nd)
+            removed.append(nd.taxid)
             score = score - ds
             nd = self.potentialOutlier()
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
-        print("\nto meet the threshold {0:.2f}%, the lowest common node is:".format(cutoff * 100))
+        print("\nto meet the threshold {0:.2f}%, the nodes below were removed:")
+        print("\n".join(removed))
+        print("\nthe lowest common node now is:".format(cutoff * 100))
         print(res)
         print("the current percentage is {0:.2f}%".format(self._root.weight / self.initialWeight * 100))
 

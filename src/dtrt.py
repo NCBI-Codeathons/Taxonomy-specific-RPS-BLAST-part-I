@@ -8,7 +8,7 @@ import argparse
 import unittest
 import logging
 import os
-from taxtree.tree import Tree, createTree
+from taxtree.tree import createTree
 
 VERSION = '0.1'
 DFLT_LOGFILE = "dtrt.log"
@@ -76,18 +76,21 @@ def main():
         os.environ["GET_NAMES_FROM_ENTREZ"] = "1"
 
     tree = createTree(tuples)
+    tree.describe()
 
     if args.show_tree:
         print(tree)
 
     if args.shake:
         tree.shake()
+        print("\nafter shaking, the tree status is as below:\n ")
+        tree.describe()
 
-    print("lowest common node:")
+    print("\nlowest common node:")
     print(tree.lowestCommonNode())
-    print("possible outlier:")
-    print(tree.possibleOutlier())
-    print(tree.report(args.threshold))
+    print("potential outlier:")
+    print(tree.potentialOutlier())
+    tree.report(args.threshold)
     return 0
 
 

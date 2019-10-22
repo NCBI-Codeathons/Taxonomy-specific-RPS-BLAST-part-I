@@ -1,9 +1,20 @@
 #!/usr/bin/env python
+import os
+
+from Bio import Entrez
+
 
 class Node:
     def __init__(self, taxid, weight, name=None):
         self.taxid = taxid
         self.name = name
+        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ:  # pardon the hack!
+            import getpass
+            Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
+            handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
+            records = Entrez.read(handle)
+            if len(records) == 1:
+                self.name = records[0]["ScientificName"]
         self.weight = weight
         self.parentNode = None
         self.childNodes = []
@@ -57,6 +68,18 @@ class Node:
             p.weight += num
             p = p.parentNode
 
+    def nearestAncestor(self, node):
+        p = self
+        while p is not None:
+            q = node
+            while q is not None:
+                if p == q:
+                    return p
+                q = q.parentNode
+            p = p.parentNode
+
+        return None
+
     def walk(self, func, depth=0, index=0):
         if self.isLeafNode():
             func(self, depth, index)
@@ -66,6 +89,46 @@ class Node:
             for i in range(len(self.childNodes)):
                 cn = self.childNodes[i]
                 cn.walk(func, depth + 1, i)
+
+    def findAllLeafNodes(self):
+        res = []
+        stat = {"deepest": 0, "totalNodes": 0, "mostChildNodes": (self, len(self.childNodes))}
+
+        def check(node, depth, idx):
+            stat["totalNodes"] += 1
+            if node.isLeafNode():
+                res.append((node, depth))
+                if depth > stat["deepest"]:
+                    stat["deepest"] = depth
+            else:
+                if idx + 1 > stat["mostChildNodes"][1]:
+                    stat["mostChildNodes"] = (node, len(node.childNodes))
+
+        self.walk(check)
+        return res, stat
+
+    def _show(self):
+        lines = []
+        prefixes = {self.taxid: "    "}
+
+        def worker(node, depth, idx):
+            if node.taxid == self.taxid:
+                lines.append("┗━━━{}[{}]".format(node.taxid, node.weight))
+            else:
+                prefix = prefixes.get(node.parentNode.taxid)
+                length = len(node.parentNode.childNodes)
+                if idx == length - 1:
+                    prefixes[node.taxid] = prefix + "    "
+                    lines.append("{}┗━━━{}[{}]".format(prefix, node.taxid, node.weight))
+                else:
+                    prefixes[node.taxid] = prefix + "┃   "
+                    lines.append("{}┣━━━{}[{}]".format(prefix, node.taxid, node.weight))
+
+        self.walk(worker)
+        return "\n".join(lines)
+
+    def show(self):
+        print(self._show())
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

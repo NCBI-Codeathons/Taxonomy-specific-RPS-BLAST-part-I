@@ -28,7 +28,8 @@ To run the test script, one must enable the virtual environment *and* set the
    once per session
 3. Set the `TAXADB_CONFIG` environment variable: `export TAXADB=${PWD}/etc/taxadb.cfg`. This is done
    once per session
-3. Run the script 
+4. Make sure you download the taxidlineage.dmp to data directory, i.e. `curl -o data/taxidlineage.dmp ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp`
+5. Run the script 
    `./dtrt.py <data/*.tsv-file-name> -show_tree [-threshold <number-between-0-and-1> ]`
 
 

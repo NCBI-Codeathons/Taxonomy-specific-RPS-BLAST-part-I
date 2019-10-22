@@ -3,7 +3,6 @@
 from .node import Node
 import logging
 
-
 class Tree:
     def __init__(self, root, catalog, w):
         self._root = root
@@ -112,9 +111,9 @@ class Tree:
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
-        print("\nto meet the threshold {0:.2f}%, the nodes below were removed:")
+        print("\nto meet the threshold {0:.2f}%, the nodes below were removed:".format(cutoff * 100))
         print("\n".join(removed))
-        print("\nthe lowest common node now is:".format(cutoff * 100))
+        print("\nnow the lowest common node is:")
         print(res)
         print("the current percentage is {0:.2f}%".format(self._root.weight / self.initialWeight * 100))
 

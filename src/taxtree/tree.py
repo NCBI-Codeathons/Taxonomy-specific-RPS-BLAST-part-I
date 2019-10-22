@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
-from .node import Node
 import logging
+
+from .node import Node
+
 
 class Tree:
     def __init__(self, root, catalog, w):

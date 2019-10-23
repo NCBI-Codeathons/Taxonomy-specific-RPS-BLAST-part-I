@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# coding=utf-8
 import os
 
 from Bio import Entrez
@@ -90,7 +91,6 @@ class Node:
         if afterCare is not None:
             afterCare(self, depth, index)
 
-
     def findAllLeafNodes(self):
         res = []
         stat = {"deepest": 0, "totalNodes": 0, "mostChildNodes": (self, len(self.childNodes))}
@@ -130,6 +130,20 @@ class Node:
 
     def show(self):
         print(self._show())
+
+    def toJSON(self):
+        s = "{" + '"tax_id":{0}, "weight":{1}, "parent_node":{2}, "child_nodes":['.format(
+            self.taxid,
+            self.weight,
+            self.parentNode.taxid)
+
+        for nd in self.childNodes:
+            if nd != self.childNodes[-1]:
+                s += nd.toJSON() + ","
+            else:
+                s += nd.toJSON()
+
+        return s + "]}"
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

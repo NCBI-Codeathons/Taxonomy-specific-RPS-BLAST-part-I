@@ -74,9 +74,6 @@ def main():
     tax_lineage = load_taxonomy_lineage()
     tuples = get_lineages_for_model_components(args.model_component_data, tax_lineage)
 
-    if args.use_eutils:
-        os.environ["GET_NAMES_FROM_ENTREZ"] = "1"
-
     tree = createTree(tuples)
     tree.describe()
 
@@ -107,8 +104,6 @@ def create_arg_parser():
                         help="Default: " + DFLT_LOGFILE)
     parser.add_argument("-show_tree", action='store_true',
                         help="Display taxonomy tree for model")
-    parser.add_argument("-use_eutils", action='store_true',
-                        help="Use E-Utils to fetch taxonomic names")
     parser.add_argument("-shake", action='store_true',
                         help="Experimental: 'shakes' the tree to remove nodes that contribute less than 1%% to the parent's weight")
     parser.add_argument("-loglevel", default='INFO',

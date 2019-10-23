@@ -39,9 +39,6 @@ anaconda_ete:
 	PATH=${PWD}/$@/bin:${PATH} ete3 build check
 
 ##################################
-check_biopython: ${VENV}
-	source ${VENV}/bin/activate && ./check_biopython.py 9606 10090 2 2789
-##################################
 
 .PHONY: init_taxadb
 init_taxadb: ${VENV}

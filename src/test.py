@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from ..taxtree.tree import Tree, createTree
+from taxtree.tree import Tree, createTree
 
 tree = createTree([
     (88, 2, [1, 2, 3, 4, 5]),
@@ -18,7 +18,7 @@ print(tree)
 print("lowest common node:")
 print(tree.lowestCommonNode())
 print("possible outlier:")
-print(tree.possibleOutlier())
+print(tree.potentialOutlier())
 
 # print(tree.root)
 

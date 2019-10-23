@@ -1,20 +1,12 @@
 #!/usr/bin/env python
+# coding=utf-8
 import os
-
-from Bio import Entrez
 
 
 class Node:
-    def __init__(self, taxid, weight):
+    def __init__(self, taxid, weight, name=None):
         self.taxid = taxid
-        self.name = None
-        if taxid != 0 and "GET_NAMES_FROM_ENTREZ" in os.environ:  # pardon the hack!
-            import getpass
-            Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
-            handle = Entrez.efetch(db="Taxonomy", id=str(taxid), retmode="xml")
-            records = Entrez.read(handle)
-            if len(records) == 1:
-                self.name = records[0]["ScientificName"]
+        self.name = name
         self.weight = weight
         self.parentNode = None
         self.childNodes = []
@@ -90,7 +82,6 @@ class Node:
         if afterCare is not None:
             afterCare(self, depth, index)
 
-
     def findAllLeafNodes(self):
         res = []
         stat = {"deepest": 0, "totalNodes": 0, "mostChildNodes": (self, len(self.childNodes))}
@@ -130,6 +121,20 @@ class Node:
 
     def show(self):
         print(self._show())
+
+    def toJSON(self):
+        s = "{" + '"tax_id":{0}, "weight":{1}, "parent_node":{2}, "child_nodes":['.format(
+            self.taxid,
+            self.weight,
+            self.parentNode.taxid)
+
+        for nd in self.childNodes:
+            if nd != self.childNodes[-1]:
+                s += nd.toJSON() + ","
+            else:
+                s += nd.toJSON()
+
+        return s + "]}"
 
     def __str__(self):
         res = "| TaxId: {}\n".format(self.taxid)

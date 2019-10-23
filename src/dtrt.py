@@ -11,9 +11,11 @@ import os
 from taxtree.tree import createTree
 
 VERSION = '0.1'
-DFLT_LOGFILE = 'notebook.log'
+DFLT_LOGFILE = "dtrt.log"
 DESC = r"""Domain-to-Taxonomy Research Tool"""
 
+
+logger = logging.getLogger(__name__)
 
 class Tester(unittest.TestCase):
     """ Testing class for this script. """
@@ -59,7 +61,7 @@ def get_taxids_from_model(tsv_file_with_model_component_data):
         try:
             retval.append(int(line.split('\t')[2]))
         except:
-            logging.warn("Failed to parse line " + line_no)
+            logger.warn("Failed to parse line " + line_no)
 
     return retval
 
@@ -71,9 +73,6 @@ def main():
 
     tax_lineage = load_taxonomy_lineage()
     tuples = get_lineages_for_model_components(args.model_component_data, tax_lineage)
-
-    if args.show_names:
-        os.environ["GET_NAMES_FROM_ENTREZ"] = "1"
 
     tree = createTree(tuples)
     tree.describe()
@@ -105,8 +104,6 @@ def create_arg_parser():
                         help="Default: " + DFLT_LOGFILE)
     parser.add_argument("-show_tree", action='store_true',
                         help="Display taxonomy tree for model")
-    parser.add_argument("-show_names", action='store_true',
-                        help="Display taxonomic names instead of just taxids")
     parser.add_argument("-shake", action='store_true',
                         help="Experimental: 'shakes' the tree to remove nodes that contribute less than 1%% to the parent's weight")
     parser.add_argument("-loglevel", default='INFO',
@@ -118,14 +115,15 @@ def create_arg_parser():
 
 def config_logging(args):
     if args.logfile == 'stderr':
-        logging.basicConfig(level=str2ll(args.loglevel),
-                            format="%(asctime)s %(message)s")
+        logging.basicConfig(format="%(asctime)s %(message)s")
     else:
-        logging.basicConfig(filename=args.logfile, level=str2ll(args.loglevel),
+        logging.basicConfig(filename=args.logfile,
                             format="%(asctime)s %(message)s", filemode='w')
     logging.logThreads = 0
     logging.logProcesses = 0
     logging._srcfile = None
+    for logger_name in [__name__, 'taxtree']:
+        logging.getLogger(logger_name).setLevel(str2ll(args.loglevel))
 
 
 def str2ll(level):

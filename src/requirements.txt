@@ -1,2 +1,1 @@
-#taxadb - this is not needed right now
-biopython
+taxadb

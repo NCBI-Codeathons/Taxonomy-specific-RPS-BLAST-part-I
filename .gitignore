@@ -3,3 +3,5 @@ venv/
 **/__pycache__
 src/notebook.log
 src/test_result.txt
+src/out
+src/mydb.sqlite

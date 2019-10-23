@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from taxtree.tree import Tree, createTree
+from taxtree.tree import createTree
 
 tree = createTree([
     (88, 2, [1, 2, 3, 4, 5]),

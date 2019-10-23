@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.7"
+install: make init_taxadb
+script: make check

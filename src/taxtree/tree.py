@@ -1,6 +1,8 @@
 #!/usr/bin/env python
+# coding=utf-8
 
-import logging, os
+import logging
+import os
 from taxadb.taxid import TaxID
 from .node import Node
 
@@ -106,17 +108,18 @@ class Tree:
         score = 1
         nd = self.potentialOutlier()
         ds = nd.weight / self.initialWeight
-        removed = []
         while score - ds >= cutoff:
             self.trim(nd)
-            removed.append(nd.taxid)
+            print("-> node {0} with weigth {1} ({2:.2f}%) removed ...".format(
+                nd.taxid,
+                nd.weight,
+                ds * 100
+            ))
             score = score - ds
             nd = self.potentialOutlier()
             ds = nd.weight / self.initialWeight
 
         res = self.lowestCommonNode()
-        print("\nto meet the threshold {0:.2f}%, the nodes below were removed:".format(cutoff * 100))
-        print("\n".join(removed))
         print("\nnow the lowest common node is:")
         print(res)
         print("the current percentage is {0:.2f}%".format(self._root.weight / self.initialWeight * 100))
@@ -135,27 +138,6 @@ class Tree:
         return node1.nearestAncestor(node2)
 
     def __str__(self):
-        # lines = []
-        #
-        # def func(nd, depth, idx):
-        #     bs = []
-        #     p, q = nd, nd.parentNode
-        #
-        #     while q is not None: # len(q.childNodes) always >= 1
-        #         bs.append(q.childNodes[-1] != p)
-        #         p, q = q, q.parentNode
-        #
-        #     bs.append(False)
-        #     bs = reversed(bs[1:])
-        #     pre = "".join(["┃   " if b else "    " for b in bs])
-        #
-        #     if nd.parentNode is None or idx == len(nd.parentNode.childNodes) - 1:
-        #         lines.append(pre + "┗━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-        #     else:
-        #         lines.append(pre + "┣━━━" + " {}[{}]".format(nd.taxid, nd.weight))
-        #
-        # self._root.walk(func)
-        # return "\n".join(lines)
         return self._root._show()
 
 
@@ -225,7 +207,7 @@ def createTree(arr):
         else:
             eid = catalog[bucket[0]].parentNode.taxid
             if eid != bucket[2][-1]:
-                m = "node #{} got two parent nodes #{} and #{}".format(lin, eid, bucket[2][-1])
+                m = "node #{} got two parent nodes #{} and #{}".format(bucket[0], eid, bucket[2][-1])
                 raise ValueError(m)
             iter = catalog[bucket[0]]
             iter.updateWeight(leaf.weight)

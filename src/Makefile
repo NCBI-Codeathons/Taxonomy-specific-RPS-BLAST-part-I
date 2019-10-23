@@ -19,6 +19,7 @@ all: taxidlineage.dmp ${VENV}
 check: check_python taxidlineage.dmp ${VENV}
 	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
 	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree
+	source ${VENV}/bin/activate && ./test.py
 
 taxidlineage.dmp:
 	wget -O data/$@ ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
@@ -27,7 +28,6 @@ taxidlineage.dmp:
 
 #########################################################################
 # Python support
-MODULE_NAME?=model2taxid
 
 anaconda_ete:
 	#wget -q http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O Miniconda3-latest-Linux-x86_64.sh
@@ -64,20 +64,8 @@ ${VENV}: requirements.txt
 	[ -d ${VENV} ] || virtualenv -p python3 $@
 	source ${VENV}/bin/activate && pip install -r $^
 
-#PYTHON_MODULE_VERSION=$(shell grep version setup.py | cut -d= -f 2 | tr -d \'  | tr -d , )
-#dist/${MODULE_NAME}-${PYTHON_MODULE_VERSION}.tar.gz:
-#	python setup.py sdist
-
-# twine --repository assumes ~/.pypirc settings include username/password; --repository-url prompts them
-TEST_PYPI=https://test.pypi.org
-.PHONY: deploy
-deploy: dist/${MODULE_NAME}-${PYTHON_MODULE_VERSION}.tar.gz
-	#twine upload --repository-url ${TEST_PYPI}/legacy/ $<
-	twine upload --repository testpypi $<
-	#twine upload $<
-
 clean:
-	$(RM) -r *.dat *.[ao] *.log *.pyc 
+	$(RM) -r *.log *.pyc 
 	find . -name __pycache__ | xargs ${RM} -fr
 
 distclean: clean

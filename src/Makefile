@@ -23,8 +23,8 @@ check: check_python taxidlineage.dmp ${VENV}
 	source ${VENV}/bin/activate && ./test.py
 
 taxidlineage.dmp:
-	wget -O data/$@ ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
-	#curl -L ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@ -o data/$@
+	wget -O data/$@ https://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@
+	#curl -L https://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/$@ -o data/$@
 
 
 #########################################################################

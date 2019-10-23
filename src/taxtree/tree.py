@@ -110,8 +110,8 @@ class Tree:
         ds = nd.weight / self.initialWeight
         while score - ds >= cutoff:
             self.trim(nd)
-            print("-> node {0} with weigth {1} ({2:.2f}%) removed ...".format(
-                nd.taxid,
+            print("-> node [{0}] with weight {1} ({2:.2f}%) removed ...".format(
+                nd.name,
                 nd.weight,
                 ds * 100
             ))

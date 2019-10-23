@@ -4,7 +4,7 @@ python:
   - "3.6"
   - "3.7"
 before_install:
-  - curl -SLv ftp://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp -o src/data/taxidlineage.dmp
+  - curl -SLv https://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp -o src/data/taxidlineage.dmp
 install: 
   - pip install -r src/requirements.txt
   - make -C src init_taxadb

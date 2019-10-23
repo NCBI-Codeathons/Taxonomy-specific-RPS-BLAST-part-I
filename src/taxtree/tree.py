@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
-import logging
+import logging, os
+from taxadb.taxid import TaxID
 from .node import Node
+
+logger = logging.getLogger(__name__)
 
 
 class Tree:
@@ -46,7 +49,7 @@ class Tree:
         # if self._catalog.get(node.taxid) is None:
         #     raise ValueError("node {} not exist in the tree".format(node.taxid))
         self._catalog.pop(node.taxid, None)
-        logging.debug("node {} removed from the tree".format(node.taxid))
+        logger.debug("node {} removed from the tree".format(node.taxid))
 
     def trim(self, node=None):
         if self is None or self._root is None:

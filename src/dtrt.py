@@ -15,6 +15,8 @@ DFLT_LOGFILE = "dtrt.log"
 DESC = r"""Domain-to-Taxonomy Research Tool"""
 
 
+logger = logging.getLogger(__name__)
+
 class Tester(unittest.TestCase):
     """ Testing class for this script. """
     def test_one(self):
@@ -59,7 +61,7 @@ def get_taxids_from_model(tsv_file_with_model_component_data):
         try:
             retval.append(int(line.split('\t')[2]))
         except:
-            logging.warn("Failed to parse line " + line_no)
+            logger.warn("Failed to parse line " + line_no)
 
     return retval
 
@@ -118,14 +120,15 @@ def create_arg_parser():
 
 def config_logging(args):
     if args.logfile == 'stderr':
-        logging.basicConfig(level=str2ll(args.loglevel),
-                            format="%(asctime)s %(message)s")
+        logging.basicConfig(format="%(asctime)s %(message)s")
     else:
-        logging.basicConfig(filename=args.logfile, level=str2ll(args.loglevel),
+        logging.basicConfig(filename=args.logfile,
                             format="%(asctime)s %(message)s", filemode='w')
     logging.logThreads = 0
     logging.logProcesses = 0
     logging._srcfile = None
+    for logger_name in [__name__, 'taxtree']:
+        logging.getLogger(logger_name).setLevel(str2ll(args.loglevel))
 
 
 def str2ll(level):

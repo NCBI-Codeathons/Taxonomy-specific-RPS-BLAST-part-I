@@ -11,6 +11,9 @@ tree = createTree([
 
 tree._root.show()
 
+print(tree._catalog[40])
+print(tree._catalog[40].toJSON())
+
 # print(tree)
 # print(tree.nearestAncestor(tree.search(34), tree.search(7)))
 # tree.describe()

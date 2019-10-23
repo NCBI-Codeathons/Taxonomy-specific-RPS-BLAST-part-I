@@ -1,5 +1,10 @@
 language: python
 python:
+  - "3.5"
+  - "3.6"
   - "3.7"
-install: make init_taxadb
-script: make check
+install: 
+  - pip install -r requirements.txt
+  - make init_taxadb
+script: 
+  - make check

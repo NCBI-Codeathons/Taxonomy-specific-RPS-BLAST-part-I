@@ -4,7 +4,7 @@ python:
   - "3.6"
   - "3.7"
 install: 
-  - cd src && pip install -r requirements.txt
-  - cd src && make init_taxadb
+  - pip install -r src/requirements.txt
+  - make -C src init_taxadb
 script: 
-  - cd src && make check
+  - make -C src check

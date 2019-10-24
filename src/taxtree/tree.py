@@ -110,8 +110,8 @@ class Tree:
         ds = nd.weight / self.initialWeight
         while score - ds >= cutoff:
             self.trim(nd)
-            print("-> node {0} with weigth {1} ({2:.2f}%) removed ...".format(
-                nd.taxid,
+            print("-> node [{0}] with weight {1} ({2:.2f}%) removed ...".format(
+                nd.name,
                 nd.weight,
                 ds * 100
             ))
@@ -145,19 +145,10 @@ def _get_name_for_taxid(target_taxid, taxadb):
     """
     Returns the name for a given taxonomy ID
     """
-    retval = None
     if target_taxid == 0:
         return "root"
+    return taxadb.sci_name(target_taxid)
 
-    if "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
-        handle = Entrez.efetch(db="Taxonomy", id=str(target_taxid), retmode="xml")
-        records = Entrez.read(handle)
-        if len(records) == 1:
-            retval = records[0]["ScientificName"]
-    else:
-        retval = taxadb.sci_name(target_taxid)
-
-    return retval
 
 def createTree(arr):
     """
@@ -167,9 +158,6 @@ def createTree(arr):
     :return: Tree instance
     """
     taxadb = TaxID()
-    if "GET_NAMES_FROM_ENTREZ" in os.environ: # pardon the hack!
-        import getpass
-        Entrez.email = "{}@ncbi.nlm.nih.gov".format(getpass.getuser())
 
     root = Node(0, 0, _get_name_for_taxid(0, taxadb))
     catalog = {}

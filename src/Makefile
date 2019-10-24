@@ -18,7 +18,8 @@ all: taxidlineage.dmp ${VENV}
 # Test code
 check: check_python taxidlineage.dmp ${VENV}
 	[ -f taxadb.sqlite ] || make init_taxadb
-	echo "TAXADB_CONFIG=${TAXADB_CONFIG}
+	echo "TAXADB_CONFIG=${TAXADB_CONFIG}"
+	-pwd
 	-cat -n ${TAXADB_CONFIG}
 	source ${VENV}/bin/activate && ./check_taxadb.py 9606 2 10090 2157
 	source ${VENV}/bin/activate && ./dtrt.py data/pfam10339-components.tsv -show_tree

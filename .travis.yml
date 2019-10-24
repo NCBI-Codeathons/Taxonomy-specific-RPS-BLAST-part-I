@@ -3,13 +3,11 @@ python:
   - "3.5"
   - "3.6"
   - "3.7"
+  - "3.8"
 before_install:
   - curl -SLv https://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp -o src/data/taxidlineage.dmp
 install: 
   - pip install -r src/requirements.txt
   - make -C src init_taxadb
 script: 
-  - find . -name taxadb.sqlite -ls
-  - cat src/etc/taxadb.cfg
   - make -C src check TAXADB_CONFIG=etc/taxadb.cfg
-    #- sed -i -e 's,dbname=,dbname=src/,' src/etc/taxadb.cfg

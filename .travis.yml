@@ -11,4 +11,4 @@ install:
 script: 
   - make -C src check
 env:
-  - TAXADB_CONFIG=${TRAVIS_BUILD_DIR}/src/etc/taxadb.cfg
+  - TAXADB_CONFIG=${PWD}/src/etc/taxadb.cfg

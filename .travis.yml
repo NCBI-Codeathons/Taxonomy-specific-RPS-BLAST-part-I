@@ -10,5 +10,5 @@ install:
   - make -C src init_taxadb
 script: 
   - find . -name taxadb.sqlite
-  - sed -i -e 's/dbname=/dbname=src\/' src/etc/taxadb.cfg
+  - sed -i -e 's,dbname=,dbname=src/,' src/etc/taxadb.cfg
   - make -C src check

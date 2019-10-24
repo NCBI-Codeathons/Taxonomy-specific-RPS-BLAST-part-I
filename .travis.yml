@@ -9,6 +9,7 @@ install:
   - pip install -r src/requirements.txt
   - make -C src init_taxadb
 script: 
-  - find . -name taxadb.sqlite
-  - sed -i -e 's,dbname=,dbname=src/,' src/etc/taxadb.cfg
-  - make -C src check
+  - find . -name taxadb.sqlite -ls
+  - cat src/etc/taxadb.cfg
+  - make -C src check TAXADB_CONFIG=etc/taxadb.cfg
+    #- sed -i -e 's,dbname=,dbname=src/,' src/etc/taxadb.cfg

@@ -1,5 +1,7 @@
 # Test scripts
 
+[![Build Status](https://travis-ci.org/christiam/Taxonomy-specific-RPS-BLAST-part-I.svg?branch=master)](https://travis-ci.org/christiam/Taxonomy-specific-RPS-BLAST-part-I)
+
 
 ## Requirements
 * MacOS, Linux

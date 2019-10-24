@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.5"
+  - "3.6"
+  - "3.7"
+  - "3.8"
+before_install:
+  - curl -SLv https://ftp.ncbi.nlm.nih.gov/blast/temp/model2taxid/taxidlineage.dmp -o src/data/taxidlineage.dmp
+install: 
+  - pip install -r src/requirements.txt
+  - make -C src init_taxadb
+script: 
+  - make -C src check TAXADB_CONFIG=etc/taxadb.cfg

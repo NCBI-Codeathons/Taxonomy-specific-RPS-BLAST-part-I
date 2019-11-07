@@ -1,4 +1,7 @@
 # Taxonomy-specific-RPS-BLAST-part-I
+
+[![Build Status](https://travis-ci.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I.svg?branch=master)](https://travis-ci.com/NCBI-Codeathons/Taxonomy-specific-RPS-BLAST-part-I)
+
 Protein is usually made up of domain(s). Conserved Domains can be described by local multiple sequence alignments spanning a variety of organisms to reveal sequence regions that contain the same, or similar, patterns of amino acids. Although it is easy to retrieve the taxonomical distribution of a protein, it is not available at the domain level.
 
 This 2019 NCBI-Codeathon project will develop a pipeline to assign a lowest common taxid to a conserved protein domain (defined by a Position-Specific Score Matrix, [PSSM](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd_help.shtml#CD_PSSM)). The taxid represents the taxon that contains this domain specifically with given threshold. This project will be incorporated into the future [RPS-Blast](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd_help.shtml#RPSBWhat) (RPS-BLAST uses the query sequence to search a database of pre-calculated PSSMs, and report significant hits) to provide taxonomic information in [CD Search](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) (Conserved Domain Search) results.
